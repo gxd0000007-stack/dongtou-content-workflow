@@ -1,0 +1,389 @@
+{
+  "id": "sample-48",
+  "number": 48,
+  "title": "老实人就好好上班，别想着做自媒体了...",
+  "short_name": "表达恐惧的重新归因",
+  "family": "身份误判—具体恐惧—表达主张",
+  "skeleton": [
+    "先点出受外部评价约束的代价",
+    "用两句咨询原话圈定卡点",
+    "解释有立场如何形成认同",
+    "展开维护形象的隐性成本",
+    "通过追问拆开模糊恐惧",
+    "反转身份标签到表达权",
+    "以定义与遗憾问题催促表达"
+  ],
+  "distinctive": "先接住“我太老实”的自我标签，再通过熟人看到内容的追问，把标签拆成没有明确代价的恐惧；结尾回到表达权。",
+  "promise": "解释为何害怕发布，并让读者重新看待表达中的分歧；原文更偏观点劝说，未提供完整发布流程。",
+  "applicability": [
+    "AI 新手不敢公开分享自己的使用判断",
+    "职场人担心熟人评价而迟迟不发内容",
+    "个人观点型文章的表达边界讨论"
+  ],
+  "material_preconditions": [
+    "一个真实的“不敢发”场景",
+    "作者对于表达、冲突和事实边界的明确判断",
+    "可以追问具体后果的案例"
+  ],
+  "source_limits": [
+    "仅根据用户粘贴的公众号文本拆解；万赞由用户报告，未核验阅读、点赞或传播数据。",
+    "作者的个人经历、用户案例、经营结果属于 Ray 的自述，不能改成东头亲历或通用结果保证。",
+    "原文中的名言、统计数据和心理学解释尚未核验；只参考叙述组织，进入新文的事实需要另行核验。",
+    "原文把外部评价、人格和失败作强关联，不能据此诊断所有读者；表达立场不意味着省略事实核验。",
+    "原提交编号重复为22，本稿为第二个22，不能覆盖前一个22。"
+  ],
+  "stages": [
+    {
+      "label": "先点出受外部评价约束的代价",
+      "start_quote": "一直活在外部评价体系的人，永远创造不了自己想要的生活。",
+      "function": "用结论把读者的表达困境与人生自主性连起来。",
+      "transition": "从抽象结论转入读者会说出口的话。",
+      "mechanism": "先给立场再让读者自认场景",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "明确的作者判断",
+        "对应受众"
+      ],
+      "fail": [
+        "只剩绝对断言",
+        "无法说明和内容发布的关系"
+      ],
+      "adaptation": "可改成“我发现有些人……”并限定情境，保留先表态。",
+      "id": "S01",
+      "pass": [
+        "结论能指向后文的不敢表达问题",
+        "作者立场与证据区分清楚"
+      ],
+      "source_span": {
+        "start_character": 36,
+        "end_character": 81,
+        "percentage_start": 0.0,
+        "percentage_end": 2.6,
+        "sha256": "5b14171fe2fecc09d53fe554208c145d3f3b000c863b8351ce43cce75132ad4a"
+      }
+    },
+    {
+      "label": "用两句咨询原话圈定卡点",
+      "start_quote": "”我太老实了，做不了自媒体“",
+      "function": "让转型打工人看到具体阻碍，作者用咨询经历解释为何关注它。",
+      "transition": "把不敢露脸、不敢说话归到讨好与在意评价。",
+      "mechanism": "读者原话与作者接触场景",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "真实提问或授权引用",
+        "提问者的目标与卡点"
+      ],
+      "fail": [
+        "把Ray咨询改成东头经历",
+        "只写抽象焦虑"
+      ],
+      "adaptation": "换成东头真正收到的AI或内容问题；无案例则写公开情景并标明。",
+      "id": "S02",
+      "pass": [
+        "出现可识别的原话或实际行为",
+        "交代此人与表达任务的关系"
+      ],
+      "source_span": {
+        "start_character": 81,
+        "end_character": 329,
+        "percentage_start": 2.6,
+        "percentage_end": 17.1,
+        "sha256": "6dde8d4829a7bdb642e9e18b5eacbbcef847cc0ec0a34439d6f185d9af57f57c"
+      }
+    },
+    {
+      "label": "解释有立场如何形成认同",
+      "start_quote": "客观规律，那是科学研究的事；创作者要做的，是主观表达。",
+      "function": "通过关注列表反问与作者遭遇，论证不可能讨好所有人。",
+      "transition": "从分歧存在转向为避免分歧而牺牲的东西。",
+      "mechanism": "熟悉行为反问与亲历代价",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "读者关注原因的例子",
+        "实际分歧案例",
+        "观点与事实边界"
+      ],
+      "fail": [
+        "鼓励不用事实就表达",
+        "把所有反对者写成无法改变的人"
+      ],
+      "adaptation": "参考“为什么关注某人”的反问，不沿用科学与主观表达的二分绝对句。",
+      "id": "S03",
+      "pass": [
+        "具体呈现一个观点为何吸引某类人",
+        "承认不同意见并守住事实边界"
+      ],
+      "source_span": {
+        "start_character": 329,
+        "end_character": 676,
+        "percentage_start": 17.1,
+        "percentage_end": 37.4,
+        "sha256": "470efd46de2861d5e1be52f6fd486d79b2021e4f37f2ea65e1ee5db4a126d9fc"
+      }
+    },
+    {
+      "label": "展开维护形象的隐性成本",
+      "start_quote": "为了维持在别人心中“体面、乖巧、不出格”的形象，",
+      "function": "把外部评价具体化为牺牲选择、推迟行动和决策摇摆。",
+      "transition": "借计划评价与模糊评价的对比进入实例。",
+      "mechanism": "代价展开和概念区分",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "一次因担心评价而延后的行动",
+        "实际损失或机会成本"
+      ],
+      "fail": [
+        "所有外部评价都被视为无用",
+        "只有贬低性标签"
+      ],
+      "adaptation": "在AI场景区分必要的同行质检与无事实的人身评价。",
+      "id": "S04",
+      "pass": [
+        "能指出哪种评价缺乏具体事实",
+        "读者看得见推迟行为与代价"
+      ],
+      "source_span": {
+        "start_character": 676,
+        "end_character": 1014,
+        "percentage_start": 37.4,
+        "percentage_end": 57.1,
+        "sha256": "cfb68260a22fdf07022814f650ebe511d144c0f3d3d6bd2dc0af96e4f64bba68"
+      }
+    },
+    {
+      "label": "通过追问拆开模糊恐惧",
+      "start_quote": "之前遇到学员，说自己囤了小十篇笔记了，就是不敢发。",
+      "function": "用“怕熟人看到—看到了然后呢”的对话，让恐惧落到对象、事件和代价。",
+      "transition": "从具体答不上来总结“模糊恐惧”而非人格不足。",
+      "mechanism": "小对话推动自我检验",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "真实或标明假设的对话",
+        "担忧对象",
+        "可估计的具体后果"
+      ],
+      "fail": [
+        "假装发生过咨询对话",
+        "替读者断言肯定无风险"
+      ],
+      "adaptation": "东头可询问“发这份AI教程，谁会看到，最坏会发生什么，我能否承受”。",
+      "id": "S05",
+      "pass": [
+        "追问能检验担忧而不羞辱读者",
+        "明确确有后果的情况也需要判断"
+      ],
+      "source_span": {
+        "start_character": 1014,
+        "end_character": 1364,
+        "percentage_start": 57.1,
+        "percentage_end": 77.6,
+        "sha256": "8516181f792b1e3791ad7ef9499d7b437e85719bba6ad4a24fd70c83ade5c170"
+      }
+    },
+    {
+      "label": "反转身份标签到表达权",
+      "start_quote": "不是“老实人做不了表达”，",
+      "function": "收束前文，把不能表达从性格定论改成可以审视的行为模式。",
+      "transition": "进一步说明表达不是只为获得认可。",
+      "mechanism": "重新归因与身份松绑",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "前文已说明的卡点",
+        "可调整的行为"
+      ],
+      "fail": [
+        "用“怂”代替解释",
+        "把个性差异归为缺陷"
+      ],
+      "adaptation": "保留“未必是性格问题”的转向，减少辱骂和必然论。",
+      "id": "S06",
+      "pass": [
+        "新的解释接得上具体案例",
+        "读者有可选择的行为余地"
+      ],
+      "source_span": {
+        "start_character": 1364,
+        "end_character": 1526,
+        "percentage_start": 77.6,
+        "percentage_end": 87.0,
+        "sha256": "757041a77dab7a82dc761cca82f1e1f2e33f9c2dafb48bd721a1fd9ddbf5d05f"
+      }
+    },
+    {
+      "label": "以定义与遗憾问题催促表达",
+      "start_quote": "对外表达的意义，从来不在于被认可，",
+      "function": "把表达的意义升到不背叛自我，用“不要再沉默”和未来遗憾完成情绪收束。",
+      "transition": "回扣开头的自主性生活命题。",
+      "mechanism": "价值定义和时间视角",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "作者真实价值观",
+        "一个可开始的表达动作"
+      ],
+      "fail": [
+        "只靠临终遗憾施压",
+        "写成完整实操教程却没有动作"
+      ],
+      "adaptation": "可落到发布一条有依据的AI判断；原文末尾偏号召，不能当完整教程。",
+      "id": "S07",
+      "pass": [
+        "结尾明确邀请一次小范围表达",
+        "不承诺表达必然带来成功"
+      ],
+      "source_span": {
+        "start_character": 1526,
+        "end_character": 1748,
+        "percentage_start": 87.0,
+        "percentage_end": 100.0,
+        "sha256": "e9d0e9da13ddf2f9ef14001a9ce3e57ad57fcfe3bf817b467e3de8e5e4c71e28"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "开头让不敢发内容的读者认出自己，并知道将解释卡在哪里。",
+      "stage_ids": [
+        "S01",
+        "S02"
+      ],
+      "evidence_needed": [
+        "受众原话",
+        "对应发布场景"
+      ],
+      "failure": "只有人生断言，没有可识别的任务。"
+    },
+    "understandable": {
+      "criterion": "外部评价的影响必须落到实际推迟行为，追问可回答。",
+      "stage_ids": [
+        "S04",
+        "S05"
+      ],
+      "evidence_needed": [
+        "被延后的一次行动",
+        "具体担心的对象与后果"
+      ],
+      "failure": "抽象标签反复堆积，读者不知道具体怕什么。"
+    },
+    "credible": {
+      "criterion": "咨询、评论和个人遭遇来源清楚，作者观点不伪装成心理科学。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S05"
+      ],
+      "evidence_needed": [
+        "案例来源或假设标记",
+        "事实与观点标签"
+      ],
+      "failure": "伪造东头咨询，或把人身贬损写成因果证明。"
+    },
+    "fulfilled": {
+      "criterion": "兑现解释表达恐惧的承诺；若标题许诺方法，需补足可做的动作。",
+      "stage_ids": [
+        "S05",
+        "S06",
+        "S07"
+      ],
+      "evidence_needed": [
+        "对卡点的解释",
+        "适用边界",
+        "下一小步"
+      ],
+      "failure": "只喊勇敢，没有解释或给超出原文的教程承诺。"
+    },
+    "structure": {
+      "criterion": "原话、分歧解释、后果追问、身份反转、表达收束前后可追溯。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07"
+      ],
+      "evidence_needed": [
+        "段落功能对应",
+        "关键转折句"
+      ],
+      "failure": "仅复刻小标题却缺失具体追问。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "受众不敢表达的具体问题",
+      "模糊恐惧被追问为具体后果",
+      "结尾接回表达自主性"
+    ],
+    "adjustable": [
+      "观点力度与措辞",
+      "案例数量",
+      "是否保留作者遭骂的个人经历"
+    ],
+    "fill_before_writing": [
+      "东头真实提问记录",
+      "本篇表达立场",
+      "能直接试一次的小动作"
+    ]
+  },
+  "summary": "这是一篇从身份自责转向具体恐惧检验的观点稿，最可迁移的是咨询原话与追问后果的局部写法。",
+  "tags": [
+    "公众号",
+    "第一人称判断",
+    "表达恐惧",
+    "具体追问",
+    "观点稿"
+  ],
+  "useful_modules": [
+    "structure",
+    "opening",
+    "explanation",
+    "experience"
+  ],
+  "methods": {
+    "structure": {
+      "quote": "不是“老实人做不了表达”，",
+      "observation": "结尾重命名读者的困境，前文的原话和追问负责支撑这个转向。",
+      "adaptation": "先让具体案例成立，再给新的问题解释。",
+      "limit": "不能把重命名当心理诊断或用结尾判词替代证据。"
+    },
+    "opening": {
+      "quote": "”我太老实了，做不了自媒体“",
+      "observation": "立场句之后立即出现口头自我标签，降低抽象判断的距离。",
+      "adaptation": "用AI新手真正说过的话接开头。",
+      "limit": "原文强标题并不代表应复制贬损读者的语气。"
+    },
+    "explanation": {
+      "quote": "我说，看到了，然后呢，人家可能停留不到 3 秒就走了，",
+      "observation": "通过问答把“怕”拆成发生了什么以及有何代价。",
+      "adaptation": "把模糊担忧改写为读者能回答的两三个问题。",
+      "limit": "3秒是作者设想而非普遍事实；实际风险不能被一问抹掉。"
+    },
+    "experience": {
+      "quote": "这是我做咨询过程中，最常碰到的问题之一。",
+      "observation": "作者先说明自己为何接触此问题，再展示一次咨询。",
+      "adaptation": "只使用东头真实咨询或工作见闻；可标明观察与亲历。",
+      "limit": "Ray用户、遭骂和咨询对话不可变成东头的经历。"
+    }
+  },
+  "source_path": "raw/sample-48.txt",
+  "source_sha256": "f85b88e7428005598222588ce217ca6bc7c9d7a3e337249fa3e432d80dc736c3",
+  "body_start_character": 36,
+  "body_end_character": 1748,
+  "source_group": "ray-wechat-2026-10-07",
+  "submitted_number": "22",
+  "source_completeness": "as_submitted",
+  "source_defect_notes": [],
+  "full_structure_reference": true,
+  "opening_reference": true,
+  "allowed_usage": [
+    "selected_structure",
+    "local_method"
+  ]
+}

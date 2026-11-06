@@ -1,0 +1,440 @@
+{
+  "id": "sample-28",
+  "number": 28,
+  "title": "很多单位其实已经烂透了......",
+  "short_name": "两段职场经历推到个人节点",
+  "family": "经历对照到趋势与路径",
+  "skeleton": [
+    "从个别困境放大到制度问题",
+    "小团队与大组织经历对照",
+    "解释旧组织的功能",
+    "工具与市场变化形成反差",
+    "把趋势转成个人问题",
+    "独立能力的定义与外部举证",
+    "定位和能力来源",
+    "小产品验证和流程放大",
+    "反问与自主选择回扣"
+  ],
+  "distinctive": "对照小团队和大组织的执行感，再解释作者眼中的组织形成与工具变化，把宏观批判转向个人能力产品化和需求验证。",
+  "promise": "提供作者理解组织变化的一种视角及个人能力独立验证路径；不证明单位制度全面崩塌或必赚百万。",
+  "applicability": [
+    "从职场经历讨论AI如何改变协作",
+    "解释一人工作流的机会和限制",
+    "职业能力如何转成可交付服务"
+  ],
+  "material_preconditions": [
+    "两种协作环境中同类任务的真实比较",
+    "AI工具改变某一步工作的当前证据",
+    "定位、需求验证和交付流程的具体例子"
+  ],
+  "source_limits": [
+    "来源仅为用户本次粘贴的公众号文章文本，万赞状态为用户报告，未读取原页面或核验互动数据。",
+    "Ray的身份、经历、客户反馈、收益数字及所引名言均为作者叙述；不得写成东头的亲历或已证实事实。",
+    "组织史、劳动市场预测、自由职业收入及平台案例仅为原稿引用，未核验来源和口径。",
+    "从两段经历推到所有单位崩塌、裁员一定因不需人、个人商业唯一现实解均有外推；原稿未充分呈现个人生意失败与依赖平台的风险。"
+  ],
+  "stages": [
+    {
+      "label": "从个别困境放大到制度问题",
+      "start_quote": "你以为只有你的单位不行，那有没有种可能",
+      "function": "用你以为/有没有可能把单位不满变成更大问题。",
+      "transition": "后面两段经历为放大判断提供作者自己的起点。",
+      "mechanism": "范围放大与提问",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "一个真实组织困境",
+        "当篇讨论范围"
+      ],
+      "fail": [
+        "直接断言全行业或制度已经崩塌。"
+      ],
+      "adaptation": "可问同一AI流程为何在不同团队推进速度差这么多。",
+      "pass": [
+        "开头明确这是一种待论证判断，范围不超过材料。"
+      ],
+      "id": "S01",
+      "source_span": {
+        "start_character": 37,
+        "end_character": 95,
+        "percentage_start": 0.0,
+        "percentage_end": 2.5,
+        "sha256": "eb073a2e4ba6418e50b3f150458795d06579ae7418ed7b719edb25b39f0dd881"
+      }
+    },
+    {
+      "label": "小团队与大组织经历对照",
+      "start_quote": "熟悉我的朋友都知道，自媒体创业之前，我打过两份工；",
+      "function": "以两份工作的规模、反馈速度和审批感对照，交代自己的认识变化。",
+      "transition": "由亲历加外部交流转到组织存在的历史功能。",
+      "mechanism": "相近任务下两种环境对照",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "东头确认的两段经历",
+        "任务规模、审批步骤和反馈时长"
+      ],
+      "fail": [
+        "Ray工作背景和清华老板被写成我经历过。"
+      ],
+      "adaptation": "比较同一个内容项目独立执行与团队协作的实际流程。",
+      "pass": [
+        "对照能定位差异，不拿团队人数单独证明效率。"
+      ],
+      "id": "S02",
+      "source_span": {
+        "start_character": 95,
+        "end_character": 448,
+        "percentage_start": 2.5,
+        "percentage_end": 17.6,
+        "sha256": "8b2b4c0f167a0ef014f1c8608c6e44a03b4b4eb48034903a367ebd3bdbad3359"
+      }
+    },
+    {
+      "label": "解释旧组织的功能",
+      "start_quote": "“单位”的出现，本质是为了解决一个核心问题：",
+      "function": "把组织定义为聚合普通人完成标准化任务，使批评具备功能解释。",
+      "transition": "原有功能讲清后对照今天市场机会与工具杠杆。",
+      "mechanism": "历史功能抽象与任务描述",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "可靠历史资料或明确作者观点",
+        "具体标准化任务"
+      ],
+      "fail": [
+        "用工业副产品标签替代组织史证据。"
+      ],
+      "adaptation": "先说明原来为何要多人分工，再讨论哪些步骤AI能辅助。",
+      "pass": [
+        "能解释组织为何有用，并承认复杂协作仍有需求。"
+      ],
+      "id": "S03",
+      "source_span": {
+        "start_character": 448,
+        "end_character": 728,
+        "percentage_start": 17.6,
+        "percentage_end": 29.6,
+        "sha256": "0b784bec9e0ee07bdab93afbd6aac707cabfa62d4a77716a880319fb193e866e"
+      }
+    },
+    {
+      "label": "工具与市场变化形成反差",
+      "start_quote": "而今天，不一样了，AI、自媒体、各种 SaaS 工具",
+      "function": "以获客、交付、研发列新杠杆，推导作者对用人量的看法。",
+      "transition": "技术变化被转成读者的问题：如何成为独立节点。",
+      "mechanism": "过去/今天对照与功能分组",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "具体工具能力与限制",
+        "一个前后流程实例"
+      ],
+      "fail": [
+        "宣称AI可放大所有交付或客户永远不缺。"
+      ],
+      "adaptation": "用真实AI辅助调研、初稿或整理任务展示局部变化。",
+      "pass": [
+        "读者能看到减少或改变了哪一步，人工检查仍可识别。"
+      ],
+      "id": "S04",
+      "source_span": {
+        "start_character": 728,
+        "end_character": 1169,
+        "percentage_start": 29.6,
+        "percentage_end": 48.4,
+        "sha256": "a9dbe04bc04075a871d070fc70f12f0031bf1bd2644eba4852e99b9d0287e8fc"
+      }
+    },
+    {
+      "label": "把趋势转成个人问题",
+      "start_quote": "所以，你真正要思考的是，不是到底该去哪家公司",
+      "function": "把组织批判改写为个人如何找到可提供价值的位置。",
+      "transition": "问题提出后先定义个人商业所需能力，再举外部材料。",
+      "mechanism": "问题方向重构",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "读者可迁移能力",
+        "当篇实际选择条件"
+      ],
+      "fail": [
+        "把组织问题全部转嫁给个人不独立。"
+      ],
+      "adaptation": "改问在当前工作之外有哪些可验证、可迁移的AI能力。",
+      "pass": [
+        "问题能引导行动而非把找工作贬成错误路径。"
+      ],
+      "id": "S05",
+      "source_span": {
+        "start_character": 1169,
+        "end_character": 1247,
+        "percentage_start": 48.4,
+        "percentage_end": 51.8,
+        "sha256": "0db3c97897a2786dd7561ae24e252ab1b02f8cbcdcc88638daeeca232467a76d"
+      }
+    },
+    {
+      "label": "独立能力的定义与外部举证",
+      "start_quote": "真正的稳定，从来不是依赖于体制、组织或平台",
+      "function": "将能力扩为产品化、传播、商业闭环，并用统计与平台例子说服。",
+      "transition": "完成价值解释后转入逐步点亮技能。",
+      "mechanism": "重新定义能力与数据/平台例证",
+      "requirement": "conditional",
+      "condition": "引用外部数字或平台案例时须核验；无材料可保留定义与真实小案例。",
+      "materials": [
+        "可追溯统计出处",
+        "平台真实机制",
+        "能力到交付的具体案例"
+      ],
+      "fail": [
+        "未经核验引用470万、8650万或月入平均值。"
+      ],
+      "adaptation": "可用已核验工具案例说明个人交付能力，不需要宏观收入数字。",
+      "pass": [
+        "引用有时间、地区、口径，能力不等同稳定收入。"
+      ],
+      "id": "S06",
+      "source_span": {
+        "start_character": 1247,
+        "end_character": 1752,
+        "percentage_start": 51.8,
+        "percentage_end": 73.4,
+        "sha256": "d75a318d8eea3e9176f9633e2e951a7f84a8d8795311d62c796c2673285ca54f"
+      }
+    },
+    {
+      "label": "定位和能力来源",
+      "start_quote": "刚开始，你要找到自己的定位",
+      "function": "用能帮什么人解决什么问题定位，并把能力追溯到工作或过往难题。",
+      "transition": "定位确定才进入产品与市场匹配。",
+      "mechanism": "定位提问与个人经验来源",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "具体人群",
+        "一个常见任务问题",
+        "相关真实能力"
+      ],
+      "fail": [
+        "只说独立市场节点，无法说明帮谁干什么。"
+      ],
+      "adaptation": "定位到25–32岁AI新手的一项具体工作任务。",
+      "pass": [
+        "可以填写人群与问题，能力范围有证据。"
+      ],
+      "id": "S07",
+      "source_span": {
+        "start_character": 1752,
+        "end_character": 1837,
+        "percentage_start": 73.4,
+        "percentage_end": 77.0,
+        "sha256": "f6a78f3e462e268a91d8594e8064847df51aeeb7cf394e252b2ea8fde06276bd"
+      }
+    },
+    {
+      "label": "小产品验证和流程放大",
+      "start_quote": "然后，你需要开启产品与市场匹配的验证",
+      "function": "把定位产品化、投放到接触点看买单，再讲获客、成交、交付放大。",
+      "transition": "行动路线结束后回扣独立性与选择主体。",
+      "mechanism": "最小产品到验证再放大",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "小产品交付说明",
+        "用户接触渠道",
+        "测试结果与调整条件"
+      ],
+      "fail": [
+        "三步流程后便承诺第一个百万。"
+      ],
+      "adaptation": "可试发一份AI任务模板收反馈，按反馈改交付而非追规模。",
+      "pass": [
+        "先验证再扩大，成交和交付不被内容流量替代。"
+      ],
+      "id": "S08",
+      "source_span": {
+        "start_character": 1837,
+        "end_character": 2107,
+        "percentage_start": 77.0,
+        "percentage_end": 88.6,
+        "sha256": "0b47624d33de2902ad07702e51ec9417c07e93ebdfe30c588e236632a053ed45"
+      }
+    },
+    {
+      "label": "反问与自主选择回扣",
+      "start_quote": "如果哪天没人要你了，你能不能靠自己活下去？",
+      "function": "用风险反问把读者关注从是否被公司要转到自身能力。",
+      "transition": "回扣开头依赖系统的焦虑，完成身份收束。",
+      "mechanism": "条件反问与主体感强化",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "一项可开始准备的动作",
+        "现实资金与工作限制"
+      ],
+      "fail": [
+        "把个人商业称唯一出路，制造失业恐惧。"
+      ],
+      "adaptation": "回到今天可以整理哪一份真实AI任务成果，保留工作与收入保障。",
+      "pass": [
+        "结尾能指向准备动作，保留不同职业选择。"
+      ],
+      "id": "S09",
+      "source_span": {
+        "start_character": 2107,
+        "end_character": 2374,
+        "percentage_start": 88.6,
+        "percentage_end": 100.0,
+        "sha256": "5ac7cfebc29864d4e80dbe4378d1e5f8300cae787a3209fc954e88089f81770a"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "个别单位困境和两段经历与目标读者有关，讨论范围可辨。",
+      "stage_ids": [
+        "S01",
+        "S02"
+      ],
+      "evidence_needed": [
+        "真实协作场景",
+        "读者对应问题"
+      ],
+      "failure": "用制度崩塌的情绪承诺吸引后不论证。"
+    },
+    "understandable": {
+      "criterion": "标准化组织、工具杠杆、独立节点都能翻成具体任务和交付。",
+      "stage_ids": [
+        "S03",
+        "S04",
+        "S05",
+        "S07",
+        "S08"
+      ],
+      "evidence_needed": [
+        "旧/新流程对照",
+        "人群问题和小产品示例"
+      ],
+      "failure": "节点、生态、闭环连续堆叠没有例子。"
+    },
+    "credible": {
+      "criterion": "亲历和宏观事实分开，工具、预测、收入均有核验边界。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S04",
+        "S06"
+      ],
+      "evidence_needed": [
+        "亲历确认",
+        "统计口径和原始来源",
+        "工具限制"
+      ],
+      "failure": "两段经历等同组织普遍崩塌证据。"
+    },
+    "fulfilled": {
+      "criterion": "读者获得定位、最小验证与改进路线，未被承诺长期稳定或百万收益。",
+      "stage_ids": [
+        "S07",
+        "S08",
+        "S09"
+      ],
+      "evidence_needed": [
+        "本篇人群问题",
+        "小产品与用户反馈",
+        "下一步动作"
+      ],
+      "failure": "最后只有独立宣言，没有验证方式。"
+    },
+    "structure": {
+      "criterion": "亲历对照解释问题、旧功能/新变化解释原因、个人问题承接路径。",
+      "stage_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S07",
+        "S08",
+        "S09"
+      ],
+      "evidence_needed": [
+        "经验到趋势的边界句",
+        "趋势到个人动作的桥梁"
+      ],
+      "failure": "历史、AI、赚钱数字拼盘而无推进。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "从两种具体环境的体验差别进入判断。",
+      "原有功能与新工具变化形成同维度比较。",
+      "在宏观判断后转成定位和最小需求验证。"
+    ],
+    "adjustable": [
+      "宏观统计可删，保留一个经过核验的流程案例。",
+      "单位崩塌的结论可收窄到特定协作问题。",
+      "结尾风险反问可改成正向准备提问。"
+    ],
+    "fill_before_writing": [
+      "两种环境下同类任务的真实过程：____",
+      "工具改变了哪一步及其限制：____",
+      "目标人群、最小交付和反馈计划：____"
+    ]
+  },
+  "summary": "由小团队与大组织的体验反差，经旧功能和新工具解释，转到个人能力的小规模验证。",
+  "tags": [
+    "公众号",
+    "组织协作",
+    "AI杠杆",
+    "个人节点",
+    "趋势判断"
+  ],
+  "useful_modules": [
+    "structure",
+    "opening",
+    "explanation",
+    "experience"
+  ],
+  "methods": {
+    "structure": {
+      "quote": "我该如何找到趋势，让自己成为一个独立的市场节点？",
+      "observation": "用一问把前半组织批评转为后半个人路径。",
+      "adaptation": "谈AI趋势后提出读者今天实际要选择的任务。",
+      "limit": "转向行动要有逻辑，不能以焦虑销售万能答案。"
+    },
+    "opening": {
+      "quote": "你以为只有你的单位不行",
+      "observation": "从读者熟悉的不满放大问题，制造解释需求。",
+      "adaptation": "用常见AI任务困惑提问，说明可讨论的范围。",
+      "limit": "不得把未证实宏观判断当已知真相。"
+    },
+    "explanation": {
+      "quote": "如何把一大群普通人组织起来，完成重复性的、标准化的任务",
+      "observation": "用动作描述而非术语解释组织功能。",
+      "adaptation": "用谁做什么、输入输出是什么解释AI协作。",
+      "limit": "原稿组织史仅为作者概括，不能原样作事实。"
+    },
+    "experience": {
+      "quote": "而我的第二家公司，有几百号人",
+      "observation": "对照规模、反馈、审批，让经历支持具体判断。",
+      "adaptation": "从东头真实协作体验中提取同维度对照。",
+      "limit": "不能因为人数不同就确定因果，也不能借用作者经历。"
+    }
+  },
+  "source_path": "raw/sample-28.txt",
+  "source_sha256": "d3b72bb1a345e6eb565f807edee4e31714c30159f34d0af464790896156a6e34",
+  "body_start_character": 37,
+  "body_end_character": 2374,
+  "source_group": "ray-wechat-2026-10-07",
+  "submitted_number": "03",
+  "source_completeness": "as_submitted",
+  "source_defect_notes": [],
+  "full_structure_reference": true,
+  "opening_reference": true,
+  "allowed_usage": [
+    "selected_structure",
+    "local_method"
+  ]
+}

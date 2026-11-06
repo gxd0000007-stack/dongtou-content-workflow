@@ -1,0 +1,424 @@
+{
+  "id": "sample-49",
+  "number": 49,
+  "title": "你要是够聪明，你就能反向压榨这个世界",
+  "short_name": "战场到游乐场的框架转换",
+  "family": "生活场景—习惯来源—解释模型—三种练习",
+  "skeleton": [
+    "给出新的世界比喻",
+    "连续生活画面引出敌对感",
+    "追溯防御心态的形成",
+    "用过滤模型解释看法影响行动",
+    "把挑战变成问题清单",
+    "把失败感转成复盘记录",
+    "把注意力收回可控动作",
+    "回扣战场与游乐场"
+  ],
+  "distinctive": "用起床、通勤、工位的连贯场景引出敌对感，随后把“解读方式”变成挑战、失败、可控因素三个练习入口。",
+  "promise": "帮助读者换一种看待挑战的方式，并提供三个可自问或记录的练习；不意味着外部困难都不真实。",
+  "applicability": [
+    "AI学习挫败后的认知调整",
+    "职场转型面对陌生任务",
+    "个人经历与行动练习结合的文章"
+  ],
+  "material_preconditions": [
+    "真实的起床到工作情景或明确标记的典型场景",
+    "一种经验证的可调整解读",
+    "每个练习的实际输入与输出"
+  ],
+  "source_limits": [
+    "仅根据用户粘贴的公众号文本拆解；万赞由用户报告，未核验阅读、点赞或传播数据。",
+    "作者的个人经历、用户案例、经营结果属于 Ray 的自述，不能改成东头亲历或通用结果保证。",
+    "原文中的名言、统计数据和心理学解释尚未核验；只参考叙述组织，进入新文的事实需要另行核验。",
+    "“世界是投射”“失败仅是情绪”“改变认知是唯一办法”属于作者强观点，不能否认客观损失、疾病或结构性困难。"
+  ],
+  "stages": [
+    {
+      "label": "给出新的世界比喻",
+      "start_quote": "把世界当成游乐场，让万事万物皆为你所用。",
+      "function": "开头先呈现文章要推荐的看待世界的方法。",
+      "transition": "随即用旧状态说明为什么需要改变。",
+      "mechanism": "愿景比喻先行",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "作者认同的比喻",
+        "它实际对应的行为"
+      ],
+      "fail": [
+        "只有漂亮比喻",
+        "把所有困难说成娱乐"
+      ],
+      "adaptation": "可改为“把AI试用当实验，不必每次考试”，后文要接实际例子。",
+      "id": "S01",
+      "pass": [
+        "比喻后有对应旧场景",
+        "读者知道将在现实任务中调整什么"
+      ],
+      "source_span": {
+        "start_character": 36,
+        "end_character": 74,
+        "percentage_start": 0.0,
+        "percentage_end": 1.6,
+        "sha256": "7d128513db7c8768b85fb94238fc29469029d9a228a92d566a92bfd3c4fc4ba1"
+      }
+    },
+    {
+      "label": "连续生活画面引出敌对感",
+      "start_quote": "八点睡醒，看到工作群就想继续回被窝；",
+      "function": "用起床、地铁、公司三个场景描画压力，作者将其归纳为过去的循环。",
+      "transition": "从眼前状态追溯形成这种看法的输入。",
+      "mechanism": "连贯场景到情绪命名",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "真实场景细节",
+        "作者亲历范围"
+      ],
+      "fail": [
+        "冒领作者工作经历",
+        "全体打工人都被同一情绪概括"
+      ],
+      "adaptation": "可写东头学习AI遇到一连串术语的真实当天。",
+      "id": "S02",
+      "pass": [
+        "场景与归纳能对应",
+        "主体和时段清楚"
+      ],
+      "source_span": {
+        "start_character": 74,
+        "end_character": 324,
+        "percentage_start": 1.6,
+        "percentage_end": 12.1,
+        "sha256": "5fbb52276625114881ba455f5d9727fee83ecd5897beaa647d763c8d24c18a22"
+      }
+    },
+    {
+      "label": "追溯防御心态的形成",
+      "start_quote": "其实，敌对的心态，我们从小就有。",
+      "function": "从家庭保护与竞争教育两条线说明作者如何解释防御习惯。",
+      "transition": "让读者看到自己把别人当对手的习惯。",
+      "mechanism": "形成路径与双来源解释",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "具体家庭或教育经验",
+        "形成习惯的例子"
+      ],
+      "fail": [
+        "把所有父母教育归为单一原因",
+        "引用未经核验科学为确定因果"
+      ],
+      "adaptation": "只讲东头确实经历的输入与影响，不能推定读者成长背景。",
+      "id": "S03",
+      "pass": [
+        "以限定经验说明可能影响",
+        "不把相关观察写成诊断"
+      ],
+      "source_span": {
+        "start_character": 324,
+        "end_character": 1071,
+        "percentage_start": 12.1,
+        "percentage_end": 43.5,
+        "sha256": "e0d50c513989a8151cbc15ce2372e747d39b40e64802fb3b0ad24d70529da72c"
+      }
+    },
+    {
+      "label": "用过滤模型解释看法影响行动",
+      "start_quote": "我们的大脑存在一种过滤机制，",
+      "function": "说明信息选择如何连到解读、情绪和行为，建立练习的理由。",
+      "transition": "由解释模型进入三个可改变的环节。",
+      "mechanism": "因果链的日常表达",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "同一事件的两种解释",
+        "解释后不同的可观察行动"
+      ],
+      "fail": [
+        "模型只有名词",
+        "把外部威胁全部说成内心幻想"
+      ],
+      "adaptation": "用同一AI报错的两种解读演示，心理理论仅在查证后使用。",
+      "id": "S04",
+      "pass": [
+        "能用具体事件展示差异",
+        "承认事实约束"
+      ],
+      "source_span": {
+        "start_character": 1071,
+        "end_character": 1386,
+        "percentage_start": 43.5,
+        "percentage_end": 56.8,
+        "sha256": "c4da8e488faa2ceae23796ff2c71c2496b2c9abf624f2509383fbafaca25973d"
+      }
+    },
+    {
+      "label": "把挑战变成问题清单",
+      "start_quote": "1. 认识到挑战 = 成长",
+      "function": "给出能力与任务要求的差距，再用三个问题让读者衡量挑战价值。",
+      "transition": "挑战不可避免，所以继续处理做错后的反应。",
+      "mechanism": "定义加自问练习",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "当前具体任务",
+        "能力差距",
+        "收益或学习目标"
+      ],
+      "fail": [
+        "只有“挑战使人成长”",
+        "没有任何可回答的问题"
+      ],
+      "adaptation": "AI任务可问缺哪一步知识、值不值得花时间、能带来什么输出。",
+      "id": "S05",
+      "pass": [
+        "问题能产生下一步学习方向",
+        "允许判断挑战不值得承担"
+      ],
+      "source_span": {
+        "start_character": 1386,
+        "end_character": 1691,
+        "percentage_start": 56.8,
+        "percentage_end": 69.6,
+        "sha256": "768b0fade0d0301a043928026cc2e0d8abf74d2645a4528b8b571ce2a4613127"
+      }
+    },
+    {
+      "label": "把失败感转成复盘记录",
+      "start_quote": "2. 认识到，有挑战，一定有失败",
+      "function": "先说作者态度变化，再给失败清单模板：问题、解法、下一次。",
+      "transition": "复盘能找到动作，也要筛掉无法控制的部分。",
+      "mechanism": "亲历转向和小模板",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "实际尝试",
+        "问题记录",
+        "下一次调整"
+      ],
+      "fail": [
+        "宣称经济损失并不存在",
+        "假造作者转型经验"
+      ],
+      "adaptation": "保留“做错了怎么记”的三问，承认真实失败与成本。",
+      "id": "S06",
+      "pass": [
+        "记录区分客观结果与情绪",
+        "形成一次具体调整"
+      ],
+      "source_span": {
+        "start_character": 1691,
+        "end_character": 1990,
+        "percentage_start": 69.6,
+        "percentage_end": 82.2,
+        "sha256": "04c0c27ca75ddb3c33caf55320fda0f2f8da1c6d205ec919d9cd91f8802065be"
+      }
+    },
+    {
+      "label": "把注意力收回可控动作",
+      "start_quote": "3. 只关注自己可控的因素",
+      "function": "要求拆开事件、情绪、需求与可做的事，减少对无法控制因素的投入。",
+      "transition": "三个动作共同回到开头的新世界解读。",
+      "mechanism": "可控不可控分类",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "一个焦虑事件",
+        "可行动范围",
+        "确实存在的限制"
+      ],
+      "fail": [
+        "把可求助和可协商的问题也直接丢弃",
+        "只说放下没有分类"
+      ],
+      "adaptation": "AI结果不可控时，可控的是任务说明、信息源和人工检查。",
+      "id": "S07",
+      "pass": [
+        "至少指出一个可做动作和一个待接受限制",
+        "分类服务现实问题"
+      ],
+      "source_span": {
+        "start_character": 1990,
+        "end_character": 2369,
+        "percentage_start": 82.2,
+        "percentage_end": 98.1,
+        "sha256": "8df554d173e47cd31793e413ff49199d8018bcb726bf6f44eeacbc2cc5e60f46"
+      }
+    },
+    {
+      "label": "回扣战场与游乐场",
+      "start_quote": "我们每个人，都在用自己内心的心态，建构着自己的世界，",
+      "function": "总结接纳挑战、失败和不完美，将新比喻重新扣回开头。",
+      "transition": "以读者能选择的解读和行动结束。",
+      "mechanism": "首尾比喻回环",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "前面三个练习结果",
+        "作者的有限主张"
+      ],
+      "fail": [
+        "用积极心态包治一切",
+        "把总结变成否定现实"
+      ],
+      "adaptation": "落到一次AI任务的下一次尝试，保留可操作的范围。",
+      "id": "S08",
+      "pass": [
+        "结尾对应先前练习",
+        "不扩大成疗效或人生保证"
+      ],
+      "source_span": {
+        "start_character": 2369,
+        "end_character": 2414,
+        "percentage_start": 98.1,
+        "percentage_end": 100.0,
+        "sha256": "f563548718b80f4fb6fecba3eb65a9ac362fd3eb4df82c68e61bf0d5ddfd429e"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "旧状态场景与新比喻共同告诉读者为何值得读。",
+      "stage_ids": [
+        "S01",
+        "S02"
+      ],
+      "evidence_needed": [
+        "连贯工作画面",
+        "文章的改善范围"
+      ],
+      "failure": "只有宏大积极口号。"
+    },
+    "understandable": {
+      "criterion": "模型须由同一事件的两种解读解释，练习问题能回答。",
+      "stage_ids": [
+        "S04",
+        "S05",
+        "S06",
+        "S07"
+      ],
+      "evidence_needed": [
+        "具体事件对照",
+        "三份练习输入输出"
+      ],
+      "failure": "只有心理名词或抽象“调整心态”。"
+    },
+    "credible": {
+      "criterion": "家庭、工作与态度变化主体真实，理论与个人解释分开。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S04",
+        "S06"
+      ],
+      "evidence_needed": [
+        "作者经历确认",
+        "理论来源与适用界限"
+      ],
+      "failure": "把Ray往事或未经核验的心理因果直接套用。"
+    },
+    "fulfilled": {
+      "criterion": "三种练习能形成问题清单、复盘记录和可控动作。",
+      "stage_ids": [
+        "S05",
+        "S06",
+        "S07"
+      ],
+      "evidence_needed": [
+        "可填写的问句",
+        "一次示范",
+        "边界"
+      ],
+      "failure": "只劝乐观，读者无从操作。"
+    },
+    "structure": {
+      "criterion": "生活困境到模型到三个各有功能的练习，再首尾回扣。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08"
+      ],
+      "evidence_needed": [
+        "不同阶段功能",
+        "由原因到动作的转折"
+      ],
+      "failure": "标题齐全，三段却重复同一意思。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "旧状态场景能说明改变必要性",
+      "模型解释接到三个练习",
+      "结尾回扣最初比喻"
+    ],
+    "adjustable": [
+      "家庭教育部分可换真实来源",
+      "理论名言可替换具体对照",
+      "三个练习可调整数量"
+    ],
+    "fill_before_writing": [
+      "东头的实际挫败例子",
+      "一个可验证的变化",
+      "练习所需输入与边界"
+    ]
+  },
+  "summary": "核心是把个人压力场景转成可检验的解释，再用三份问题清单让转向落地；原文心理解释需核验。",
+  "tags": [
+    "公众号",
+    "认知框架",
+    "连贯场景",
+    "问题清单",
+    "首尾回环"
+  ],
+  "useful_modules": [
+    "structure",
+    "opening",
+    "explanation",
+    "experience"
+  ],
+  "methods": {
+    "structure": {
+      "quote": "如何构建积极的认知框架",
+      "observation": "前文解释困境来源后，后文分挑战、失败与可控因素三个入口。",
+      "adaptation": "把一个抽象主张拆成三个不同的日常决策。",
+      "limit": "不能只把三种练习写成三个同义口号。"
+    },
+    "opening": {
+      "quote": "八点睡醒，看到工作群就想继续回被窝；",
+      "observation": "用连续时间与地点代替泛泛“你很焦虑”。",
+      "adaptation": "串联一次具体任务从开始到卡住的画面。",
+      "limit": "场景要真实或标明假设，不用群体必然情绪。"
+    },
+    "explanation": {
+      "quote": "从反面看「问题」，叫「失败」；从正面看「问题」，叫「迭代」。",
+      "observation": "通过同一对象的两种命名解释看法的改变。",
+      "adaptation": "将情绪描述转换为下一次能改的实际问题。",
+      "limit": "这是修辞对照，不证明所有失败只是一种情绪。"
+    },
+    "experience": {
+      "quote": "和上班阶段相比，我创业最大的一个改变，",
+      "observation": "用阶段前后的态度变化引出复盘模板。",
+      "adaptation": "从东头真实“之前怎样、后来怎样、为何改变”提取方法。",
+      "limit": "不可代入Ray创业经历或推论创业对每人都有此效果。"
+    }
+  },
+  "source_path": "raw/sample-49.txt",
+  "source_sha256": "34f201fb9bd67ead1d46b54cb51e1bc7502d122974b27e3d0b72106e5d2adfd1",
+  "body_start_character": 36,
+  "body_end_character": 2414,
+  "source_group": "ray-wechat-2026-10-07",
+  "submitted_number": "23",
+  "source_completeness": "as_submitted",
+  "source_defect_notes": [],
+  "full_structure_reference": true,
+  "opening_reference": true,
+  "allowed_usage": [
+    "selected_structure",
+    "local_method"
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "原文阅读拆解"
+  short_description: "完整读完素材，先用一屏说明主旨、关键观点与依据"
+  default_prompt: "用 $dongtou-source-reader 完整读取下面的文章或视频，先给我一屏速读卡：一句话主旨、最重要的观点及依据、必要事实和主要边界；保留原文位置。需要详细拆解或留档时，再展开读取记录与逐图细节。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "东头文案出厂质检"
+  short_description: "第七步接住活人感修订稿，按五项标准至少六轮检查，交付修订文案与质检报告"
+  default_prompt: "用 $dongtou-article-review 接住第六步修订稿和改稿记录、结构约定与来源材料，按五项标准至少六轮质检，交付修订文案和质检报告。"

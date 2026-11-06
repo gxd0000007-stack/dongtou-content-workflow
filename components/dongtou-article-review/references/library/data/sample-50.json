@@ -1,0 +1,465 @@
+{
+  "id": "sample-50",
+  "number": 50,
+  "title": "今年的就业到底有多难？？？",
+  "short_name": "就业焦虑的信息源转向",
+  "family": "亲历话题—信息盲区—对照证据—检索维度",
+  "skeleton": [
+    "先宣布已有印象可能不完整",
+    "以聚会和亲历建立共同问题",
+    "展示单一输入如何循环",
+    "用竞争与机会两面信息形成对照",
+    "把解法转成主动选择信息源",
+    "加入长短期共同观察",
+    "用一线访谈和行业资料补齐层次",
+    "以跨领域示例打开探索方向",
+    "回扣主动理解世界的选择"
+  ],
+  "distinctive": "用同学聚会中的就业讨论打开问题，不直接回答就业结论，而是转到“你看到的信息是否完整”，最后提供长短期、微宏观、跨领域三种视角。",
+  "promise": "帮助读者把单一负面输入换成多维信息来源；本文不提供完整求职流程或已核验就业预测。",
+  "applicability": [
+    "AI替代焦虑的信息核查",
+    "职场转型前的调研",
+    "热点新闻如何读得更完整"
+  ],
+  "material_preconditions": [
+    "具体信息消费场景",
+    "同口径正反面信息或可靠核查结果",
+    "实际可用的信息源与检索动作"
+  ],
+  "source_limits": [
+    "仅根据用户粘贴的公众号文本拆解；万赞由用户报告，未核验阅读、点赞或传播数据。",
+    "作者的个人经历、用户案例、经营结果属于 Ray 的自述，不能改成东头亲历或通用结果保证。",
+    "原文中的名言、统计数据和心理学解释尚未核验；只参考叙述组织，进入新文的事实需要另行核验。",
+    "就业数字、增长率与“算法操控”的泛化因果未核验；只能借用对照和检索组织，不得直接复述为当下事实。"
+  ],
+  "stages": [
+    {
+      "label": "先宣布已有印象可能不完整",
+      "start_quote": "世界和你想象的不一样。",
+      "function": "给文章的反转判断留一个入口。",
+      "transition": "用聚会话题说明读者的当前印象。",
+      "mechanism": "简短悬念结论",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "待检验的常见印象",
+        "文章要补充的角度"
+      ],
+      "fail": [
+        "无依据否定现实",
+        "悬念与就业话题无关"
+      ],
+      "adaptation": "可改为“我想先问：我们看到的AI失业新闻，覆盖了多少情况”。",
+      "id": "S01",
+      "pass": [
+        "下文明确展示印象来源",
+        "不预先否认求职难"
+      ],
+      "source_span": {
+        "start_character": 31,
+        "end_character": 60,
+        "percentage_start": 0.0,
+        "percentage_end": 1.4,
+        "sha256": "918f740405d5d0e36c4a8e93623999a7b5267b05ce792fa3df8ac2c002054ce7"
+      }
+    },
+    {
+      "label": "以聚会和亲历建立共同问题",
+      "start_quote": "今年过年，见了好些之前的同学，",
+      "function": "呈现不同阶段同学都说就业难，作者补充被裁和创业后的视角。",
+      "transition": "从个人共感转到信息框架。",
+      "mechanism": "场景共鸣与作者位置交代",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "真实聚会或访谈",
+        "作者经历确认",
+        "参与者不同状态"
+      ],
+      "fail": [
+        "假造东头聚会或被裁",
+        "用一个人的创业成功反证整体就业"
+      ],
+      "adaptation": "可使用东头真实粉丝留言，不把自身个案等同于就业大盘。",
+      "id": "S02",
+      "pass": [
+        "个人经历主体明确",
+        "认同处境后提出待讨论问题"
+      ],
+      "source_span": {
+        "start_character": 60,
+        "end_character": 388,
+        "percentage_start": 1.4,
+        "percentage_end": 17.4,
+        "sha256": "474b8e0a742b1a1dc92b7e0068e61ed6484a22f24e7e31bbfd7d32e1040e4f9b"
+      }
+    },
+    {
+      "label": "展示单一输入如何循环",
+      "start_quote": "你每天刷到的“就业寒冬”“35岁职场危机”，",
+      "function": "通过搜索越多看到越多的描述，解释作者认为的负面信息放大。",
+      "transition": "把“全都如此”的感觉转成需要补充证据的问题。",
+      "mechanism": "读者信息行为拆解",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "搜索或推荐记录",
+        "相似内容的实际例子",
+        "信息覆盖范围"
+      ],
+      "fail": [
+        "所有算法都被判成恶意操控",
+        "不区分事实和情绪包装"
+      ],
+      "adaptation": "改为可观察的搜索记录和覆盖盲区，避免替算法断言目的。",
+      "id": "S03",
+      "pass": [
+        "能指出遗漏了哪种信息",
+        "分清某条事实与推荐样本"
+      ],
+      "source_span": {
+        "start_character": 388,
+        "end_character": 695,
+        "percentage_start": 17.4,
+        "percentage_end": 32.3,
+        "sha256": "53a116d556f6009bc8efdd6fa1e17d8fbe685b2bd6f5f1a4ca806bfdd27521a0"
+      }
+    },
+    {
+      "label": "用竞争与机会两面信息形成对照",
+      "start_quote": "2024 年应届毕业生数量突破 1180 万，",
+      "function": "承认竞争加剧，同时引入岗位需求增长，说明单面判断不够。",
+      "transition": "由补充信息转入主动选源。",
+      "mechanism": "承认困难后补另一面",
+      "requirement": "conditional",
+      "condition": "本篇采用统计对照时，必须核验口径和时间；无证据可改成真实案例对照。",
+      "materials": [
+        "同年份、同地域、同口径的数据",
+        "数据原始出处",
+        "定义及限制"
+      ],
+      "fail": [
+        "未核验数字直接复用",
+        "用不同比较口径硬得出乐观结论"
+      ],
+      "adaptation": "可换为同领域AI任务减少与新增任务的官方材料，不预设必然利好。",
+      "id": "S04",
+      "pass": [
+        "每个数据有可核验来源和口径",
+        "结论不超过信息范围"
+      ],
+      "source_span": {
+        "start_character": 695,
+        "end_character": 1079,
+        "percentage_start": 32.3,
+        "percentage_end": 50.9,
+        "sha256": "45acca1d322e3ef9829c8a843db614436cef7b87656aa6d00792326a069ace40"
+      }
+    },
+    {
+      "label": "把解法转成主动选择信息源",
+      "start_quote": "更理性地选择信息源，才是摆脱焦虑的核心方法。",
+      "function": "明确推荐动作从情绪反应转到审视输入。",
+      "transition": "给出信息选择的三个维度。",
+      "mechanism": "问题到方法的桥梁",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "原先信息源",
+        "可补充的可靠来源",
+        "为什么值得补充"
+      ],
+      "fail": [
+        "把焦虑都归咎信息",
+        "仅说多读而无来源动作"
+      ],
+      "adaptation": "写出“我会去看什么原始材料”，不宣称信息调节足以解决所有焦虑。",
+      "id": "S05",
+      "pass": [
+        "解释哪项判断需要补哪种资料",
+        "仍承认现实困难"
+      ],
+      "source_span": {
+        "start_character": 1079,
+        "end_character": 1234,
+        "percentage_start": 50.9,
+        "percentage_end": 58.5,
+        "sha256": "443c3c8c8f33a361a342415900e352147ed5bdb7ae6d29845273950c0002ea28"
+      }
+    },
+    {
+      "label": "加入长短期共同观察",
+      "start_quote": "1. 长短期视角并行",
+      "function": "让读者同时看当前困难与长期趋势。",
+      "transition": "再把观察层次从个人拉到行业。",
+      "mechanism": "时间尺度拆分",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "同一主题的近期材料",
+        "长期资料",
+        "可比较范围"
+      ],
+      "fail": [
+        "借低买高卖变成投资建议",
+        "长期乐观覆盖当前事实"
+      ],
+      "adaptation": "AI消息可区分今天能否用、半年是否改变工作任务。",
+      "id": "S06",
+      "pass": [
+        "两个时间尺度互相补充",
+        "说明各自能回答什么"
+      ],
+      "source_span": {
+        "start_character": 1234,
+        "end_character": 1310,
+        "percentage_start": 58.5,
+        "percentage_end": 62.2,
+        "sha256": "8ef6eca5e4f74375af033619f5fcf0dec37591dca5637ce69fa4db8c6b6bb189"
+      }
+    },
+    {
+      "label": "用一线访谈和行业资料补齐层次",
+      "start_quote": "2. 从微观到宏观",
+      "function": "先谈一线交流，再谈个人、行业、社会分层检索。",
+      "transition": "从层次完整转向相关领域的可能性。",
+      "mechanism": "层级检索与来源类型配对",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "一线用户问题",
+        "行业一手资料",
+        "宏观来源",
+        "每层问题"
+      ],
+      "fail": [
+        "把社群传言当权威",
+        "一个案例代替整个行业"
+      ],
+      "adaptation": "对应AI可用性：真实任务测试、产品文档、行业数据分开检查。",
+      "id": "S07",
+      "pass": [
+        "来源类型匹配问题层次",
+        "个案与趋势各有界限"
+      ],
+      "source_span": {
+        "start_character": 1310,
+        "end_character": 1619,
+        "percentage_start": 62.2,
+        "percentage_end": 77.2,
+        "sha256": "413635044bfba925a2d27a04338234af7cf9c034d2bda6b4bc36e93eb78cd495"
+      }
+    },
+    {
+      "label": "以跨领域示例打开探索方向",
+      "start_quote": "3. 多元领域探索，拓宽职业边界",
+      "function": "用设计与短视频等组合说明可探索路径。",
+      "transition": "把具体例子收回到不被单一叙事框住。",
+      "mechanism": "跨界组合而非泛泛励志",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "读者已有能力",
+        "可接触的新任务",
+        "待验证的小试验"
+      ],
+      "fail": [
+        "断言所有专业都失去意义",
+        "未经验证称必然更有前景"
+      ],
+      "adaptation": "用已有职业能力加AI的小试验，保留学习门槛和市场验证。",
+      "id": "S08",
+      "pass": [
+        "组合逻辑具体",
+        "标明只是探索方向"
+      ],
+      "source_span": {
+        "start_character": 1619,
+        "end_character": 1894,
+        "percentage_start": 77.2,
+        "percentage_end": 90.6,
+        "sha256": "272d615260f817e8f677db94e35eab174f743c9f5446c11be41c9ab63bd12d88"
+      }
+    },
+    {
+      "label": "回扣主动理解世界的选择",
+      "start_quote": "你的世界，不该被算法定义，",
+      "function": "结束于主动看真实世界和边界探索的倡议。",
+      "transition": "回应开头世界与印象可能不同。",
+      "mechanism": "反复主题收束",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "前面可用的信息源清单",
+        "一个下一次检索任务"
+      ],
+      "fail": [
+        "只留下辽阔相遇的抒情",
+        "忘记信息来源方法"
+      ],
+      "adaptation": "可给读者今天去核查一条AI消息的动作；无须复刻求职号召。",
+      "id": "S09",
+      "pass": [
+        "结尾能指向下一次主动查询",
+        "不保证调研后必然脱困"
+      ],
+      "source_span": {
+        "start_character": 1894,
+        "end_character": 2088,
+        "percentage_start": 90.6,
+        "percentage_end": 100.0,
+        "sha256": "f01c2317ee1b588ef2eca93daf46bb8852723077d1f299be7753880176df9519"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "热点通过具体聊天进入，读者知道会学会更完整地判断消息。",
+      "stage_ids": [
+        "S01",
+        "S02",
+        "S03"
+      ],
+      "evidence_needed": [
+        "真实讨论",
+        "被遗漏的信息问题"
+      ],
+      "failure": "只有危机标题，没有新的检索视角。"
+    },
+    "understandable": {
+      "criterion": "三维来源选择各回答一个不同问题。",
+      "stage_ids": [
+        "S06",
+        "S07",
+        "S08"
+      ],
+      "evidence_needed": [
+        "近期长期示例",
+        "一线行业宏观示例",
+        "跨界小试验"
+      ],
+      "failure": "宏微观等术语无示范。"
+    },
+    "credible": {
+      "criterion": "所有时事、统计和经历可区分并核查，反转不能靠无来源数字。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S04",
+        "S07"
+      ],
+      "evidence_needed": [
+        "数据原始链接与口径",
+        "案例来源",
+        "个案限制"
+      ],
+      "failure": "凭个人创业结果宣称就业困难不存在。"
+    },
+    "fulfilled": {
+      "criterion": "给出读者能主动访问或询问的信息来源及用途。",
+      "stage_ids": [
+        "S05",
+        "S06",
+        "S07",
+        "S08"
+      ],
+      "evidence_needed": [
+        "来源清单",
+        "查询问题",
+        "下一次行动"
+      ],
+      "failure": "标题承诺解就业，正文只调节情绪。"
+    },
+    "structure": {
+      "criterion": "亲历共感、输入盲区、对照、选源桥梁、三维检索与回扣衔接。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08",
+        "S09"
+      ],
+      "evidence_needed": [
+        "每层新增信息",
+        "阶段过渡"
+      ],
+      "failure": "三个小标题只是重复“多看世界”。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "共感之后才提出信息盲区",
+      "对照材料前后口径一致",
+      "三个信息维度各解决一种遗漏"
+    ],
+    "adjustable": [
+      "统计对照可改案例对照",
+      "来源数量",
+      "跨领域例子的职业"
+    ],
+    "fill_before_writing": [
+      "当前准确来源",
+      "时间地域口径",
+      "东头真实接触问题",
+      "读者能做的核查任务"
+    ]
+  },
+  "summary": "本稿强项是承认读者的真实压力，再把判断依据从推荐流变成有层次的信息检索；数字和就业结论需单独核查。",
+  "tags": [
+    "公众号",
+    "热点解读",
+    "信息源",
+    "对照证据",
+    "调研框架"
+  ],
+  "useful_modules": [
+    "structure",
+    "opening",
+    "explanation",
+    "experience"
+  ],
+  "methods": {
+    "structure": {
+      "quote": "如何构建自己的信息源",
+      "observation": "由信息焦虑切到三维检索，方法服务前文提出的单一叙事问题。",
+      "adaptation": "写出同一判断分别该从哪个时间、层次、领域求证。",
+      "limit": "仅参考组织方式，不能把就业分析替换成未经调查的AI就业预测。"
+    },
+    "opening": {
+      "quote": "今年过年，见了好些之前的同学，",
+      "observation": "让热点进入一场具体聊天，并交代作者为何感同身受。",
+      "adaptation": "用真实对话打开AI职场问题。",
+      "limit": "Ray聚会及被裁经历不能移植。"
+    },
+    "explanation": {
+      "quote": "一个公司不赚钱不代表整个行业都不行，",
+      "observation": "用逐层不等价解释微观与宏观的差别。",
+      "adaptation": "AI个案失败不等于工具所有任务都失败，分别说明。",
+      "limit": "层级例子须符合当前事实，不能用来逃避反证。"
+    },
+    "experience": {
+      "quote": "2 年前，我刚从互联网被裁，我很清楚这种迷茫的感觉。",
+      "observation": "作者先承认自己曾处在相似困境，再说明后来观察。",
+      "adaptation": "以东头已确认的职场、自媒体或AI转型经历建立立场。",
+      "limit": "未经用户确认不能声称被裁、创业或取得某收入。"
+    }
+  },
+  "source_path": "raw/sample-50.txt",
+  "source_sha256": "04a289124fe078121fe812f7643b35398c6a5879659a580cf712cbaf51e9794e",
+  "body_start_character": 31,
+  "body_end_character": 2088,
+  "source_group": "ray-wechat-2026-10-07",
+  "submitted_number": "24",
+  "source_completeness": "as_submitted",
+  "source_defect_notes": [],
+  "full_structure_reference": true,
+  "opening_reference": true,
+  "allowed_usage": [
+    "selected_structure",
+    "local_method"
+  ]
+}

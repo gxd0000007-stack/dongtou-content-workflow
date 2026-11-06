@@ -1,0 +1,462 @@
+{
+  "id": "sample-38",
+  "number": 38,
+  "title": "一把好牌打得稀烂：非要证明自己对",
+  "short_name": "把争论转成信息应用",
+  "family": "个人经历—边界说明—条件对照—三步应用",
+  "skeleton": [
+    "抛出对争论习惯的判断",
+    "用后台事件引出态度变化",
+    "划定观点文章的性质与读者边界",
+    "用过去与现在的自己解释注意力转移",
+    "揭示结果判断依赖积累条件",
+    "把结果争论转为路径学习",
+    "先识别情绪反应再理性处理",
+    "检验信息再决定是否使用",
+    "用专业问题清单榨取应用价值",
+    "把判断标准收束到可用价值"
+  ],
+  "distinctive": "用个人经历先限定观点的归属，再以累计实践条件拆开结论与路径，最后示范三个自问动作。",
+  "promise": "帮助目标明确者减少无效争辩，先检验信息，再把适用部分放进实际流程。",
+  "applicability": [
+    "观点类内容讲个人立场",
+    "AI 新手如何处理建议与质疑",
+    "素材阅读到实际应用"
+  ],
+  "material_preconditions": [
+    "个人立场",
+    "一次真实意见冲突",
+    "可展示的方法输入与输出"
+  ],
+  "source_limits": [
+    "仅据用户粘贴文本拆解，未读取公众号原页或图片、视频。",
+    "万赞或爆款为用户报告，当前未独立核验点赞、阅读量或发布时间。",
+    "作者案例、收入与账号数据仅为作者自述，不作为普遍收益证明，也不能改写为东头亲历。",
+    "书名、名言、研究、平台规则及行业数据未核验；移入正文作为事实论据前须单独核验。",
+    "只借鉴组织功能和解释方法；绝对化结论、羞辱性称呼与不可保证的收益不作为硬性写作规则。",
+    "原文开头存在“欢争论”“二元独立”等文本错误，保留原稿但不作为正确术语。",
+    "原文“只服务自己”与“只服务某类成长者”并存；改写须澄清表达主体与目标读者，不硬抄矛盾。"
+  ],
+  "stages": [
+    {
+      "id": "S01",
+      "start_quote": "欢争论对错的人，还是在用“二元独立“的模型思考世界。",
+      "label": "抛出对争论习惯的判断",
+      "function": "原稿用存在错字的强判断界定争论者。",
+      "transition": "转到作者后台经历。",
+      "mechanism": "挑衅式认知反差抓注意。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "明确的讨论行为"
+      ],
+      "fail": [
+        "把异议等同低认知或照抄错字。"
+      ],
+      "adaptation": "保留争点但换成可观察行为，避免给人贴整体标签。",
+      "pass": [
+        "读者知道讨论的是哪种行为而非哪类人。"
+      ],
+      "source_span": {
+        "start_character": 34,
+        "end_character": 82,
+        "percentage_start": 0.0,
+        "percentage_end": 1.9,
+        "sha256": "e15d5c3ceaa504fae3fe01afd16d03330bf63410512b9ea7faff5100188b640c"
+      }
+    },
+    {
+      "id": "S02",
+      "start_quote": "公众号从去年 11 月开始高频日更，到今天",
+      "label": "用后台事件引出态度变化",
+      "function": "讲拉黑数量和自己从欢迎争论到设置边界的变化。",
+      "transition": "从事件进一步界定自己的写作服务范围。",
+      "mechanism": "亲历场景提供观点起点。",
+      "requirement": "conditional",
+      "condition": "确有亲历互动事件可用时",
+      "materials": [
+        "真实事件和时间",
+        "作者原先判断与变化"
+      ],
+      "fail": [
+        "把作者拉黑经历与群体标签移植成东头。"
+      ],
+      "adaptation": "讲东头真实互动经历，或保留为 Ray 的归属案例。",
+      "pass": [
+        "行为事件与新的判断有因果脉络。"
+      ],
+      "source_span": {
+        "start_character": 82,
+        "end_character": 329,
+        "percentage_start": 1.9,
+        "percentage_end": 11.7,
+        "sha256": "b271bee43646ed0e5ba5c81b760a1b6171afbb7cb39b87888dbe4fa221fa41ac"
+      }
+    },
+    {
+      "id": "S03",
+      "start_quote": "再说了，我的写作，它不服务于任何人，只服务于我自己。",
+      "label": "划定观点文章的性质与读者边界",
+      "function": "把内容定义为个人经验总结、思考入口，并筛选目标一致者。",
+      "transition": "从内容边界转入对错的效用讨论。",
+      "mechanism": "声明立场让合适读者认领身份。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "个人立场",
+        "内容实际服务人群"
+      ],
+      "fail": [
+        "以观点为由拒绝核验或前后服务对象矛盾不澄清。"
+      ],
+      "adaptation": "清楚区别主观判断与可核验事实；不能拿个人观点豁免事实准确性。",
+      "pass": [
+        "观点归属与读者条件都明确。"
+      ],
+      "source_span": {
+        "start_character": 329,
+        "end_character": 714,
+        "percentage_start": 11.7,
+        "percentage_end": 27.0,
+        "sha256": "1f193f345d58871f7caafd1bcbe3d42fd98698610b47a0da65fc1dfe55448e53"
+      }
+    },
+    {
+      "id": "S04",
+      "start_quote": "上学的时候，我是那种玩贴吧能给别人回复一两百条的人",
+      "label": "用过去与现在的自己解释注意力转移",
+      "function": "对比学生时期争辩与创业后目标驱动，给出从证明到赶路的理由。",
+      "transition": "从注意力变化转入同结论不同条件。",
+      "mechanism": "时间对照使认知改变可见。",
+      "requirement": "conditional",
+      "condition": "有真实前后对照经历时",
+      "materials": [
+        "真实前后行为",
+        "目标变化"
+      ],
+      "fail": [
+        "只说成熟了，没有行为或目标变化。"
+      ],
+      "adaptation": "用我以前怎么做—现在为何改的具体因果讲判断。",
+      "pass": [
+        "读者能指出改变的关键原因。"
+      ],
+      "source_span": {
+        "start_character": 714,
+        "end_character": 962,
+        "percentage_start": 27.0,
+        "percentage_end": 36.8,
+        "sha256": "dbd21cd79b5b907f94cae242d71471dae02c3106e1bc7e2d05ba50c29196b573"
+      }
+    },
+    {
+      "id": "S05",
+      "start_quote": "我给你说我上周写了 3 篇，我觉得 10w+ 很好写",
+      "label": "揭示结果判断依赖积累条件",
+      "function": "对比作者 200 篇和 SOP 积累与新手无流程，显示不能直接复制结论。",
+      "transition": "由差异转向可学习路径。",
+      "mechanism": "条件对照打断万能结论。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "积累量与方法条件",
+        "新手真实起点"
+      ],
+      "fail": [
+        "只说对你错对我对，没有可检验条件。"
+      ],
+      "adaptation": "AI 结果案例须讲输入、工具与前提差异；不把事实对错相对化。",
+      "pass": [
+        "结论适用前提与可迁移部分分开。"
+      ],
+      "source_span": {
+        "start_character": 962,
+        "end_character": 1199,
+        "percentage_start": 36.8,
+        "percentage_end": 46.2,
+        "sha256": "cd26ffccb0b997a2b9ed4b2b2e04bd2f62712fea51de5c907ea2c0c9edd73fb4"
+      }
+    },
+    {
+      "id": "S06",
+      "start_quote": "但是，如果我开始分享我的创作流程，选题思路和写作框架",
+      "label": "把结果争论转为路径学习",
+      "function": "指出共同问题与目标使实现路径有参考价值，并给旧文入口。",
+      "transition": "随后提出如何用信息的步骤。",
+      "mechanism": "从羡慕结果转向复用方法。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "目标相同的判断",
+        "可观察流程"
+      ],
+      "fail": [
+        "只有结果背书，没有流程或问题对应。"
+      ],
+      "adaptation": "旧文链接是可选入口，正文须交代方法价值而非让读者跳走补正文。",
+      "pass": [
+        "读者知道该学哪段路径与自己的问题对应。"
+      ],
+      "source_span": {
+        "start_character": 1199,
+        "end_character": 1776,
+        "percentage_start": 46.2,
+        "percentage_end": 69.1,
+        "sha256": "cc1c6c2f54391b74497e30f4b8c56602e1abd42dabbe03e75d9c8f60bd13956d"
+      }
+    },
+    {
+      "id": "S07",
+      "start_quote": "第一步，快速略过感觉；",
+      "label": "先识别情绪反应再理性处理",
+      "function": "接受第一反应，避免立刻争论。",
+      "transition": "情绪退一步后进入合理性判断。",
+      "mechanism": "延迟反应让判断有空间。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "一个带情绪的信息场景"
+      ],
+      "fail": [
+        "跳过情绪就等于放弃判断。"
+      ],
+      "adaptation": "写出一个实际暂停动作，不要求压制合理质疑。",
+      "pass": [
+        "能说明如何把反应与检验分开。"
+      ],
+      "source_span": {
+        "start_character": 1776,
+        "end_character": 1848,
+        "percentage_start": 69.1,
+        "percentage_end": 72.0,
+        "sha256": "ebbc3ab04feee2d02b0a0de2f8b8d349b4639b0e6c8a8ce73f79c87e1e58531a"
+      }
+    },
+    {
+      "id": "S08",
+      "start_quote": "第二步，这条信息有道理吗？",
+      "label": "检验信息再决定是否使用",
+      "function": "结合作者依据与自己的经验判断合理性，不合理则略过。",
+      "transition": "通过检验的内容才进入应用。",
+      "mechanism": "增加过滤门槛减少盲目模仿。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "事实依据",
+        "经验范围"
+      ],
+      "fail": [
+        "有用被当作真实的替代品。"
+      ],
+      "adaptation": "AI 内容要先查事实与适用条件，再评估任务效用。",
+      "pass": [
+        "可信度与适用度分别过关。"
+      ],
+      "source_span": {
+        "start_character": 1848,
+        "end_character": 1931,
+        "percentage_start": 72.0,
+        "percentage_end": 75.3,
+        "sha256": "74e2f0480d7f14639f3506ae155b29b9c88ab0d6b091f268931e050c8a517a55"
+      }
+    },
+    {
+      "id": "S09",
+      "start_quote": "这条信息，我能怎么用？",
+      "label": "用专业问题清单榨取应用价值",
+      "function": "以爆文为例，问人群、结构、开头亮点等，再归因为自己的知识体系。",
+      "transition": "从应用动作总结结构化输入的价值。",
+      "mechanism": "示范自问过程而不是仅说要行动。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "具体输入信息",
+        "对应知识结构",
+        "可执行改进点"
+      ],
+      "fail": [
+        "只有我会用的结论，没显示问什么和产生什么改动。"
+      ],
+      "adaptation": "用 AI 输出演示查来源—找误差—进工作流程的自问。",
+      "pass": [
+        "至少一个输入到任务改动的具体例子。"
+      ],
+      "source_span": {
+        "start_character": 1931,
+        "end_character": 2394,
+        "percentage_start": 75.3,
+        "percentage_end": 93.7,
+        "sha256": "5ee06d9289304e8529e006d818e1c38041303999202a33bcd96a51f7f178b42c"
+      }
+    },
+    {
+      "id": "S10",
+      "start_quote": "说到底，你的认知到底值多少钱，不取决于你知道多少",
+      "label": "把判断标准收束到可用价值",
+      "function": "对比争辩与结构化应用，最后召回看见之后怎么做。",
+      "transition": "结束于应用判断。",
+      "mechanism": "价值锚重申让全文形成闭环。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "实践应用和边界"
+      ],
+      "fail": [
+        "结尾强调行动却未给任何应用路径。"
+      ],
+      "adaptation": "收尾回到本篇一个具体改动；不贬低求真。",
+      "pass": [
+        "结论对应已展示的检验与使用步骤。"
+      ],
+      "source_span": {
+        "start_character": 2394,
+        "end_character": 2554,
+        "percentage_start": 93.7,
+        "percentage_end": 100.0,
+        "sha256": "ffae41337c1393f46e1141955df22410e7f217e1f0ba48368e29da67c5bb9959"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "争点对应实际读者困扰，强开头不以羞辱取代问题。",
+      "stage_ids": [
+        "S01",
+        "S02"
+      ],
+      "evidence_needed": [
+        "真实争论场景"
+      ],
+      "failure": "用性别或群体攻击制造冲突。"
+    },
+    "understandable": {
+      "criterion": "通过条件对照和三步自问说明如何处理信息。",
+      "stage_ids": [
+        "S05",
+        "S07",
+        "S08",
+        "S09"
+      ],
+      "evidence_needed": [
+        "前提差异",
+        "一个应用例子"
+      ],
+      "failure": "把对错、有用和可信混为一谈。"
+    },
+    "credible": {
+      "criterion": "个案有归属，事实准确性不因主观立场被免除。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S05",
+        "S08"
+      ],
+      "evidence_needed": [
+        "经验来源",
+        "可核验事实与适用条件"
+      ],
+      "failure": "作者观点被称真理，或者有用即真实。"
+    },
+    "fulfilled": {
+      "criterion": "读者得到从情绪、检验到应用的顺序与例子。",
+      "stage_ids": [
+        "S07",
+        "S08",
+        "S09",
+        "S10"
+      ],
+      "evidence_needed": [
+        "对应信息与改动"
+      ],
+      "failure": "只要求别争论，未给操作路径。"
+    },
+    "structure": {
+      "criterion": "经历确立争点，边界与条件对照承接，再进入三步应用。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S05",
+        "S06",
+        "S07",
+        "S08",
+        "S09"
+      ],
+      "evidence_needed": [
+        "各阶段功能段落"
+      ],
+      "failure": "删掉条件对照后变成无条件相信作者。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "个人立场与事实区分",
+      "结果适用条件对照",
+      "先检验再使用的信息路径"
+    ],
+    "adjustable": [
+      "后台经历可用其他真实事件",
+      "旧文与课程入口可删",
+      "开头强度可调"
+    ],
+    "fill_before_writing": [
+      "东头实际立场",
+      "事件归属与证据",
+      "读者任务与应用例子",
+      "信息核验办法"
+    ]
+  },
+  "summary": "先从后台争论和作者边界建立立场，再用经验条件差异解释结论为何不能直接复制，最后给情绪识别、合理性检查、实际应用三步。",
+  "tags": [
+    "第一人称",
+    "认知边界",
+    "信息应用",
+    "三步法",
+    "条件比较"
+  ],
+  "useful_modules": [
+    "opening",
+    "structure",
+    "explanation",
+    "experience"
+  ],
+  "methods": {
+    "structure": {
+      "quote": "但是，如果我开始分享我的创作流程，选题思路和写作框架",
+      "observation": "通过一个但是把结果争论转向可学路径，再接三步应用。",
+      "adaptation": "先解释适用前提，再把讨论变成读者能改的动作。",
+      "limit": "主观观点不能免除事实核验。"
+    },
+    "opening": {
+      "quote": "公众号从去年 11 月开始高频日更，到今天",
+      "observation": "用后台实际互动作为争点来源。",
+      "adaptation": "用东头确实遇过的提问或争议引出判断。",
+      "limit": "不复制拉黑人数或群体标签。"
+    },
+    "explanation": {
+      "quote": "因为你没看到，我已经发了快 200 篇文章",
+      "observation": "用积累条件解释同样目标为何不同难度。",
+      "adaptation": "比较 AI 使用中的素材、任务和流程差异。",
+      "limit": "作者量化结果未核验，只可归属引用。"
+    },
+    "experience": {
+      "quote": "上学的时候，我是那种玩贴吧能给别人回复一两百条的人",
+      "observation": "以前争辩—现在赶路的对照给出观点变化。",
+      "adaptation": "讲自己的旧习惯、转折理由与如今判断。",
+      "limit": "不可编造东头贴吧经历。"
+    }
+  },
+  "source_path": "raw/sample-38.txt",
+  "source_sha256": "5af35a6d19d992a28ab8ca5c0e0a122eb08b02b8099b6560555abbec9c483855",
+  "body_start_character": 34,
+  "body_end_character": 2554,
+  "source_group": "ray-wechat-2026-10-07",
+  "submitted_number": "13",
+  "source_completeness": "as_submitted",
+  "source_defect_notes": [],
+  "full_structure_reference": true,
+  "opening_reference": true,
+  "allowed_usage": [
+    "selected_structure",
+    "local_method"
+  ]
+}

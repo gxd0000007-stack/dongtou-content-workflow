@@ -1,0 +1,406 @@
+{
+  "id": "sample-31",
+  "number": 31,
+  "title": "普通人做自媒体：一定要频繁输出，目的性输出，大量输出",
+  "short_name": "输出数量转向读者与目的",
+  "family": "行为纠偏到内容策略",
+  "skeleton": [
+    "先将输出目的设为关键",
+    "大量发布无反馈的困境",
+    "三项缺口与商业链条定位",
+    "自我宽慰机制与错失复盘",
+    "区分方法内容与观点内容",
+    "个人争议案例体现立场",
+    "把筛选归结为具体人群",
+    "以动笔前自问结束"
+  ],
+  "distinctive": "从新手大量发布无反馈入题，用一连串问题暴露把输出孤立出来的错误，解释自我宽慰，再区分方法内容与观点内容的作用，以自身争议案例回到读者筛选。",
+  "promise": "帮助创作者在动笔前明确服务谁、这篇想产生什么作用，并区分教方法与表达判断；不保证算法起号或通过冲突吸粉。",
+  "applicability": [
+    "AI自媒体新手没有确定读者就大量发文",
+    "补强东头的第一人称判断与内容目的",
+    "判断一篇干货和观点文章分别应交付什么"
+  ],
+  "material_preconditions": [
+    "真实发文与反馈记录",
+    "明确目标人群的具体问题",
+    "作者愿意公开表达的观点及理由"
+  ],
+  "source_limits": [
+    "来源仅为用户本次粘贴的公众号文章文本，万赞状态为用户报告，未读取原页面或核验互动数据。",
+    "Ray的身份、经历、客户反馈、收益数字及所引名言均为作者叙述；不得写成东头的亲历或已证实事实。",
+    "自我服务偏差、自我阻碍策略与算法精准设计是原稿解释，未核验出处或平台机制。",
+    "观点偏激必吸引同频者、干货带来僵尸粉、所有阅读被设计等是绝对论断；表达立场不应以羞辱或故意煽动争吵为目标。"
+  ],
+  "stages": [
+    {
+      "label": "先将输出目的设为关键",
+      "start_quote": "做自媒体就是学会输出，但不要无脑输出",
+      "function": "提出数量之前要有目的的判断。",
+      "transition": "下一段用大量发文无增长的读者困境说明。",
+      "mechanism": "短判断与方法纠偏",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "读者正在发布的内容类型",
+        "想达到的一项具体作用"
+      ],
+      "fail": [
+        "用无脑羞辱读者代替问题定义。"
+      ],
+      "adaptation": "可写我会先问这篇AI内容到底帮谁做什么。",
+      "pass": [
+        "开头指出需要决定什么，正文会解释。"
+      ],
+      "id": "S01",
+      "source_span": {
+        "start_character": 44,
+        "end_character": 93,
+        "percentage_start": 0.0,
+        "percentage_end": 2.6,
+        "sha256": "d4c9037c9e92958e71a012a565673ca75fe02f226fc6ab057b65cb446497f80b"
+      }
+    },
+    {
+      "label": "大量发布无反馈的困境",
+      "start_quote": "很多自媒体小白，无论是做小红书还是公众号",
+      "function": "以几十篇、三位数粉丝和放弃描述输出的无反馈。",
+      "transition": "由困境转到三个内容目的问题。",
+      "mechanism": "数量和结果落差",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "发文周期和实际反馈",
+        "发布动机"
+      ],
+      "fail": [
+        "把没涨粉完全归因于不懂目的。"
+      ],
+      "adaptation": "用东头或读者确认的内容实验记录，而非虚构粉丝数。",
+      "pass": [
+        "数量与结果属于具体观察，不宣称坚持没有价值。"
+      ],
+      "id": "S02",
+      "source_span": {
+        "start_character": 93,
+        "end_character": 282,
+        "percentage_start": 2.6,
+        "percentage_end": 12.4,
+        "sha256": "44945ba65234b1a2d731fd734205f63a369fb45e284669e0f6ba3131bd31f09a"
+      }
+    },
+    {
+      "label": "三项缺口与商业链条定位",
+      "start_quote": "如果你自媒体做了 3 个月，还不知道自己的目标用户在哪",
+      "function": "问目标用户、看完后干嘛、有没有需求，再区分看见、信任、付费。",
+      "transition": "通过学英语类比使链条可理解，再转为何不发现问题。",
+      "mechanism": "连续自问与功能拆分",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "读者画像",
+        "内容需求",
+        "看完后的目标行为"
+      ],
+      "fail": [
+        "把输出目的直接缩成所有文章都成交。"
+      ],
+      "adaptation": "给AI教程填写一类人、一个任务、学完能完成的一步。",
+      "pass": [
+        "一篇内容的作用可以被填写，不只写赚钱。"
+      ],
+      "id": "S03",
+      "source_span": {
+        "start_character": 282,
+        "end_character": 616,
+        "percentage_start": 12.4,
+        "percentage_end": 29.8,
+        "sha256": "5fc0afe64c5c9ebc53c179785eaa63de1ef13c978bbe2f808e5195c0ce51ef7b"
+      }
+    },
+    {
+      "label": "自我宽慰机制与错失复盘",
+      "start_quote": "认知科学中有个概念叫“自我服务偏差”",
+      "function": "解释外部归因和提前找借口怎样让创作者不审视环节。",
+      "transition": "心理解释后给出目的性输出的正面定义。",
+      "mechanism": "概念命名与两种行为联动",
+      "requirement": "optional",
+      "condition": "当篇确需心理解释且可核验时使用；否则保留具体检查问题。",
+      "materials": [
+        "可靠理论来源或明确假设",
+        "一次具体复盘缺口"
+      ],
+      "fail": [
+        "心理术语被当作所有增长失败的原因。"
+      ],
+      "adaptation": "直接说别只怪平台，检查人群、结构和可交付帮助。",
+      "pass": [
+        "解释有行为证据而不诊断人格。"
+      ],
+      "id": "S04",
+      "source_span": {
+        "start_character": 616,
+        "end_character": 989,
+        "percentage_start": 29.8,
+        "percentage_end": 49.2,
+        "sha256": "10eb66adf8868e19051cf41da583181c247c9ed6a7b109992c537d0c7b3525b4"
+      }
+    },
+    {
+      "label": "区分方法内容与观点内容",
+      "start_quote": "每一篇内容的目的，不一定都是营销卖货",
+      "function": "说明经验方法可以服务用户任务，成长观点可以表达判断和筛选认同。",
+      "transition": "再通过作者公众号里两类内容和争议事件示范。",
+      "mechanism": "先排除单一目标再分角色",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "一篇方法内容",
+        "一篇真实观点内容",
+        "二者目标读者"
+      ],
+      "fail": [
+        "把观点内容不转化等同不需要帮助读者。"
+      ],
+      "adaptation": "AI教程讲做法，AI消息写我怎么看、为什么、给新手什么建议。",
+      "pass": [
+        "每类目的讲清楚，主观判断仍接受事实核验。"
+      ],
+      "id": "S05",
+      "source_span": {
+        "start_character": 989,
+        "end_character": 1234,
+        "percentage_start": 49.2,
+        "percentage_end": 62.0,
+        "sha256": "0fb7cb4f4f127239cee345180de1d5cdf59ebd26a85398fd98406afd26023256"
+      }
+    },
+    {
+      "label": "个人争议案例体现立场",
+      "start_quote": "我的公众号后台，天天都有人骂我",
+      "function": "用股市文章和反对留言说明作者如何理解价值观筛选。",
+      "transition": "经验之后概括不讨好所有人，并返回目标用户。",
+      "mechanism": "具体争议、作者感受与处理方式",
+      "requirement": "conditional",
+      "condition": "拥有真实争议和作者授权表达时保留；不要求每篇都有争议。",
+      "materials": [
+        "东头确认的观点和反馈",
+        "反对意见内容",
+        "处理边界"
+      ],
+      "fail": [
+        "用骂战流量作目标，或把原作者股市经历写成我。"
+      ],
+      "adaptation": "讲东头对AI某用法的真实判断及读者不同意见，不编冲突。",
+      "pass": [
+        "立场和理由可见，保留尊重反对者与纠错可能。"
+      ],
+      "id": "S06",
+      "source_span": {
+        "start_character": 1234,
+        "end_character": 1591,
+        "percentage_start": 62.0,
+        "percentage_end": 80.6,
+        "sha256": "c8b7ef932e03103b6e62d5c294e3096a2a9379c536c35f3ec6114382d7ed529b"
+      }
+    },
+    {
+      "label": "把筛选归结为具体人群",
+      "start_quote": "确定你要找的人，就是目的性输出中唯一重要的事。",
+      "function": "归纳内容要服务一致读者，再以算法熟悉作者解释持续输出。",
+      "transition": "最后上升为记录者到设计者的行动身份。",
+      "mechanism": "判断收束与持续一致性",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "具体人群及问题",
+        "一组对应内容",
+        "平台机制的不确定性"
+      ],
+      "fail": [
+        "承诺写几十篇平台自然给流量。"
+      ],
+      "adaptation": "对东头每篇锁定一个AI新手工作场景，再选择表达方式。",
+      "pass": [
+        "目标读者清楚，可持续检查内容是否服务他们。"
+      ],
+      "id": "S07",
+      "source_span": {
+        "start_character": 1591,
+        "end_character": 1929,
+        "percentage_start": 80.6,
+        "percentage_end": 98.2,
+        "sha256": "759c2b6ab434fed7a04e9e681c1c838fc1a68b3de7a2a0f62d4df8b545268149"
+      }
+    },
+    {
+      "label": "以动笔前自问结束",
+      "start_quote": "你输出的每一句话，你都要想清楚",
+      "function": "把全文变成谁在看、为什么看的写前提问。",
+      "transition": "回扣输出目的，完成对开头判断的兑现。",
+      "mechanism": "自问回扣与工作角色转换",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "本篇读者",
+        "阅读理由",
+        "一个期望产出"
+      ],
+      "fail": [
+        "只说注意力交易场却无法据此写下一篇。"
+      ],
+      "adaptation": "在第二步共创卡明确我想给谁什么判断/方法，再接标题和正文。",
+      "pass": [
+        "读者可直接填写三个要素，不只记住设计者标签。"
+      ],
+      "id": "S08",
+      "source_span": {
+        "start_character": 1929,
+        "end_character": 1964,
+        "percentage_start": 98.2,
+        "percentage_end": 100.0,
+        "sha256": "f494f719d31f2679cdff16d00c71219081137e080fbcf57fe9e1f3472dcae7d9"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "数量无反馈是具体困惑，开头承诺找准输出目的。",
+      "stage_ids": [
+        "S01",
+        "S02"
+      ],
+      "evidence_needed": [
+        "发文与反馈",
+        "读者问题"
+      ],
+      "failure": "以不涨粉就无脑输出羞辱读者。"
+    },
+    "understandable": {
+      "criterion": "被看见、信任、解决问题和付费被分开，两类内容有具体例子。",
+      "stage_ids": [
+        "S03",
+        "S05",
+        "S07"
+      ],
+      "evidence_needed": [
+        "链条关系",
+        "方法/观点示例"
+      ],
+      "failure": "把目的性简单等同卖课。"
+    },
+    "credible": {
+      "criterion": "算法解释保留不确定性，观点是真实作者判断并有理由。",
+      "stage_ids": [
+        "S04",
+        "S06",
+        "S07"
+      ],
+      "evidence_needed": [
+        "理论出处或替代说明",
+        "作者实际反馈",
+        "观点依据"
+      ],
+      "failure": "为了表现主见编造冲突或绝对增长结论。"
+    },
+    "fulfilled": {
+      "criterion": "读者知道写给谁、为什么看、希望读后做到什么。",
+      "stage_ids": [
+        "S03",
+        "S05",
+        "S08"
+      ],
+      "evidence_needed": [
+        "本篇三项填值"
+      ],
+      "failure": "只鼓励大胆骂，没有写前标准。"
+    },
+    "structure": {
+      "criterion": "失败困境→问题诊断→内容目的区分→立场示例→写前自问承接完整。",
+      "stage_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S05",
+        "S06",
+        "S08"
+      ],
+      "evidence_needed": [
+        "诊断和正面方法对应",
+        "结尾回扣"
+      ],
+      "failure": "小标题完整但观点筛选没有理由、方法没有动作。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "动笔前说明目标读者、阅读理由和内容作用。",
+      "方法内容和观点内容承担的任务分别解释。",
+      "个人立场必须有理由且归属作者。"
+    ],
+    "adjustable": [
+      "心理理论可删，用具体复盘问题替代。",
+      "争议经历可不采用，不为冲突编案例。",
+      "流量与算法宣称改为观察或待验证假设。"
+    ],
+    "fill_before_writing": [
+      "本篇写给谁、读者要解决什么：____",
+      "我想表达的判断及依据：____",
+      "希望读后形成的认识或动作：____"
+    ]
+  },
+  "summary": "把大量输出的焦虑转成写给谁、为什么看、这篇要起什么作用的选择。",
+  "tags": [
+    "公众号",
+    "内容目的",
+    "第一人称观点",
+    "读者筛选",
+    "写前判断"
+  ],
+  "useful_modules": [
+    "structure",
+    "opening",
+    "explanation",
+    "experience"
+  ],
+  "methods": {
+    "structure": {
+      "quote": "每一篇内容的目的，不一定都是营销卖货",
+      "observation": "在纠偏后分类，给不同文章各自合理角色。",
+      "adaptation": "分别设计AI方法教程、新消息判断和个人经历文章的交付。",
+      "limit": "不把所有文章推向商业成交。"
+    },
+    "opening": {
+      "quote": "一上来就先写个几十篇，最后发现涨粉不到 3 位数",
+      "observation": "用努力和反馈反差唤起新手阅读需求。",
+      "adaptation": "可用经过确认的真实无反馈场景，不必沿用粉丝数。",
+      "limit": "未核验量级不能装成统计规律。"
+    },
+    "explanation": {
+      "quote": "就像天天都在背单词，但你不懂语法，不练表达",
+      "observation": "用熟悉学习活动解释单一动作不能完成整套任务。",
+      "adaptation": "用只装AI工具却没完成工作任务作同构类比。",
+      "limit": "类比不是证明所有创作失败的因果。"
+    },
+    "experience": {
+      "quote": "前者没有什么对错之分，因为都是我自己的经验总结",
+      "observation": "明确内容中的经验和主观观点来自我，突出作者位置。",
+      "adaptation": "写我的观察、我的判断、我为什么这样建议。",
+      "limit": "个人经验也有适用边界，不能以主观为由免事实检验。"
+    }
+  },
+  "source_path": "raw/sample-31.txt",
+  "source_sha256": "45b6cd71dcbff1a0ee48a6379a59d6f3064ff0572b2cd90134873ac7e720381d",
+  "body_start_character": 44,
+  "body_end_character": 1964,
+  "source_group": "ray-wechat-2026-10-07",
+  "submitted_number": "06",
+  "source_completeness": "as_submitted",
+  "source_defect_notes": [],
+  "full_structure_reference": true,
+  "opening_reference": true,
+  "allowed_usage": [
+    "selected_structure",
+    "local_method"
+  ]
+}

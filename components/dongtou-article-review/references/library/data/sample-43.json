@@ -1,0 +1,430 @@
+{
+  "id": "sample-43",
+  "number": 43,
+  "title": "你的过分礼貌，正在暴露你的低情商",
+  "short_name": "礼貌表达如何有有效信息",
+  "family": "立场—原话场景—亲历—类比—角色网络—意义收束",
+  "skeleton": [
+    "提出表达目标的反差",
+    "用原话重建附和场景",
+    "以亲历解释讨好未换来重视",
+    "用记忆类比说明模糊表达的问题",
+    "把交流理解为角色与价值网络",
+    "解释不表达判断的代价",
+    "把忽略从信息层扩展到角色感受",
+    "把常用话翻译成作者解读的隐藏信号",
+    "回到关键时刻被想起的表达目标"
+  ],
+  "distinctive": "通过附和原话和三项角色信息让表达问题具体，但全文扩张到关系意义，改写应收回实际工作任务并补替代示例。",
+  "promise": "解释只有附和而缺判断为何不易被识别，并让读者思考如何清楚表达自己能提供的帮助；原稿缺具体替代话术。",
+  "applicability": [
+    "AI 模板式表达整改",
+    "工作沟通与判断输出",
+    "个人观点和角色展示"
+  ],
+  "material_preconditions": [
+    "真实沟通原话",
+    "本人旧判断",
+    "任务角色",
+    "有效替代表述"
+  ],
+  "source_limits": [
+    "仅据用户粘贴文本拆解，未读取公众号原页或图片、视频。",
+    "万赞或爆款为用户报告，当前未独立核验点赞、阅读量或发布时间。",
+    "作者案例、收入与账号数据仅为作者自述，不作为普遍收益证明，也不能改写为东头亲历。",
+    "书名、名言、研究、平台规则及行业数据未核验；移入正文作为事实论据前须单独核验。",
+    "只借鉴组织功能和解释方法；绝对化结论、羞辱性称呼与不可保证的收益不作为硬性写作规则。",
+    "礼貌、亲密关系、意义感的普遍因果推断未核验，只可作作者观点。"
+  ],
+  "stages": [
+    {
+      "id": "S01",
+      "start_quote": "社交沟通的核心，不是让人喜欢你，而是知道你的价值。",
+      "label": "提出表达目标的反差",
+      "function": "把礼貌问题重框为别人是否理解你能提供什么。",
+      "transition": "用开会附和的场景解释。",
+      "mechanism": "表层优点与实际效果反差。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "具体沟通任务"
+      ],
+      "fail": [
+        "以礼貌为错或把关系只当工具。"
+      ],
+      "adaptation": "把价值具体到任务、建议与信息，不否定礼貌本身。",
+      "pass": [
+        "读者知道是缺信息而非礼貌错。"
+      ],
+      "source_span": {
+        "start_character": 32,
+        "end_character": 77,
+        "percentage_start": 0.0,
+        "percentage_end": 2.3,
+        "sha256": "9c9c3e4488e185000e42a0ee39473852987f04a16b2e16bd440afe5880cf6908"
+      }
+    },
+    {
+      "id": "S02",
+      "start_quote": "职场上最没存在感的人，往往是“最有礼貌”的那一个",
+      "label": "用原话重建附和场景",
+      "function": "会议点头、客气和都行展示有态度但没实质信息。",
+      "transition": "进入作者过去同样行为。",
+      "mechanism": "对话让抽象低存在感可见。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "真实对话或典型表达"
+      ],
+      "fail": [
+        "只有抽象情商评价没有原话。"
+      ],
+      "adaptation": "用 AI 生成模板式汇报与自己的明确判断做场景对照。",
+      "pass": [
+        "读者能从话语看到缺了观点或信息。"
+      ],
+      "source_span": {
+        "start_character": 77,
+        "end_character": 253,
+        "percentage_start": 2.3,
+        "percentage_end": 11.1,
+        "sha256": "d1a4439f459c0cda6ccfb3b86b0d7495807dbcfb1c9cbcb564d006594bbf5aca"
+      }
+    },
+    {
+      "id": "S03",
+      "start_quote": "刚毕业的的我也是这样，谁都不想得罪",
+      "label": "以亲历解释讨好未换来重视",
+      "function": "作者的旧期待与后来没人听的反馈构成落差。",
+      "transition": "从经历引出为什么模糊表达难被记住。",
+      "mechanism": "过去判断与结果反差支持观点来源。",
+      "requirement": "conditional",
+      "condition": "有相关亲历材料时",
+      "materials": [
+        "本人真实旧期待",
+        "实际反馈"
+      ],
+      "fail": [
+        "编造亲历或把所有礼貌沟通都说无效。"
+      ],
+      "adaptation": "只有东头确认的会议经历可用第一人称。",
+      "pass": [
+        "经历说明具体信息缺口。"
+      ],
+      "source_span": {
+        "start_character": 253,
+        "end_character": 428,
+        "percentage_start": 11.1,
+        "percentage_end": 19.9,
+        "sha256": "a38f68fdb7297fed7ebfcb6b702140a690cd60986f544a186150ce381f0d0123"
+      }
+    },
+    {
+      "id": "S04",
+      "start_quote": "小时候读书，是不是",
+      "label": "用记忆类比说明模糊表达的问题",
+      "function": "以优差同学印象较深作类比，接着明确表达目标是谁、擅长什么、提供什么。",
+      "transition": "从记忆解释推进关系网络。",
+      "mechanism": "熟悉经验类比降低抽象门槛。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "真实可讨论类比",
+        "沟通目标"
+      ],
+      "fail": [
+        "用极端引人记住取代信息质量。"
+      ],
+      "adaptation": "仅学类比组织，不让极端等于优秀；AI 内容强调清楚而非极端。",
+      "pass": [
+        "类比范围与具体目标都清楚。"
+      ],
+      "source_span": {
+        "start_character": 428,
+        "end_character": 758,
+        "percentage_start": 19.9,
+        "percentage_end": 36.6,
+        "sha256": "1910559e69994a351ed9992d148cc86bc1be7cacba5348197069390b135be10f"
+      }
+    },
+    {
+      "id": "S05",
+      "start_quote": "社交最终也需要服务于你自身",
+      "label": "把交流理解为角色与价值网络",
+      "function": "强调在关系网络中可识别的角色，不只是让人舒服。",
+      "transition": "追问为何配合不能建立角色。",
+      "mechanism": "网络隐喻把关系映射为职责。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "具体团队与角色"
+      ],
+      "fail": [
+        "把所有关系工具化或只按交换定价。"
+      ],
+      "adaptation": "适配工作协作；承认陪伴和情感本身也是价值。",
+      "pass": [
+        "当前场景的协作角色和贡献能描述。"
+      ],
+      "source_span": {
+        "start_character": 758,
+        "end_character": 884,
+        "percentage_start": 36.6,
+        "percentage_end": 42.9,
+        "sha256": "b5f38735492847cc003607f80ee7a84b3249fce9102ee19e8c13b003848dac96"
+      }
+    },
+    {
+      "id": "S06",
+      "start_quote": "那为什么说话让人舒服的人，最容易没有存在感？",
+      "label": "解释不表达判断的代价",
+      "function": "用观点有差异、退让与配合说明别人不知你想什么，再以网络节点解释被调用。",
+      "transition": "从任务角色转向被需要的意义。",
+      "mechanism": "机制重述和节点隐喻强化记忆。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "具体建议缺失例子",
+        "角色不明确后的结果"
+      ],
+      "fail": [
+        "武断声称客气必然没有价值。"
+      ],
+      "adaptation": "讲清我的 AI 判断是什么、依据是什么，不只说都可以。",
+      "pass": [
+        "至少一个判断、理由和可执行建议。"
+      ],
+      "source_span": {
+        "start_character": 884,
+        "end_character": 1266,
+        "percentage_start": 42.9,
+        "percentage_end": 62.2,
+        "sha256": "d16b53d74c8ec1b99e8426ea8d557038ae1ea90adfd44cc40c7488028c092c97"
+      }
+    },
+    {
+      "id": "S07",
+      "start_quote": "当你在一段关系中被持续“忽略”",
+      "label": "把忽略从信息层扩展到角色感受",
+      "function": "从职场迁到亲密关系与自媒体，说明渴望被需要和有分量。",
+      "transition": "继续追问可替代感与自我怀疑。",
+      "mechanism": "多场景迁移加深情绪相关性。",
+      "requirement": "conditional",
+      "condition": "本篇要解释被忽略的情绪影响时",
+      "materials": [
+        "有归属的真实情绪场景"
+      ],
+      "fail": [
+        "所有焦虑都归因被忽略或过度推广职场逻辑。"
+      ],
+      "adaptation": "跨场景仅作类比，不替读者做心理诊断。",
+      "pass": [
+        "清楚标注可能感受与不同场景边界。"
+      ],
+      "source_span": {
+        "start_character": 1266,
+        "end_character": 1791,
+        "percentage_start": 62.2,
+        "percentage_end": 88.6,
+        "sha256": "4d1eb1f398148ff304516a17e03d57dcc61c6f2e1a095f9ec1bc5eff5879648e"
+      }
+    },
+    {
+      "id": "S08",
+      "start_quote": "你说“都行”的时候，其实你是在说：",
+      "label": "把常用话翻译成作者解读的隐藏信号",
+      "function": "用都行、看你怎么想、随变逐个解释缺影响力的感觉。",
+      "transition": "最后收束表达应该让人想起你的作用。",
+      "mechanism": "逐句对照使问题可辨认。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "实际话语与任务语境"
+      ],
+      "fail": [
+        "把一句都行判定人格价值低。"
+      ],
+      "adaptation": "改为这句话在某场景可能让别人不知道我的判断，同时给更明确替代。",
+      "pass": [
+        "语境、可能误解和替代表述同时出现。"
+      ],
+      "source_span": {
+        "start_character": 1791,
+        "end_character": 1959,
+        "percentage_start": 88.6,
+        "percentage_end": 97.1,
+        "sha256": "88961e74383ab11e69d7b09862c0a83f15ca106de258b1ea08304989573a22b0"
+      }
+    },
+    {
+      "id": "S09",
+      "start_quote": "社交沟通的终极目标，从来都不是让人喜欢你",
+      "label": "回到关键时刻被想起的表达目标",
+      "function": "结尾强调想起、需要、离不开，回应开头价值。",
+      "transition": "主题闭环。",
+      "mechanism": "关键词召回强化记忆。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "一个明确角色或建议"
+      ],
+      "fail": [
+        "只留情绪口号或抛弃礼貌。"
+      ],
+      "adaptation": "收尾给具体表达动作：说我的判断、理由和下一步；不用离不开的控制语气。",
+      "pass": [
+        "礼貌与有效信息共存，读者能立即改一句话。"
+      ],
+      "source_span": {
+        "start_character": 1959,
+        "end_character": 2017,
+        "percentage_start": 97.1,
+        "percentage_end": 100.0,
+        "sha256": "d0433d693cf2caf5e47ffd37f42082d27f45155c466ee9383806570e290cfcd3"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "标题冲突落到具体附和话语，不把礼貌等同低情商。",
+      "stage_ids": [
+        "S01",
+        "S02"
+      ],
+      "evidence_needed": [
+        "原话场景"
+      ],
+      "failure": "吸引力靠羞辱礼貌者。"
+    },
+    "understandable": {
+      "criterion": "原话、类比与角色说明显示缺的是何种信息。",
+      "stage_ids": [
+        "S02",
+        "S04",
+        "S05",
+        "S08"
+      ],
+      "evidence_needed": [
+        "任务中的具体信息缺口",
+        "替代表述"
+      ],
+      "failure": "网络节点等概念只被重复。"
+    },
+    "credible": {
+      "criterion": "个人经历有归属，心理与名言核验，跨场景因果保持局限。",
+      "stage_ids": [
+        "S03",
+        "S04",
+        "S07"
+      ],
+      "evidence_needed": [
+        "经历来源",
+        "引用核验",
+        "场景条件"
+      ],
+      "failure": "把被忽略定义为所有焦虑来源。"
+    },
+    "fulfilled": {
+      "criterion": "改写若承诺改善沟通，必须补充判断—理由—建议的替代示例。",
+      "stage_ids": [
+        "S06",
+        "S08",
+        "S09"
+      ],
+      "evidence_needed": [
+        "一组原话与替代话"
+      ],
+      "failure": "仅批评都行却不给读者怎么说。"
+    },
+    "structure": {
+      "criterion": "先见原话缺口，再解释角色不清，最后回到明确表达的目标。",
+      "stage_ids": [
+        "S01",
+        "S02",
+        "S04",
+        "S05",
+        "S06",
+        "S08",
+        "S09"
+      ],
+      "evidence_needed": [
+        "场景—机制—建议段落"
+      ],
+      "failure": "变成社交价值口号而不回应开会原话。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "问题原话",
+      "有效信息缺口",
+      "表达的任务与角色目标",
+      "原话到新说法的对应"
+    ],
+    "adjustable": [
+      "亲历可换",
+      "同学记忆类比可删",
+      "关系扩展可删",
+      "网络隐喻可换为团队职责"
+    ],
+    "fill_before_writing": [
+      "东头真实沟通视角",
+      "任务场景与信息缺口",
+      "可操作替代说法",
+      "心理名言核验或删除"
+    ]
+  },
+  "summary": "以会议附和的原话让过分礼貌问题可见，通过作者旧期待、记忆类比和角色网络解释信息缺口，最后把被看见连接到意义感。更适合学场景与解释，不照搬关系工具论。",
+  "tags": [
+    "沟通",
+    "原话场景",
+    "有效信息",
+    "第一人称",
+    "类比"
+  ],
+  "useful_modules": [
+    "opening",
+    "structure",
+    "explanation",
+    "experience"
+  ],
+  "methods": {
+    "structure": {
+      "quote": "那为什么说话让人舒服的人，最容易没有存在感？",
+      "observation": "场景与旧经历之后追问原因，再把角色解释接回表达目标。",
+      "adaptation": "让 AI 文案先显示空话，再解释缺哪种判断与材料，最后给替代。",
+      "limit": "原文没有充分替代话术，改写需补兑现。"
+    },
+    "opening": {
+      "quote": "开会永远点头附和，说话永远客气克制",
+      "observation": "用具体会议动作与原话建立自我识别。",
+      "adaptation": "用读者遇过的模板回答作为开场，而非抽象评价。",
+      "limit": "不用永远等绝对词代替频率事实。"
+    },
+    "explanation": {
+      "quote": "让人记住你是谁，你擅长什么，你能提供什么。",
+      "observation": "三个明确问题把存在感解释为可识别信息。",
+      "adaptation": "介绍 AI 或个人能力时说角色、擅长任务、可交付产出。",
+      "limit": "存在感并非只由商业交换组成。"
+    },
+    "experience": {
+      "quote": "我以为“好好说话”就能赢得同事的认可",
+      "observation": "旧期待接反面反馈，说明为何改变判断。",
+      "adaptation": "写自己的当时想法、实际反馈、如今补充的具体表达。",
+      "limit": "Ray 的毕业经历不是东头经历。"
+    }
+  },
+  "source_path": "raw/sample-43.txt",
+  "source_sha256": "9b0bd614ff390beca2152838582d62581450a51d8aee0494e2c42419c6262238",
+  "body_start_character": 32,
+  "body_end_character": 2017,
+  "source_group": "ray-wechat-2026-10-07",
+  "submitted_number": "18",
+  "source_completeness": "as_submitted",
+  "source_defect_notes": [],
+  "full_structure_reference": true,
+  "opening_reference": true,
+  "allowed_usage": [
+    "selected_structure",
+    "local_method"
+  ]
+}

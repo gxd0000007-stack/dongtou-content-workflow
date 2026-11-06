@@ -1,0 +1,435 @@
+{
+  "id": "sample-39",
+  "number": 39,
+  "title": "别卖产品，卖事业的起点，卖愿景的落地，卖身份的转变",
+  "short_name": "从功能到目标身份的桥梁",
+  "family": "经营转变—任务解释—异议—身份对照—方案桥梁",
+  "skeleton": [
+    "先抛出从知识到愿景的交易判断",
+    "用作者转变说明为什么提出观点",
+    "用任务概念重定义产品价值",
+    "主动提出投入可能失败的异议",
+    "用自身任务评估投入",
+    "引出身份视角改变动作含义",
+    "用同动作不同目的解释身份差异",
+    "给产品设计的问题链",
+    "收尾重申陪伴目标转变的价值"
+  ],
+  "distinctive": "愿景不是只用情绪说服：实际可迁移部分是任务、目标身份及方案桥梁的问题链；原稿的收益与确定性修辞须收紧。",
+  "promise": "解释产品应如何帮助用户从当前状态走向目标状态，并给设计桥梁的问题。",
+  "applicability": [
+    "AI 工具任务价值说明",
+    "有真实交付方案的服务介绍",
+    "个人从使用工具到设计流程的视角转变"
+  ],
+  "material_preconditions": [
+    "用户任务",
+    "可交付方案",
+    "真实目标变化",
+    "效果边界"
+  ],
+  "source_limits": [
+    "仅据用户粘贴文本拆解，未读取公众号原页或图片、视频。",
+    "万赞或爆款为用户报告，当前未独立核验点赞、阅读量或发布时间。",
+    "作者案例、收入与账号数据仅为作者自述，不作为普遍收益证明，也不能改写为东头亲历。",
+    "书名、名言、研究、平台规则及行业数据未核验；移入正文作为事实论据前须单独核验。",
+    "只借鉴组织功能和解释方法；绝对化结论、羞辱性称呼与不可保证的收益不作为硬性写作规则。"
+  ],
+  "stages": [
+    {
+      "id": "S01",
+      "start_quote": "没人会因为你懂得多买单，但如果你能让他的愿景落地",
+      "label": "先抛出从知识到愿景的交易判断",
+      "function": "承诺解释用户为何付费。",
+      "transition": "进入作者经营后的观念变化。",
+      "mechanism": "利益反差吸引有产品却难成交的读者。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "具体产品和读者任务"
+      ],
+      "fail": [
+        "否定全部知识价值以制造反差。"
+      ],
+      "adaptation": "说清某个用户任务为何需要方案，不把愿景写成保证。",
+      "pass": [
+        "开头问题与真实购买任务对应。"
+      ],
+      "source_span": {
+        "start_character": 43,
+        "end_character": 100,
+        "percentage_start": 0.0,
+        "percentage_end": 3.0,
+        "sha256": "7c55a590b9fde4bec411847ddba8601d6458e78f50ec84980c501c61da4ec1c0"
+      }
+    },
+    {
+      "id": "S02",
+      "start_quote": "自媒体创业已经快 2 年了，如果要选出一个",
+      "label": "用作者转变说明为什么提出观点",
+      "function": "从卖干货到卖愿景，对比收藏与行动，重新定义改变。",
+      "transition": "从实践判断转向任务理论。",
+      "mechanism": "第一人称变化提供论点动机。",
+      "requirement": "conditional",
+      "condition": "有真实观念变化记录时",
+      "materials": [
+        "真实经营前后认知"
+      ],
+      "fail": [
+        "把 Ray 经营与拉黑行为变成东头故事。"
+      ],
+      "adaptation": "东头须提供自己的思路变化；否则仅作为他人案例。",
+      "pass": [
+        "转变前后和触发观察清楚。"
+      ],
+      "source_span": {
+        "start_character": 100,
+        "end_character": 543,
+        "percentage_start": 3.0,
+        "percentage_end": 26.5,
+        "sha256": "c2eeb55917c56faca2ce089b795573cc10203f6a715ccfb4126899c959283ece"
+      }
+    },
+    {
+      "id": "S03",
+      "start_quote": "书的核心观点就一个，所有人付费购买的所有产品和服务",
+      "label": "用任务概念重定义产品价值",
+      "function": "把购买解释为完成任务，再用潮玩和减脂说明背后目的。",
+      "transition": "从为什么买转到愿景能否兑现的质疑。",
+      "mechanism": "目的追问与双例子把抽象价值说具体。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "经核验的概念",
+        "用户实际购买动机"
+      ],
+      "fail": [
+        "一概否认用户表层喜好或把理论当唯一原因。"
+      ],
+      "adaptation": "AI 工具从功能介绍转到完成工作任务；动机用访谈而非替用户猜。",
+      "pass": [
+        "例子体现不同目的并保留个体差异。"
+      ],
+      "source_span": {
+        "start_character": 543,
+        "end_character": 734,
+        "percentage_start": 26.5,
+        "percentage_end": 36.6,
+        "sha256": "d5242b27eb556bededf58dd586e62bd1785da4a75dd46941913f4b2260772274"
+      }
+    },
+    {
+      "id": "S04",
+      "start_quote": "你可能会问，站在消费者的角度，既然只是买一个可能",
+      "label": "主动提出投入可能失败的异议",
+      "function": "指出成长非简单线性，并用发酵、熬汤、修行比喻长期变化。",
+      "transition": "异议之后给自己的投入评估例子。",
+      "mechanism": "预先处理疑问防止论证跳跃。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "消费者真实异议",
+        "产品可交付与不可保证项"
+      ],
+      "fail": [
+        "用成长复杂为不兑现辩解。"
+      ],
+      "adaptation": "回答不兑现怎么办，包括可检查产出，不能用非线性豁免交付。",
+      "pass": [
+        "说明交付内容、效果条件与失败责任边界。"
+      ],
+      "source_span": {
+        "start_character": 734,
+        "end_character": 889,
+        "percentage_start": 36.6,
+        "percentage_end": 44.9,
+        "sha256": "7ec003935e116f793b6fdebe0a2637dcdfc2cbd79dc52f72a9b1949451b15b6c"
+      }
+    },
+    {
+      "id": "S05",
+      "start_quote": "别的我不好说，但就去年的知识付费，我花了 6 位数",
+      "label": "用自身任务评估投入",
+      "function": "以从打工人到 IP 创业者的任务解释为何看总体进度而非每次立刻回报。",
+      "transition": "从个人评估转向身份如何影响行为。",
+      "mechanism": "投入标准具体化让愿景可讨论。",
+      "requirement": "conditional",
+      "condition": "要讨论自己的学习投入决策且有真实材料时",
+      "materials": [
+        "真实投入和目标",
+        "过程成果"
+      ],
+      "fail": [
+        "把六位数学习当必经门槛或收益证明。"
+      ],
+      "adaptation": "仅借鉴以任务衡量投入，不建议无预算花费。",
+      "pass": [
+        "有预算、过程指标和止损边界。"
+      ],
+      "source_span": {
+        "start_character": 889,
+        "end_character": 1232,
+        "percentage_start": 44.9,
+        "percentage_end": 63.0,
+        "sha256": "34b9d7190a2309ea9dde6a74272238ca924ab881a0d3843dc835cc42af733ef4"
+      }
+    },
+    {
+      "id": "S06",
+      "start_quote": "很多人花钱学习，是想让自己多一个能力",
+      "label": "引出身份视角改变动作含义",
+      "function": "把技能升级与身份升级做对照。",
+      "transition": "以同一动作不同意图继续解释。",
+      "mechanism": "身份框架让抽象转变可见。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "目标身份及相应行为"
+      ],
+      "fail": [
+        "只说成为高手，不展示怎么做不同。"
+      ],
+      "adaptation": "把 AI 使用者到任务主创的变化写成行为变化，不靠自我命名。",
+      "pass": [
+        "身份标签对应具体职责和行动。"
+      ],
+      "source_span": {
+        "start_character": 1232,
+        "end_character": 1366,
+        "percentage_start": 63.0,
+        "percentage_end": 70.1,
+        "sha256": "eb7e997af9878c039d143646aa48b8affb28512a3d10cc4998fac29b20fb0e00"
+      }
+    },
+    {
+      "id": "S07",
+      "start_quote": "打工人买课程，是为了“多学点技能，便于升职加薪”",
+      "label": "用同动作不同目的解释身份差异",
+      "function": "对照买课、发朋友圈在两种身份下的用途。",
+      "transition": "从差异推向给用户搭桥。",
+      "mechanism": "并列对比提高认知辨识度。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "两种真实目标",
+        "相同动作不同评估标准"
+      ],
+      "fail": [
+        "把打工人与创业者切成优劣等级。"
+      ],
+      "adaptation": "以同一 AI 操作的任务用途对比，不贬低工作学习目标。",
+      "pass": [
+        "能指出动作相同但目标/判断标准不同。"
+      ],
+      "source_span": {
+        "start_character": 1366,
+        "end_character": 1564,
+        "percentage_start": 70.1,
+        "percentage_end": 80.6,
+        "sha256": "8b3aaba3b7a8d9fc2ad41474d1e26525052d6ca976a2ccbe9cfb42499d656716"
+      }
+    },
+    {
+      "id": "S08",
+      "start_quote": "找到用户想成为的身份，并且搭建出从“当前身份”",
+      "label": "给产品设计的问题链",
+      "function": "当前身份和核心问题—目标身份和收益—桥梁及有效原因。",
+      "transition": "从设计问题回到带路价值。",
+      "mechanism": "桥梁隐喻把愿景拆成输入、路径和证明。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "用户当前场景",
+        "目标状态",
+        "可交付路径",
+        "效果依据"
+      ],
+      "fail": [
+        "只有美好愿景，没有桥梁或证据。"
+      ],
+      "adaptation": "AI 课程或工具方案落实到任务前后差异和检查办法。",
+      "pass": [
+        "起点终点路径与检查标准齐全。"
+      ],
+      "source_span": {
+        "start_character": 1564,
+        "end_character": 1851,
+        "percentage_start": 80.6,
+        "percentage_end": 95.9,
+        "sha256": "b557cd1ed2b25f85b76158660ccf8cd2e89324a33ca5a586d11daa93ce6caa57"
+      }
+    },
+    {
+      "id": "S09",
+      "start_quote": "记住，你卖产品，但你不是靠产品赚钱",
+      "label": "收尾重申陪伴目标转变的价值",
+      "function": "将信念与靠近目标的陪伴作为价值，最后祝愿点燃他人。",
+      "transition": "结束于方案与愿景的关联。",
+      "mechanism": "价值重申形成主题记忆。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "可交付改变",
+        "合理预期"
+      ],
+      "fail": [
+        "只卖身份幻想或收益保证。"
+      ],
+      "adaptation": "回到具体服务产出与建议，不把重塑信念当付费交付全部。",
+      "pass": [
+        "结尾指向已展示的可兑现改变。"
+      ],
+      "source_span": {
+        "start_character": 1851,
+        "end_character": 1929,
+        "percentage_start": 95.9,
+        "percentage_end": 100.0,
+        "sha256": "a3b2b546958c4bc19085d9f51a2434cebe2d39e6682573912019b77442f50a80"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "让读者认领产品买不动或工具无法落地的具体问题。",
+      "stage_ids": [
+        "S01",
+        "S02"
+      ],
+      "evidence_needed": [
+        "读者场景与任务"
+      ],
+      "failure": "只喊卖愿景，没有具体任务。"
+    },
+    "understandable": {
+      "criterion": "任务、身份和桥梁都有同动作对比及起终点描述。",
+      "stage_ids": [
+        "S03",
+        "S06",
+        "S07",
+        "S08"
+      ],
+      "evidence_needed": [
+        "例子",
+        "当前与目标状态"
+      ],
+      "failure": "抽象身份词堆砌。"
+    },
+    "credible": {
+      "criterion": "理论与购买动机有依据，个人投入有归属，交付不被非线性豁免。",
+      "stage_ids": [
+        "S03",
+        "S04",
+        "S05",
+        "S08"
+      ],
+      "evidence_needed": [
+        "用户访谈",
+        "引用核验",
+        "可检查交付"
+      ],
+      "failure": "用理论背书愿景一定实现。"
+    },
+    "fulfilled": {
+      "criterion": "给出当前问题—目标状态—桥梁—有效原因的设计路径。",
+      "stage_ids": [
+        "S04",
+        "S08",
+        "S09"
+      ],
+      "evidence_needed": [
+        "方案问题链",
+        "产出标准"
+      ],
+      "failure": "只让用户相信愿景，没有路径或检查。"
+    },
+    "structure": {
+      "criterion": "观念变化先给来源，任务与异议解释承接，再用身份对照落到桥梁设计。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S07",
+        "S08"
+      ],
+      "evidence_needed": [
+        "实际段落"
+      ],
+      "failure": "把桥梁删掉只剩愿景推销。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "购买任务解释",
+      "兑现风险的异议回应",
+      "同动作不同目标对照",
+      "起点终点路径与依据"
+    ],
+    "adjustable": [
+      "经营经历可换",
+      "理论与例子可换但须核验",
+      "身份词可换为具体工作能力",
+      "收尾祝愿可删"
+    ],
+    "fill_before_writing": [
+      "用户实际任务与期望",
+      "可交付的桥梁",
+      "无法保证的效果",
+      "东头观点来源与真实案例"
+    ]
+  },
+  "summary": "作者从卖干货转向愿景，用任务理论、消费例子和个人投入解释身份转变，再给用户当前状态到目标状态的桥梁问题。只学方案组织，不复制身份销售的确定性承诺。",
+  "tags": [
+    "任务价值",
+    "身份转变",
+    "产品解释",
+    "异议处理",
+    "第一人称"
+  ],
+  "useful_modules": [
+    "opening",
+    "structure",
+    "explanation",
+    "experience"
+  ],
+  "methods": {
+    "structure": {
+      "quote": "你可能会问，站在消费者的角度，既然只是买一个可能",
+      "observation": "主动提出消费者异议，再解释个人决策与方案桥梁。",
+      "adaptation": "在工具推荐中先处理产出不稳定或效果难保证的问题。",
+      "limit": "不能用非线性成长替代交付责任。"
+    },
+    "opening": {
+      "quote": "自媒体创业已经快 2 年了，如果要选出一个",
+      "observation": "用一个最明显的观念变化引出全文。",
+      "adaptation": "我过去怎么理解—现在如何改—为何改变。",
+      "limit": "需东头真实认知，不虚构经营经历。"
+    },
+    "explanation": {
+      "quote": "打工人发朋友圈，是为了增加点存在感",
+      "observation": "把同一动作放进两种目的，解释行为意义变化。",
+      "adaptation": "对比同样问 AI 是收答案还是建立检查流程。",
+      "limit": "不同目的无高低，不能固定用户群体动机。"
+    },
+    "experience": {
+      "quote": "目标就是把个人 IP 做起来，实现从「职场打工人」到「IP 创业者」的身份转变",
+      "observation": "围绕年度任务组织多次投入的判断。",
+      "adaptation": "讲清自己的任务、投入标准、过程收获与限制。",
+      "limit": "不借用作者六位数花费作自己的证据。"
+    }
+  },
+  "source_path": "raw/sample-39.txt",
+  "source_sha256": "c490038873ba0869b8ed6942bcbb06b9b4de1acc34f8a48ced7774c31b90ca50",
+  "body_start_character": 43,
+  "body_end_character": 1929,
+  "source_group": "ray-wechat-2026-10-07",
+  "submitted_number": "14",
+  "source_completeness": "as_submitted",
+  "source_defect_notes": [],
+  "full_structure_reference": true,
+  "opening_reference": true,
+  "allowed_usage": [
+    "selected_structure",
+    "local_method"
+  ]
+}

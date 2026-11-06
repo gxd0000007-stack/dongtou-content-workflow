@@ -1,0 +1,385 @@
+{
+  "id": "sample-18",
+  "number": 18,
+  "title": "哇，这个时代会AI天上真的能掉馅饼！",
+  "short_name": "双事件回溯机会来源的经历分享",
+  "family": "双事件经历复盘",
+  "skeleton": [
+    "两件意外收获预告",
+    "咨询支付和服务过程",
+    "客户类型与付费意愿判断",
+    "付费群触点和当前阶段",
+    "工位机会来源及兑换条件",
+    "作品发布与取得资格",
+    "礼物开箱",
+    "勋章回扣与结束"
+  ],
+  "distinctive": "一件咨询收入和一件免费工位分别走完发生渠道，第二件还用礼物与勋章延长体验收尾。",
+  "promise": "分享AI带来的两件意外收获及发生过程，表达AI是年轻人的杠杆；不等于承诺读者会得到同样收入或工位。",
+  "applicability": [
+    "确有两件不同类型收获的个人复盘",
+    "需说明客户或资源从哪来的AI实践分享"
+  ],
+  "material_preconditions": [
+    "两件事件的时间、触点和完整过程",
+    "收益、交付、作品与资格的可核对材料",
+    "当前服务阶段及渠道条件"
+  ],
+  "source_limits": [
+    "支付和工位均为原作者自述；转写中两百加980与约1000的表达未统一，本卡不校正为确定收入。",
+    "B端客单价和付费群转化是原作者从事件得出的概括，不能外推为所有客户规律。",
+    "只有转写，未看作品、运营规则、勋章和礼物画面，无法核实免费时长及当前有效性。"
+  ],
+  "stages": [
+    {
+      "label": "两件意外收获开场",
+      "function": "以近期两件超出预期的事说明为何要分享AI带来的机会。",
+      "transition": "先给感受和事件数量，再展开第一次咨询。",
+      "mechanism": "个人感受、双事件预告。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "两件真实事件的时间与可核对记录"
+      ],
+      "pass": [
+        "开场预告确实对应后文两件事。"
+      ],
+      "fail": [
+        "用天降机会泛称替代发生过什么。"
+      ],
+      "adaptation": "用东头实际遇到的两件AI工作变化开场，不复制收益。",
+      "id": "S01",
+      "start_quote": "觉得AI真的是我们00后这一代人最值得抓住的杠杆",
+      "source_span": {
+        "start_character": 33,
+        "end_character": 91,
+        "percentage_start": 0.0,
+        "percentage_end": 3.5,
+        "sha256": "6bd5cc8d4ffd97032fb721c5995d56b65229e9c4a8b012da907f73f8e00672bc"
+      }
+    },
+    {
+      "label": "咨询付费事件",
+      "function": "按加好友、提问、付费、会议顺序交代咨询收入如何发生。",
+      "transition": "用具体支付和服务形成事件，再提炼客户判断。",
+      "mechanism": "按时间顺序、金额与服务对应、惊讶反应。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "咨询记录及款项归属",
+        "实际问题与交付服务范围"
+      ],
+      "pass": [
+        "支付、问题和服务顺序清楚，数值按原始记录核对。"
+      ],
+      "fail": [
+        "只报千元收入，没有做了什么或谁付款。"
+      ],
+      "adaptation": "复盘真实AI咨询的需求、交付和收款过程。",
+      "id": "S02",
+      "start_quote": "第一件事情是昨天有一个人加了我",
+      "source_span": {
+        "start_character": 91,
+        "end_character": 258,
+        "percentage_start": 3.5,
+        "percentage_end": 13.7,
+        "sha256": "6fcfa44f970a3d7ad14de725c36a12d81657bbdddf40552f37baaa4b0ea3df0d"
+      }
+    },
+    {
+      "label": "从事件提出两项判断",
+      "function": "把事件引向客户类型和付费意愿的两项个人判断。",
+      "transition": "先给原作者理解，再追问结论来源，引出获客渠道。",
+      "mechanism": "事件后提炼、客户类型对照。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "付款者身份和实际需求",
+        "结论适用范围与反例边界"
+      ],
+      "pass": [
+        "判断明确属于作者从该事件得出的理解。"
+      ],
+      "fail": [
+        "把一次咨询扩成所有B端都更好赚钱的定律。"
+      ],
+      "adaptation": "从东头真实客户需求提炼有限范围的观察。",
+      "id": "S03",
+      "start_quote": "这件事情刷新了我的认知，我突然意识到两件事",
+      "source_span": {
+        "start_character": 258,
+        "end_character": 476,
+        "percentage_start": 13.7,
+        "percentage_end": 26.9,
+        "sha256": "6459fcc43c6dc288957524bbe298dc09947d00121f8a14d5e62d497698ac3ae7"
+      }
+    },
+    {
+      "label": "付费群获客链路",
+      "function": "补出入群、说明身份业务问题、被看见、私下联系的渠道过程。",
+      "transition": "回答判断依据，接着交代当前商业化阶段。",
+      "mechanism": "回溯因果链、身份表达与转化渠道。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "群内自我介绍与提问内容",
+        "联系人来源和后续联系记录"
+      ],
+      "pass": [
+        "解释客户如何接触作者，区分观察和必然转化。"
+      ],
+      "fail": [
+        "只说进付费群即可成交，没有触点过程。"
+      ],
+      "adaptation": "写出东头在真实社群被需求方发现的具体环节。",
+      "id": "S04",
+      "start_quote": "这个结论是怎么得出来的呢",
+      "source_span": {
+        "start_character": 476,
+        "end_character": 697,
+        "percentage_start": 26.9,
+        "percentage_end": 40.3,
+        "sha256": "aaeb83f2717e3905e26d556d03b0432b3a8680b1a3afb3e28912c7fd1b6e6c5f"
+      }
+    },
+    {
+      "label": "当前阶段与服务边界",
+      "function": "澄清尚未系统做知识付费，并交代因回复压力提出收费边界。",
+      "transition": "限定前述收获规模，之后切换第二件事。",
+      "mechanism": "主动收窄、现实负担与定价尝试。",
+      "requirement": "conditional",
+      "condition": "分享涉及收益或服务收费时保留现状边界；定价随真实业务替换。",
+      "materials": [
+        "实际服务状态、回复压力和收费规则"
+      ],
+      "pass": [
+        "说明偶发咨询与完整业务的区别。"
+      ],
+      "fail": [
+        "一次付款被写成稳定商业模式。"
+      ],
+      "adaptation": "明确东头AI服务处在试验或经营哪个阶段。",
+      "id": "S05",
+      "start_quote": "当然，我目前还是没有开始做知识付费的",
+      "source_span": {
+        "start_character": 697,
+        "end_character": 800,
+        "percentage_start": 40.3,
+        "percentage_end": 46.6,
+        "sha256": "9a634353f021a5a2d674bd8b48e8f9949a25ea53dd8c151b5d5094e4b34e06f7"
+      }
+    },
+    {
+      "label": "工位机会与兑换规则",
+      "function": "说明居家办公、成本顾虑、分享被关注、运营告知兑换规则的第二条机会链。",
+      "transition": "由现金咨询切换到非现金资源，再讲作品如何满足条件。",
+      "mechanism": "收益类型转换、前后处境与渠道回溯。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "原有办公处境",
+        "分享联系及平台实际兑换条件"
+      ],
+      "pass": [
+        "工位来源、条件和机会触点讲清楚。"
+      ],
+      "fail": [
+        "把免费工位说成学会AI就自动获得。"
+      ],
+      "adaptation": "复盘AI分享如何获得实际资源，并列出限制。",
+      "id": "S06",
+      "start_quote": "然后第二件让我觉得哇A呀",
+      "source_span": {
+        "start_character": 800,
+        "end_character": 1074,
+        "percentage_start": 46.6,
+        "percentage_end": 63.2,
+        "sha256": "5273f15c35ad2742e04fea30e5e3757a724cb5cabf180f3f76cac7bce6b06e8a"
+      }
+    },
+    {
+      "label": "作品发布与获得资格",
+      "function": "交代游戏作品、发布、观看点赞到获得勋章和工位资格。",
+      "transition": "把上段规则落实为事件过程，之后转入礼物开箱。",
+      "mechanism": "作品到平台反馈再到资格的链路。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "真实作品与发布时间",
+        "观看点赞和资格兑换凭证"
+      ],
+      "pass": [
+        "作品、反馈和资格相连接，未把粉丝点赞当普遍规律。"
+      ],
+      "fail": [
+        "只有勋章结果，缺少怎样达到条件。"
+      ],
+      "adaptation": "用真实AI作品及平台回读说明资格怎样取得。",
+      "id": "S07",
+      "start_quote": "然后我端午回家，我就帮我的8岁的小表弟",
+      "source_span": {
+        "start_character": 1074,
+        "end_character": 1244,
+        "percentage_start": 63.2,
+        "percentage_end": 73.6,
+        "sha256": "c3ab1871b0f296c9ca68b53e16be15e9b1e3bb50feb338a51b8a8b5222a88a30"
+      }
+    },
+    {
+      "label": "礼物开箱延展",
+      "function": "逐件介绍帽子、枕头、杯子、衣服等礼物，延续获得资源的现场感。",
+      "transition": "实际收获后转入体验展示，最后以勋章回到工位。",
+      "mechanism": "物件逐项展示、即刻猜测与感受。",
+      "requirement": "optional",
+      "condition": "适合体验记录且物品有主线作用时使用，文字教程可删减。",
+      "materials": [
+        "确实收到的物品及本篇需要展示的关联"
+      ],
+      "pass": [
+        "物品与该事件的关系清楚，不将猜测当事实。"
+      ],
+      "fail": [
+        "开箱占据主体却不解释与主线关系。"
+      ],
+      "adaptation": "必要时展示AI活动的真实配套物，篇幅随主线调整。",
+      "id": "S08",
+      "start_quote": "OK, 工位那边的摩大社区",
+      "source_span": {
+        "start_character": 1244,
+        "end_character": 1598,
+        "percentage_start": 73.6,
+        "percentage_end": 95.1,
+        "sha256": "09ebff5023bf914c5a83928b183e6033f6c40d985e3dcda4ab09391f606a2a7b"
+      }
+    },
+    {
+      "label": "勋章回扣与结束",
+      "function": "以兑换资格勋章再次连接作品与免费工位，回扣时代机会并结束。",
+      "transition": "收束开箱，回到第二事件和开场感受。",
+      "mechanism": "实体线索回扣、首尾照应。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "资格和兑换结果的原始依据"
+      ],
+      "pass": [
+        "结尾对应已讲过程，个人感受与可复制条件分开。"
+      ],
+      "fail": [
+        "只说AI魅力，读者未知道机会条件。"
+      ],
+      "adaptation": "结尾回顾东头事件的条件和已证实结果。",
+      "id": "S09",
+      "start_quote": "还有一个我拿到的勋章",
+      "source_span": {
+        "start_character": 1598,
+        "end_character": 1679,
+        "percentage_start": 95.1,
+        "percentage_end": 100.0,
+        "sha256": "db4305befe45b7c0dd1740f03b94eb841ad53e00e33fcc7911fa59c671ce6ad4"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "两种收获明确且各有悬而未答的发生过程。",
+      "stage_ids": [
+        "S01",
+        "S02",
+        "S06"
+      ],
+      "evidence_needed": [
+        "双事件开场",
+        "两件事件的具体对象"
+      ],
+      "failure": "只有AI神奇等感受，没有可期待的事件。"
+    },
+    "understandable": {
+      "criterion": "读者能复述咨询与工位各自的触点、服务或作品、结果。",
+      "stage_ids": [
+        "S02",
+        "S04",
+        "S06",
+        "S07"
+      ],
+      "evidence_needed": [
+        "支付服务顺序",
+        "群内触点",
+        "平台条件与作品反馈"
+      ],
+      "failure": "两种渠道混淆，结果出现但过程缺失。"
+    },
+    "credible": {
+      "criterion": "支付、客户需求、作品和兑换资格有依据，结论注明个人观察范围。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S07",
+        "S09"
+      ],
+      "evidence_needed": [
+        "原始咨询和支付记录",
+        "实际业务状态",
+        "作品与兑换凭证"
+      ],
+      "failure": "一次收益被写成稳定生意，AI能力被当作自动获利原因。"
+    },
+    "fulfilled": {
+      "criterion": "两件预告均完成经过和来源说明，收益条件与现阶段边界被交代。",
+      "stage_ids": [
+        "S01",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S09"
+      ],
+      "evidence_needed": [
+        "开场两件事与后文对应",
+        "渠道限制和阶段说明"
+      ],
+      "failure": "只报收入工位，无条件、经过或阶段边界。"
+    },
+    "structure": {
+      "criterion": "先叙事件再提炼判断并回溯来源，第二事件独立闭环，开箱不替代主线。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08",
+        "S09"
+      ],
+      "evidence_needed": [
+        "两事件的独立链路",
+        "开箱与勋章的回扣"
+      ],
+      "failure": "两件故事拼贴，判断先于依据，开箱挤掉关键过程。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "两件不同事件各自交代触点、行动与结果",
+      "收入事件提炼后补出客户来源",
+      "工位事件明确平台条件和作品过程",
+      "个人感受、判断与可核对事实分开"
+    ],
+    "adjustable": [
+      "两件收获类型和叙述次序",
+      "金额与场景只填真实资料",
+      "开箱物件、口头感叹和招呼收尾"
+    ],
+    "fill_before_writing": [
+      "本篇已选标题与两件真实事件",
+      "支付交付和作品资格记录",
+      "渠道规则及作者当前业务阶段"
+    ]
+  },
+  "source_path": "raw/sample-18.txt",
+  "source_sha256": "5fe4294d92c3ecf1f472e1a952e729480d1e03f7dc1bfd0b1b9d90cba04ccd15",
+  "body_start_character": 33
+}

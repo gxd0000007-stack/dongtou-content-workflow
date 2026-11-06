@@ -1,0 +1,499 @@
+{
+  "id": "sample-37",
+  "number": 37,
+  "title": "新手如何做一个能赚钱的公众号（保姆级教程）",
+  "short_name": "新手公众号起步与变现菜单",
+  "family": "机会判断—起步教程—用途分支",
+  "skeleton": [
+    "给新手明确的平台建议",
+    "用时间跨度与多种结果建立可信入口",
+    "把个人结果解释为平台机会",
+    "回应创作门槛并给系统路径",
+    "交代上手材料与注册路径",
+    "提供默认参数降低设置成本",
+    "列出收入路径与实例",
+    "把变现重点转到自己的产品与后续承接",
+    "按读者现状分别给选择理由",
+    "回应平台过时的阻力",
+    "收束到立即起步动作"
+  ],
+  "distinctive": "结果入口—平台机会—门槛拆解—操作清单—收入菜单—人群用途六层逐渐落地；有数量与承诺边界缺口。",
+  "promise": "帮助新手理解为什么尝试公众号、如何注册配置，以及有哪些变现用途；原稿没有完整教完爆款创作或保证赚钱。",
+  "applicability": [
+    "工具或平台零基础起步教程",
+    "有准备物、配置与用途分支的 AI 入门文"
+  ],
+  "material_preconditions": [
+    "已有平台使用记录",
+    "当前操作规则",
+    "可真实支持的选择理由"
+  ],
+  "source_limits": [
+    "仅据用户粘贴文本拆解，未读取公众号原页或图片、视频。",
+    "万赞或爆款为用户报告，当前未独立核验点赞、阅读量或发布时间。",
+    "作者案例、收入与账号数据仅为作者自述，不作为普遍收益证明，也不能改写为东头亲历。",
+    "书名、名言、研究、平台规则及行业数据未核验；移入正文作为事实论据前须单独核验。",
+    "只借鉴组织功能和解释方法；绝对化结论、羞辱性称呼与不可保证的收益不作为硬性写作规则。",
+    "原文称七种变现方式但只列六项，且“前面6种”与列表不一致；卡片保留事实缺口，改写须校正。",
+    "2025 平台与注册建议为历史文本，不代表当前开通条件。"
+  ],
+  "stages": [
+    {
+      "id": "S01",
+      "start_quote": "2025，无论你用短视频能不能搞到流量，你都该要去尝试公众号。",
+      "label": "给新手明确的平台建议",
+      "function": "先说作者要劝读者做什么，再进入理由。",
+      "transition": "从建议转入作者已有结果。",
+      "mechanism": "明确立场降低选项复杂度。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "具体读者与平台选择问题"
+      ],
+      "fail": [
+        "对所有人下必做结论却未交代场景。"
+      ],
+      "adaptation": "改为东头对某类 AI 新手的有边界建议。",
+      "pass": [
+        "读者能辨认建议对象和任务。"
+      ],
+      "source_span": {
+        "start_character": 39,
+        "end_character": 92,
+        "percentage_start": 0.0,
+        "percentage_end": 1.8,
+        "sha256": "52e734682dc3ab6e5e963465b36d85ea02e9dcadd755cb47a956c39a2a0496ec"
+      }
+    },
+    {
+      "id": "S02",
+      "start_quote": "从去年 11 月份，差不多我开启了日更公众号的节奏",
+      "label": "用时间跨度与多种结果建立可信入口",
+      "function": "列文章量、爆文、涨粉、引流与课程来源，展示作者实践跨度。",
+      "transition": "从个人成绩转向平台机制。",
+      "mechanism": "多指标结果引起兴趣，时间跨度提供背景。",
+      "requirement": "conditional",
+      "condition": "采用结果背书开头且确有可引用数据时",
+      "materials": [
+        "可核验的过程记录",
+        "真实结果和统计口径"
+      ],
+      "fail": [
+        "借用他人的涨粉数字冒充自己的。"
+      ],
+      "adaptation": "只使用东头已确认的数据，或者明确标注这是 Ray 的案例。",
+      "pass": [
+        "结果归属、时间和样本数量清楚。"
+      ],
+      "source_span": {
+        "start_character": 92,
+        "end_character": 296,
+        "percentage_start": 1.8,
+        "percentage_end": 8.7,
+        "sha256": "758583c8f2fb8d2fc40a6f217a2a06a7c7b6bca20db6ec11823e876bcf71ed41"
+      }
+    },
+    {
+      "id": "S03",
+      "start_quote": "这可是 2025 年，公众号平台已经存在了十几年之后发生的事",
+      "label": "把个人结果解释为平台机会",
+      "function": "将创作者数量与用户数量对比，提出文章生产门槛造成供需差异的判断。",
+      "transition": "从机会判断引出创作难度。",
+      "mechanism": "竞争密度比较让建议看似有外部支撑。",
+      "requirement": "conditional",
+      "condition": "本文需要解释为什么选择此平台时",
+      "materials": [
+        "同期可比的平台数据",
+        "比较指标定义"
+      ],
+      "fail": [
+        "把未经核验的平台数量当实证或机会保证。"
+      ],
+      "adaptation": "对 AI 工具或渠道比较需同一口径，不把历史判断当当下规则。",
+      "pass": [
+        "比较对象、时点和推断边界一致。"
+      ],
+      "source_span": {
+        "start_character": 296,
+        "end_character": 575,
+        "percentage_start": 8.7,
+        "percentage_end": 18.0,
+        "sha256": "76a23d0d0627dc539ea3c7371e1f179d9d60dcf7e11a0af54b6029af3c1b58e5"
+      }
+    },
+    {
+      "id": "S04",
+      "start_quote": "如果我告诉你，你每天只花 1-2 个小时",
+      "label": "回应创作门槛并给系统路径",
+      "function": "用时间投入和 AI 协作降低畏难，再插入直播课程入口。",
+      "transition": "从能做到转入注册操作。",
+      "mechanism": "成本框定与方法预告增强可行性感。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "实际任务耗时",
+        "AI 参与环节",
+        "方法与课程信息"
+      ],
+      "fail": [
+        "把作者耗时当所有新手同样能达成。"
+      ],
+      "adaptation": "给真实耗时范围、前提，不许诺固定涨粉；促销入口按用户授权选用。",
+      "pass": [
+        "读者知道减少的是哪些具体环节及必要前提。"
+      ],
+      "source_span": {
+        "start_character": 575,
+        "end_character": 822,
+        "percentage_start": 18.0,
+        "percentage_end": 26.4,
+        "sha256": "bca409a82051a74300560708177bd8b0526d003378b1709f0bd17bd57ea0073c"
+      }
+    },
+    {
+      "id": "S05",
+      "start_quote": "先来说说，你该如何注册公众号。",
+      "label": "交代上手材料与注册路径",
+      "function": "给手机号等准备物、电脑或手机入口、账号类型和主体选项。",
+      "transition": "注册完成后接设置。",
+      "mechanism": "操作顺序把抽象建议变成起步动作。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "当前官方注册规则",
+        "可访问入口",
+        "账号条件"
+      ],
+      "fail": [
+        "只叫读者去注册，缺准备项或关键选择。"
+      ],
+      "adaptation": "用于 AI 教程时写清准备物、入口、关键选择与完成标志。",
+      "pass": [
+        "新手可沿路径走到明确完成状态。"
+      ],
+      "source_span": {
+        "start_character": 822,
+        "end_character": 1077,
+        "percentage_start": 26.4,
+        "percentage_end": 34.9,
+        "sha256": "1cddfcfe23b0aa9cd3289578e8de837fe1b332553a9c2b9651442e3ddb184e9e"
+      }
+    },
+    {
+      "id": "S06",
+      "start_quote": "关于排版，我分享一下我的参数：",
+      "label": "提供默认参数降低设置成本",
+      "function": "列行距、段距和字号，再给格式复用的快捷方式。",
+      "transition": "从外观设置转入赚钱路径。",
+      "mechanism": "直接默认值消除初学者微决策。",
+      "requirement": "conditional",
+      "condition": "任务确有新手常卡住的配置环节时",
+      "materials": [
+        "可复现参数",
+        "参数适用场景"
+      ],
+      "fail": [
+        "参数没有所在界面或默认值被当唯一正确。"
+      ],
+      "adaptation": "AI 新手教程可提供一个初始配置，同时解释何时要改。",
+      "pass": [
+        "读者能找到设置并理解只是推荐起点。"
+      ],
+      "source_span": {
+        "start_character": 1077,
+        "end_character": 1215,
+        "percentage_start": 34.9,
+        "percentage_end": 39.6,
+        "sha256": "73d545e5ca3c4aa92257380e9db44235004154e55f8d3d83e57901716ca9f302"
+      }
+    },
+    {
+      "id": "S07",
+      "start_quote": "公众号的变现方式非常多，大概有 7 种方式：",
+      "label": "列出收入路径与实例",
+      "function": "按广告、带货、流量主、打赏、付费文章、IP 服务介绍收入来源。",
+      "transition": "收入枚举逐渐收拢到 IP 服务。",
+      "mechanism": "横向菜单帮助读者看到用途。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "收入机制",
+        "开通条件",
+        "费用口径"
+      ],
+      "fail": [
+        "声称七种却实际六项，或混淆收入与利润。"
+      ],
+      "adaptation": "按实际列项数量重写；分清平台功能与作者报价，不外推收入。",
+      "pass": [
+        "数量对应、条件清楚，个案报价有归属。"
+      ],
+      "source_span": {
+        "start_character": 1215,
+        "end_character": 1871,
+        "percentage_start": 39.6,
+        "percentage_end": 61.7,
+        "sha256": "13a59a770e9ab993c020c1e2e150686727b00e8ba1ffccaef3401b673c4ce336"
+      }
+    },
+    {
+      "id": "S08",
+      "start_quote": "6. 做 IP，卖自己的服务",
+      "label": "把变现重点转到自己的产品与后续承接",
+      "function": "指出获客后还需要朋友圈、直播、私聊来建立信任与成交。",
+      "transition": "从路径选择转入读者定位。",
+      "mechanism": "从一次流量到业务闭环，回答钱从哪来。",
+      "requirement": "conditional",
+      "condition": "本篇讨论商业转化或产品服务时",
+      "materials": [
+        "真实产品服务",
+        "获客到交付的流程"
+      ],
+      "fail": [
+        "声称引流就等于收入或把成交漏斗省掉。"
+      ],
+      "adaptation": "AI 内容可讲工具成果如何进入实际工作，不能只介绍功能。",
+      "pass": [
+        "入口与后续承接动作有对应。"
+      ],
+      "source_span": {
+        "start_character": 1871,
+        "end_character": 2059,
+        "percentage_start": 61.7,
+        "percentage_end": 68.0,
+        "sha256": "1d433dc2f3f2a1335268c4de77247e5503104a1df307c2eaf3f621c23b436173"
+      }
+    },
+    {
+      "id": "S09",
+      "start_quote": "你要是已经在做短视频，我建议公众号",
+      "label": "按读者现状分别给选择理由",
+      "function": "区分短视频作者、转型者、副业者、不求赚钱者，逐项匹配用途。",
+      "transition": "多种用途汇聚成开始写作的建议。",
+      "mechanism": "条件分支让同一建议对不同人有关系。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "至少两类读者状态",
+        "各类具体需求"
+      ],
+      "fail": [
+        "分支只是换称呼却给完全同一无条件结论。"
+      ],
+      "adaptation": "保留分支决策，允许某类读者不适合，避免一律必做。",
+      "pass": [
+        "每类读者都能认领一个任务或拒绝条件。"
+      ],
+      "source_span": {
+        "start_character": 2059,
+        "end_character": 2470,
+        "percentage_start": 68.0,
+        "percentage_end": 81.9,
+        "sha256": "a489a8c2735c347a49a6f82447d887e7abfd6302fab21ab146bdcd7488cb452f"
+      }
+    },
+    {
+      "id": "S10",
+      "start_quote": "所以，别再想什么“公众号是不是红利期已经过了”。",
+      "label": "回应平台过时的阻力",
+      "function": "对比短视频竞争，强调写作与认知成长价值，反复解除犹豫。",
+      "transition": "从价值重申转向今天动作。",
+      "mechanism": "异议回应与长期价值强化。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "真实读者顾虑",
+        "有边界的平台对比"
+      ],
+      "fail": [
+        "用焦虑逼迫上手，未回应真实限制。"
+      ],
+      "adaptation": "仅回应与本篇任务有关的顾虑，不照搬唯一机会论。",
+      "pass": [
+        "顾虑和答复一一对应，结论有适用范围。"
+      ],
+      "source_span": {
+        "start_character": 2470,
+        "end_character": 2965,
+        "percentage_start": 81.9,
+        "percentage_end": 98.5,
+        "sha256": "a938749c906ee4ccb97b617d3cac71a93e9667b66f26688400a5f6b0e305d326"
+      }
+    },
+    {
+      "id": "S11",
+      "start_quote": "今天这篇文章，就是你成为「高效行动者」的起点",
+      "label": "收束到立即起步动作",
+      "function": "把前面的教程落到注册公众号并写起来。",
+      "transition": "结束于首个可执行动作。",
+      "mechanism": "行动召回兑现保姆级教程的起步承诺。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "首个任务",
+        "完成标准"
+      ],
+      "fail": [
+        "结尾只鼓励努力，没有可执行起点。"
+      ],
+      "adaptation": "写成今晚能做的一步及判断完成的方法。",
+      "pass": [
+        "首个动作、所需输入和完成状态明确。"
+      ],
+      "source_span": {
+        "start_character": 2965,
+        "end_character": 3009,
+        "percentage_start": 98.5,
+        "percentage_end": 100.0,
+        "sha256": "366af55bda2588b86c453aff98ebcae0b443777d2ff8789ec8d117ef413c2097"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "开头明确新手任务，结果用于说明实践而非许诺复制。",
+      "stage_ids": [
+        "S01",
+        "S02",
+        "S04"
+      ],
+      "evidence_needed": [
+        "任务相关性",
+        "真实结果归属"
+      ],
+      "failure": "只拿收入和涨粉刺激点击。"
+    },
+    "understandable": {
+      "criterion": "注册与配置能被新手照做，收入菜单数量与实际条目一致。",
+      "stage_ids": [
+        "S05",
+        "S06",
+        "S07"
+      ],
+      "evidence_needed": [
+        "操作输入与关键选项",
+        "六项菜单校正说明"
+      ],
+      "failure": "省略关键操作或沿用七种/六项矛盾。"
+    },
+    "credible": {
+      "criterion": "个人成绩、平台数据、收入与功能条件分别核验。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S07",
+        "S08"
+      ],
+      "evidence_needed": [
+        "原始统计口径",
+        "官方规则",
+        "个案归属"
+      ],
+      "failure": "把 2025 判断当当前事实或把历史报价当通用收益。"
+    },
+    "fulfilled": {
+      "criterion": "承诺落到起步、设置和路径选择，不能自称已教完稳定赚钱。",
+      "stage_ids": [
+        "S05",
+        "S07",
+        "S09",
+        "S11"
+      ],
+      "evidence_needed": [
+        "可完成的注册流程",
+        "各用途下一步"
+      ],
+      "failure": "标题保证赚钱却只有菜单。"
+    },
+    "structure": {
+      "criterion": "从选择理由到上手流程再到用途分支，并在最后给首个动作。",
+      "stage_ids": [
+        "S01",
+        "S03",
+        "S05",
+        "S07",
+        "S09",
+        "S11"
+      ],
+      "evidence_needed": [
+        "各阶段实际段落",
+        "前后承接"
+      ],
+      "failure": "只有小标题对应，没有准备物、路径或读者分支。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "建议必须有选择理由",
+      "上手准备与关键选项",
+      "用途分支",
+      "结尾首个动作"
+    ],
+    "adjustable": [
+      "作者成绩模块可删",
+      "默认排版配置可按任务替换",
+      "营销入口可删",
+      "收入菜单改为工具用途菜单"
+    ],
+    "fill_before_writing": [
+      "当前官方操作依据",
+      "东头真实结果或明确第三方案例",
+      "目标读者适用条件",
+      "条目数量与承诺范围"
+    ]
+  },
+  "summary": "先用实践结果与竞争判断劝新手尝试，再交代注册配置、变现菜单和不同读者的用途，最终落到起步。收益与平台结论仅为原稿表达，不可复制为保证。",
+  "tags": [
+    "公众号",
+    "零基础",
+    "起步教程",
+    "用途分支",
+    "AI 协作"
+  ],
+  "useful_modules": [
+    "opening",
+    "structure",
+    "explanation",
+    "experience"
+  ],
+  "methods": {
+    "structure": {
+      "quote": "先来说说，你该如何注册公众号。",
+      "observation": "劝说后进入准备物与操作，随后拓展设置和用途。",
+      "adaptation": "把 AI 入门组织成为什么选—准备—操作—用途—第一步。",
+      "limit": "原文不是完整赚钱方法，不能照标题把起步冒充全部交付。"
+    },
+    "opening": {
+      "quote": "从去年 11 月份，差不多我开启了日更公众号的节奏",
+      "observation": "用时间、产出和多指标结果建立作者身份。",
+      "adaptation": "有真实记录才用结果开头，并说清统计期间。",
+      "limit": "数据只为 Ray 自述，不能冒充东头成绩。"
+    },
+    "explanation": {
+      "quote": "注册的时候，类型选择「订阅号」，主体选择「个人」",
+      "observation": "把新手最容易犹豫的关键选择直接说清。",
+      "adaptation": "教程写默认选项、理由和例外条件。",
+      "limit": "平台规则与接口可能变化，使用前核验。"
+    },
+    "experience": {
+      "quote": "你们可以参考一下我的广告报价",
+      "observation": "将个人报价作为具体例子并随后说明未实际合作。",
+      "adaptation": "讲自己的决策、结果和未发生的部分，避免把报价说成到账。",
+      "limit": "仅学实例归属，不能外推市场价格。"
+    }
+  },
+  "source_path": "raw/sample-37.txt",
+  "source_sha256": "a41836c093c1239a748862516348ad30d20ff822ff50c6d2ec66bb10014c4b3b",
+  "body_start_character": 39,
+  "body_end_character": 3009,
+  "source_group": "ray-wechat-2026-10-07",
+  "submitted_number": "12",
+  "source_completeness": "as_submitted",
+  "source_defect_notes": [],
+  "full_structure_reference": true,
+  "opening_reference": true,
+  "allowed_usage": [
+    "selected_structure",
+    "local_method"
+  ]
+}

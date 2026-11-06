@@ -1,0 +1,444 @@
+{
+  "id": "sample-30",
+  "number": 30,
+  "title": "接下来，最香的工作是成为个体户？？？",
+  "short_name": "个体业务趋势与三种内容杠杆",
+  "family": "经历对照到工具机会",
+  "skeleton": [
+    "职业终局的强判断",
+    "三段经历比较效率",
+    "稳定观念与岗位风险",
+    "AI改动工作的具体任务",
+    "过去业务验证的成本对照",
+    "内容作用一：找到客户",
+    "内容作用二：降低测试投入",
+    "内容作用三：持续建立信任",
+    "保留工作并从小产品开始"
+  ],
+  "distinctive": "先比较自己不同工作环境，再把AI辅助任务用于解释人力变化；用传统小业务成本作参照，展开内容的获客、测试、信任三种作用，最后限定为先试水而非裸辞。",
+  "promise": "解释作者为何看好个体业务，并说明内容与AI的具体角色；不承诺所有人终将成为个体户或零成本成功。",
+  "applicability": [
+    "AI如何让个人完成更多工作",
+    "自媒体小业务的工具和内容分工",
+    "给上班族做小规模项目试水建议"
+  ],
+  "material_preconditions": [
+    "作者真实任务流程前后对照",
+    "AI目前实际完成和仍需人工检查的步骤",
+    "内容获客、反馈、信任至少一种真实观察"
+  ],
+  "source_limits": [
+    "来源仅为用户本次粘贴的公众号文章文本，万赞状态为用户报告，未读取原页面或核验互动数据。",
+    "Ray的身份、经历、客户反馈、收益数字及所引名言均为作者叙述；不得写成东头的亲历或已证实事实。",
+    "裁员预测、每日491人、90%个体户与增长叙事未核验，不应推广为所有岗位的结局。",
+    "内容能自动找到客户、零成本测试和用户直接购买仅为原稿举例，获客并不确定且有时间与平台成本。"
+  ],
+  "stages": [
+    {
+      "label": "职业终局的强判断",
+      "start_quote": "不管你信还是不信，绝大部分打工人的归宿，都是个体户。",
+      "function": "用大胆预测引出个体业务议题。",
+      "transition": "随后作者列三段经历提供判断来源。",
+      "mechanism": "未来预测与读者身份关联",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "当前读者具体工作担忧",
+        "限定范围的可验证趋势"
+      ],
+      "fail": [
+        "人人终局的绝对语气没有材料。"
+      ],
+      "adaptation": "可写我更想提醒AI新手开始积累一项独立交付能力。",
+      "pass": [
+        "开头把预测标为个人看法，并承诺解释可用机会。"
+      ],
+      "id": "S01",
+      "source_span": {
+        "start_character": 36,
+        "end_character": 84,
+        "percentage_start": 0.0,
+        "percentage_end": 2.2,
+        "sha256": "e1cbf1a212600b737085f60e5298fb3d76c4cd86cc89d9afc56616f5ff9b7b97"
+      }
+    },
+    {
+      "label": "三段经历比较效率",
+      "start_quote": "我第一家公司，加入的时候 7 个人",
+      "function": "对照小团队、大组织和自己经营的效率感。",
+      "transition": "从亲历比较扩展到稳定工作的假设。",
+      "mechanism": "时间顺序和环境反差",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "真实同类任务耗时",
+        "人数与流程差别",
+        "作者自己的感受"
+      ],
+      "fail": [
+        "借用Ray三份工作或把人多一定低效当定律。"
+      ],
+      "adaptation": "比较东头同一内容任务以前与AI辅助后的步骤。",
+      "pass": [
+        "效率比较有任务维度，不由人数直接推断。"
+      ],
+      "id": "S02",
+      "source_span": {
+        "start_character": 84,
+        "end_character": 316,
+        "percentage_start": 2.2,
+        "percentage_end": 13.0,
+        "sha256": "032d69b09311277c0f0561c7b2b2276c09f038f853674ccdc5da1b2ed4bce2df"
+      }
+    },
+    {
+      "label": "稳定观念与岗位风险",
+      "start_quote": "铁饭碗的前提是社会持续增长",
+      "function": "以裁员、融资和招聘感受强化旧稳定模式受挑战的观点。",
+      "transition": "接着引入策略/执行区分和AI辅助。",
+      "mechanism": "连续反問与趋势风险列举",
+      "requirement": "optional",
+      "condition": "讨论职业风险且拥有当前可靠来源时使用；纯任务教程可省略。",
+      "materials": [
+        "当前劳动力事实来源或标明观察",
+        "工作稳定性的适用条件"
+      ],
+      "fail": [
+        "把工作等同慢性死亡，用危机逼读者创业。"
+      ],
+      "adaptation": "描述读者具体任务被工具改变的可能，省去宏观恐慌。",
+      "pass": [
+        "把行业风险与个人选择分开，不羞辱打工收入。"
+      ],
+      "id": "S03",
+      "source_span": {
+        "start_character": 316,
+        "end_character": 554,
+        "percentage_start": 13.0,
+        "percentage_end": 24.1,
+        "sha256": "5cc7ab2ad550733dce622edc7f90e0da7e71e7c1b931a25999d0763f69cffb27"
+      }
+    },
+    {
+      "label": "AI改动工作的具体任务",
+      "start_quote": "做成一件事，就是 2 个步骤，一是想好策略",
+      "function": "先抽象策略和执行，再以公众号调研、写稿、设计到个人工具组对照。",
+      "transition": "工具变化之后追问为何一个人业务可成立。",
+      "mechanism": "任务拆分与前后流程实例",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "实际AI输入输出",
+        "人工判断和检查",
+        "同一任务前后耗时"
+      ],
+      "fail": [
+        "宣称AI替代所有执行，忽略反馈和审核。"
+      ],
+      "adaptation": "结合当前七步套件，说明各组件做什么、东头在哪里提供观点。",
+      "pass": [
+        "读者知道工具辅助哪些动作、作者保留哪些判断。"
+      ],
+      "id": "S04",
+      "source_span": {
+        "start_character": 554,
+        "end_character": 1036,
+        "percentage_start": 24.1,
+        "percentage_end": 46.6,
+        "sha256": "585580ebe63d398e9accdccfd5aabfdc433bf68dace0de875d2033dd13af75bd"
+      }
+    },
+    {
+      "label": "过去业务验证的成本对照",
+      "start_quote": "做生意，总结起来就 3 句话",
+      "function": "把生意拆为产品、客户、交易，再描绘传统产品制作与验证循环。",
+      "transition": "成本问题使后面内容的三种杠杆有明确回应对象。",
+      "mechanism": "流程简化与重复试错成本",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "产品、客户、交易的真实定义",
+        "验证过程成本"
+      ],
+      "fail": [
+        "只说创业门槛降低，没有成本分项。"
+      ],
+      "adaptation": "按AI小服务的制作、找用户、交付记录成本与不确定性。",
+      "pass": [
+        "原稿卖家笔误不跟用，明确实际是找到买家/客户。"
+      ],
+      "id": "S05",
+      "source_span": {
+        "start_character": 1036,
+        "end_character": 1387,
+        "percentage_start": 46.6,
+        "percentage_end": 63.0,
+        "sha256": "14b8e26edd627999f31c8587124fa76761e656b4a3d85427a9c4d7cdaaa0f520"
+      }
+    },
+    {
+      "label": "内容作用一：找到客户",
+      "start_quote": "它的第一个作用，是帮你获客，作为你的「市场专员」",
+      "function": "把内容拟人化为市场角色，说明表达与推荐如何接触用户。",
+      "transition": "获客之外，下一项解释内容还能验证产品。",
+      "mechanism": "工具角色类比与路径描述",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "内容触达对象",
+        "实际咨询或反馈记录",
+        "渠道条件"
+      ],
+      "fail": [
+        "把优质内容等同自动获客。"
+      ],
+      "adaptation": "讲一条AI教程如何引出用户追问，承认咨询不等于成交。",
+      "pass": [
+        "解释可观察的触达路径，不保证算法给客户。"
+      ],
+      "id": "S06",
+      "source_span": {
+        "start_character": 1387,
+        "end_character": 1492,
+        "percentage_start": 63.0,
+        "percentage_end": 67.8,
+        "sha256": "551a982cad9e06a6349e5170079e0575d56aa0ebb3e41c6864539e66e87d6eda"
+      }
+    },
+    {
+      "label": "内容作用二：降低测试投入",
+      "start_quote": "它的第二个作用，是做 0 成本测试；",
+      "function": "用一张图加文字替代先大量制作产品，强调快速获得反馈。",
+      "transition": "有反馈还不够，下一项处理交易前的信任。",
+      "mechanism": "最小原型与成本反差",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "简单产品说明",
+        "测试受众",
+        "指标、时间成本"
+      ],
+      "fail": [
+        "照抄零成本或把点赞等同购买需求。"
+      ],
+      "adaptation": "先展示一份AI任务模板，问读者具体可用性，再决定做完整版。",
+      "pass": [
+        "测试目的和观察指标清楚，成本包括时间。"
+      ],
+      "id": "S07",
+      "source_span": {
+        "start_character": 1492,
+        "end_character": 1597,
+        "percentage_start": 67.8,
+        "percentage_end": 72.7,
+        "sha256": "47f35013d44141b68f5b6241e16d90455e4f1507daf34ae07685d1f1b8524367"
+      }
+    },
+    {
+      "label": "内容作用三：持续建立信任",
+      "start_quote": "它的第三个作用，是帮你完成信任构建",
+      "function": "以课程直接下单和SaaS销售过程比较，解释日常内容如何累积了解。",
+      "transition": "完成三种作用后回到打工与试水的边界。",
+      "mechanism": "不同成交路径与长期内容累积",
+      "requirement": "conditional",
+      "condition": "采用成交案例时须有真实确认；无成交材料可写内容信任的观察。",
+      "materials": [
+        "经确认客户案例",
+        "服务范围与实际结果",
+        "长期内容记录"
+      ],
+      "fail": [
+        "把1999元直接下单写成东头亲历或保证内容就成交。"
+      ],
+      "adaptation": "用真实读者因哪些文章信任东头的反馈；无材料只作机制假设。",
+      "pass": [
+        "说明用户怎样了解价值，收入案例归属真实。"
+      ],
+      "id": "S08",
+      "source_span": {
+        "start_character": 1597,
+        "end_character": 1951,
+        "percentage_start": 72.7,
+        "percentage_end": 89.2,
+        "sha256": "45e6180cb3b356f2034dec36ff3ae4ef542cdb33a51f5a39e7267c68e82df44a"
+      }
+    },
+    {
+      "label": "保留工作并从小产品开始",
+      "start_quote": "当然，说了这么多，我也不是要让你马上辞职裸奔。",
+      "function": "明确不是即时离职，给一条内容和小产品试水的起点。",
+      "transition": "回扣个体自主选择，终止宏观预测。",
+      "mechanism": "让步限定与最小行动",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "一项可承受试水动作",
+        "工作约束",
+        "结果复核办法"
+      ],
+      "fail": [
+        "在限定后仍宣称终局人人个体户。"
+      ],
+      "adaptation": "安排一个小AI工作任务实验，记录真实价值而非急着变现。",
+      "pass": [
+        "读者可以保留收入做测试，明白只是探索可能。"
+      ],
+      "id": "S09",
+      "source_span": {
+        "start_character": 1951,
+        "end_character": 2182,
+        "percentage_start": 89.2,
+        "percentage_end": 100.0,
+        "sha256": "9e73b229b460adcef43ced66ec48498e84433e820d5db41c329617c9706e31cb"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "强预测被具体工作任务和个人经历承接，阅读收益明确。",
+      "stage_ids": [
+        "S01",
+        "S02",
+        "S04"
+      ],
+      "evidence_needed": [
+        "当前任务困惑",
+        "真实前后对照"
+      ],
+      "failure": "只展示危机与趋势，没有可用内容。"
+    },
+    "understandable": {
+      "criterion": "产品、客户、交易与三种内容作用各自有过程示例。",
+      "stage_ids": [
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08"
+      ],
+      "evidence_needed": [
+        "同一AI任务",
+        "触达/测试/信任区别"
+      ],
+      "failure": "自媒体万能地包办一切却说不清每步。"
+    },
+    "credible": {
+      "criterion": "趋势数据另行核验，亲历和工具能力有真实边界，反馈不等于成交。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "evidence_needed": [
+        "原始统计来源",
+        "真实任务输出",
+        "案例归属"
+      ],
+      "failure": "AI裁员数量与收入案例被当成普遍预测。"
+    },
+    "fulfilled": {
+      "criterion": "交付三种可理解作用和保留工作的小测试动作。",
+      "stage_ids": [
+        "S06",
+        "S07",
+        "S08",
+        "S09"
+      ],
+      "evidence_needed": [
+        "测试方案",
+        "人工检查",
+        "预算与复核"
+      ],
+      "failure": "只有创业号召，缺少从哪开始。"
+    },
+    "structure": {
+      "criterion": "经历→工具变化→成本问题→三种内容作用→试水边界逐层回应。",
+      "stage_ids": [
+        "S02",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08",
+        "S09"
+      ],
+      "evidence_needed": [
+        "每个作用与前文成本对应"
+      ],
+      "failure": "三作用只是小标题，缺了例子和边界。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "实际任务对照解释AI机会，不仅喊趋势。",
+      "内容获客、测试和信任分别解释。",
+      "结尾保留工作责任与小规模验证边界。"
+    ],
+    "adjustable": [
+      "宏观裁员段和个体户终局预测可删。",
+      "传统生意例子换成读者工作任务。",
+      "三作用数量随实际材料调整，不补虚假成交案例。"
+    ],
+    "fill_before_writing": [
+      "当前AI任务前后流程与人工判断：____",
+      "三种作用可用的真实案例：____",
+      "本次试水产出、成本与复核：____"
+    ]
+  },
+  "summary": "用自己工作环境的效率反差和AI流程，解释内容怎样分别接客户、测反馈、建信任。",
+  "tags": [
+    "公众号",
+    "AI分工",
+    "一人业务",
+    "内容杠杆",
+    "试水边界"
+  ],
+  "useful_modules": [
+    "structure",
+    "opening",
+    "explanation",
+    "experience"
+  ],
+  "methods": {
+    "structure": {
+      "quote": "为什么个体户能成立",
+      "observation": "在趋势判断后设置可行性追问，避免只喊未来。",
+      "adaptation": "讲AI机会后解释一项工作为何真的能这样完成。",
+      "limit": "可行性要有实际步骤与限制，不靠宏观预言。"
+    },
+    "opening": {
+      "quote": "这几段经历，效率最高的就 2 个时期",
+      "observation": "用个人环境对照支持观点来源。",
+      "adaptation": "用作者确认的同一任务前后体验构造反差。",
+      "limit": "效率为作者感受时要说清，不能推及所有团队。"
+    },
+    "explanation": {
+      "quote": "作为你的「市场专员」",
+      "observation": "用熟悉岗位名解释内容获客功能。",
+      "adaptation": "把AI组件解释成调研助手、初稿助手、检查助手。",
+      "limit": "拟人化只能帮助理解，不能暗示可靠性或全自动。"
+    },
+    "experience": {
+      "quote": "我只负责提炼核心观点，精细化文案表达。",
+      "observation": "经历里说明我和工具各自做什么，使第一人称承担判断。",
+      "adaptation": "写东头在七步流程里真正提供的观点与检查动作。",
+      "limit": "不能把原作者时间、收益和经历挪给东头。"
+    }
+  },
+  "source_path": "raw/sample-30.txt",
+  "source_sha256": "6f25c6f0e82387155fad518cef4468b01894d3d26f1eaebb74ce3e51d5f3b004",
+  "body_start_character": 36,
+  "body_end_character": 2182,
+  "source_group": "ray-wechat-2026-10-07",
+  "submitted_number": "05",
+  "source_completeness": "as_submitted",
+  "source_defect_notes": [],
+  "full_structure_reference": true,
+  "opening_reference": true,
+  "allowed_usage": [
+    "selected_structure",
+    "local_method"
+  ]
+}

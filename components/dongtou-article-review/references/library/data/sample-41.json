@@ -1,0 +1,373 @@
+{
+  "id": "sample-41",
+  "number": 41,
+  "title": "真正厉害的人，往往都是“晨型人格”",
+  "short_name": "晨间自问与行动目的（片段）",
+  "family": "片段：身份判断—三个自问—目的对照—行动收尾",
+  "skeleton": [
+    "收到片段的身份判断残句",
+    "给身份行动的内在解释",
+    "给晨间三个具体自问",
+    "降低完美要求并描绘变化",
+    "区分标签追求与真正用途",
+    "用连续问题加强身份主题",
+    "用被叫醒与亲自醒来收尾"
+  ],
+  "distinctive": "只保留后半段三个自问、行为目的区分和动词收尾；不能从此片段声称掌握原标题的完整论证。",
+  "promise": "已收到片段提供晨间自问和早起目的对照；前文缺失，不能声称已完整解释晨型人格。",
+  "applicability": [
+    "只作提问模块与目的对照的局部参考",
+    "不作为完整开头或全文验收样板"
+  ],
+  "material_preconditions": [
+    "原文缺失状态",
+    "可回答的任务问题",
+    "适合读者的独处时段"
+  ],
+  "source_limits": [
+    "仅据用户粘贴文本拆解，未读取公众号原页或图片、视频。",
+    "万赞或爆款为用户报告，当前未独立核验点赞、阅读量或发布时间。",
+    "作者案例、收入与账号数据仅为作者自述，不作为普遍收益证明，也不能改写为东头亲历。",
+    "书名、名言、研究、平台规则及行业数据未核验；移入正文作为事实论据前须单独核验。",
+    "只借鉴组织功能和解释方法；绝对化结论、羞辱性称呼与不可保证的收益不作为硬性写作规则。",
+    "前部缺失，正文从残句开始；不纳入完整开头或全文主结构候选。",
+    "原稿含“已关注”“重播”“倍速”等播放器与页面 UI；保留在素材，但全部排除方法、阶段和兑现判断。"
+  ],
+  "stages": [
+    {
+      "id": "S01",
+      "start_quote": "就干什么”，而是“我是谁，我就是要干这件事”。",
+      "label": "收到片段的身份判断残句",
+      "function": "片段开头已在对比工具性行动与身份性行动，但上半句缺失。",
+      "transition": "接潜意识判断。",
+      "mechanism": "残存身份对照，只可局部理解。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "缺失标记"
+      ],
+      "fail": [
+        "把残句拼补成完整原文。"
+      ],
+      "adaptation": "原文保留，禁止补造前文或作为开头示范。",
+      "pass": [
+        "明确开头缺失，只描述已收到功能。"
+      ],
+      "source_span": {
+        "start_character": 37,
+        "end_character": 66,
+        "percentage_start": 0.0,
+        "percentage_end": 5.1,
+        "sha256": "bcd3c0b3f8157dbd3005193aecfe74399c625ac92dc0c68409dd047513aa3e33"
+      }
+    },
+    {
+      "id": "S02",
+      "start_quote": "而决定这些问题的答案，只能来自你的潜意识。",
+      "label": "给身份行动的内在解释",
+      "function": "原文把答案归到潜意识。",
+      "transition": "解释转入晨间自问。",
+      "mechanism": "抽象内在机制连接方法。",
+      "requirement": "conditional",
+      "condition": "确需说明原稿如何过渡时",
+      "materials": [
+        "原文声明",
+        "待核验理论"
+      ],
+      "fail": [
+        "把潜意识唯一来源当科学事实。"
+      ],
+      "adaptation": "只学解释到动作的过渡，不采纳唯一来源的心理因果。",
+      "pass": [
+        "标明作者主张并避免绝对因果。"
+      ],
+      "source_span": {
+        "start_character": 66,
+        "end_character": 93,
+        "percentage_start": 5.1,
+        "percentage_end": 9.9,
+        "sha256": "aad3996cc7fe7820a6e3d4063389d1528cd496d49e89f2a49c0dab3254c13d7f"
+      }
+    },
+    {
+      "id": "S03",
+      "start_quote": "早起之后，你需要不断和「真实的自己」对话：",
+      "label": "给晨间三个具体自问",
+      "function": "问情绪、今天最想做的事、想成为什么样的自己。",
+      "transition": "从提问过渡到习惯变化。",
+      "mechanism": "抽象自我概念落到每日问题。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "三个自问",
+        "可记录答案"
+      ],
+      "fail": [
+        "只说与自己对话，没有可回答问题。"
+      ],
+      "adaptation": "AI 新手可问今天任务、我需要 AI 哪个帮助、如何判断结果。",
+      "pass": [
+        "读者能用问题产出一份具体记录。"
+      ],
+      "source_span": {
+        "start_character": 93,
+        "end_character": 183,
+        "percentage_start": 9.9,
+        "percentage_end": 25.7,
+        "sha256": "54d7af521e488845b3071d4a1c02b8778e4d5ddadfe1bed1053ffea1708d8627"
+      }
+    },
+    {
+      "id": "S04",
+      "start_quote": "你不需要做得多完美，只需要坚持这个习惯",
+      "label": "降低完美要求并描绘变化",
+      "function": "强调持续自问，再描述主动、勇气和热爱。",
+      "transition": "从变化转入为何早起的价值区分。",
+      "mechanism": "降低启动门槛与变化预期。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "可观察习惯变化"
+      ],
+      "fail": [
+        "把早起习惯与人格改变直接画等号。"
+      ],
+      "adaptation": "变化写成可能观察到的行为，不许诺心理或人格效果。",
+      "pass": [
+        "有条件、观察指标，不保证全部改变。"
+      ],
+      "source_span": {
+        "start_character": 183,
+        "end_character": 291,
+        "percentage_start": 25.7,
+        "percentage_end": 44.8,
+        "sha256": "cc2a058748ddeb60a1cdbf9c681ae7b45d69ec854ad55b1f3e87203f810cbebf"
+      }
+    },
+    {
+      "id": "S05",
+      "start_quote": "早起不应该是一张竞争的打卡挑战",
+      "label": "区分标签追求与真正用途",
+      "function": "把为别人证明的早起与认识自己的早起对照。",
+      "transition": "继续追问做自己为何有时间空间需要。",
+      "mechanism": "目的纠偏解释方法为何做。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "原目的与替代目的"
+      ],
+      "fail": [
+        "把所有打卡归为向外求或否定互助作用。"
+      ],
+      "adaptation": "用于 AI 学习时区分炫工具数量与完成任务。",
+      "pass": [
+        "同一行为的不同目的和结果清楚。"
+      ],
+      "source_span": {
+        "start_character": 291,
+        "end_character": 373,
+        "percentage_start": 44.8,
+        "percentage_end": 59.3,
+        "sha256": "dc5bb22774d2ca650d45211fad3f3a32268055793352dbfa1f75d887e3c37645"
+      }
+    },
+    {
+      "id": "S06",
+      "start_quote": "每个人都想要做自己，但你从来也不会去思考",
+      "label": "用连续问题加强身份主题",
+      "function": "问什么叫做自己、怎样做，再强调清晨是独处时刻。",
+      "transition": "收束到第二天动作。",
+      "mechanism": "自问推动情绪与主题认同。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "独处场景",
+        "个人需求"
+      ],
+      "fail": [
+        "把清晨当唯一有效时间。"
+      ],
+      "adaptation": "时间选择按读者条件，清晨不是唯一可自省时段。",
+      "pass": [
+        "可以选择合适的无干扰时段。"
+      ],
+      "source_span": {
+        "start_character": 373,
+        "end_character": 523,
+        "percentage_start": 59.3,
+        "percentage_end": 85.7,
+        "sha256": "ef384c189bfec1bc4e425485a67b59e1973bd31406782ecb453f1393640f712d"
+      }
+    },
+    {
+      "id": "S07",
+      "start_quote": "请你从明天起，不要只被生活叫醒",
+      "label": "用被叫醒与亲自醒来收尾",
+      "function": "通过动词反差邀请主动行动，后面补作者当日写作时间自述。",
+      "transition": "结束，后续播放器文字非叙述。",
+      "mechanism": "首尾主题呼应与短期行动邀请。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "首个自问动作",
+        "作者时间自述归属"
+      ],
+      "fail": [
+        "将播放器文字纳入文章结构或补全作者证据。"
+      ],
+      "adaptation": "只学收尾动词对照，给可执行且保护睡眠的动作。",
+      "pass": [
+        "正文与界面噪声明确分离，缺前文状态保留。"
+      ],
+      "source_span": {
+        "start_character": 523,
+        "end_character": 604,
+        "percentage_start": 85.7,
+        "percentage_end": 100.0,
+        "sha256": "e3ed8db1e87a870451f77c2675b283d55d0f30e09fcfec7b44d53c654e0876bc"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "本稿开头缺失，不可用于开头有效性或完整吸引机制验收。",
+      "stage_ids": [
+        "S01"
+      ],
+      "evidence_needed": [
+        "缺失标记"
+      ],
+      "failure": "把残句当完整开头。"
+    },
+    "understandable": {
+      "criterion": "局部自问能产出任务记录，身份与目的对照能说明行为差别。",
+      "stage_ids": [
+        "S03",
+        "S05"
+      ],
+      "evidence_needed": [
+        "三个自问答案",
+        "同动作不同目的"
+      ],
+      "failure": "只剩潜意识与真实自己等抽象词。"
+    },
+    "credible": {
+      "criterion": "潜意识、人格改变、唯一晨间时段均按作者表达，不作已验证因果。",
+      "stage_ids": [
+        "S02",
+        "S04",
+        "S06"
+      ],
+      "evidence_needed": [
+        "主张归属",
+        "心理事实核验"
+      ],
+      "failure": "将早起等同成功或人格觉醒。"
+    },
+    "fulfilled": {
+      "criterion": "仅检查采用的自问或目的模块是否落地，不能据片段判定原题兑现。",
+      "stage_ids": [
+        "S03",
+        "S05",
+        "S07"
+      ],
+      "evidence_needed": [
+        "局部动作",
+        "本篇自定承诺"
+      ],
+      "failure": "缺全文却判完整晨型方法已交付。"
+    },
+    "structure": {
+      "criterion": "仅核验片段中实际采用的功能顺序，禁止当完整主结构。",
+      "stage_ids": [
+        "S01",
+        "S03",
+        "S05",
+        "S07"
+      ],
+      "evidence_needed": [
+        "缺失说明",
+        "正文终点与播放器分界"
+      ],
+      "failure": "复原未收到的开场或把 UI 算阶段。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "片段状态和前文缺失标记",
+      "正文与播放器文字分界",
+      "自问的具体性"
+    ],
+    "adjustable": [
+      "三个问题可换为任务问题",
+      "清晨可换为适合自己的时段",
+      "结尾动词对照可局部采用"
+    ],
+    "fill_before_writing": [
+      "若要完整样板需补全文",
+      "新文章自己的开头与承诺",
+      "可执行自问与记录方式",
+      "早起建议的睡眠与个人条件"
+    ]
+  },
+  "summary": "只有正文后半段：身份动机残句、潜意识解释、晨间三个自问、反对打卡标签、主动醒来的收尾。包含大量播放器文字，全部保留在原稿但不当写法。",
+  "tags": [
+    "片段",
+    "晨间自问",
+    "目的对照",
+    "身份表达",
+    "缺前文"
+  ],
+  "useful_modules": [
+    "explanation",
+    "structure"
+  ],
+  "methods": {
+    "structure": {
+      "quote": "早起之后，你需要不断和「真实的自己」对话：",
+      "observation": "已有片段先给抽象身份判断，再落到每日问题，后辨别目的。",
+      "adaptation": "仅借自问—目的辨别—首个动作局部模块。",
+      "limit": "全文前半段缺失，不能抽成完整结构合同。"
+    },
+    "opening": {
+      "quote": "就干什么”，而是“我是谁，我就是要干这件事”。",
+      "observation": "收到文本从半句开始，不能识别原开头方法。",
+      "adaptation": "不用于开头生成；需补原文或自行设计新开头。",
+      "limit": "禁止补造缺失开头。"
+    },
+    "explanation": {
+      "quote": "• 我今天最想做的一件事是什么？",
+      "observation": "以可回答的问题代替抽象的自我探索要求。",
+      "adaptation": "用任务、所需 AI 帮助和结果标准的三个问题。",
+      "limit": "只局部参考，不接受清晨唯一有效的结论。"
+    },
+    "experience": {
+      "quote": "这篇文章是今天早上六点多起床写完的",
+      "observation": "结尾仅有作者当天写作时间自述，没有完整经历变化链。",
+      "adaptation": "若有本人真实记录可作一行时间场景，不用作效果证明。",
+      "limit": "播放器与视频未读取，不能还原亲历细节。"
+    }
+  },
+  "excluded_source_spans": [
+    {
+      "start_character": 604,
+      "end_character": 1195,
+      "reason": "视频播放器界面文字；原稿保留，未用于结构或写法分析"
+    }
+  ],
+  "source_path": "raw/sample-41.txt",
+  "source_sha256": "94b3948dd6b309968ec547b5f6ded0007104b64032332a7c252e8f427e434a7a",
+  "body_start_character": 37,
+  "body_end_character": 604,
+  "source_group": "ray-wechat-2026-10-07",
+  "submitted_number": "16",
+  "source_completeness": "partial",
+  "source_defect_notes": [
+    "正文从半句开始，前部缺失；包含视频播放器界面文字，保留原稿但不作为写法依据。"
+  ],
+  "full_structure_reference": false,
+  "opening_reference": false,
+  "allowed_usage": [
+    "local_excerpt"
+  ]
+}

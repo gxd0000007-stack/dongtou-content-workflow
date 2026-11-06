@@ -1,0 +1,466 @@
+{
+  "id": "sample-56",
+  "number": 56,
+  "title": "一个人最最最最好的状态：销声匿迹",
+  "short_name": "社交减法与目标校准",
+  "family": "时间价值—耗散场景—目标标准—计划与关系选择",
+  "skeleton": [
+    "把时间放在价值判断之首",
+    "用日常时间耗散展示代价",
+    "让活动面对真实价值问题",
+    "用个人目标定取舍标准",
+    "承认目标冲突并做时间推演",
+    "通过成败情绪找目标",
+    "从长期目标落到每月每周行动",
+    "用人物与独处解释聚焦",
+    "保留关键关系并回扣销声匿迹"
+  ],
+  "distinctive": "把“销声匿迹”解释为留出时间，以每天社交的耗散为入口，再用想成为什么样的人作选择标准；尾部保留重要关系，避免题意等同完全断联。",
+  "promise": "让读者判断活动是否服务目标，并留出独处与重要关系的时间；并非证明所有社交无价值。",
+  "applicability": [
+    "AI工具学习中的注意力分配",
+    "自媒体副业的时间规划",
+    "从价值观推到活动取舍的文章"
+  ],
+  "material_preconditions": [
+    "真实一天的活动记录",
+    "清楚的长期目标",
+    "不可省略的责任和重要关系",
+    "可调整的计划"
+  ],
+  "source_limits": [
+    "仅根据用户粘贴的公众号文本拆解；万赞由用户报告，未核验阅读、点赞或传播数据。",
+    "作者的个人经历、用户案例、经营结果属于 Ray 的自述，不能改成东头亲历或通用结果保证。",
+    "原文中的名言、统计数据和心理学解释尚未核验；只参考叙述组织，进入新文的事实需要另行核验。",
+    "人每天高效工作4至6小时、时间换产出倍数、名人生平与成功归因未核验。",
+    "孤独与成长、社交与无效不能等同；用户照护、情绪支持和协作有实际价值。"
+  ],
+  "stages": [
+    {
+      "label": "把时间放在价值判断之首",
+      "start_quote": "时间是普通人最重要的资源，",
+      "function": "开头把题意“销声匿迹”指向有限时间及其产物。",
+      "transition": "转到日常热闹为什么没有成果。",
+      "mechanism": "价值排序先行",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "作者的时间价值观",
+        "具体活动范围"
+      ],
+      "fail": [
+        "把人际关系一概当浪费",
+        "总纲没有生活对象"
+      ],
+      "adaptation": "东头可先讲某个AI学习期为何需要集中时间，限定阶段。",
+      "id": "S01",
+      "pass": [
+        "后文确实讨论时间选择",
+        "不否认必要关系"
+      ],
+      "source_span": {
+        "start_character": 32,
+        "end_character": 126,
+        "percentage_start": 0.0,
+        "percentage_end": 5.1,
+        "sha256": "16b2d0060751a646d89b080a4b40440d8caa7410df032f02b39094079737a65f"
+      }
+    },
+    {
+      "label": "用日常时间耗散展示代价",
+      "start_quote": "很多人过完一天，感觉什么都没做，",
+      "function": "列吃饭、刷朋友圈、聊天等日常，再估算一小时乘一年引起机会成本感。",
+      "transition": "从时间损失进入价值判断标准。",
+      "mechanism": "小动作累积与时间换算",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "实际时间记录",
+        "被挤掉的重要任务"
+      ],
+      "fail": [
+        "随意倍数收益保证",
+        "把所有吃饭聊天列为无用"
+      ],
+      "adaptation": "可记录反复试工具但没完成任务的真实时长，不承诺省时即倍数产出。",
+      "id": "S02",
+      "pass": [
+        "计算只说明时间数量",
+        "明确哪项任务被挤掉"
+      ],
+      "source_span": {
+        "start_character": 126,
+        "end_character": 374,
+        "percentage_start": 5.1,
+        "percentage_end": 18.4,
+        "sha256": "4139ed19423570a8a18b31f0b7d2f966ff87f9a2b9b59064ad29f6ef9f22c1e1"
+      }
+    },
+    {
+      "label": "让活动面对真实价值问题",
+      "start_quote": "下班被同事拉去吃饭，周末被朋友叫出去玩，",
+      "function": "用邀请场景询问活动的价值，而不是只让读者退出社交。",
+      "transition": "给出作者以目标判价值的原则。",
+      "mechanism": "情境设问",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "具体邀请",
+        "个人需要与义务",
+        "参与或拒绝后果"
+      ],
+      "fail": [
+        "只把别人目标当坏事",
+        "没有自己的选择理由"
+      ],
+      "adaptation": "AI社群活动也可看是否解当前任务，保留交流与合作本身的价值。",
+      "id": "S03",
+      "pass": [
+        "问题允许不同人给不同答案",
+        "不强制唯一选择"
+      ],
+      "source_span": {
+        "start_character": 374,
+        "end_character": 599,
+        "percentage_start": 18.4,
+        "percentage_end": 30.5,
+        "sha256": "5e0251e640fdc0108b718c5588e7ced5b4c1364958635c5541a979d34141bd38"
+      }
+    },
+    {
+      "label": "用个人目标定取舍标准",
+      "start_quote": "你想成为什么样的人，是价值评判的唯一准则。",
+      "function": "用自由、创业、健康三个目标说明同一活动可有不同取舍。",
+      "transition": "随后处理多个目标同时存在的冲突。",
+      "mechanism": "一条原则配多情境",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "明确目标",
+        "对应活动",
+        "约束条件"
+      ],
+      "fail": [
+        "“唯一准则”忽略伦理责任",
+        "只有目标口号"
+      ],
+      "adaptation": "可改成“我主要用这个目标判断当前安排”，不绝对化。",
+      "id": "S04",
+      "pass": [
+        "目标与具体活动之间有关系",
+        "保留责任边界"
+      ],
+      "source_span": {
+        "start_character": 599,
+        "end_character": 718,
+        "percentage_start": 30.5,
+        "percentage_end": 36.9,
+        "sha256": "3bafd9f9935dc87cdcd02aeb840b387afcd3bf2db7f1d158acc441831e72ab91"
+      }
+    },
+    {
+      "label": "承认目标冲突并做时间推演",
+      "start_quote": "当然，冲突是时常会发生的，",
+      "function": "承认爱社交又想创业并非选哪个就错，建议推演长期后果。",
+      "transition": "目标未知者再回到自我探索。",
+      "mechanism": "冲突承认与选择代价",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "两个实际目标",
+        "短长期后果",
+        "可承受代价"
+      ],
+      "fail": [
+        "只许工作不许休息",
+        "预设所有长期收益确定"
+      ],
+      "adaptation": "AI内容工作可比较今天交付、长期学习和休息的实际约束。",
+      "id": "S05",
+      "pass": [
+        "显示不同选择的代价",
+        "结论由个人权衡"
+      ],
+      "source_span": {
+        "start_character": 718,
+        "end_character": 867,
+        "percentage_start": 36.9,
+        "percentage_end": 44.9,
+        "sha256": "ff35fd69edcaf7c2e427a981f5c67296e9f44ecf231e4d15adc94bf62fe90319"
+      }
+    },
+    {
+      "label": "通过成败情绪找目标",
+      "start_quote": "如果你不知道想成为什么样的人，",
+      "function": "提供回顾成就、失败、负面情绪的方法，寻找优势与价值观。",
+      "transition": "找到目标后再层层计划。",
+      "mechanism": "观察记录到方向线索",
+      "requirement": "conditional",
+      "condition": "读者目标尚不清楚时采用；已有目标可略。",
+      "materials": [
+        "真实回顾记录",
+        "重复兴趣或能力线索"
+      ],
+      "fail": [
+        "几条情绪就能诊断人生目标",
+        "未收集就替东头定目标"
+      ],
+      "adaptation": "AI可整理东头已授权记录，但不能替他捏造价值观或结论。",
+      "id": "S06",
+      "pass": [
+        "线索标为待检验",
+        "允许目标逐步形成"
+      ],
+      "source_span": {
+        "start_character": 867,
+        "end_character": 1001,
+        "percentage_start": 44.9,
+        "percentage_end": 52.1,
+        "sha256": "fc02cc8ea80933014066346b4eb4b32f422d01d48d83e5af7f901d750c300901"
+      }
+    },
+    {
+      "label": "从长期目标落到每月每周行动",
+      "start_quote": "找到长期目标后，再按照金字塔的结构，",
+      "function": "将目标拆到月、周、日，选择输入资料与学习任务；顺带提供作者课程链接。",
+      "transition": "随后用独处与关系选择强化这一安排。",
+      "mechanism": "尺度递减与资源对齐",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "长期目标",
+        "阶段输出",
+        "本周动作",
+        "输入源"
+      ],
+      "fail": [
+        "计划只有抽象名词",
+        "照搬Ray课程推广"
+      ],
+      "adaptation": "为AI任务写出本周学什么、做出什么、检查什么；推广只在已授权产品时选用。",
+      "id": "S07",
+      "pass": [
+        "日动作能服务上层目标",
+        "宣传如有明确自身产品与授权"
+      ],
+      "source_span": {
+        "start_character": 1001,
+        "end_character": 1298,
+        "percentage_start": 52.1,
+        "percentage_end": 68.1,
+        "sha256": "8f9b68baf003d9183ba3fbe1a2647ae1396f49c773ac6a1bc248629476c4ccc3"
+      }
+    },
+    {
+      "label": "用人物与独处解释聚焦",
+      "start_quote": "乔布斯在离开苹果的低谷期，",
+      "function": "作者用人物例子和独处叙事强化专注好处。",
+      "transition": "进一步重估关系数量与质量。",
+      "mechanism": "人物联想与单任务聚焦",
+      "requirement": "optional",
+      "condition": "需要局部例证时用核验材料；不作为必备阶段。",
+      "materials": [
+        "核验人物事实或自己的案例",
+        "实际独处任务"
+      ],
+      "fail": [
+        "名人成功被全归独处",
+        "未经核验故事拼装"
+      ],
+      "adaptation": "可换东头一次独立写教程的具体过程，不要求名人背书。",
+      "id": "S08",
+      "pass": [
+        "故事与集中某项任务有明确联系",
+        "不排除协作价值"
+      ],
+      "source_span": {
+        "start_character": 1298,
+        "end_character": 1671,
+        "percentage_start": 68.1,
+        "percentage_end": 88.2,
+        "sha256": "ea70dce3d60daff550d9926d9e63ff72ed53642d859e94285672d45c8d92a526"
+      }
+    },
+    {
+      "label": "保留关键关系并回扣销声匿迹",
+      "start_quote": "而你真正应该花时间去维系的，",
+      "function": "从通讯录数量转到少数重要关系，最后澄清独处是为真正重要的事留时间。",
+      "transition": "回扣标题，限定它并非逃避与断联。",
+      "mechanism": "数量质量对照与题意限定",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "重要关系类型",
+        "实际支持作用",
+        "新的时间安排"
+      ],
+      "fail": [
+        "把所有非商业关系当无价值",
+        "建议完全隔绝人际支持"
+      ],
+      "adaptation": "以一段专注时段与仍需维护的关系收尾，别把学习AI变成社交隔绝。",
+      "id": "S09",
+      "pass": [
+        "保留真实支持与责任",
+        "独处安排服务具体目标"
+      ],
+      "source_span": {
+        "start_character": 1671,
+        "end_character": 1891,
+        "percentage_start": 88.2,
+        "percentage_end": 100.0,
+        "sha256": "60bb7c2bd60ce4190efb1eb8f06e5bb5c426138d0411c51bb9eb3f1da236caa8"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "时间耗散有实际场景，标题含义在正文澄清为阶段性聚焦。",
+      "stage_ids": [
+        "S01",
+        "S02",
+        "S03"
+      ],
+      "evidence_needed": [
+        "一天记录",
+        "被挤掉的具体任务"
+      ],
+      "failure": "只夸消失，没有为何或为谁。"
+    },
+    "understandable": {
+      "criterion": "价值标准、冲突推演与计划能接到具体活动。",
+      "stage_ids": [
+        "S04",
+        "S05",
+        "S06",
+        "S07"
+      ],
+      "evidence_needed": [
+        "选择对照",
+        "目标层级",
+        "当天动作"
+      ],
+      "failure": "目标、价值、意义只有同义重复。"
+    },
+    "credible": {
+      "criterion": "时间数量不等于收益倍数，人物与亲历可核实。",
+      "stage_ids": [
+        "S02",
+        "S07",
+        "S08"
+      ],
+      "evidence_needed": [
+        "真实记录",
+        "案例归属",
+        "人物来源如引用"
+      ],
+      "failure": "无依据宣称独处保证成功。"
+    },
+    "fulfilled": {
+      "criterion": "读者能判断一项活动并安排专注时间，同时保留责任与支持。",
+      "stage_ids": [
+        "S03",
+        "S05",
+        "S07",
+        "S09"
+      ],
+      "evidence_needed": [
+        "活动选择理由",
+        "计划",
+        "关键关系"
+      ],
+      "failure": "变成全面断联号召。"
+    },
+    "structure": {
+      "criterion": "代价、价值问题、目标、冲突、探索、计划、关系限定各有新增作用。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08",
+        "S09"
+      ],
+      "evidence_needed": [
+        "段落功能",
+        "阶段取舍记录"
+      ],
+      "failure": "一味反社交，缺目标和边界。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "活动价值问题先于拒绝",
+      "目标冲突承认",
+      "计划尺度递减",
+      "结尾保留关键关系"
+    ],
+    "adjustable": [
+      "人物故事可省",
+      "目标未定的探索段可选",
+      "时间参数按实际记录调整"
+    ],
+    "fill_before_writing": [
+      "真实活动记录",
+      "东头当前目标",
+      "不可削减义务",
+      "一个专注时段"
+    ]
+  },
+  "summary": "此稿以目标校准时间价值，经过冲突推演和计划拆分，最终保留重要关系；不能把强标题直接当断联建议。",
+  "tags": [
+    "公众号",
+    "时间规划",
+    "目标取舍",
+    "独处",
+    "关系质量"
+  ],
+  "useful_modules": [
+    "structure",
+    "opening",
+    "explanation",
+    "experience"
+  ],
+  "methods": {
+    "structure": {
+      "quote": "当然，冲突是时常会发生的，",
+      "observation": "提出目标标准后不直接下命令，补上目标冲突和后果推演。",
+      "adaptation": "用具体取舍说明如何将价值观变为安排。",
+      "limit": "本文价值观很强，应限定个人和阶段，不要求读者照单全收。"
+    },
+    "opening": {
+      "quote": "很多人过完一天，感觉什么都没做，",
+      "observation": "以忙一天却没成果的可感困境接时间总纲。",
+      "adaptation": "用一天真实活动和未完成AI任务形成可读入口。",
+      "limit": "不能随便编工作时长或把休息算无效。"
+    },
+    "explanation": {
+      "quote": "找到长期目标后，再按照金字塔的结构，",
+      "observation": "从长期目标逐层缩到月周日，把抽象聚焦说成可安排动作。",
+      "adaptation": "用一个AI任务做层级示范和结果检查。",
+      "limit": "金字塔必须有具体内容，不能只报术语。"
+    },
+    "experience": {
+      "quote": "2 年前的我就是这样，从爱好到赚钱的副业，再到创业，",
+      "observation": "作者用阶段经历支持集中投入，未详述完整故事。",
+      "adaptation": "向东头确认某次集中时间后的实际变化再采用。",
+      "limit": "Ray副业转创业和认识百万IP不可挪给东头。"
+    }
+  },
+  "source_path": "raw/sample-56.txt",
+  "source_sha256": "4957e822e43fd834e8940b555b967a743a066a029bb03108f51c5a19529a6a6b",
+  "body_start_character": 32,
+  "body_end_character": 1891,
+  "source_group": "ray-wechat-2026-10-07",
+  "submitted_number": "30",
+  "source_completeness": "as_submitted",
+  "source_defect_notes": [],
+  "full_structure_reference": true,
+  "opening_reference": true,
+  "allowed_usage": [
+    "selected_structure",
+    "local_method"
+  ]
+}

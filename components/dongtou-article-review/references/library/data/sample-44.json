@@ -1,0 +1,439 @@
+{
+  "id": "sample-44",
+  "number": 44,
+  "title": "创业，选择决定一切，尤其是客户筛选。",
+  "short_name": "按交付适配筛选客户",
+  "family": "服务代价—标签纠偏—期待错位—拒收决策—资源边界—匹配",
+  "skeleton": [
+    "先给筛选客户的结论",
+    "用早期服务过量解释问题",
+    "纠正金钱标签再按行为定义",
+    "用问答模式展示期待错位",
+    "用不收钱的决定表现边界",
+    "解释过度服务的自身动机",
+    "把过量服务与资源错配联结",
+    "给出按匹配建立服务流程的方向",
+    "用便利店与灯塔收束对象选择"
+  ],
+  "distinctive": "核心转折是拒收而非赚更多：可迁移的是服务代价—期待匹配—自身责任—透明边界，非对客户好坏的定性。",
+  "promise": "解释过度服务的消耗，并引导按准备度、任务和交付范围筛选合适对象。原稿是观点与实例，不是完整筛选 SOP。",
+  "applicability": [
+    "AI 服务或课程范围设计",
+    "个人交付边界反思",
+    "新手需求与产品匹配判断"
+  ],
+  "material_preconditions": [
+    "真实服务约定",
+    "工时反馈",
+    "客观适配条件",
+    "拒绝与转介方式"
+  ],
+  "source_limits": [
+    "仅据用户粘贴文本拆解，未读取公众号原页或图片、视频。",
+    "万赞或爆款为用户报告，当前未独立核验点赞、阅读量或发布时间。",
+    "作者案例、收入与账号数据仅为作者自述，不作为普遍收益证明，也不能改写为东头亲历。",
+    "书名、名言、研究、平台规则及行业数据未核验；移入正文作为事实论据前须单独核验。",
+    "只借鉴组织功能和解释方法；绝对化结论、羞辱性称呼与不可保证的收益不作为硬性写作规则。",
+    "“低端客户”“认知水平低”等等级判断不进入东头小白服务规则。",
+    "原稿对讨价、退款保障、预订提问的定性不应照搬；合理尽调与学习提问须保留。"
+  ],
+  "stages": [
+    {
+      "id": "S01",
+      "start_quote": "正文：创业，选择决定一切，尤其是客户筛选。",
+      "label": "先给筛选客户的结论",
+      "function": "强调业务问题可能来自服务对象选择。",
+      "transition": "转入廉价高服务的代价。",
+      "mechanism": "明确决策主题。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "服务边界问题"
+      ],
+      "fail": [
+        "把所有经营问题归到客户。"
+      ],
+      "adaptation": "改为适配客户的选择影响交付，不用决定一切的因果。",
+      "pass": [
+        "筛选对象和交付问题清楚。"
+      ],
+      "source_span": {
+        "start_character": 31,
+        "end_character": 70,
+        "percentage_start": 0.0,
+        "percentage_end": 2.5,
+        "sha256": "7fb9a90f513d010994da4a52cf3fdce0b2cbc395be11095f24ac29c5da63e149"
+      }
+    },
+    {
+      "id": "S02",
+      "start_quote": "做知识付费，你服务越好，价格越便宜",
+      "label": "用早期服务过量解释问题",
+      "function": "作者讲低价、全部负责和长答疑，接差评与一次 399 元三小时咨询。",
+      "transition": "从代价转向定义什么叫不适配。",
+      "mechanism": "投入与反馈落差带出转折。",
+      "requirement": "conditional",
+      "condition": "有服务成本与反馈实例时",
+      "materials": [
+        "真实收费和时长",
+        "服务约定与反馈"
+      ],
+      "fail": [
+        "冒充作者数据或将价格低等同难伺候。"
+      ],
+      "adaptation": "写已确认服务边界及超范围例子，不按价格给客户排序。",
+      "pass": [
+        "成本、约定与需求是否匹配能区分。"
+      ],
+      "source_span": {
+        "start_character": 70,
+        "end_character": 370,
+        "percentage_start": 2.5,
+        "percentage_end": 21.7,
+        "sha256": "bc671fd9a727a0adf559813d6ecc83ef9a946f7eb61fda4af3b25c35e6249364"
+      }
+    },
+    {
+      "id": "S03",
+      "start_quote": "很多人一听“低端客户”这四个字",
+      "label": "纠正金钱标签再按行为定义",
+      "function": "先否定没钱等于低端，随后用认知水平与期待行为重定义。",
+      "transition": "列出索取和许愿行为。",
+      "mechanism": "概念纠偏提高可讨论性。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "可观察适配行为"
+      ],
+      "fail": [
+        "用另一种贬低标签替代没钱。"
+      ],
+      "adaptation": "转为需求、准备度和交付范围，不采用高低认知等级标签。",
+      "pass": [
+        "筛选条件描述行为而非人格。"
+      ],
+      "source_span": {
+        "start_character": 370,
+        "end_character": 533,
+        "percentage_start": 21.7,
+        "percentage_end": 32.1,
+        "sha256": "ad1635d57eb543ac79d799a527555cb9cae66bb43f3213f7d0ade313e88f0af9"
+      }
+    },
+    {
+      "id": "S04",
+      "start_quote": "你认真讲底层逻辑，他会问，有没有现成能用的模板；",
+      "label": "用问答模式展示期待错位",
+      "function": "两组需求回答表现用户要捷径，作者再给认知省力解释。",
+      "transition": "转入作者拒收的近期事件。",
+      "mechanism": "对话与概念连接说明服务错位。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "用户实际需求",
+        "产品声明的交付范围"
+      ],
+      "fail": [
+        "把小白提问和模板需求当缺陷。"
+      ],
+      "adaptation": "需要模板可能合理；只有要求超出约定且不愿参与才算错位。",
+      "pass": [
+        "需求与承诺逐项比较，不羞辱学习者。"
+      ],
+      "source_span": {
+        "start_character": 533,
+        "end_character": 797,
+        "percentage_start": 32.1,
+        "percentage_end": 48.9,
+        "sha256": "1fc66cad07dd51d6514a80c8dd791bc6d1a858586e07d931cebcdb8e94c48938"
+      }
+    },
+    {
+      "id": "S05",
+      "start_quote": "最近我在招募一个新的个人商业陪跑营",
+      "label": "用不收钱的决定表现边界",
+      "function": "作者讲多次询问价格、退款和预订，因自己交付不了选择拒绝。",
+      "transition": "由决定转入帮助者心理。",
+      "mechanism": "放弃收入的决策提供边界实例。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "实际咨询对话",
+        "拒绝理由",
+        "交付条件"
+      ],
+      "fail": [
+        "将合理退款咨询定义不值得服务。"
+      ],
+      "adaptation": "付款与退款问题是正当尽调，拒绝须解释能力/范围，不把提问等同低质。",
+      "pass": [
+        "筛选依据是交付适配，不是客户是否不质疑。"
+      ],
+      "source_span": {
+        "start_character": 797,
+        "end_character": 948,
+        "percentage_start": 48.9,
+        "percentage_end": 58.6,
+        "sha256": "302989173ee6845e6fd3f82a9cf33b207d82b2f8fc7d8dbc0a7ade9cbda16600"
+      }
+    },
+    {
+      "id": "S06",
+      "start_quote": "心理学里有个经典概念：",
+      "label": "解释过度服务的自身动机",
+      "function": "提出帮助者综合征，讲被需要与有价值混淆，代价是双方依赖消耗。",
+      "transition": "用自己做好人陷阱再次印证。",
+      "mechanism": "把问题部分责任转回服务设计。",
+      "requirement": "conditional",
+      "condition": "需要解释服务者为何不断加码时",
+      "materials": [
+        "自身行为反思",
+        "待核验心理概念"
+      ],
+      "fail": [
+        "给客户或作者贴心理疾病标签。"
+      ],
+      "adaptation": "不作诊断；用自己为何不断加服务的可观察原因。",
+      "pass": [
+        "反思是行为与边界，不是人格诊断。"
+      ],
+      "source_span": {
+        "start_character": 948,
+        "end_character": 1143,
+        "percentage_start": 58.6,
+        "percentage_end": 71.1,
+        "sha256": "6d53f9817a9201b71d5eda4ad7c70403f7f056bf5e4d0ce74eee166d7ce3a0e7"
+      }
+    },
+    {
+      "id": "S07",
+      "start_quote": "我刚开始做 IP 的时候，也掉入过这个“做好人陷阱”",
+      "label": "把过量服务与资源错配联结",
+      "function": "优惠、课时、服务、答疑增加仍留不住人，并指出会挤压其他合适客户。",
+      "transition": "转向系统筛选。",
+      "mechanism": "时间资源的机会成本。",
+      "requirement": "conditional",
+      "condition": "有多个服务对象和资源分配冲突时",
+      "materials": [
+        "服务工时",
+        "其他交付任务",
+        "留存反馈"
+      ],
+      "fail": [
+        "以客户难伺候为由不履行约定。"
+      ],
+      "adaptation": "先比较合同责任与资源配置，不因高价而越权削减已有服务。",
+      "pass": [
+        "当前承诺先完成，未来范围再调整。"
+      ],
+      "source_span": {
+        "start_character": 1143,
+        "end_character": 1307,
+        "percentage_start": 71.1,
+        "percentage_end": 81.5,
+        "sha256": "188c6ef3f7bcb1f72c839ee9d72a80fb19fa780c52a703607d882b4201010028"
+      }
+    },
+    {
+      "id": "S08",
+      "start_quote": "商业的底层不是“感动用户”，而是建立一个清晰的系统",
+      "label": "给出按匹配建立服务流程的方向",
+      "function": "筛选认可价值与愿意参与者，强调精准匹配而非讨好所有人。",
+      "transition": "以灯塔隐喻收尾。",
+      "mechanism": "从情绪边界转为流程边界。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "适配条件",
+        "交付义务",
+        "拒绝与转介路径"
+      ],
+      "fail": [
+        "筛选只剩信任我，不许怀疑我。"
+      ],
+      "adaptation": "把系统落实为申请问题、准备度、范围说明、退款和转介。",
+      "pass": [
+        "条件客观透明并保护合理提问。"
+      ],
+      "source_span": {
+        "start_character": 1307,
+        "end_character": 1553,
+        "percentage_start": 81.5,
+        "percentage_end": 97.3,
+        "sha256": "5aca9e753918b00bf2b3afe9d1fdd088444f0b8157b704879215a16a3ed9bb4c"
+      }
+    },
+    {
+      "id": "S09",
+      "start_quote": "你不该做人人都能去的便利店",
+      "label": "用便利店与灯塔收束对象选择",
+      "function": "让读者记住服务特定人群而非无限扩大。",
+      "transition": "结束于适配定位。",
+      "mechanism": "隐喻收束强化主题。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "服务人群",
+        "明确边界"
+      ],
+      "fail": [
+        "口号结尾没有筛选办法。"
+      ],
+      "adaptation": "不照搬优越感，给一次检查客户需求与承诺是否适配的动作。",
+      "pass": [
+        "有适配标准与一次下一步。"
+      ],
+      "source_span": {
+        "start_character": 1553,
+        "end_character": 1596,
+        "percentage_start": 97.3,
+        "percentage_end": 100.0,
+        "sha256": "e19195fc509a2386e62d6774b4a36d6237365c4a56bab958254846de2d3c71d6"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "用可观察服务消耗建立关系，不用低端客户羞辱人。",
+      "stage_ids": [
+        "S01",
+        "S02"
+      ],
+      "evidence_needed": [
+        "工时和约定差异"
+      ],
+      "failure": "吸引力靠贬低小白或低收入者。"
+    },
+    "understandable": {
+      "criterion": "金钱、准备度、需求和范围分开，用问答展示错位。",
+      "stage_ids": [
+        "S03",
+        "S04",
+        "S05"
+      ],
+      "evidence_needed": [
+        "具体需求与产品范围"
+      ],
+      "failure": "认知低成为不可检验标签。"
+    },
+    "credible": {
+      "criterion": "收费时长有归属，心理概念核验，退款与提问不被定性。",
+      "stage_ids": [
+        "S02",
+        "S05",
+        "S06",
+        "S07"
+      ],
+      "evidence_needed": [
+        "原约定",
+        "实际记录",
+        "客户正当权利"
+      ],
+      "failure": "拒收案例证明所有讨价者不适配。"
+    },
+    "fulfilled": {
+      "criterion": "若承诺筛选方法，须给客观条件与透明拒绝路径。",
+      "stage_ids": [
+        "S05",
+        "S08",
+        "S09"
+      ],
+      "evidence_needed": [
+        "准备度问题",
+        "范围声明",
+        "转介方式"
+      ],
+      "failure": "只有拒绝不喜欢的客户。"
+    },
+    "structure": {
+      "criterion": "服务代价引出适配定义，具体事件表现决策，再解释机会成本并落到系统。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S07",
+        "S08"
+      ],
+      "evidence_needed": [
+        "每个功能真实材料"
+      ],
+      "failure": "只复制低端定义却删掉自身交付责任。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "真实服务成本",
+      "期待与交付错位",
+      "拒收的适配理由",
+      "当前承诺责任",
+      "未来客观筛选条件"
+    ],
+    "adjustable": [
+      "客户标签必须换为行为描述",
+      "心理理论可删",
+      "作者咨询案例可换",
+      "灯塔隐喻可换"
+    ],
+    "fill_before_writing": [
+      "东头服务实际经验",
+      "交付范围与承诺",
+      "客观准备度和需求条件",
+      "合法合理的退款与拒绝流程"
+    ]
+  },
+  "summary": "从低价高服务的个人代价开始，纠正金钱标签、展示期待错位，再用拒收案例和帮助者动机讨论边界，最后强调精准匹配。只能学边界论证，不复制对新手的等级判断。",
+  "tags": [
+    "服务边界",
+    "客户适配",
+    "第一人称",
+    "机会成本",
+    "标签纠偏"
+  ],
+  "useful_modules": [
+    "opening",
+    "structure",
+    "explanation",
+    "experience"
+  ],
+  "methods": {
+    "structure": {
+      "quote": "没钱不叫低端客户",
+      "observation": "先纠正常见标签，再用实际行为讨论是否适配。",
+      "adaptation": "AI 入门按任务、准备度和支持范围分组，不按高低认知评价。",
+      "limit": "不采纳原稿认知水平唯一决定论。"
+    },
+    "opening": {
+      "quote": "我记得当时有个用户要做咨询，付了 399 元",
+      "observation": "用一次费用与时间错位把服务代价具体化。",
+      "adaptation": "用真实投入、约定和反馈开题。",
+      "limit": "数据归作者，必须交代合同是否清楚。"
+    },
+    "explanation": {
+      "quote": "你认真讲底层逻辑，他会问，有没有现成能用的模板；",
+      "observation": "问答对照说明交付与期待没有对齐。",
+      "adaptation": "写用户要什么、我们承诺什么、哪些可做哪些不能做。",
+      "limit": "模板与退款咨询可能合理，不自动代表不适配。"
+    },
+    "experience": {
+      "quote": "我没有收他们的钱。",
+      "observation": "以一个舍弃短期收入的决策体现自己的边界。",
+      "adaptation": "讲我的选择、具体理由、能交付与不能交付的范围。",
+      "limit": "不要编造东头拒收经历。"
+    }
+  },
+  "source_path": "raw/sample-44.txt",
+  "source_sha256": "5cc7b9ecf07ce2d4f3e9d158fa6dee02dc66e9886a05c3542ed21686d590af66",
+  "body_start_character": 31,
+  "body_end_character": 1596,
+  "source_group": "ray-wechat-2026-10-07",
+  "submitted_number": "19",
+  "source_completeness": "as_submitted",
+  "source_defect_notes": [],
+  "full_structure_reference": true,
+  "opening_reference": true,
+  "allowed_usage": [
+    "selected_structure",
+    "local_method"
+  ]
+}

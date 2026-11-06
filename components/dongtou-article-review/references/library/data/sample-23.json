@@ -1,0 +1,393 @@
+{
+  "id": "sample-23",
+  "number": 23,
+  "title": "黄金十年系统掌握生产资料拥有能带走的资产",
+  "short_name": "会什么给谁怎么卖的能力商品化",
+  "family": "已有能力商品化",
+  "skeleton": [
+    "资产定义与三问承诺",
+    "显化已有能力",
+    "椅子业务闭环和SOP例子",
+    "挑擅长重复任务拆步骤",
+    "曾经自己定位用户",
+    "用户聚集地",
+    "问题与产品卖点呈现",
+    "半步同伴价值介绍",
+    "按节奏跑小闭环"
+  ],
+  "distinctive": "把已有经验先变成可教步骤，再用曾经自己的处境找用户，最后仅组合已明确的信息呈现卖点。",
+  "promise": "教读者从已有工作能力沉淀可带走的方法，确定用户与呈现方式；作者百万和帮助他人拿结果不等于普遍效果。",
+  "applicability": [
+    "已有重复实践需整理为AI教程或服务的人",
+    "从职场经验转可复用内容与产品的文章"
+  ],
+  "material_preconditions": [
+    "已反复做过的任务和步骤记录",
+    "别人照步骤使用的实际反馈",
+    "具体用户处境和可观察渠道"
+  ],
+  "source_limits": [
+    "27岁创业半年百万、椅子千件和帮助多数创业者拿结果是maggie自述，未核验。",
+    "椅子和求职例子角色不同，求职用来说明用户匹配，不能合并为作者同一经历。",
+    "生产资料为原稿宽泛商业表述，未核验法学经济学定义；平台独立性和可复制成果仍待实际验证。"
+  ],
+  "stages": [
+    {
+      "label": "能带走的资产与三问",
+      "function": "把生产资料界定为不依赖平台且跑通商业闭环的能力，预告会什么卖给谁怎么卖。",
+      "transition": "先给方向、作者结果和已有基础，再进入能力盘点。",
+      "mechanism": "概念重述、个人经历、三问地图。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "本篇要沉淀的可带走能力",
+        "作者已有闭环和结果依据"
+      ],
+      "pass": [
+        "明确本文转化对象是已有能力，不只是开公司。"
+      ],
+      "fail": [
+        "只有人生掌控口号，没有可沉淀对象。"
+      ],
+      "adaptation": "给东头AI经验指定可复用能力资产和用户。",
+      "id": "S01",
+      "start_quote": "如果你想要掌握自己的人生，不当一辈子牛马",
+      "source_span": {
+        "start_character": 35,
+        "end_character": 250,
+        "percentage_start": 0.0,
+        "percentage_end": 15.0,
+        "sha256": "f15c259e5a929706d0f049e3325f3675a7b6207121730f5f79e915d88aad6d1b"
+      }
+    },
+    {
+      "label": "把模糊能力写出来",
+      "function": "以被请教和做得更快为线索，把会做变成可写可教可重复步骤。",
+      "transition": "三问先回答能力，再用创业例子展示闭环整理。",
+      "mechanism": "能力发现线索、隐性知识显化、教他人试验。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "重复被问的问题",
+        "实际重复任务步骤",
+        "他人照做的试验结果"
+      ],
+      "pass": [
+        "能力写成别人可理解的步骤并测试。"
+      ],
+      "fail": [
+        "只写擅长AI或运营等标签。"
+      ],
+      "adaptation": "把东头常做的AI任务整理成输入动作输出。",
+      "id": "S02",
+      "start_quote": "首先要清晰的知道你已经会什么",
+      "source_span": {
+        "start_character": 250,
+        "end_character": 506,
+        "percentage_start": 15.0,
+        "percentage_end": 33.0,
+        "sha256": "6c105dcff3fd6b422b4e89fabafd4f468b1020ff898b7f94c8dc6eefcaad5051"
+      }
+    },
+    {
+      "label": "椅子业务闭环例子",
+      "function": "从自身办公痛点到定制、内容、上架和销量，再说明各步整理为SOP。",
+      "transition": "能力整理原则落在完整业务链，随后再抽出可迁移动作。",
+      "mechanism": "个人需求到产品销售、全过程复盘、结果自述。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "需求观察与产品过程",
+        "发布上架和订单依据",
+        "逐步SOP样例"
+      ],
+      "pass": [
+        "需求定位产品销售各有过程，SOP不是事后标签。"
+      ],
+      "fail": [
+        "只报椅子卖千件，未说明方法怎么整理。"
+      ],
+      "adaptation": "用真实AI项目链路说明怎样沉淀可复用步骤。",
+      "id": "S03",
+      "start_quote": "我27岁第一次创业，做的就是一款居家办公的椅子",
+      "source_span": {
+        "start_character": 506,
+        "end_character": 770,
+        "percentage_start": 33.0,
+        "percentage_end": 51.4,
+        "sha256": "88e43f2302b669e0adb7ead1fb8185e9b2caddfdbed9040556bb139cb91cab90"
+      }
+    },
+    {
+      "label": "选择擅长且重复的事拆步骤",
+      "function": "把案例提炼为选择做得多或擅长的事，拆成别人能跟的步骤。",
+      "transition": "收束会什么，开始问卖给谁。",
+      "mechanism": "案例后归纳、从经验到可教步骤。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "一项已做多次的任务及可复用步骤"
+      ],
+      "pass": [
+        "步骤有输入条件和结果，未承诺任何人照做必得结果。"
+      ],
+      "fail": [
+        "只有SOP名字，没有别人可用的内容。"
+      ],
+      "adaptation": "从东头真实反复任务提取可复用方法。",
+      "id": "S04",
+      "start_quote": "把你做过最擅长或者做的",
+      "source_span": {
+        "start_character": 770,
+        "end_character": 840,
+        "percentage_start": 51.4,
+        "percentage_end": 56.3,
+        "sha256": "effc26344f08d2220d6a8306b71cc0d92dfa4cbabe52329a95e79ba2771f5196"
+      }
+    },
+    {
+      "label": "以曾经自己定位用户",
+      "function": "用曾经身份和处境定位可能用户，以求职面试例子解释。",
+      "transition": "已有方法后找处境匹配者，再确定他们在哪里。",
+      "mechanism": "过去自己作为起点、同处境例子。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "过往身份困难及解决过程",
+        "目标用户当前同类困境"
+      ],
+      "pass": [
+        "用户具体到处境，并验证不是仅凭自我投射。"
+      ],
+      "fail": [
+        "人人都是用户，或假定曾经自己代表所有人。"
+      ],
+      "adaptation": "从东头经历提用户假设，再用真实反馈校正。",
+      "id": "S05",
+      "start_quote": "然后就来到了卖给谁这一步",
+      "source_span": {
+        "start_character": 840,
+        "end_character": 1021,
+        "percentage_start": 56.3,
+        "percentage_end": 69.0,
+        "sha256": "59857a48fd54278d3de4439a2049e6285df14e81f481d50c706b73b07f20b128"
+      }
+    },
+    {
+      "label": "找到用户聚集地",
+      "function": "回想当时寻求帮助的位置，形成用户可接触的渠道。",
+      "transition": "把用户身份转为触点，随后进入卖点呈现。",
+      "mechanism": "处境到渠道回溯。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "目标用户实际寻求帮助的渠道",
+        "当前渠道中的用户观察"
+      ],
+      "pass": [
+        "位置有实际用户而不只有平台名字。"
+      ],
+      "fail": [
+        "写小红书朋友圈但未说明用户为何在那里。"
+      ],
+      "adaptation": "定位AI读者提问和找帮助的真实入口。",
+      "id": "S06",
+      "start_quote": "当你清晰的知道自己的目标用户是谁了",
+      "source_span": {
+        "start_character": 1021,
+        "end_character": 1100,
+        "percentage_start": 69.0,
+        "percentage_end": 74.5,
+        "sha256": "06b45d467a7dd8f3e8e1a01269dc56a527275aae276f6ba084608c53cf6d26aa"
+      }
+    },
+    {
+      "label": "三方面呈现卖点",
+      "function": "把用户在哪里、有什么困难、产品如何解决清楚呈现到渠道中。",
+      "transition": "前两问形成材料后回答怎么卖，再附阶段建议。",
+      "mechanism": "已知输入汇总、问题到解决呈现。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "具体用户处境",
+        "产品帮助方式及用例",
+        "真实渠道表达样例"
+      ],
+      "pass": [
+        "卖点可对应用户问题和实际解决能力。"
+      ],
+      "fail": [
+        "堆功能和优势，无用户处境和结果依据。"
+      ],
+      "adaptation": "给东头AI产品写问题、帮助方式和实际用例。",
+      "id": "S07",
+      "start_quote": "最后就来到了怎么迈这一步",
+      "source_span": {
+        "start_character": 1100,
+        "end_character": 1225,
+        "percentage_start": 74.5,
+        "percentage_end": 83.3,
+        "sha256": "58556dc1e6f215839cccab958d69a4efe45f9144e2c7bb67a40b4754c43bc1f5"
+      }
+    },
+    {
+      "label": "半步同伴与价值自我介绍",
+      "function": "建议找只快半步的人，并用年限、能力和具体模板表达价值。",
+      "transition": "主流程后补外部交流动作，接着提醒节奏。",
+      "mechanism": "相近阶段比较、身份介绍改写示例。",
+      "requirement": "optional",
+      "condition": "需要合作和反馈时采用，交流对象与介绍按实际阶段替换。",
+      "materials": [
+        "实际能力成果",
+        "可展示的价值介绍",
+        "目标交流对象及需求"
+      ],
+      "pass": [
+        "介绍有具体成果而非只写职业头衔。"
+      ],
+      "fail": [
+        "只追大佬或泛称做运营，没有可交流材料。"
+      ],
+      "adaptation": "以东头真实AI产物写简短价值介绍。",
+      "id": "S08",
+      "start_quote": "最后，我还有两个这个阶段的经验分享给你，第一",
+      "source_span": {
+        "start_character": 1225,
+        "end_character": 1371,
+        "percentage_start": 83.3,
+        "percentage_end": 93.5,
+        "sha256": "ae6ed4babe80d0f47ba768f7729f4135d81bd2ecc412b299a1f23067d3435150"
+      }
+    },
+    {
+      "label": "先跑小闭环的节奏",
+      "function": "避免无效比较与热血冲动，收束为按自身节奏跑通小闭环并引流。",
+      "transition": "第二个阶段建议回到能力资产的起点。",
+      "mechanism": "节奏提醒、最小闭环、首尾照应。",
+      "requirement": "optional",
+      "condition": "可保留资源节奏边界，比较措辞和主页引流可改写。",
+      "materials": [
+        "本篇小闭环任务和资源限制"
+      ],
+      "pass": [
+        "结尾明确最小可验证任务，不以比较评价他人。"
+      ],
+      "fail": [
+        "只说慢慢来，没有小闭环标准。"
+      ],
+      "adaptation": "把东头AI能力沉淀落为一次可验证使用闭环。",
+      "id": "S09",
+      "start_quote": "第二，不要和躺平的人比",
+      "source_span": {
+        "start_character": 1371,
+        "end_character": 1464,
+        "percentage_start": 93.5,
+        "percentage_end": 100.0,
+        "sha256": "ec880a98bf0ce89311fca2f15bc8074a5287653959656e8644ac868a44ca3820"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "让已有经验却说不清价值的读者看见三问能解决什么。",
+      "stage_ids": [
+        "S01",
+        "S02"
+      ],
+      "evidence_needed": [
+        "资产定义",
+        "能力盘点线索"
+      ],
+      "failure": "只喊拥有资产，没有已有经验的具体切口。"
+    },
+    "understandable": {
+      "criterion": "能力步骤、用户处境、渠道和卖点能逐项填入。",
+      "stage_ids": [
+        "S02",
+        "S04",
+        "S05",
+        "S06",
+        "S07"
+      ],
+      "evidence_needed": [
+        "步骤样例",
+        "用户假设",
+        "渠道表达"
+      ],
+      "failure": "会什么停留在职业标签，怎么卖停在发朋友圈。"
+    },
+    "credible": {
+      "criterion": "方法来自真实反复实践，案例收益和用户假设有来源与边界。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S05",
+        "S07"
+      ],
+      "evidence_needed": [
+        "任务记录与照做反馈",
+        "案例订单来源",
+        "用户真实反馈"
+      ],
+      "failure": "把作者销量移植，曾经自己被当所有用户。"
+    },
+    "fulfilled": {
+      "criterion": "最终形成可使用步骤、具体用户和一段对应其问题的表达。",
+      "stage_ids": [
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S09"
+      ],
+      "evidence_needed": [
+        "方法产物",
+        "用户和触点",
+        "产品表达及小闭环标准"
+      ],
+      "failure": "只完成个人技能清单，没有目标用户或表达。"
+    },
+    "structure": {
+      "criterion": "会什么先显化，再定位给谁和在哪里，最后组合卖点；附加建议不吞主流程。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08",
+        "S09"
+      ],
+      "evidence_needed": [
+        "三问依赖",
+        "案例到动作的归纳",
+        "尾部建议比例"
+      ],
+      "failure": "三问变并列励志清单，营销先于能力和用户。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "已有能力先变成可写可教步骤",
+      "选实际重复任务并检验他人可用",
+      "用户定位以具体处境为起点且需校正",
+      "渠道和问题帮助三方面组成卖点"
+    ],
+    "adjustable": [
+      "椅子与求职案例",
+      "三问标题和例子数量",
+      "半步同伴与价值介绍",
+      "收入数字和主页收尾"
+    ],
+    "fill_before_writing": [
+      "已选标题及要沉淀的已有能力",
+      "任务步骤与他人试用反馈",
+      "目标用户处境及真实渠道",
+      "产品帮助边界和最小闭环标准"
+    ]
+  },
+  "source_path": "raw/sample-23.txt",
+  "source_sha256": "01565a947f93a26797d862eb83fbce8be4211749d42c64ca5ec8e9739df914dc",
+  "body_start_character": 35
+}

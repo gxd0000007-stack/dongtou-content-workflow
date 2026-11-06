@@ -1,0 +1,480 @@
+{
+  "id": "sample-36",
+  "number": 36,
+  "title": "自媒体赚钱就是：借势、借力、借智",
+  "short_name": "从独自硬扛到SOP和AI分工",
+  "family": "个人瓶颈到协作流程",
+  "skeleton": [
+    "用反独干判断开启协作议题",
+    "全包的代价与结果瓶颈",
+    "AI与协作成为个人转折",
+    "借势先看外部方向",
+    "从拼内容转到定位与市场",
+    "把借力与借智翻成职责",
+    "先整理SOP再分工",
+    "助理类比纠正一句话成品期待",
+    "让AI分担流程里的明确步骤",
+    "回扣协作与系统价值"
+  ],
+  "distinctive": "以自己全包导致疲惫和营收停滞交代转变，先讲方向与平台阶段，再把借力借智翻成执行与思考，经过SOP盘点和助理类比，落到多个环节的AI职责。",
+  "promise": "说明作者如何由全包转向先梳理流程再让AI辅助，以及方向选择的重要性；不保证搭AI军团收入翻倍。",
+  "applicability": [
+    "东头介绍七步工作流为何需要分工",
+    "AI新手从一句许愿转到清晰任务输入",
+    "自媒体或职场的可复用SOP解释"
+  ],
+  "material_preconditions": [
+    "作者真实重复工作与瓶颈",
+    "一份实际能运行的SOP",
+    "AI职责、交接输入和人工验收"
+  ],
+  "source_limits": [
+    "来源仅为用户本次粘贴的公众号文章文本，万赞状态为用户报告，未读取原页面或核验互动数据。",
+    "Ray的身份、经历、客户反馈、收益数字及所引名言均为作者叙述；不得写成东头的亲历或已证实事实。",
+    "行业红利、坚持做抖音必赚钱、流量翻倍等收入规律为作者论断，未核验平台事实。",
+    "更多AI不等于更高质量，SOP也不能保证60分成果无伤大雅；不同任务须有质量和权限边界。"
+  ],
+  "stages": [
+    {
+      "label": "用反独干判断开启协作议题",
+      "start_quote": "真正会赚钱的人，从来不自己单干。",
+      "function": "用与个人英雄相反的判断建立借资源的主题。",
+      "transition": "随后讲自己为什么曾经全包。",
+      "mechanism": "强判断与常见做法对立",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "读者一个需要协作的具体任务"
+      ],
+      "fail": [
+        "会赚钱永不单干的绝对判断无材料。"
+      ],
+      "adaptation": "可写我做内容后发现不能每一步都只靠自己硬撑。",
+      "pass": [
+        "协作收益被具体说明，允许单人完成适合任务。"
+      ],
+      "id": "S01",
+      "source_span": {
+        "start_character": 36,
+        "end_character": 74,
+        "percentage_start": 0.0,
+        "percentage_end": 2.1,
+        "sha256": "6266dc3f437fc18444387be93a1f9d0cb5c0ab082ad6e7644fba97566f78728e"
+      }
+    },
+    {
+      "label": "全包的代价与结果瓶颈",
+      "start_quote": "刚创业那阵，我什么都想自己干",
+      "function": "讲控制欲、回评论熬夜、身体负担和营收停滞，使改变有理由。",
+      "transition": "之后说明开始研究AI、重新安排流程的转折。",
+      "mechanism": "动作清单与代价/回报反差",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "作者确认的重复任务",
+        "真实耗时和限制",
+        "结果没有增长的范围"
+      ],
+      "fail": [
+        "移植Ray看中医和创业营收故事。"
+      ],
+      "adaptation": "可以讲东头过去自己找素材、写稿、改稿等真实瓶颈。",
+      "pass": [
+        "我干了什么、耗了什么、缺了什么分开。"
+      ],
+      "id": "S02",
+      "source_span": {
+        "start_character": 74,
+        "end_character": 263,
+        "percentage_start": 2.1,
+        "percentage_end": 12.3,
+        "sha256": "740fecbb6b4804030f38c72f6e87c92d2b4de742bb9e0e752e70cdf3378cc78a"
+      }
+    },
+    {
+      "label": "AI与协作成为个人转折",
+      "start_quote": "之后，我才开始研究 AI，重新思考协作流程",
+      "function": "交代并非更努力，而是换流程和协作方式。",
+      "transition": "先展开借势，避免协作脱离方向。",
+      "mechanism": "之后/才的认识转变",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "实际改变的步骤",
+        "新旧分工",
+        "具体结果或尚未验证之处"
+      ],
+      "fail": [
+        "把AI出现当所有改善的唯一原因。"
+      ],
+      "adaptation": "说明七步套件如何接阅读、观点、写作和检查。",
+      "pass": [
+        "转折有动作，不只说用AI。"
+      ],
+      "id": "S03",
+      "source_span": {
+        "start_character": 263,
+        "end_character": 400,
+        "percentage_start": 12.3,
+        "percentage_end": 19.7,
+        "sha256": "e1f4bcec5084f4673dc8b71cdb96f63d58b74781966a4003fdd6497008024901"
+      }
+    },
+    {
+      "label": "借势先看外部方向",
+      "start_quote": "10 年前，公众号刚出来没几年",
+      "function": "用平台早期机会说明作者所谓势，再扩为国家、城市、行业与定位。",
+      "transition": "接着对照今天竞争强度，说明需要更新方向判断。",
+      "mechanism": "历史平台例子与多层环境",
+      "requirement": "conditional",
+      "condition": "讨论方向选择时可采用；只写具体SOP教程可压缩。",
+      "materials": [
+        "核验后的平台变化",
+        "当前任务需求",
+        "外部条件"
+      ],
+      "fail": [
+        "坚持做抖音不可能赚不到钱当普遍规律。"
+      ],
+      "adaptation": "用当前用户需求和工具能力变化分析选择，不必引用旧红利。",
+      "pass": [
+        "承认机会并不保证收益，范围和时间明确。"
+      ],
+      "id": "S04",
+      "source_span": {
+        "start_character": 400,
+        "end_character": 758,
+        "percentage_start": 19.7,
+        "percentage_end": 39.0,
+        "sha256": "7983ff977745a19867d1401103d17a5117a970b5c82342133f7644bec3643911"
+      }
+    },
+    {
+      "label": "从拼内容转到定位与市场",
+      "start_quote": "除了内容本身，你应该花更多精力",
+      "function": "提醒读者检查市场、定位和平台趋势，而非只反思个人努力。",
+      "transition": "方向部分结束后进入具体借力借智。",
+      "mechanism": "外部条件补充与努力边界",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "当前读者需求",
+        "定位选择依据",
+        "其他导致结果的因素"
+      ],
+      "fail": [
+        "方向错就一定一切白费，否定练习价值。"
+      ],
+      "adaptation": "先选AI新手真实任务，再决定调哪些组件。",
+      "pass": [
+        "方向通过实际问题判断，不用洞察等同十年努力。"
+      ],
+      "id": "S05",
+      "source_span": {
+        "start_character": 758,
+        "end_character": 883,
+        "percentage_start": 39.0,
+        "percentage_end": 45.7,
+        "sha256": "4c7ef153362ea04ef6ffa8336705f89e8adfa64bcfcdf8ea2bf81c9959534e3b"
+      }
+    },
+    {
+      "label": "把借力与借智翻成职责",
+      "start_quote": "借力，学会让别人为自己干活；借智，学会让别人为自己思考。",
+      "function": "区分执行和思考，再列剪辑、排版、客服等全包情境，问非我不可吗。",
+      "transition": "哪些可交给别人需先有流程，因此下一段讲SOP。",
+      "mechanism": "两个词平行定义与工作清单",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "每项任务的执行/判断部分",
+        "必须由作者完成的动作"
+      ],
+      "fail": [
+        "将读者自己的所有思考都外包。"
+      ],
+      "adaptation": "东头观点由本人提供，AI整理、候选与检查按角色辅助。",
+      "pass": [
+        "执行和判断都明确，核心观点不冒充授权给AI。"
+      ],
+      "id": "S06",
+      "source_span": {
+        "start_character": 883,
+        "end_character": 1073,
+        "percentage_start": 45.7,
+        "percentage_end": 56.0,
+        "sha256": "bc3947caeef14182f457fa2ec3aa97b23940d3e0010edd8036fb617a37af4b43"
+      }
+    },
+    {
+      "label": "先整理SOP再分工",
+      "start_quote": "我之前也是个人英雄主义，但之后我做了一件事：梳理 SOP。",
+      "function": "强调让AI或外包围绕系统做事，并列不同内容渠道的SOP。",
+      "transition": "有流程后再校正一句话许愿的期待。",
+      "mechanism": "前置条件与渠道工作清单",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "实际SOP输入输出",
+        "每步质量标准",
+        "异常处理和交接"
+      ],
+      "fail": [
+        "系统对就算60分也没事适用所有任务。"
+      ],
+      "adaptation": "展示七步输入、产出、前置条件与最后质检。",
+      "pass": [
+        "SOP是真流程而非多个文件名，质量标准和人工检查存在。"
+      ],
+      "id": "S07",
+      "source_span": {
+        "start_character": 1073,
+        "end_character": 1434,
+        "percentage_start": 56.0,
+        "percentage_end": 75.5,
+        "sha256": "e75ce41dad08d501d828acca956c74701a7d1b2699b9213a3129abc218a7d4f1"
+      }
+    },
+    {
+      "label": "助理类比纠正一句话成品期待",
+      "start_quote": "你找个小助理，你给他只发一段话",
+      "function": "用熟悉助理角色说明材料和目标不够时难有满意稿。",
+      "transition": "从期待调整转到按步骤给AI明确职责。",
+      "mechanism": "反问类比与任务说明缺口",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "任务目标",
+        "已有素材",
+        "输出要求",
+        "检查标准"
+      ],
+      "fail": [
+        "用人都做不到为AI错误开脱。"
+      ],
+      "adaptation": "解释共创时问观点、接完整读取和结构卡，为什么要提供这些。",
+      "pass": [
+        "读者知道需补哪些输入而不是只降低要求。"
+      ],
+      "id": "S08",
+      "source_span": {
+        "start_character": 1434,
+        "end_character": 1537,
+        "percentage_start": 75.5,
+        "percentage_end": 81.0,
+        "sha256": "d859aa32af2ae98e46a245eaede59e9af5611f94306f40d036346493b08567ad"
+      }
+    },
+    {
+      "label": "让AI分担流程里的明确步骤",
+      "start_quote": "比如写作这件事，一个 AI 出选题",
+      "function": "将选题、框架、补材料、优化分别派给AI，并强调管理而非许愿。",
+      "transition": "具体分工后回到系统放大认知的总结。",
+      "mechanism": "岗位分工与步骤映射",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "每组件职责",
+        "交接材料",
+        "人工验收",
+        "未授权动作限制"
+      ],
+      "fail": [
+        "多AI数量成了方法有效性的证据。"
+      ],
+      "adaptation": "按七步套件列组件产出，观点等待本人、事实有来源、最终质检在最后。",
+      "pass": [
+        "每步有对象、输入输出和负责人，不强制多个模型。"
+      ],
+      "id": "S09",
+      "source_span": {
+        "start_character": 1537,
+        "end_character": 1800,
+        "percentage_start": 81.0,
+        "percentage_end": 95.2,
+        "sha256": "112a12b4f451eb6ec728dd5622a04b26f9555d57c958501354283f7607d964be"
+      }
+    },
+    {
+      "label": "回扣协作与系统价值",
+      "start_quote": "这个世界不会奖赏“自己一个人硬扛到最后的人”",
+      "function": "总结协作是放大认知的方式，升到与AI协作的作者价值观。",
+      "transition": "呼应开头独干议题，完成工作模式建议。",
+      "mechanism": "回扣与立场收束",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "今天可先整理的一项流程",
+        "工具和人需承担的责任"
+      ],
+      "fail": [
+        "营收翻倍必先流量翻倍、协作必成功。"
+      ],
+      "adaptation": "收尾建议先拆一项重复AI工作任务，试运行并检查。",
+      "pass": [
+        "建议落在一个可试流程，不保证收入增长。"
+      ],
+      "id": "S10",
+      "source_span": {
+        "start_character": 1800,
+        "end_character": 1888,
+        "percentage_start": 95.2,
+        "percentage_end": 100.0,
+        "sha256": "e47d3687ad1ded0bee5337bf1df43ee8996aa3f4d3c73ab2fc5db12e6605c18a"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "独自全包的代价与读者任务有关，承诺学会具体分工。",
+      "stage_ids": [
+        "S01",
+        "S02",
+        "S03"
+      ],
+      "evidence_needed": [
+        "任务和耗时",
+        "真实瓶颈"
+      ],
+      "failure": "赚钱口号或AI军团名称取代阅读收益。"
+    },
+    "understandable": {
+      "criterion": "借势、借力、借智和SOP每项都能翻成对象与动作。",
+      "stage_ids": [
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08",
+        "S09"
+      ],
+      "evidence_needed": [
+        "职责清单",
+        "输入输出",
+        "助理类比"
+      ],
+      "failure": "概念只有定义没有例子。"
+    },
+    "credible": {
+      "criterion": "作者瓶颈与变化真实归属，方向判断有条件，AI质量靠检查。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S09"
+      ],
+      "evidence_needed": [
+        "过程记录",
+        "实际SOP",
+        "验收证据"
+      ],
+      "failure": "多AI或流程数量作为效果证明。"
+    },
+    "fulfilled": {
+      "criterion": "读者获得先整理一项流程、明确输入、分配职责和检查的方法。",
+      "stage_ids": [
+        "S07",
+        "S08",
+        "S09",
+        "S10"
+      ],
+      "evidence_needed": [
+        "可试SOP",
+        "交接材料",
+        "检查标准"
+      ],
+      "failure": "只有别硬扛，未说明怎么交给AI。"
+    },
+    "structure": {
+      "criterion": "全包代价→协作转折→方向检查→职责定义→SOP前置→期待校正→分工运行完整。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10"
+      ],
+      "evidence_needed": [
+        "方向到执行的衔接",
+        "SOP到AI分工关系"
+      ],
+      "failure": "AI清单脱离原任务，借势与借力互不关联。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "真实全包代价解释为何需要分工。",
+      "SOP先明确任务和质量，再安排AI职责。",
+      "人的观点、材料与最终检查不能消失。"
+    ],
+    "adjustable": [
+      "方向红利段可换为当前任务需求或压缩。",
+      "多个AI可改成同一工具不同步骤。",
+      "军团、员工等比喻可用助手职责代替。"
+    ],
+    "fill_before_writing": [
+      "作者真实重复任务与瓶颈：____",
+      "SOP每步输入、输出、质量和异常：____",
+      "AI职责、作者判断与最终检查：____"
+    ]
+  },
+  "summary": "先用全包经历找到瓶颈，再从方向到SOP和明确职责解释怎样与AI协作。",
+  "tags": [
+    "公众号",
+    "AI工作流",
+    "SOP",
+    "分工",
+    "第一人称复盘"
+  ],
+  "useful_modules": [
+    "structure",
+    "opening",
+    "explanation",
+    "experience"
+  ],
+  "methods": {
+    "structure": {
+      "quote": "基于这些 SOP，我才能去思考：我到底需要 AI 给我干什么活。",
+      "observation": "先有任务流程，再确定工具职责，不从工具列表倒推。",
+      "adaptation": "用七步工作流的输入产出说明各组件怎样衔接。",
+      "limit": "只迁移先流程后工具，不保证既有SOP一定正确。"
+    },
+    "opening": {
+      "quote": "什么都 all in，最后反而变成了业务增长的最大瓶颈。",
+      "observation": "用努力增加却结果受阻的反差引出改变。",
+      "adaptation": "选择东头真实工作瓶颈，写我原来怎么干为何卡。",
+      "limit": "业务和身体代价不得捏造。"
+    },
+    "explanation": {
+      "quote": "你找个小助理，你给他只发一段话",
+      "observation": "用熟悉协作对象解释给AI说明任务的必要输入。",
+      "adaptation": "告诉新手需要提供目标、素材、判断和检查标准。",
+      "limit": "助理类比不免除对AI输出准确性的验收。"
+    },
+    "experience": {
+      "quote": "之后，我才开始研究 AI，重新思考协作流程",
+      "observation": "旧动作、代价、改法有时间顺序，第一人称解释决策。",
+      "adaptation": "讲东头七步套件的真实建设动机和可见调整。",
+      "limit": "不把原作者成果挪用，不因像我写的而造经历。"
+    }
+  },
+  "source_path": "raw/sample-36.txt",
+  "source_sha256": "1e37d4d3154d9f859474c9bdc529b77f4a6e33148bf783396e308b4b9aa72e6a",
+  "body_start_character": 36,
+  "body_end_character": 1888,
+  "source_group": "ray-wechat-2026-10-07",
+  "submitted_number": "11",
+  "source_completeness": "as_submitted",
+  "source_defect_notes": [],
+  "full_structure_reference": true,
+  "opening_reference": true,
+  "allowed_usage": [
+    "selected_structure",
+    "local_method"
+  ]
+}

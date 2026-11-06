@@ -1,0 +1,1118 @@
+{
+  "id": "sample-16",
+  "number": 16,
+  "title": "howto | Github 零基础终极教程！",
+  "short_name": "找到看懂用上再发布的长教程",
+  "family": "分层任务教程",
+  "skeleton": [
+    "范围与平台双向用途",
+    "路线和账号语言准备",
+    "榜单、关键词、AI、第三方搜寻",
+    "仓库身份和三种指标",
+    "提交分支协作与固定标签",
+    "摘要、说明书、文档与许可",
+    "release、ZIP、clone、fork四方式",
+    "按目的选择取得方式",
+    "建项目开发测试和说明许可",
+    "公开检查、本地提交、连接登录",
+    "公开仓库并远程回看",
+    "正式版本与下载回看",
+    "issue处理和PR审核",
+    "回扣成果并引导参与"
+  ],
+  "distinctive": "把使用别人的项目与发布自己的项目接在同一路线上，首次发布后还继续讲反馈和贡献维护。",
+  "promise": "面向无编程基础者，承诺从理解平台走到找到、判断、使用资源并公开第一个项目；完整和专家属于原稿承诺。",
+  "applicability": [
+    "资源发现到使用发布的长篇工具入门",
+    "需解释概念并形成实际产物的教程",
+    "需比较取得方式与协作角色的教学"
+  ],
+  "material_preconditions": [
+    "可定位项目、页面标签和各方式真实产物",
+    "可测试、可公开且权利明确的示范项目",
+    "本地和远程各阶段可核对结果"
+  ],
+  "source_limits": [
+    "只有转写稿，无法查看动画、界面和安装演示；KUP、get up及许可证名称多处失真。",
+    "许可商用说法属原作者概括，本卡不核验法律准确性；软件、热度、版本、安装路径也未实时核验。",
+    "项目和数量为木子自述；AI回复和观看教程不能证明迁移者完成操作或取得同样结果。"
+  ],
+  "stages": [
+    {
+      "label": "全程范围承诺",
+      "function": "建立从认识平台到公开项目的零基础学习预期。",
+      "transition": "先列终点与内容，再进入平台是什么；身份介绍夹在开场中。",
+      "mechanism": "结果先行、章节预告、明确零基础假设。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "本篇能完成的学习终点",
+        "后文逐一覆盖的任务清单"
+      ],
+      "pass": [
+        "开场范围与后文实际任务相符。"
+      ],
+      "fail": [
+        "用最完整和专家替代可检查终点。"
+      ],
+      "adaptation": "在东头AI教程开头说明读者最终能完成的任务和前提。",
+      "id": "S01",
+      "start_quote": "这是你能看到最完整的KUP0基础系统教程。",
+      "source_span": {
+        "start_character": 38,
+        "end_character": 272,
+        "percentage_start": 0.0,
+        "percentage_end": 1.6,
+        "sha256": "c7af36a58857617dd6237c441e78312e97f62d095148d7b75f7241f9a8e9f88c"
+      }
+    },
+    {
+      "label": "资源获取与共同构建",
+      "function": "以免费资源、软件和作者项目解释平台的获取与协作两种用途。",
+      "transition": "回答是什么后，用四条路线组织学习。",
+      "mechanism": "多类型举例、获取与贡献对照。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "可定位的资源和软件项目",
+        "一个共同完善的项目实例"
+      ],
+      "pass": [
+        "同时交代获取资源和参与构建。"
+      ],
+      "fail": [
+        "只列软件名，未说明平台用途。"
+      ],
+      "adaptation": "用一份AI资料和一个协作项目解释工具的双向用途。",
+      "id": "S02",
+      "start_quote": "首先，什么是guar GI上可以找到",
+      "source_span": {
+        "start_character": 272,
+        "end_character": 964,
+        "percentage_start": 1.6,
+        "percentage_end": 6.4,
+        "sha256": "aed703e339ef05643b20dde2612e47154f36b5c2f96622bfdc98e37edaee9f20"
+      }
+    },
+    {
+      "label": "长教程路线导航",
+      "function": "给找到、判断、用上、公开和协作划出先后路线。",
+      "transition": "由平台用途形成路线，先解决登录和语言条件。",
+      "mechanism": "编号地图、任务逐级升级。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "四阶段任务和各阶段的完成结果"
+      ],
+      "pass": [
+        "路线每项能在后文找到对应结果。"
+      ],
+      "fail": [
+        "目录存在但后文跳过任务。"
+      ],
+      "adaptation": "为AI长流程先给阶段图和每段结果。",
+      "id": "S03",
+      "start_quote": "那下面呢，我们就以这个顺序，1我们首先讲啊",
+      "source_span": {
+        "start_character": 964,
+        "end_character": 1146,
+        "percentage_start": 6.4,
+        "percentage_end": 7.7,
+        "sha256": "9d9e418e1148be4b19f2ccfcffb7e013b473e0282ed6ac6fb42a7267ce25ba73"
+      }
+    },
+    {
+      "label": "账号与语言准备",
+      "function": "交代账号准备和英文页面的应对方式。",
+      "transition": "准备好学习起点后进入榜单搜寻。",
+      "mechanism": "前置条件、可选翻译方案。",
+      "requirement": "conditional",
+      "condition": "目标平台需要账号或存在语言障碍时保留，替换成实际准备项。",
+      "materials": [
+        "账号登录状态",
+        "界面语言与替代方案"
+      ],
+      "pass": [
+        "说明从什么账号和语言状态开始。"
+      ],
+      "fail": [
+        "直接讲按钮，读者尚未登录或认不出界面。"
+      ],
+      "adaptation": "先核对AI工具的账号、权限和语言前提。",
+      "id": "S04",
+      "start_quote": "但在此之前呢，还是需要自己去get up的官网",
+      "source_span": {
+        "start_character": 1146,
+        "end_character": 1382,
+        "percentage_start": 7.7,
+        "percentage_end": 9.3,
+        "sha256": "6f52e9eff3c1b957aafd804aa5887ff1e3b6fc9f1fa4fa28d945aa7adee231cb"
+      }
+    },
+    {
+      "label": "榜单发现项目",
+      "function": "以热门榜和时间范围发现项目，说明观察热点与需求的用途。",
+      "transition": "先教无明确名字时浏览，接着转入关键词定位。",
+      "mechanism": "入口路径、范围切换、候选举例。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "实际榜单入口和时间范围",
+        "候选项目与选取理由"
+      ],
+      "pass": [
+        "入口、范围和适用目标都清楚。"
+      ],
+      "fail": [
+        "只有热门项目名，没有如何找和为何选。"
+      ],
+      "adaptation": "展示AI资源榜单的发现用途与热度局限。",
+      "id": "S05",
+      "start_quote": "这里呢，点击左上角的侧边栏，打开之后点击explore",
+      "source_span": {
+        "start_character": 1382,
+        "end_character": 1832,
+        "percentage_start": 9.3,
+        "percentage_end": 12.4,
+        "sha256": "6f5c6db90c46a1f23e8404158c7b751d3056e0a7ace312a956624593cb9796f9"
+      }
+    },
+    {
+      "label": "关键词定位项目",
+      "function": "以已知软件名演示精确搜索。",
+      "transition": "从榜单探索转为有目标定位，再指出名称匹配局限。",
+      "mechanism": "已知名称搜索、结果定位。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "已知项目名或关键词",
+        "能确认身份的搜索结果"
+      ],
+      "pass": [
+        "结果可定位到具体目标。"
+      ],
+      "fail": [
+        "把第一个同名结果直接认作目标。"
+      ],
+      "adaptation": "用工具名搜索并核对作者和项目身份。",
+      "id": "S06",
+      "start_quote": "除了Trending之外，另外一个搜索guitar项目最好的方式",
+      "source_span": {
+        "start_character": 1832,
+        "end_character": 2021,
+        "percentage_start": 12.4,
+        "percentage_end": 13.8,
+        "sha256": "a400644f5966b4697f4f43c9bc6950c99353d470953c5ddbdf00212df8cc8614"
+      }
+    },
+    {
+      "label": "功能需求转为AI推荐",
+      "function": "指出关键词不等于功能适配，用需求换取候选、场景和特点。",
+      "transition": "从名称搜索转向需求匹配，再补充外部推荐源。",
+      "mechanism": "先讲不足，再演示需求输入与候选比较。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "功能需求和场景",
+        "AI推荐候选及出处"
+      ],
+      "pass": [
+        "需求、候选差异和选择理由相对应。"
+      ],
+      "fail": [
+        "只展示AI回答，没有核对适用性。"
+      ],
+      "adaptation": "把AI选工具写成需求输入、候选比较和核查。",
+      "id": "S07",
+      "start_quote": "在这里搜索本质上是对关键词的一个匹配",
+      "source_span": {
+        "start_character": 2021,
+        "end_character": 2295,
+        "percentage_start": 13.8,
+        "percentage_end": 15.7,
+        "sha256": "0b78aa2162c5bb161962cb9aa7e2b87b44fece8a4b70bef57883a424fd0448ba"
+      }
+    },
+    {
+      "label": "第三方来源与搜寻小结",
+      "function": "补充第三方和自媒体来源，回顾四条搜寻途径。",
+      "transition": "收束找到项目的阶段，带入选定仓库。",
+      "mechanism": "来源补充、阶段复述。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "具体推荐来源",
+        "四途径的适用目的对照"
+      ],
+      "pass": [
+        "四途径各有用途并指向下一步。"
+      ],
+      "fail": [
+        "四个名字并列但无选择依据。"
+      ],
+      "adaptation": "以用途对照收束AI资料搜寻段。",
+      "id": "S08",
+      "start_quote": "除了官方的方式和AI推荐之外呢，还有很多第三方的网站",
+      "source_span": {
+        "start_character": 2295,
+        "end_character": 2610,
+        "percentage_start": 15.7,
+        "percentage_end": 17.8,
+        "sha256": "fcc581ab466c5b7988b10394a606c66e46e60bb8cb84751fb075ac67f8704a1b"
+      }
+    },
+    {
+      "label": "仓库身份与公开性",
+      "function": "解释仓库、作者项目组合、栏目、公开私有，建立页面阅读坐标。",
+      "transition": "由找到进入看懂，协作栏目先延期到后文。",
+      "mechanism": "逐项解释、身份组合、暂缓无关概念。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "作者和项目名称",
+        "栏目与公开状态"
+      ],
+      "pass": [
+        "读者能定位唯一项目并识别当前需要的栏目。"
+      ],
+      "fail": [
+        "只有标签翻译，没有当前阅读任务。"
+      ],
+      "adaptation": "先认出AI项目身份和权限，再讲相关界面。",
+      "id": "S09",
+      "start_quote": "现在我们通过四种方式中的一种找到了我们自己的想要的项目",
+      "source_span": {
+        "start_character": 2610,
+        "end_character": 3272,
+        "percentage_start": 17.8,
+        "percentage_end": 22.4,
+        "sha256": "d1900788207981bd91e56dd0f4761bf559d4507e485dd28b8c5e47d2b1e3d807"
+      }
+    },
+    {
+      "label": "动态通知watch",
+      "function": "解释watch通知范围及参与者的需求。",
+      "transition": "仓库定位后依次进入三个指标，下一项讲副本。",
+      "mechanism": "指标定义、适用人群。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "通知范围与使用者关注需求"
+      ],
+      "pass": [
+        "明确点亮后得到什么及谁需要。"
+      ],
+      "fail": [
+        "与点赞收藏混为一谈。"
+      ],
+      "adaptation": "解释AI工具开关时交代作用和适用者。",
+      "id": "S10",
+      "start_quote": "好了，那我们接着往右看，这里出现了三个非常重要的指标",
+      "source_span": {
+        "start_character": 3272,
+        "end_character": 3460,
+        "percentage_start": 22.4,
+        "percentage_end": 23.7,
+        "sha256": "ef6397151f5fc3a0bd9d42bb2466537149995a8151846eeaf38976395c653a5a"
+      }
+    },
+    {
+      "label": "副本指标fork",
+      "function": "用账号内复制说明二次开发与贡献入口。",
+      "transition": "与通知区分，为下载方式和PR预埋副本概念。",
+      "mechanism": "点击前后身份对照、用途例子。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "原仓库与个人副本",
+        "实际修改或贡献需求"
+      ],
+      "pass": [
+        "明确副本所在位置和用途。"
+      ],
+      "fail": [
+        "说复制却不讲位置和权限。"
+      ],
+      "adaptation": "用原件与副本身份解释AI协作入口。",
+      "id": "S11",
+      "start_quote": "第二个指标叫做fok fok就是创建一个分支的意思",
+      "source_span": {
+        "start_character": 3460,
+        "end_character": 4094,
+        "percentage_start": 23.7,
+        "percentage_end": 28.1,
+        "sha256": "967ff1e3a80f5efc23934160cd05f6d1f65e5eaa3042ffa6599d2f5f511121d6"
+      }
+    },
+    {
+      "label": "收藏与认可star",
+      "function": "说明star的回找和点赞两层含义；原稿夹带热门数值。",
+      "transition": "三个指标讲完后进入协作和版本概念。",
+      "mechanism": "一词两用、收藏回找、热度举例。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "收藏回找路径",
+        "如引用热度需有时点来源"
+      ],
+      "pass": [
+        "两种作用分开，热度不替代质量判断。"
+      ],
+      "fail": [
+        "把star数当可靠或安全的证明。"
+      ],
+      "adaptation": "演示AI资源收藏回找，热度只作有来源的辅助信息。",
+      "id": "S12",
+      "start_quote": "还有第三个指标就是star，也是大家听的最多的这样一个指标",
+      "source_span": {
+        "start_character": 4094,
+        "end_character": 4509,
+        "percentage_start": 28.1,
+        "percentage_end": 31.0,
+        "sha256": "065cc9097be86dcc1f486163f2e91d45fb018c75ce7abdcfd418a9e8a21703cd"
+      }
+    },
+    {
+      "label": "提交分支与审核合并",
+      "function": "从提交保存到两人并行修改、请求审核与合并，解释分支协作。",
+      "transition": "从指标走入工作原理，接着讲固定版本。",
+      "mechanism": "时间线、两人对照、通过和退回两种审核结果。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "主线和修复分支的同题演示",
+        "提交审核合并前后状态"
+      ],
+      "pass": [
+        "同一案例说明提交如何保存状态、分支如何并行，以及审核通过后合并、未通过后修改再申请。"
+      ],
+      "fail": [
+        "只解释名字，没有并行到汇总过程；把PR直接等同合并，遗漏审核或退回后的修改。"
+      ],
+      "adaptation": "以同一AI项目的主线、独立修改和审核解释协作。",
+      "id": "S13",
+      "start_quote": "好，我们接着往下看，这里呢，我们看到有两个英文单词",
+      "source_span": {
+        "start_character": 4509,
+        "end_character": 5983,
+        "percentage_start": 31.0,
+        "percentage_end": 41.2,
+        "sha256": "62d16c6ab21da9f1a8e100993e38d98b05ce874905a643b4bfd477e6615286fd"
+      }
+    },
+    {
+      "label": "固定版本标签",
+      "function": "把持续开发和固定发布区分，解释标签对应固定提交。",
+      "transition": "概括分支后转向用户下载时识别版本。",
+      "mechanism": "过程与节点对照、版本号拆解。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "版本与提交对应",
+        "版本名的实际约定"
+      ],
+      "pass": [
+        "固定标签与变化分支区分清楚。"
+      ],
+      "fail": [
+        "将版本命名约定写成普遍强制规则。"
+      ],
+      "adaptation": "用可复现版本节点说明AI项目交付状态。",
+      "id": "S14",
+      "start_quote": "Branches分支解决了怎么多个人同时开发的问题",
+      "source_span": {
+        "start_character": 5983,
+        "end_character": 6324,
+        "percentage_start": 41.2,
+        "percentage_end": 43.6,
+        "sha256": "9eb5f7336d5b354eba759bfb23ea685c6057ffe7c954a9c284be5b53ecfa9b40"
+      }
+    },
+    {
+      "label": "摘要标签与发布预览",
+      "function": "说明about、标签、release变化和系统安装包的阅读任务。",
+      "transition": "由版本概念进入下载预览，之后深入说明书。",
+      "mechanism": "界面扫读、变更分类、系统对应。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "用途摘要与类别标签",
+        "版本变更及系统包信息"
+      ],
+      "pass": [
+        "能判断用途并识别版本和相应包。"
+      ],
+      "fail": [
+        "只翻译栏目，不解释判断用途。"
+      ],
+      "adaptation": "给AI项目安排摘要与版本变化的阅读顺序。",
+      "id": "S15",
+      "start_quote": "现在我们都看完了，接着我们往右边看",
+      "source_span": {
+        "start_character": 6324,
+        "end_character": 6706,
+        "percentage_start": 43.6,
+        "percentage_end": 46.3,
+        "sha256": "ce7511e5ade9450427fcb85d6b483976da5988946b123ce37ec71e9b1e3995de"
+      }
+    },
+    {
+      "label": "说明书与详细文档",
+      "function": "介绍README的功能、快速开始、语言版和更详细文档。",
+      "transition": "先回答怎么用，再进入是否允许用的许可问题。",
+      "mechanism": "说明书类比、章节地图、进阶入口。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "功能及安装使用说明",
+        "语言版本和详细文档入口"
+      ],
+      "pass": [
+        "说明书能回答用途、开始方式和进阶查找位置。"
+      ],
+      "fail": [
+        "只说README重要，没有阅读任务。"
+      ],
+      "adaptation": "用说明书把AI功能概览连到输入输出与操作。",
+      "id": "S16",
+      "start_quote": "现在回到项目，我们继续往下拉。",
+      "source_span": {
+        "start_character": 6706,
+        "end_character": 7224,
+        "percentage_start": 46.3,
+        "percentage_end": 49.9,
+        "sha256": "ff47268068dd2478c23d552351ed4979fc89655036d48bc9282ce954fcb3aa21"
+      }
+    },
+    {
+      "label": "七类许可证差异",
+      "function": "按宽松到限制更多比较修改、公开和商用权限。",
+      "transition": "由怎么用转到允许怎么用，之后才讲取得方式。",
+      "mechanism": "统一维度比较、限制逐项增加。",
+      "requirement": "conditional",
+      "condition": "涉及开源复用、修改或商用时保留，解释须依据真实许可原文核查。",
+      "materials": [
+        "目标项目许可证原文",
+        "针对计划用途的权利义务核查"
+      ],
+      "pass": [
+        "许可证用相同维度比较，并标明概括待核查。"
+      ],
+      "fail": [
+        "照搬放心商用结论，或只列七个名字。"
+      ],
+      "adaptation": "在AI复用内容中独立检查授权与使用边界。",
+      "id": "S17",
+      "start_quote": "除了Read me文件之外，还有一个特别重要的概念",
+      "source_span": {
+        "start_character": 7224,
+        "end_character": 8299,
+        "percentage_start": 49.9,
+        "percentage_end": 57.3,
+        "sha256": "1810e977da7f7f2ba6c2a44b3bbaf567546d00a3060a099f11444606e64cedd1"
+      }
+    },
+    {
+      "label": "方式一release成品包",
+      "function": "从用途许可进入实际使用，第一方式面向只想安装成品的人。",
+      "transition": "先列四方式再逐项说明，下一项是源码包。",
+      "mechanism": "问题重述、系统匹配、产物小结。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "实际存在的安装包",
+        "读者系统与安装后状态"
+      ],
+      "pass": [
+        "讲清成品产物、适用目的和使用状态。"
+      ],
+      "fail": [
+        "默认所有项目都有安装包。"
+      ],
+      "adaptation": "用真实提供的AI成品包说明获得什么结果。",
+      "id": "S18",
+      "start_quote": "前面啊，通过read me, 我们知道了这个项目是干什么的",
+      "source_span": {
+        "start_character": 8299,
+        "end_character": 8818,
+        "percentage_start": 57.3,
+        "percentage_end": 60.9,
+        "sha256": "f118a5074098817420a361c15f001d5e0d518fb5d8a32b916bc95215e9c7b2ab"
+      }
+    },
+    {
+      "label": "方式二ZIP源文件",
+      "function": "说明压缩包取得源文件，通常不能当安装包运行。",
+      "transition": "区别成品包，下一项增加历史和同步。",
+      "mechanism": "下载解压、源码成品对照。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "解压目录",
+        "临时查看源文件的目的"
+      ],
+      "pass": [
+        "说明源码包内容和使用限制。"
+      ],
+      "fail": [
+        "暗示解压源码即可双击使用。"
+      ],
+      "adaptation": "分清AI教程中的文件和可运行成品。",
+      "id": "S19",
+      "start_quote": "Release之外的第二种下载项目的方",
+      "source_span": {
+        "start_character": 8818,
+        "end_character": 9024,
+        "percentage_start": 60.9,
+        "percentage_end": 62.3,
+        "sha256": "2278a76a43001f27a8250bcd0ea85d7115dede2b7b55b261e543071ab3535e6c"
+      }
+    },
+    {
+      "label": "方式三clone本地仓库",
+      "function": "解释克隆带历史并支持更新和本地修改。",
+      "transition": "在ZIP上增加历史同步，再转到云端副本。",
+      "mechanism": "静态文件与仓库对照、AI操作替代、改界面例子。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "项目地址与本地仓库状态",
+        "更新或修改需要"
+      ],
+      "pass": [
+        "交代本地位置、历史和长期更新用途。"
+      ],
+      "fail": [
+        "仅说下载，没有与ZIP的差别。"
+      ],
+      "adaptation": "核对AI取得的本地仓库和更新状态。",
+      "id": "S20",
+      "start_quote": "第三种下载和使用这个项目的方法是克隆",
+      "source_span": {
+        "start_character": 9024,
+        "end_character": 9760,
+        "percentage_start": 62.3,
+        "percentage_end": 67.5,
+        "sha256": "d6e5606f52587b5051113bf44342d586c00e1fee70d6ae4b23e1f75f29e98fe8"
+      }
+    },
+    {
+      "label": "方式四fork贡献链路",
+      "function": "解释个人云端副本、本地修改、推回副本与请求原仓库合并。",
+      "transition": "区别clone位置，以无改动状态说明PR条件，再汇总。",
+      "mechanism": "权限理由、流向对照、无差异演示。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "原仓库与副本关系",
+        "修改推送和请求状态"
+      ],
+      "pass": [
+        "云端位置和贡献完整方向都清楚。"
+      ],
+      "fail": [
+        "fork、clone、PR混成下载按钮。"
+      ],
+      "adaptation": "写明AI协作修改从哪来到哪去及谁审核。",
+      "id": "S21",
+      "start_quote": "第4种方法fok，这个其实我们也讲过了",
+      "source_span": {
+        "start_character": 9760,
+        "end_character": 10390,
+        "percentage_start": 67.5,
+        "percentage_end": 71.8,
+        "sha256": "a2a9b07b49ab7cfe04cd1df7533a2389c29225b38224779cd1f681b20e7dd447"
+      }
+    },
+    {
+      "label": "四种方式按目的选择",
+      "function": "把产物与目标对应，帮助读者自主选择。",
+      "transition": "收束使用别人项目，转入公开自己的项目。",
+      "mechanism": "四项复述、目的一一匹配。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "成品、临时文件、长期开发、贡献目标对照"
+      ],
+      "pass": [
+        "可按实际目标选择方式并说出理由。"
+      ],
+      "fail": [
+        "仅复述名称，没有产物和用途。"
+      ],
+      "adaptation": "把AI多入口归结为用途选择。",
+      "id": "S22",
+      "start_quote": "现在我们总结一下4种下载和使用开源项目的方式",
+      "source_span": {
+        "start_character": 10390,
+        "end_character": 10700,
+        "percentage_start": 71.8,
+        "percentage_end": 74.0,
+        "sha256": "d3fec1b082d7768d2265d72d32c321d29f1217f694960131292fc8cb7b4f520c"
+      }
+    },
+    {
+      "label": "创建自己的示范项目",
+      "function": "由使用者转为作者，以空目录和Skill示例划出发布范围。",
+      "transition": "下载汇总后启动开源实践，接着开发测试。",
+      "mechanism": "角色转换、任务边界、明确起点。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "拟公开项目目标",
+        "空目录到项目目录的状态"
+      ],
+      "pass": [
+        "说明本段重点是公开流程和示例对象。"
+      ],
+      "fail": [
+        "做软件与公开流程混成大任务。"
+      ],
+      "adaptation": "先限定东头AI项目的产物再讲交付。",
+      "id": "S23",
+      "start_quote": "这个教程目前为止啊，我们一直授予和使用别人的项目",
+      "source_span": {
+        "start_character": 10700,
+        "end_character": 11027,
+        "percentage_start": 74.0,
+        "percentage_end": 76.2,
+        "sha256": "141a9c36eb506ba9b58508f6de54d6401e96c03d44d7e0a7d5f202856519214f"
+      }
+    },
+    {
+      "label": "开发与输入输出试验",
+      "function": "用文章转知识卡试验确认示例可用，再准备公开。",
+      "transition": "建项目后先验证结果，再写他人使用说明。",
+      "mechanism": "最小示例、实际试用、满意后推进。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "实际输入和输出",
+        "可用的判定标准"
+      ],
+      "pass": [
+        "公开前有可检查的输入输出判断。"
+      ],
+      "fail": [
+        "只称AI开发完成，没有试验。"
+      ],
+      "adaptation": "以真实素材验收东头AI工作流输出。",
+      "id": "S24",
+      "start_quote": "第二步，我们完成项目的开发",
+      "source_span": {
+        "start_character": 11027,
+        "end_character": 11372,
+        "percentage_start": 76.2,
+        "percentage_end": 78.6,
+        "sha256": "6658c6b67f3acc9aa5516325a486adb03cd91d4659dce030defb1b9f49e7df5a"
+      }
+    },
+    {
+      "label": "面向用户写README",
+      "function": "准备问题、功能、安装、使用、用例说明，并由作者审核。",
+      "transition": "从自己满意转为他人能用，接着补许可。",
+      "mechanism": "读者视角清单、AI起草人审核。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "目标使用者和问题",
+        "实际步骤及输入输出用例"
+      ],
+      "pass": [
+        "新用户知道如何开始和核对结果。"
+      ],
+      "fail": [
+        "只有功能宣传，没有开始方法。"
+      ],
+      "adaptation": "为东头AI成果写他人可理解的说明与用例。",
+      "id": "S25",
+      "start_quote": "每个开源项目都要有这样一个read me文件",
+      "source_span": {
+        "start_character": 11372,
+        "end_character": 11631,
+        "percentage_start": 78.6,
+        "percentage_end": 80.4,
+        "sha256": "a79d5a67ce7994554680166142e86c706ccb7d37b004455c60cea6aa344d2653"
+      }
+    },
+    {
+      "label": "添加使用许可",
+      "function": "声明他人可以对项目做什么。",
+      "transition": "说明怎么用之后声明允许怎么用，随后检查公开内容。",
+      "mechanism": "开放意图与许可文件对应。",
+      "requirement": "conditional",
+      "condition": "公开可复用项目时保留；许可类型随实际权利与开放意图选择。",
+      "materials": [
+        "作者权利状态",
+        "与开放意图一致的许可文件"
+      ],
+      "pass": [
+        "许可选择和实际开放范围相符。"
+      ],
+      "fail": [
+        "照抄MIT却未确认权利和开放意图。"
+      ],
+      "adaptation": "按东头素材的真实授权说明复用范围。",
+      "id": "S26",
+      "start_quote": "有了read me文件之后呢，现在我们要添加许可证",
+      "source_span": {
+        "start_character": 11631,
+        "end_character": 11752,
+        "percentage_start": 80.4,
+        "percentage_end": 81.3,
+        "sha256": "ee438aecd99b4302076d1ff6d11864fc2272fec46ff6dd020f7bd6d8439b58ca"
+      }
+    },
+    {
+      "label": "公开内容安全检查",
+      "function": "检查凭据、隐私、绝对路径、临时文件和不宜公开内容。",
+      "transition": "说明许可完成后建立公开门槛，再进入版本管理。",
+      "mechanism": "公开前清单与处理结果。",
+      "requirement": "conditional",
+      "condition": "当篇包含公开或外发项目时保留，按实际拟公开文件检查；不能因为示例简单就省去这一环。",
+      "materials": [
+        "完整拟公开文件清单",
+        "检查与清理结果"
+      ],
+      "pass": [
+        "公开前有范围、结果及必要处理。"
+      ],
+      "fail": [
+        "只有检查标题，没有范围或结果。"
+      ],
+      "adaptation": "外发东头AI项目之前核查实际公开材料。",
+      "id": "S27",
+      "start_quote": "接下来我们万事俱备了，只差最后一道工序就是安全检查",
+      "source_span": {
+        "start_character": 11752,
+        "end_character": 11956,
+        "percentage_start": 81.3,
+        "percentage_end": 82.7,
+        "sha256": "ecfd01f0d57adb1123eecce1d87c7a2117b65d578722634f60ea4a26a8caed88"
+      }
+    },
+    {
+      "label": "本地依赖与首次提交",
+      "function": "检查本地版本工具、初始化默认分支并保存首个提交。",
+      "transition": "公开检查后形成保存点；随后指出本地还未上传。",
+      "mechanism": "环境检测、首次保存、分支概念回扣。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "工具检测结果",
+        "仓库分支及首次提交状态"
+      ],
+      "pass": [
+        "区分环境、初始化和提交三种状态。"
+      ],
+      "fail": [
+        "环境未确认就跳到发布成功。"
+      ],
+      "adaptation": "把AI项目准备、保存和交付状态分别核对。",
+      "id": "S28",
+      "start_quote": "下面我们开始正式看一看这个项目，假设现在我们这个电脑里没有配置任何开发的环境",
+      "source_span": {
+        "start_character": 11956,
+        "end_character": 12287,
+        "percentage_start": 82.7,
+        "percentage_end": 85.0,
+        "sha256": "fbff2c3378b218c161a7d88cbebece3d24d6622c69a9ac851807f432bf41d717"
+      }
+    },
+    {
+      "label": "远程工具与登录连接",
+      "function": "用远程工具与账号登录建立发布条件，区分本地保存和公开。",
+      "transition": "本地完成后连接账号，再创建远程仓库。",
+      "mechanism": "本地远程对照、安装登录检查、人工登录示范。",
+      "requirement": "conditional",
+      "condition": "发布依赖账号或工具连接时保留，替换为真实连接路径。",
+      "materials": [
+        "远程工具可用状态",
+        "正确账号与登录状态"
+      ],
+      "pass": [
+        "发布前核对工具和账号状态。"
+      ],
+      "fail": [
+        "把AI声称登录当发布成功。"
+      ],
+      "adaptation": "分别核对AI外部操作的工具、账号与权限。",
+      "id": "S29",
+      "start_quote": "但是呢，现在提交还在本地，我们想要开源",
+      "source_span": {
+        "start_character": 12287,
+        "end_character": 12782,
+        "percentage_start": 85.0,
+        "percentage_end": 88.4,
+        "sha256": "095a51b87f981f81b7e86820ce27edab579b75213f9a37f94f2427e22c441adb"
+      }
+    },
+    {
+      "label": "公开仓库与远程回看",
+      "function": "设定名称、可见性、分支，发布后到网页确认项目和关键文件。",
+      "transition": "连接完成后发布，发现无release再补正式版本。",
+      "mechanism": "明确参数、外部回读、关键文件核对。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "发布名称公开性目标分支",
+        "远程仓库说明书与许可回读"
+      ],
+      "pass": [
+        "真实目标出现本次项目且关键文件相符。"
+      ],
+      "fail": [
+        "只用AI完成回复，没有外部回读。"
+      ],
+      "adaptation": "东头外部交付核对目标位置和关键产物。",
+      "id": "S30",
+      "start_quote": "这里啊，我们告诉AI，请把当前的项目发布到get up",
+      "source_span": {
+        "start_character": 12782,
+        "end_character": 13102,
+        "percentage_start": 88.4,
+        "percentage_end": 90.6,
+        "sha256": "82d944589d5f564de2e74220d1db59dbda3f931746cfd7854eecd1cf28c7c39d"
+      }
+    },
+    {
+      "label": "正式版本与下载回看",
+      "function": "区分仓库公开与版本发布，创建标签说明并确认下载内容。",
+      "transition": "由发现缺口触发版本发布，随后讲维护。",
+      "mechanism": "缺口检查、刷新回看、产物类型说明。",
+      "requirement": "conditional",
+      "condition": "承诺版本化发布或下载时保留，可替换为目标平台版本机制。",
+      "materials": [
+        "版本号与发布说明",
+        "远程标签版本页和下载文件"
+      ],
+      "pass": [
+        "区分仓库与版本，并说明下载产物。"
+      ],
+      "fail": [
+        "源码发布被说成安装包，或未回看版本页。"
+      ],
+      "adaptation": "明确AI成果的交付版本和实际文件类型。",
+      "id": "S31",
+      "start_quote": "哎，不过大家可以看到右边release这里啊，没有任何正式发布的版本啊",
+      "source_span": {
+        "start_character": 13102,
+        "end_character": 13457,
+        "percentage_start": 90.6,
+        "percentage_end": 93.1,
+        "sha256": "ee7ba88c5c518fcec7ee46c2c5bd375c1ec2075a78b982324bb1d4024ad93b03"
+      }
+    },
+    {
+      "label": "issue问题反馈闭环",
+      "function": "从未解决已解决状态讲环境追问、定位和修复。",
+      "transition": "发布后进入用户反馈，接着转为贡献审核。",
+      "mechanism": "具体问题、状态区分、定位前追问。",
+      "requirement": "conditional",
+      "condition": "成果会持续被使用且收反馈时保留，可替换实际反馈渠道。",
+      "materials": [
+        "反馈和复现环境",
+        "问题处理与验证记录"
+      ],
+      "pass": [
+        "反馈有环境和处理状态，新项目无反馈不称修复成功。"
+      ],
+      "fail": [
+        "只有问题数，没有动作；无问题被写成修复成功。"
+      ],
+      "adaptation": "收集AI流程失败输入、环境和处理状态。",
+      "id": "S32",
+      "start_quote": "下面我们简单讲一下如何维护啊",
+      "source_span": {
+        "start_character": 13457,
+        "end_character": 13933,
+        "percentage_start": 93.1,
+        "percentage_end": 96.4,
+        "sha256": "048efced4325b9ad28fc022c2f4f92936406a30725fa238fb437c3c54a897497"
+      }
+    },
+    {
+      "label": "PR贡献审核闭环",
+      "function": "说明他人修改请求及是否纳入主线的判断。",
+      "transition": "区分使用者报错与贡献者修改，最后总结路线。",
+      "mechanism": "概念回扣、待处理已处理、审核选择。",
+      "requirement": "conditional",
+      "condition": "涉及多人贡献时保留，不把请求默认合并。",
+      "materials": [
+        "贡献差异和目的",
+        "验证或审核意见及处理状态"
+      ],
+      "pass": [
+        "依据具体差异决定是否接纳。"
+      ],
+      "fail": [
+        "只有请求数或AI推荐，没有审阅依据。"
+      ],
+      "adaptation": "为AI协作贡献保留差异审阅和质量验收。",
+      "id": "S33",
+      "start_quote": "除了issues之后呢，我们还有poor request",
+      "source_span": {
+        "start_character": 13933,
+        "end_character": 14231,
+        "percentage_start": 96.4,
+        "percentage_end": 98.5,
+        "sha256": "a2f039f54d22038a62fa7329c25699d6bcca33c31ccf4fc75a7947ccd97cf27f"
+      }
+    },
+    {
+      "label": "成果回顾与参与引导",
+      "function": "回扣资源、界面、许可、取得和公开终点，再引导贡献和关注。",
+      "transition": "与开头范围照应，关注话术作为可选收尾。",
+      "mechanism": "成果复述、首尾照应、参与号召。",
+      "requirement": "optional",
+      "condition": "可保留成果回顾；作者身份、关注和夸张催关注可删改。",
+      "materials": [
+        "各阶段实际结果及尚待验证事项"
+      ],
+      "pass": [
+        "回顾和正文证据一致。"
+      ],
+      "fail": [
+        "把听懂教程当已完成开源。"
+      ],
+      "adaptation": "列出东头教程的可检查产物并给下一步。",
+      "id": "S34",
+      "start_quote": "好，到这里我们从什么是开源项目一路走到了你自己开源第一个项目",
+      "source_span": {
+        "start_character": 14231,
+        "end_character": 14451,
+        "percentage_start": 98.5,
+        "percentage_end": 100.0,
+        "sha256": "3a72fd51e59f2587bc784af6b13e00992740bd38df4e1a0538ddb08276e467f4"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "终点具体，路线显示零基础读者从找资源走到公开项目。",
+      "stage_ids": [
+        "S01",
+        "S02",
+        "S03"
+      ],
+      "evidence_needed": [
+        "开场范围",
+        "四阶段路线及正文对应"
+      ],
+      "failure": "只有完整和专家等承诺，没有具体终点。"
+    },
+    "understandable": {
+      "criterion": "搜寻、概念、取得方式和本地远程状态分别解释，可回答每种方式为何选。",
+      "stage_ids": [
+        "S05",
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S12",
+        "S13",
+        "S14",
+        "S16",
+        "S18",
+        "S19",
+        "S20",
+        "S21",
+        "S22"
+      ],
+      "evidence_needed": [
+        "概念后例子与状态对照",
+        "目的和产物对应"
+      ],
+      "failure": "英文翻译很多但位置、概念关系和产物混淆。"
+    },
+    "credible": {
+      "criterion": "身份、许可、输入输出和远程结果可定位，未把热度及AI回复当完成证明。",
+      "stage_ids": [
+        "S09",
+        "S17",
+        "S24",
+        "S27",
+        "S30",
+        "S31",
+        "S32",
+        "S33"
+      ],
+      "evidence_needed": [
+        "项目与许可原文",
+        "试验输入输出",
+        "检查和远程文件版本反馈记录"
+      ],
+      "failure": "转写概括或AI声称被当作已核验结论。"
+    },
+    "fulfilled": {
+      "criterion": "承诺逐项对应结果，发布分别核对仓库和版本。",
+      "stage_ids": [
+        "S03",
+        "S22",
+        "S24",
+        "S28",
+        "S30",
+        "S31",
+        "S34"
+      ],
+      "evidence_needed": [
+        "开场和收尾对照",
+        "实际测试提交仓库和版本产物"
+      ],
+      "failure": "步骤齐全却未形成或未确认产物，仍称已完成。"
+    },
+    "structure": {
+      "criterion": "保持发现、判断、取得、发布、维护依赖顺序，四方式和issue/PR各自完成任务。",
+      "stage_ids": [
+        "S03",
+        "S08",
+        "S17",
+        "S18",
+        "S19",
+        "S20",
+        "S21",
+        "S22",
+        "S23",
+        "S27",
+        "S28",
+        "S29",
+        "S30",
+        "S31",
+        "S32",
+        "S33"
+      ],
+      "evidence_needed": [
+        "阶段衔接",
+        "各方式说明",
+        "公开前条件和公开后维护"
+      ],
+      "failure": "四方式被合并，公开先于检查，维护被总结吞掉。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "找到、看懂、用上、公开、维护依次升级",
+      "搜寻四途径与取得四方式分开对应目的产物",
+      "用同一项目状态解释协作概念",
+      "公开前检查及公开后真实回看",
+      "使用问题与贡献审核分别说明"
+    ],
+    "adjustable": [
+      "软件案例、平台标签、版本名与篇幅",
+      "账号工具路径按真实环境替换",
+      "许可比较数量随任务及依据调整",
+      "身份、热度、关注收尾可调整"
+    ],
+    "fill_before_writing": [
+      "第四步确定的标题读者与学习终点",
+      "真实项目地址权限和环境",
+      "各方式产物及测试输入输出",
+      "公开范围许可和远程验证证据"
+    ]
+  },
+  "source_path": "raw/sample-16.txt",
+  "source_sha256": "200bb146df290e171103e89d628e23a5ad14e705e293ce514ea0e9a382a9116c",
+  "body_start_character": 38
+}

@@ -1,0 +1,353 @@
+{
+  "id": "sample-21",
+  "number": 21,
+  "title": "厌蠢会真的会让你少赚很多钱……",
+  "short_name": "拒绝新手复盘到问题产品化",
+  "family": "自我误判与服务改进",
+  "skeleton": [
+    "厌蠢与收入反差",
+    "拒绝小白的旧行为",
+    "同行结果触发复盘",
+    "职场到创业的环境变化",
+    "认知差作为服务价值",
+    "领域盲区换位",
+    "问题收集到SOP和课程",
+    "耐心服务提醒及引流"
+  ],
+  "distinctive": "先解释环境变了而默认起点未变，再把原本惹人生气的问题直接转成方案、SOP和课程。",
+  "promise": "以原作者经历解释轻视新手怎样错过服务机会，并给问题整理动作；收益自述不构成耐心必赚钱的保证。",
+  "applicability": [
+    "熟练者转向大众用户的AI教学或服务复盘",
+    "确有用户问题和处理改进记录的职场转型分享"
+  ],
+  "material_preconditions": [
+    "真实新手提问和自己的原处理行为",
+    "读者起点及原工作环境差异",
+    "问题到方案的样例和实际使用反馈"
+  ],
+  "source_limits": [
+    "创业百万、同行月入30万、5000份零差评和榜单名次均是原作者西西自述，未核验。",
+    "转写有艺人公司等错字，医生律师仅作原稿类比，不是对所有服务职业的调查。",
+    "只有转写，无法确认每个用户身份、课程解决能力及态度与收入的因果关系。"
+  ],
+  "stages": [
+    {
+      "label": "态度与商业机会反差",
+      "function": "提出轻视新手可能阻碍服务，用认知差解释付费理由。",
+      "transition": "强判断后进入作者曾拒绝服务的具体经历。",
+      "mechanism": "态度反差、服务价值重述、收益自述。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "真实目标用户的知识差和服务需求"
+      ],
+      "pass": [
+        "问题指向理解新手和服务，不沿用贬义身份标签。"
+      ],
+      "fail": [
+        "把用户称蠢即当作商业分析。"
+      ],
+      "adaptation": "用东头AI新手的具体理解差距提出服务问题。",
+      "id": "S01",
+      "start_quote": "不要厌蠢，厌蠢会让你少赚很多钱。",
+      "source_span": {
+        "start_character": 30,
+        "end_character": 132,
+        "percentage_start": 0.0,
+        "percentage_end": 8.3,
+        "sha256": "11f6c7f02ea620e9067fa11c6e6fff228ba07c5034f2e9711b7782994ab63af6"
+      }
+    },
+    {
+      "label": "拒绝新手的自我误判",
+      "function": "描述基础问题、愤怒和拒绝行为，说明旧态度怎样影响服务。",
+      "transition": "抽象判断转为自我行为，再用同行结果形成反差。",
+      "mechanism": "自我暴露、原话问题、行为后果。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "实际常见新手问题",
+        "作者处理方式及可核对记录"
+      ],
+      "pass": [
+        "问题、态度和拒绝动作清楚对应。"
+      ],
+      "fail": [
+        "只有嫌弃新手情绪，没有具体处理行为。"
+      ],
+      "adaptation": "记录东头AI服务中真正难沟通的问题和处理方式。",
+      "id": "S02",
+      "start_quote": "我就曾经因为厌蠢错失了很多商机",
+      "source_span": {
+        "start_character": 132,
+        "end_character": 305,
+        "percentage_start": 8.3,
+        "percentage_end": 22.3,
+        "sha256": "aa1bc24aaab82adba5cfa8e01555bffb1e15b6ce5a67be95bb50fa6653f29c58"
+      }
+    },
+    {
+      "label": "同行经营结果对照",
+      "function": "以同行粉少收入高与自己眼红对照，触发作者复盘。",
+      "transition": "在拒绝故事之后产生比较，转入环境改变解释。",
+      "mechanism": "粉丝收入反差、第三方结果自述。",
+      "requirement": "conditional",
+      "condition": "确有可核对对照且有助解释时采用；可改为自己前后服务差异。",
+      "materials": [
+        "同行结果的出处和可比条件"
+      ],
+      "pass": [
+        "对照说明为何反思，数值来源与不可比因素明确。"
+      ],
+      "fail": [
+        "借他人收入断言自己少赚同样金额。"
+      ],
+      "adaptation": "必要时用有依据的同行服务差异触发反思。",
+      "id": "S03",
+      "start_quote": "而我另一个同行，粉丝量比我少得多",
+      "source_span": {
+        "start_character": 305,
+        "end_character": 359,
+        "percentage_start": 22.3,
+        "percentage_end": 26.7,
+        "sha256": "df0a1e851581cf091c5b2a0ec812e2ed3852aefeb70ecf5f4dc48c1b54ba5144"
+      }
+    },
+    {
+      "label": "环境变化与旧默认",
+      "function": "比较原职场高效同频与创业用户背景差异，解释默认起点失配。",
+      "transition": "由经营反差回溯原因，再转向优越感解释。",
+      "mechanism": "前后环境对照、隐含默认显化。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "原沟通环境与实际用户起点",
+        "具体不会操作的例子"
+      ],
+      "pass": [
+        "解释旧习惯何以不适用于新用户。"
+      ],
+      "fail": [
+        "只说用户素质低，没有自己的默认假设。"
+      ],
+      "adaptation": "比较东头熟练者与AI入门用户的起点和任务。",
+      "id": "S04",
+      "start_quote": "后来我就复盘，为什么我会控制不住的厌蠢呢",
+      "source_span": {
+        "start_character": 359,
+        "end_character": 607,
+        "percentage_start": 26.7,
+        "percentage_end": 46.8,
+        "sha256": "79dce9e46a3bfe9a5180e1195edc07b6d5c09da5b70ca78464a3fa38da6e51f0"
+      }
+    },
+    {
+      "label": "重述认知差的服务价值",
+      "function": "用医生律师类比说明不懂正是服务存在的理由。",
+      "transition": "环境原因之外补态度判断，再纠正对新手身份的误认。",
+      "mechanism": "服务职业类比、俯视视角反思。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "服务解决的知识差",
+        "合适且有限的职业类比"
+      ],
+      "pass": [
+        "说明知识差如何转为帮助任务，不将其只视为利润。"
+      ],
+      "fail": [
+        "只喊认知差赚钱，未说明要提供何种服务。"
+      ],
+      "adaptation": "把AI知识差转换为用户能完成的具体操作支持。",
+      "id": "S05",
+      "start_quote": "另外，我发现啊，厌蠢的本质其实就是一种优越感",
+      "source_span": {
+        "start_character": 607,
+        "end_character": 737,
+        "percentage_start": 46.8,
+        "percentage_end": 57.4,
+        "sha256": "d4b3c2daf48c640153cb967b962a9348e6d435f51d50f4364fb6d035deaa4db7"
+      }
+    },
+    {
+      "label": "新手与领域能力区分",
+      "function": "展示提问者在其他领域可能专业，再用自己税务盲区换位。",
+      "transition": "从服务价值转为尊重用户，为收集问题提供态度基础。",
+      "mechanism": "身份反转、领域差异、自我换位。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "目标用户真实背景或明确假设",
+        "自己的领域外学习困难"
+      ],
+      "pass": [
+        "把不熟悉此领域与整体能力低区分。"
+      ],
+      "fail": [
+        "换位只说要耐心，仍把新手定为能力差。"
+      ],
+      "adaptation": "按真实职业背景理解东头AI读者的学习起点。",
+      "id": "S06",
+      "start_quote": "而且说句公道话啊，那些问小白问题的人真的不是蠢",
+      "source_span": {
+        "start_character": 737,
+        "end_character": 909,
+        "percentage_start": 57.4,
+        "percentage_end": 71.3,
+        "sha256": "a96332760baf92537a50e0490679a99bb06f4a92a1642f2a519b5b54b6d7fe95"
+      }
+    },
+    {
+      "label": "收集问题形成方案产品",
+      "function": "从态度转变落实为收集问题、写方案SOP、录课销售，再给作者结果。",
+      "transition": "前段重设理解后提供实际动作，最后收束服务提醒。",
+      "mechanism": "认知到动作、问题集合转产品、结果自述。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "真实问题库",
+        "方案SOP及课程样例",
+        "如引用结果需有订单评价依据"
+      ],
+      "pass": [
+        "展示至少一个问题怎样转为解决方案，结果归属于作者。"
+      ],
+      "fail": [
+        "只有销售数量，没有问题到产品过程。"
+      ],
+      "adaptation": "把东头AI反复被问的问题整理为可验证教程。",
+      "id": "S07",
+      "start_quote": "那心态扭转过来之后，我就做了一个动作",
+      "source_span": {
+        "start_character": 909,
+        "end_character": 1080,
+        "percentage_start": 71.3,
+        "percentage_end": 85.2,
+        "sha256": "df741f70205ddb13b3d187fd0fc826c9c4c9b6461ab60a0600f90919957023bb"
+      }
+    },
+    {
+      "label": "服务提醒与作者引流",
+      "function": "提炼不懂对应产品不会对应服务，给下次遇新手的提醒并引导主页。",
+      "transition": "把个人复盘转为可采取的态度动作，身份推广可调整。",
+      "mechanism": "口诀、当场提醒、首尾回扣与主页引流。",
+      "requirement": "optional",
+      "condition": "可保留服务提醒；作者身份、主页引流和收益口号可替换。",
+      "materials": [
+        "针对新手问题的实际回应和服务边界"
+      ],
+      "pass": [
+        "结尾指向服务动作而非保证收入。"
+      ],
+      "fail": [
+        "只有耐心与收入口号，没有可采用的回应。"
+      ],
+      "adaptation": "给东头AI答疑留下具体回应方式和下一步材料入口。",
+      "id": "S08",
+      "start_quote": "我也想用我的亲身经历告诉所有想单干的姐妹",
+      "source_span": {
+        "start_character": 1080,
+        "end_character": 1262,
+        "percentage_start": 85.2,
+        "percentage_end": 100.0,
+        "sha256": "88da138f74edfe20e0901d136a1e90a0c3eda2e389cfa56ae7b3c9f2d151e317"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "以自我拒绝服务的具体问题引出值得反思的冲突。",
+      "stage_ids": [
+        "S01",
+        "S02",
+        "S03"
+      ],
+      "evidence_needed": [
+        "原提问与拒绝行为",
+        "比较来源"
+      ],
+      "failure": "只有教育读者别厌蠢，没有作者行为。"
+    },
+    "understandable": {
+      "criterion": "环境差异、领域盲区与问题产品化的关系可说明。",
+      "stage_ids": [
+        "S04",
+        "S05",
+        "S06",
+        "S07"
+      ],
+      "evidence_needed": [
+        "前后沟通起点",
+        "换位例子",
+        "问题到方案样例"
+      ],
+      "failure": "将认知差直接等同利润，未说明服务动作。"
+    },
+    "credible": {
+      "criterion": "经验数值有归属和依据，用户背景及服务结果不被捏造。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S06",
+        "S07"
+      ],
+      "evidence_needed": [
+        "问题记录",
+        "比较数据",
+        "订单评价和方案反馈"
+      ],
+      "failure": "原作者收入被挪成东头经历，零差评被当质量证明。"
+    },
+    "fulfilled": {
+      "criterion": "态度变化落实为可使用的方案或SOP及应对新手的动作。",
+      "stage_ids": [
+        "S07",
+        "S08"
+      ],
+      "evidence_needed": [
+        "问题库到方案的实际样例",
+        "服务回应"
+      ],
+      "failure": "仅把厌蠢改成耐心口号，没有产物。"
+    },
+    "structure": {
+      "criterion": "保留旧行为、原因复盘、换位和新动作的转变链。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08"
+      ],
+      "evidence_needed": [
+        "触发复盘与因果衔接",
+        "新旧处理差异"
+      ],
+      "failure": "只有故事和收入对比，转变过程断裂。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "先说明自己旧行为及具体问题",
+      "环境改变与默认起点失配要讲清楚",
+      "区分此领域新手与整体能力",
+      "用问题到方案的产物承接态度转变"
+    ],
+    "adjustable": [
+      "同行比较与收入数字",
+      "职业类比和人物背景",
+      "课程产品类型与主页收尾"
+    ],
+    "fill_before_writing": [
+      "已选标题和目标新手群体",
+      "真实提问、旧行为与环境差异",
+      "方案SOP样例和实际反馈",
+      "收益或比较数字的来源及限制"
+    ]
+  },
+  "source_path": "raw/sample-21.txt",
+  "source_sha256": "73f414a6b506669a3127745962fb53c83d32ad253efe3a65bba41b1ae39641f1",
+  "body_start_character": 30
+}

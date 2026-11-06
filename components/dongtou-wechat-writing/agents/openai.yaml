@@ -1,0 +1,6 @@
+interface:
+  display_name: "东头创作总控"
+  short_description: "衔接七步、独立活人感改稿与最终质检，保留我的立场，交文案与质检报告"
+  default_prompt: "用 $dongtou-wechat-writing 接住我的素材或已有产物，在原主题内代选方向、标题和讲法，沿用固定项，以我的第一人称视角串起七步，第五步核材料成稿、第六步活人感改稿、第七步最终质检，交完整文案和质检报告后结束。"
+policy:
+  allow_implicit_invocation: true

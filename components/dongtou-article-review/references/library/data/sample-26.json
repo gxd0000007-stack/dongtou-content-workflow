@@ -1,0 +1,405 @@
+{
+  "id": "sample-26",
+  "number": 26,
+  "title": "辞职2年我才明白，为什么年轻人都不想上班了...",
+  "short_name": "贡献与收入错位的系统解释",
+  "family": "个人经历到机制对照",
+  "skeleton": [
+    "反常识判断引出收入困惑",
+    "亲历期望与发现的转折",
+    "组织分配机制与日常动作",
+    "市场结果定价作为对照",
+    "回到组织制度的设计目的",
+    "自营经历与价值付费例子",
+    "类比归纳与适用前提",
+    "把价值选择落成三项判断"
+  ],
+  "distinctive": "先讲自己对涨薪的误判，再分别解释组织分配、市场定价与组织可复制性，最后把离职主张落成三项判断问题。",
+  "promise": "解释作者为何认为贡献不一定转成收入，并提供问题、人群、方法三项市场准备判断；不是普遍离职或收入保证。",
+  "applicability": [
+    "职场AI新手讨论劳动价值与成果展示",
+    "用个人职场经历讲任务成果为何要可见",
+    "从岗位技能走向小规模服务验证"
+  ],
+  "material_preconditions": [
+    "作者真实经历中的任务、反馈与判断变化",
+    "组织分配与客户付费的具体比较对象",
+    "目标人群、可解决问题和方法验证记录"
+  ],
+  "source_limits": [
+    "来源仅为用户本次粘贴的公众号文章文本，万赞状态为用户报告，未读取原页面或核验互动数据。",
+    "Ray的身份、经历、客户反馈、收益数字及所引名言均为作者叙述；不得写成东头的亲历或已证实事实。",
+    "公司永远不按价值分配、市场100%结算及100/60/120比率均为强化论断或类比，不是实证规律。",
+    "原稿把能解决问题推向应该离开公司，未充分处理现金流、家庭责任、获客成本与风险；迁移时不得当作裸辞标准。"
+  ],
+  "stages": [
+    {
+      "label": "反常识判断引出收入困惑",
+      "start_quote": "上班这件事，越有价值的人，反而越赚不到钱。",
+      "function": "用价值与收入相反的关系制造需要解释的矛盾。",
+      "transition": "随后由作者亮相和毕业经历回答判断从何而来。",
+      "mechanism": "价值与回报反差",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "一个读者熟悉的贡献与回报错位现象"
+      ],
+      "fail": [
+        "把越有价值越赚不到钱写成适用于所有人的事实。"
+      ],
+      "adaptation": "可从我做完AI任务却没得到认可的真实疑问起笔。",
+      "pass": [
+        "开头能定位具体困惑，正文将解释而非只煽动不满。"
+      ],
+      "id": "S01",
+      "source_span": {
+        "start_character": 44,
+        "end_character": 89,
+        "percentage_start": 0.0,
+        "percentage_end": 2.3,
+        "sha256": "2b7e900d41a14bc519037aec965228b12d0b6e3aa59fb9b4ff9d3ecd76469cbf"
+      }
+    },
+    {
+      "label": "亲历期望与发现的转折",
+      "start_quote": "我刚毕业那会，每天都想着如何优化流程，提高转化",
+      "function": "列出加班、优化业务和期待加薪，再交代后来的认识变化。",
+      "transition": "从我的期望落空转到为什么组织不能直接按贡献分配。",
+      "mechanism": "具体劳动画面与但后来才发现",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "可核对的职场事件",
+        "作者当时的期待与后来判断"
+      ],
+      "fail": [
+        "只借用Ray加班到十点的故事充当东头经历。"
+      ],
+      "adaptation": "询问东头一次真实工作反馈，写我原来怎么看、后来怎么改。",
+      "pass": [
+        "经历里有动作、期待和新发现，三者因果范围清楚。"
+      ],
+      "id": "S02",
+      "source_span": {
+        "start_character": 89,
+        "end_character": 331,
+        "percentage_start": 2.3,
+        "percentage_end": 14.7,
+        "sha256": "cc84f993dbfc9cf7b241b4e907a4b7bd5f66d353517d6fa30745b94d560d5b6e"
+      }
+    },
+    {
+      "label": "组织分配机制与日常动作",
+      "start_quote": "公司里做项目，从老板到基层，得至少经过两三层的传递",
+      "function": "以多层协作说明贡献难量化，并用汇报、统筹、站队描画可见度。",
+      "transition": "机制说清后引入另一套定价环境，形成比较。",
+      "mechanism": "协作链拆解与可见度/贡献度区分",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "真实协作链",
+        "可见度和实际贡献的不同证据"
+      ],
+      "fail": [
+        "用阴谋解释替代协作事实，或教人冒领他人功劳。"
+      ],
+      "adaptation": "可举同一AI成果如何被记录、汇报和验收，保留伦理边界。",
+      "pass": [
+        "读者能区分成果、归属和展示三件事，不把所有领导一概而论。"
+      ],
+      "id": "S03",
+      "source_span": {
+        "start_character": 331,
+        "end_character": 674,
+        "percentage_start": 14.7,
+        "percentage_end": 32.2,
+        "sha256": "c781bde01f8b86500571afd91983b7a230dbc02f64c9cd69a61f4486cb3e0bf7"
+      }
+    },
+    {
+      "label": "市场结果定价作为对照",
+      "start_quote": "但市场不是，它只看结果。",
+      "function": "提供客户结果、认知传播、竞争力三种可交换价值，对照岗位报酬。",
+      "transition": "读者会追问为什么两套系统不同，下一阶段补组织动机。",
+      "mechanism": "两套环境平行对比",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "相同能力在岗位和市场里的不同交付对象",
+        "获客和交付成本"
+      ],
+      "fail": [
+        "把市场描述成无摩擦的价值100%结算器。"
+      ],
+      "adaptation": "用一次实际付费服务说明结果如何被客户评价，注明条件。",
+      "pass": [
+        "比较包含客户实际购买什么及限制，不承诺解决问题钱自然来。"
+      ],
+      "id": "S04",
+      "source_span": {
+        "start_character": 674,
+        "end_character": 851,
+        "percentage_start": 32.2,
+        "percentage_end": 41.2,
+        "sha256": "cd5c8658d31f824effd856be8c8c476bb2ac4d7d5df56425ea12b1868d0e2962"
+      }
+    },
+    {
+      "label": "回到组织制度的设计目的",
+      "start_quote": "那为什么公司不能按贡献价值来分钱？",
+      "function": "补充SOP降低个人依赖的组织理由，使前段不止是情绪抱怨。",
+      "transition": "完成系统解释后转回个人如何尝试市场。",
+      "mechanism": "追问原因与换到老板视角",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "组织标准化的具体流程",
+        "个人能力与岗位复制的区分"
+      ],
+      "fail": [
+        "把SOP本身当作压制优秀者的证据。"
+      ],
+      "adaptation": "用AI工作流中标准化和作者判断各自作用解释制度目标。",
+      "pass": [
+        "解释标准化服务哪种目标，并承认它也可能提高质量。"
+      ],
+      "id": "S05",
+      "source_span": {
+        "start_character": 851,
+        "end_character": 1225,
+        "percentage_start": 41.2,
+        "percentage_end": 60.3,
+        "sha256": "9b3472cb95f0b396c42b8c0c86a9663658f795afcb70b70c3235c12c9552d252"
+      }
+    },
+    {
+      "label": "自营经历与价值付费例子",
+      "start_quote": "我在做知识付费的这两年，深刻感受到这一点：",
+      "function": "用朋友圈、直播、课程三种成果强调投入时间和价值不同步。",
+      "transition": "随后用评分比喻总结回报差别，并限定真实解决问题的前提。",
+      "mechanism": "一组具体产出与收益实例",
+      "requirement": "conditional",
+      "condition": "采用第一人称经营案例时保留；无作者经历可改为标明来源的案例，不捏造。",
+      "materials": [
+        "经作者确认的真实交付经历",
+        "收益使用时的口径与成本"
+      ],
+      "fail": [
+        "把10分钟收入、直播收入原封不动移植为我做过。"
+      ],
+      "adaptation": "可替换为东头已确认的职场、自媒体或AI成果，不硬凑收入。",
+      "pass": [
+        "实例有明确归属和成本，未拿Ray收入证明东头能力。"
+      ],
+      "id": "S06",
+      "source_span": {
+        "start_character": 1225,
+        "end_character": 1426,
+        "percentage_start": 60.3,
+        "percentage_end": 70.6,
+        "sha256": "2b813e732dc8478d7080c4174d62025d7d5c028fd2977ef644c7a623a09118b2"
+      }
+    },
+    {
+      "label": "类比归纳与适用前提",
+      "start_quote": "在公司里，你值 100 分，系统最多给你 60 分的奖励",
+      "function": "以100/60/120比喻加深记忆，随后补解决具体问题而非追流量的限定。",
+      "transition": "价值归纳之后进入何时改变路径的个人选择。",
+      "mechanism": "数字类比与当然前提",
+      "requirement": "optional",
+      "condition": "需要记忆点时使用且明确为类比；可删数字，保留前提。",
+      "materials": [
+        "明确标为类比的计量",
+        "真实解决问题的验收条件"
+      ],
+      "fail": [
+        "让类比数字看起来像真实薪酬分成数据。"
+      ],
+      "adaptation": "可改用任务成果被认可与被复用的对照，省去无依据比例。",
+      "pass": [
+        "读者知道数字不是统计，并看到边界而非成功暗示。"
+      ],
+      "id": "S07",
+      "source_span": {
+        "start_character": 1426,
+        "end_character": 1795,
+        "percentage_start": 70.6,
+        "percentage_end": 89.5,
+        "sha256": "b5b89788e5f7796ec8d28d771b8389733e22a7611b5cd2a858864eed985b7781"
+      }
+    },
+    {
+      "label": "把价值选择落成三项判断",
+      "start_quote": "什么时候该脱离这套体系，给你 3 个评判标准：",
+      "function": "把离开系统的宣言具体化为问题、人群、方法说服力三个问题。",
+      "transition": "由三问收束到复盘自身优势和市场反馈。",
+      "mechanism": "三项自检与结尾回扣",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "具体问题",
+        "明确人群",
+        "方法经过何种反馈验证",
+        "可承受成本与当前工作责任"
+      ],
+      "fail": [
+        "只列三问便断定不再适合打工，缺少财务与风险判断。"
+      ],
+      "adaptation": "为AI服务或内容项目写出三问答案，增加试行和停止条件。",
+      "pass": [
+        "读者能填写三问，并先做可控验证而不是直接辞职。"
+      ],
+      "id": "S08",
+      "source_span": {
+        "start_character": 1795,
+        "end_character": 2001,
+        "percentage_start": 89.5,
+        "percentage_end": 100.0,
+        "sha256": "bb7e5c79f7b7e86ec9bea55ddc23ec4c432db554276b5845e2dc5ae5d78b194a"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "价值与报酬错位能对应读者工作经历，开头承诺解释具体原因。",
+      "stage_ids": [
+        "S01",
+        "S02"
+      ],
+      "evidence_needed": [
+        "开头矛盾",
+        "真实经历与期待"
+      ],
+      "failure": "只靠仇视公司拉情绪。"
+    },
+    "understandable": {
+      "criterion": "读者能区分贡献、可见度、组织复制和市场交付。",
+      "stage_ids": [
+        "S03",
+        "S04",
+        "S05",
+        "S07"
+      ],
+      "evidence_needed": [
+        "协作链实例",
+        "两套定价环境对照",
+        "类比标识"
+      ],
+      "failure": "系统一词反复出现却没有具体机制。"
+    },
+    "credible": {
+      "criterion": "观点、类比与事实分开，收入和亲历注明归属及使用范围。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S07"
+      ],
+      "evidence_needed": [
+        "真实经历确认",
+        "使用数字的来源和口径",
+        "风险成本"
+      ],
+      "failure": "把作者收益或强判断当作普遍证据。"
+    },
+    "fulfilled": {
+      "criterion": "文章提供可填写的三项市场准备判断和有边界的验证动作。",
+      "stage_ids": [
+        "S08"
+      ],
+      "evidence_needed": [
+        "问题、人群、方法三问答案",
+        "预算或工作约束"
+      ],
+      "failure": "标题导向转型，结尾只催离职。"
+    },
+    "structure": {
+      "criterion": "亲历误判、两种系统对照、组织理由、个人验证顺序各有材料。",
+      "stage_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S08"
+      ],
+      "evidence_needed": [
+        "阶段衔接",
+        "每段对应的实例"
+      ],
+      "failure": "只保留公司/市场小标题，没有论证转换。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "从作者真实误判引出判断，不以空泛结论替代来源。",
+      "比较分配机制后再给个人选择标准。",
+      "最终落到具体问题、人群与方法验证。"
+    ],
+    "adjustable": [
+      "收益实例、评分比喻可删除或换成真实任务成果。",
+      "组织与市场的二分可收窄到某一具体岗位情境。",
+      "离职号召改成先验证需求的动作。"
+    ],
+    "fill_before_writing": [
+      "作者真实的期待落空事件：____",
+      "比较对象与客观边界：____",
+      "三项自检答案、试行成本和停止条件：____"
+    ]
+  },
+  "summary": "从贡献与回报的反差，经个人经历和系统解释，走到可填的市场准备问题。",
+  "tags": [
+    "公众号",
+    "第一人称判断",
+    "职场转型",
+    "系统对照",
+    "价值可见度"
+  ],
+  "useful_modules": [
+    "structure",
+    "opening",
+    "explanation",
+    "experience"
+  ],
+  "methods": {
+    "structure": {
+      "quote": "那为什么公司不能按贡献价值来分钱？",
+      "observation": "先提出市场对照，再回头补组织原因，形成追问推进。",
+      "adaptation": "解释AI结果的不同评价方式时先比较再解释。",
+      "limit": "只迁移问题递进，不沿用公司必然贱卖人才的立场。"
+    },
+    "opening": {
+      "quote": "上班这件事，越有价值的人，反而越赚不到钱。",
+      "observation": "开门给一个违背常见期待的判断。",
+      "adaptation": "用东头认可且有案例的反差引出阅读任务。",
+      "limit": "不能用没有依据的绝对判断换点击。"
+    },
+    "explanation": {
+      "quote": "在公司里，你值 100 分，系统最多给你 60 分的奖励",
+      "observation": "把抽象分配问题变成评分对照。",
+      "adaptation": "可用标明为假设的简例帮助理解AI成果评估。",
+      "limit": "数字仅为类比，不能当数据引用。"
+    },
+    "experience": {
+      "quote": "但后来才发现，工资能不能涨，不是你做了多少事",
+      "observation": "动作和旧信念之后写后来发现，让经历承担观点来源。",
+      "adaptation": "询问东头当时想法、实际反馈和现在建议。",
+      "limit": "原故事为Ray经历，须替换或注明转述。"
+    }
+  },
+  "source_path": "raw/sample-26.txt",
+  "source_sha256": "cd66aaf6c28106c32eed300fc6c3f31c316c828a186c0b10c38e95f94b2ee62c",
+  "body_start_character": 44,
+  "body_end_character": 2001,
+  "source_group": "ray-wechat-2026-10-07",
+  "submitted_number": "01",
+  "source_completeness": "as_submitted",
+  "source_defect_notes": [],
+  "full_structure_reference": true,
+  "opening_reference": true,
+  "allowed_usage": [
+    "selected_structure",
+    "local_method"
+  ]
+}

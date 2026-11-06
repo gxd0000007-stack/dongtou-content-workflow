@@ -1,0 +1,533 @@
+{
+  "id": "sample-45",
+  "number": 45,
+  "title": "为什么我劝你开个公众号，哪怕没人看，哪怕不赚钱",
+  "short_name": "公开写作的认知与输出系统",
+  "family": "结果背景—承诺重定—三能力—低成本—低反馈—三系统",
+  "skeleton": [
+    "直接给推荐并标明当前背景",
+    "交代作者自己的过程与结果",
+    "把收益改为无流量也有价值",
+    "区分做、教、写三种输出",
+    "说明抽象能力来自连接碎片",
+    "把删选内容解释为判断训练",
+    "把表达训练落到具体提问",
+    "用制作流程说明低门槛",
+    "把低反馈重新解释为学习产物",
+    "先给持续输出的范围",
+    "提供五类输入入口",
+    "以立场和表达风格收束影响力"
+  ],
+  "distinctive": "标题不是赚钱教程，文章在结果背景后主动换回认知收益；三能力与三系统承担不同功能，不能机械合并。",
+  "promise": "说明即使暂时没有流量或赚钱，公开写作仍可训练结构化思考、取舍与表达，并给持续输出的三部分。",
+  "applicability": [
+    "AI 新手通过任务记录学习",
+    "第一人称认知成长文",
+    "如何建立素材与输出流程"
+  ],
+  "material_preconditions": [
+    "多源输入",
+    "真实取舍与表达改稿",
+    "早期反馈",
+    "稳定问题目录"
+  ],
+  "source_limits": [
+    "仅据用户粘贴文本拆解，未读取公众号原页或图片、视频。",
+    "万赞或爆款为用户报告，当前未独立核验点赞、阅读量或发布时间。",
+    "作者案例、收入与账号数据仅为作者自述，不作为普遍收益证明，也不能改写为东头亲历。",
+    "书名、名言、研究、平台规则及行业数据未核验；移入正文作为事实论据前须单独核验。",
+    "只借鉴组织功能和解释方法；绝对化结论、羞辱性称呼与不可保证的收益不作为硬性写作规则。",
+    "“99%有影响力都靠写得久”“公众号无需任何运营”等说法未核验且不纳入验收规则。"
+  ],
+  "stages": [
+    {
+      "id": "S01",
+      "start_quote": "现在无论是上课，还是做咨询，我都推荐每个人去写公众号",
+      "label": "直接给推荐并标明当前背景",
+      "function": "先说明这是作者在咨询中反复提出的建议。",
+      "transition": "用自己开号与涨粉经历解释立场来源。",
+      "mechanism": "实践场域增加建议来源感。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "目标读者与具体场景"
+      ],
+      "fail": [
+        "面向所有人下同一结论。"
+      ],
+      "adaptation": "明确给哪类 AI 新手推荐一种输出方式，非人人必做。",
+      "pass": [
+        "建议有对象、条件和用途。"
+      ],
+      "source_span": {
+        "start_character": 39,
+        "end_character": 104,
+        "percentage_start": 0.0,
+        "percentage_end": 2.7,
+        "sha256": "4153b99e5c23479ec82d8a19187ca7f76b596f4816ebeca112075e83f5efba56"
+      }
+    },
+    {
+      "id": "S02",
+      "start_quote": "老朋友们都知道，我是去年底开通的公众号",
+      "label": "交代作者自己的过程与结果",
+      "function": "半年粉丝和 40 天增长作为背景，强调思考与 AI 碰撞。",
+      "transition": "随即划出本篇不讲涨粉的范围。",
+      "mechanism": "结果入口吸引后转向更广收益。",
+      "requirement": "conditional",
+      "condition": "有可信过程与结果材料时",
+      "materials": [
+        "真实历程和口径"
+      ],
+      "fail": [
+        "借用涨粉结果引出收益保证。"
+      ],
+      "adaptation": "自己的过程才用我；第三方例子须保留归属。",
+      "pass": [
+        "结果是背景而非读者承诺。"
+      ],
+      "source_span": {
+        "start_character": 104,
+        "end_character": 222,
+        "percentage_start": 2.7,
+        "percentage_end": 7.6,
+        "sha256": "85688053680519a89cffa3aa725defc7648ec423e8a8d7bccc8a897bd9ba67c3"
+      }
+    },
+    {
+      "id": "S03",
+      "start_quote": "但今天我写这篇文章，并不是为了说我是如何涨粉",
+      "label": "把收益改为无流量也有价值",
+      "function": "说明没有经验、不靠它赚钱也值得写，收束为低门槛 IP 判断。",
+      "transition": "进入写作如何训练认知。",
+      "mechanism": "先回应标题里的哪怕，提高承诺清晰度。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "无流量时仍获得的实际产出"
+      ],
+      "fail": [
+        "开头标题说不赚钱，正文一直只讲收入。"
+      ],
+      "adaptation": "AI 学习可明确不是晒工具成果，而是如何训练任务判断。",
+      "pass": [
+        "收益能独立于流量和营收成立。"
+      ],
+      "source_span": {
+        "start_character": 222,
+        "end_character": 464,
+        "percentage_start": 7.6,
+        "percentage_end": 17.7,
+        "sha256": "8ad3b9b02b3860796c22add115fe0e6b1841b1523dbeaecda08481c1808026fd"
+      }
+    },
+    {
+      "id": "S04",
+      "start_quote": "因为**认知升级的本质，是“结构化输出”",
+      "label": "区分做、教、写三种输出",
+      "function": "解释实战、讲解与结构化文字如何逼迫思考，并选公开写作作可用路径。",
+      "transition": "再拆写作三种具体能力。",
+      "mechanism": "并列定义把抽象认知落成动作。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "输出任务",
+        "具体思考记录"
+      ],
+      "fail": [
+        "无限输入被全盘否定或输出等于自动升级。"
+      ],
+      "adaptation": "可改为做任务、解释给新人、记录检查流程；输入和输出均保留。",
+      "pass": [
+        "动作与训练目标有对应。"
+      ],
+      "source_span": {
+        "start_character": 464,
+        "end_character": 667,
+        "percentage_start": 17.7,
+        "percentage_end": 26.2,
+        "sha256": "03abd5d9a13896ec80963be18ab2843f1b81e19f3182362a0b3e47e5ebdd7a15"
+      }
+    },
+    {
+      "id": "S05",
+      "start_quote": "你需要从书籍、播客、聊天、日常生活中",
+      "label": "说明抽象能力来自连接碎片",
+      "function": "把多个输入拼成逻辑链，以焦虑等问题展示现象到机制的推理。",
+      "transition": "从搭逻辑转向哪些值得讲。",
+      "mechanism": "材料汇聚—关联—重构的过程展示。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "多种实际输入",
+        "明确主题",
+        "关联理由"
+      ],
+      "fail": [
+        "只有素材拼贴没有关联依据。"
+      ],
+      "adaptation": "写 AI 原文、实测、提问如何组成一条有依据的解释。",
+      "pass": [
+        "每段材料都有支撑或反例功能。"
+      ],
+      "source_span": {
+        "start_character": 667,
+        "end_character": 851,
+        "percentage_start": 26.2,
+        "percentage_end": 33.8,
+        "sha256": "46e8b371df9ac90c91c343c6749d12f87eacb125aa12037486946711f52e5b55"
+      }
+    },
+    {
+      "id": "S06",
+      "start_quote": "写作的第二步，是“你要讲什么，不讲什么”。",
+      "label": "把删选内容解释为判断训练",
+      "function": "以用户关心、自己相信、核心内容说明作者立场如何形成。",
+      "transition": "选择后进入如何表达。",
+      "mechanism": "取舍过程显示个人判断。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "候选材料",
+        "删选理由",
+        "作者立场"
+      ],
+      "fail": [
+        "文章只像资料汇编看不到选择理由。"
+      ],
+      "adaptation": "记录我为什么保留这点、舍弃另一点，接第二步个人观点。",
+      "pass": [
+        "至少一个明确判断和取舍依据。"
+      ],
+      "source_span": {
+        "start_character": 851,
+        "end_character": 1026,
+        "percentage_start": 33.8,
+        "percentage_end": 41.1,
+        "sha256": "80d7f7f187887854eae72ab631326e325826d6f0e0a1b85a3e5e4921d0727ecd"
+      }
+    },
+    {
+      "id": "S07",
+      "start_quote": "写作的最后一步，是怎么写才有吸引力",
+      "label": "把表达训练落到具体提问",
+      "function": "开头、通俗解释、故事数据依次展示要练什么，并迁到提案等工作。",
+      "transition": "从能力收益转向生产成本比较。",
+      "mechanism": "问题清单让读者看到技能可迁移。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "真实表达改稿",
+        "读者理解反馈"
+      ],
+      "fail": [
+        "只说写作能提高所有能力。"
+      ],
+      "adaptation": "以一个 AI 专业词的前后解释展示变化。",
+      "pass": [
+        "有一个表达改动及在任务中用途。"
+      ],
+      "source_span": {
+        "start_character": 1026,
+        "end_character": 1239,
+        "percentage_start": 41.1,
+        "percentage_end": 50.0,
+        "sha256": "503423cd8a5209431fa89f61f2c44c6f2955ae9fbd478b7f5b061fc2f3f56776"
+      }
+    },
+    {
+      "id": "S08",
+      "start_quote": "因为你要做 IP，会立刻撞上三个最大的门槛",
+      "label": "用制作流程说明低门槛",
+      "function": "露脸、剪辑、表现力之后列短视频工序与 MCN 比喻，对比文字输出。",
+      "transition": "成本比较后回应没人看的顾虑。",
+      "mechanism": "工序枚举让成本差异可见。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "实际制作步骤与时间"
+      ],
+      "fail": [
+        "声称公众号无需任何运营或所有人更容易。"
+      ],
+      "adaptation": "比较同质量同目的产出的投入；写作也有调查和核验成本。",
+      "pass": [
+        "成本口径与适用条件清楚。"
+      ],
+      "source_span": {
+        "start_character": 1239,
+        "end_character": 1599,
+        "percentage_start": 50.0,
+        "percentage_end": 65.0,
+        "sha256": "02feb98de34d1b387fb26f08f67aba918428749b528f5505d5290939e21f73b2"
+      }
+    },
+    {
+      "id": "S09",
+      "start_quote": "我自己的公众号，刚开始的十篇文章，阅读量都很惨。",
+      "label": "把低反馈重新解释为学习产物",
+      "function": "早期阅读差，但试出节奏、结构、题目和定位，随后提出三部分壁垒。",
+      "transition": "经验收益转成输出系统。",
+      "mechanism": "反面数据与实际收获对照降低启动焦虑。",
+      "requirement": "conditional",
+      "condition": "有早期低反馈与改进的真实记录时",
+      "materials": [
+        "真实早期记录",
+        "具体认知变化"
+      ],
+      "fail": [
+        "只用坚持久必成功掩盖无反馈问题。"
+      ],
+      "adaptation": "AI 新手把第一次失败中的任务界定、检查标准改变讲出来。",
+      "pass": [
+        "每次低反馈有可观察的学习或改动。"
+      ],
+      "source_span": {
+        "start_character": 1599,
+        "end_character": 1785,
+        "percentage_start": 65.0,
+        "percentage_end": 72.7,
+        "sha256": "5f2ae5276825a35bdf3fcd456f75e016fe7e8e9822a06ba143075f669a9936b0"
+      }
+    },
+    {
+      "id": "S10",
+      "start_quote": "1. 内容主线：你到底讲什么？",
+      "label": "先给持续输出的范围",
+      "function": "列作者主题领域，说明各篇是认知的一部分而非孤岛。",
+      "transition": "主题范围之后进入素材供给。",
+      "mechanism": "主线框定避免每次重想。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "稳定读者任务",
+        "内容问题目录"
+      ],
+      "fail": [
+        "主线过宽或只罗列行业词。"
+      ],
+      "adaptation": "东头主线保持 AI 选择、使用、检查与具体任务。",
+      "pass": [
+        "有可持续的问题目录和读者用途。"
+      ],
+      "source_span": {
+        "start_character": 1785,
+        "end_character": 1892,
+        "percentage_start": 72.7,
+        "percentage_end": 77.2,
+        "sha256": "7cf4cc428f9ba03fd9e451585c3efff5a46d20f82e8346403d724b71c184d272"
+      }
+    },
+    {
+      "id": "S11",
+      "start_quote": "2. 输出系统：你怎么持续不断？",
+      "label": "提供五类输入入口",
+      "function": "过去自己、用户问题、咨询洞察、书籍反思、情绪时刻构成素材供给。",
+      "transition": "从持续供给转向为什么关注这个人。",
+      "mechanism": "输入清单把长期写作变为重复流程。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "真实问题记录",
+        "输入分类和整理流程"
+      ],
+      "fail": [
+        "只列素材来源，不知道如何变成一篇。"
+      ],
+      "adaptation": "与第一步读取、第二步观点联动，使用个人经历时需确认。",
+      "pass": [
+        "至少示范一条输入到观点和正文的路径。"
+      ],
+      "source_span": {
+        "start_character": 1892,
+        "end_character": 2118,
+        "percentage_start": 77.2,
+        "percentage_end": 86.6,
+        "sha256": "e05ab14c6081255a30a056709ea2f3e1405e10afdac17864a12a29ad27566c96"
+      }
+    },
+    {
+      "id": "S12",
+      "start_quote": "3. 认知风格：为什么别人愿意关注你？",
+      "label": "以立场和表达风格收束影响力",
+      "function": "讨论个性、角度和认知风格，结尾回到写作帮助识别自己能解决什么。",
+      "transition": "闭环到不靠赚钱也有资产的标题承诺。",
+      "mechanism": "个人判断与长期产出连成身份记忆。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "真实观点",
+        "解释习惯",
+        "可复用输出"
+      ],
+      "fail": [
+        "把风格当观点替身或只强调写得久。"
+      ],
+      "adaptation": "用东头自己的判断和表达，不借 Ray 的世界观；影响力不是持有即保证。",
+      "pass": [
+        "读者能识别东头判断与可积累产出。"
+      ],
+      "source_span": {
+        "start_character": 2118,
+        "end_character": 2440,
+        "percentage_start": 86.6,
+        "percentage_end": 100.0,
+        "sha256": "27c8991dfb1d43a12866d853182cb955bc8f3f0c9420aeed1790966704b17f6a"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "清楚回应不赚钱不涨粉时仍有什么收益。",
+      "stage_ids": [
+        "S01",
+        "S03"
+      ],
+      "evidence_needed": [
+        "独立于流量的产出"
+      ],
+      "failure": "内容重新变成成功结果推销。"
+    },
+    "understandable": {
+      "criterion": "三种能力用实际思考与写作动作解释，三系统有示例和输入。",
+      "stage_ids": [
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S10",
+        "S11"
+      ],
+      "evidence_needed": [
+        "一条输入到输出链"
+      ],
+      "failure": "认知系统等词只有口号。"
+    },
+    "credible": {
+      "criterion": "结果归属、早期改进与成本比较清楚，不采用 99% 或无需运营的断言。",
+      "stage_ids": [
+        "S02",
+        "S08",
+        "S09"
+      ],
+      "evidence_needed": [
+        "记录",
+        "成本口径",
+        "例外条件"
+      ],
+      "failure": "长期坚持被说成成功充分条件。"
+    },
+    "fulfilled": {
+      "criterion": "无流量收益可观察，并得到主线、来源和风格的建设办法。",
+      "stage_ids": [
+        "S05",
+        "S06",
+        "S07",
+        "S09",
+        "S10",
+        "S11",
+        "S12"
+      ],
+      "evidence_needed": [
+        "问题目录",
+        "输入范例",
+        "一次改稿"
+      ],
+      "failure": "只有值得写，没告诉读者如何开始。"
+    },
+    "structure": {
+      "criterion": "背景后重设承诺，认知收益先解释，成本与低反馈回应阻力，再交持续系统。",
+      "stage_ids": [
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S12"
+      ],
+      "evidence_needed": [
+        "顺序与转折段落"
+      ],
+      "failure": "把结尾三系统与前三能力机械混为一列。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "无流量也成立的收益",
+      "三种输出训练的具体动作",
+      "取舍体现自己的立场",
+      "低反馈的学习产出",
+      "主线—输入流程—认知风格"
+    ],
+    "adjustable": [
+      "结果背景可删",
+      "短视频比较可替换",
+      "五来源数量按实际更改",
+      "影响力收尾可换为工作资产"
+    ],
+    "fill_before_writing": [
+      "东头写作或任务实践记录",
+      "一条多源输入到观点的实例",
+      "新手生产成本实际情况",
+      "首个输出任务与检查标准"
+    ]
+  },
+  "summary": "文章以涨粉背景吸引但主动说明不教涨粉，接着用抽象、取舍、表达三能力解释无流量收益，再比较成本和早期反馈，最后给主线、输入、风格三系统。",
+  "tags": [
+    "公开写作",
+    "结构化输出",
+    "素材来源",
+    "个人立场",
+    "认知系统"
+  ],
+  "useful_modules": [
+    "opening",
+    "structure",
+    "explanation",
+    "experience"
+  ],
+  "methods": {
+    "structure": {
+      "quote": "但今天我写这篇文章，并不是为了说我是如何涨粉",
+      "observation": "先展示结果，再明确本文真正承诺，避免正文被背景带跑。",
+      "adaptation": "AI 案例先说我的结果，然后清楚限定今天只讲哪一段任务。",
+      "limit": "背景不等于读者收益保证。"
+    },
+    "opening": {
+      "quote": "就算你现在没有任何内容经验，就算你暂时不打算靠自媒体赚钱",
+      "observation": "连列读者顾虑，扩展暂时没有结果也可获得的收益。",
+      "adaptation": "为 AI 新手写即使不编程也能完成的明确任务。",
+      "limit": "不能把所有人纳入同一个必做建议。"
+    },
+    "explanation": {
+      "quote": "去写，把脑海中混乱的思维具象化、结构化。",
+      "observation": "用做、教、写三个动作解释认知训练。",
+      "adaptation": "讲 AI 学习要完成任务、解释方法和记录核验过程。",
+      "limit": "是组织方法，不是已核验的认知科学因果。"
+    },
+    "experience": {
+      "quote": "我找到了自己的表达节奏，知道什么样的结构最适合我；",
+      "observation": "把低阅读阶段讲成具体试出的节奏、题目与定位。",
+      "adaptation": "说我那次失败后改了什么，而非只写成长。",
+      "limit": "仅使用本人确认的失败和变化，不能借用作者十篇经历。"
+    }
+  },
+  "source_path": "raw/sample-45.txt",
+  "source_sha256": "c55fcf52ac70e74a4d8c1bacfe37e2a24051290d98c74751316dfbb6aac264db",
+  "body_start_character": 39,
+  "body_end_character": 2440,
+  "source_group": "ray-wechat-2026-10-07",
+  "submitted_number": "20",
+  "source_completeness": "as_submitted",
+  "source_defect_notes": [],
+  "full_structure_reference": true,
+  "opening_reference": true,
+  "allowed_usage": [
+    "selected_structure",
+    "local_method"
+  ]
+}

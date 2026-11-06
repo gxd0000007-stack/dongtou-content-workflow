@@ -1,0 +1,430 @@
+{
+  "id": "sample-55",
+  "number": 55,
+  "title": "为什么要尽量选择一个人就能干的小生意？",
+  "short_name": "小生意中的独特价值",
+  "family": "价值脱离组织—信任转换—稀缺来源—创造愿景",
+  "skeleton": [
+    "题后直接给独立价值愿景",
+    "以离开组织的设问打开价值问题",
+    "用旧品牌体系解释规模信任",
+    "以个体互动举例解释另一种信任",
+    "把稀缺性拆成三类可积累资产",
+    "给出优势与需求相交的简短路径",
+    "以AI未来设问扩大创造议题",
+    "以创造意义回扣独立价值"
+  ],
+  "distinctive": "把“单人小生意”为何值得做放在价值如何被识别的背景下：先讲外部评价，再从品牌规模信任转到个体关系，继而列三种稀缺资产。",
+  "promise": "给出选择单人小生意的价值观解释，说明技能、影响力和思想可形成独特性；不是完整创业操作指南。",
+  "applicability": [
+    "AI时代个人价值与表达",
+    "一人内容业务的定位讨论",
+    "从品牌信任到个人信任的概念解释"
+  ],
+  "material_preconditions": [
+    "标题与正文粘连标记",
+    "个人价值与目标受众的实际联系",
+    "对比关系信任和产品能力的案例"
+  ],
+  "source_limits": [
+    "仅根据用户粘贴的公众号文本拆解；万赞由用户报告，未核验阅读、点赞或传播数据。",
+    "作者的个人经历、用户案例、经营结果属于 Ray 的自述，不能改成东头亲历或通用结果保证。",
+    "原文中的名言、统计数据和心理学解释尚未核验；只参考叙述组织，进入新文的事实需要另行核验。",
+    "原文标题后正文紧接且“文”以HTML实体编码呈现；保留原稿，只分析可辨内容，不臆造缺失导语。",
+    "私域规模数据、品牌判断与AI完成全部执行的未来断言未核验；不能当已发生事实。",
+    "小生意不能仅靠独特性被证明可盈利，需要真实需求、产品能力与交易证据。"
+  ],
+  "stages": [
+    {
+      "label": "题后直接给独立价值愿景",
+      "start_quote": "&#x6587;明的终极目标，是赋权每一个人，成为独立价值的创造者。",
+      "function": "收到的题后正文第一句把单人业务置于独立价值愿景。",
+      "transition": "随后回到读者依靠学校和公司评价的日常。",
+      "mechanism": "愿景总纲与题文粘连",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "原稿实体与粘连记录",
+        "作者真实价值观"
+      ],
+      "fail": [
+        "补造原标题后导语",
+        "把文明目标当客观事实"
+      ],
+      "adaptation": "正式写作可解码为“文明”并独立段落，原文定位必须保留原始编码。",
+      "id": "S01",
+      "pass": [
+        "标明正文从题后开始",
+        "愿景后接具体处境"
+      ],
+      "source_span": {
+        "start_character": 30,
+        "end_character": 82,
+        "percentage_start": 0.0,
+        "percentage_end": 2.8,
+        "sha256": "bce780db507415464faca20796ccc33952835b62e31da692a7a627bd7a0643b0"
+      }
+    },
+    {
+      "label": "以离开组织的设问打开价值问题",
+      "start_quote": "中国人的一生，大部分时候都活在集体的框架中：",
+      "function": "从成绩、KPI等外部指标问离开组织后价值如何体现。",
+      "transition": "为独立价值被识别的逻辑做准备。",
+      "mechanism": "身份指标与离开场景设问",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "真实岗位依赖",
+        "离开组织后的任务",
+        "可迁移能力"
+      ],
+      "fail": [
+        "概括所有人的人生",
+        "否定组织价值"
+      ],
+      "adaptation": "AI职场人可思考哪种能力离开某软件或某岗位仍能用。",
+      "id": "S02",
+      "pass": [
+        "问题能落到可迁移能力",
+        "不逼迫立即离职"
+      ],
+      "source_span": {
+        "start_character": 82,
+        "end_character": 360,
+        "percentage_start": 2.8,
+        "percentage_end": 17.5,
+        "sha256": "1e7c79253e6030043b00588c6a1254730f281703989a4639fd2f8e3655742740"
+      }
+    },
+    {
+      "label": "用旧品牌体系解释规模信任",
+      "start_quote": "传统的经济模式中，规模大等于可靠，",
+      "function": "拿连锁咖啡与快餐说明标准化体验为何带来信任。",
+      "transition": "与内容时代对人的理解和互动做对照。",
+      "mechanism": "熟悉品牌的功能解释",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "具体标准体验",
+        "读者可理解的服务稳定性"
+      ],
+      "fail": [
+        "仅提品牌名称",
+        "把品牌信任视作唯一旧逻辑"
+      ],
+      "adaptation": "AI可比统一教程与个人答疑，不武断宣布一种信任被另一种取代。",
+      "id": "S03",
+      "pass": [
+        "例子说明信任来自什么",
+        "为后文对比铺路"
+      ],
+      "source_span": {
+        "start_character": 360,
+        "end_character": 544,
+        "percentage_start": 17.5,
+        "percentage_end": 27.3,
+        "sha256": "e7dfde31021f958653b21db0a13cc18e02963534a25fdb580f34cf2ded9c097d"
+      }
+    },
+    {
+      "label": "以个体互动举例解释另一种信任",
+      "start_quote": "但自媒体时代的到来，",
+      "function": "转向产品背后的人和理解需求，用宝妈护肤建议示例讲互动信任。",
+      "transition": "把个体信任连到稀缺资产。",
+      "mechanism": "前后模式对照与小服务场景",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "具体个体服务行为",
+        "客户真正需求",
+        "商业数据核验如采用"
+      ],
+      "fail": [
+        "个体一定胜过品牌",
+        "手工面膜故事被视为已核验"
+      ],
+      "adaptation": "用东头真实答疑如何帮助用户理解AI，而非照搬商品与人群。",
+      "id": "S04",
+      "pass": [
+        "说明信任新增在哪个动作",
+        "区分示例、事实和作者判断"
+      ],
+      "source_span": {
+        "start_character": 544,
+        "end_character": 927,
+        "percentage_start": 27.3,
+        "percentage_end": 47.6,
+        "sha256": "d8d35c2acbeeaf47f3aa4867b54f9bfbf4b85efb168b9013296d887df8c8d857"
+      }
+    },
+    {
+      "label": "把稀缺性拆成三类可积累资产",
+      "start_quote": "一个人就能干的生意，最重要的溢价来源，",
+      "function": "依次讲技能、影响力、思想三类来源，解释“独特”不只是外部优秀标签。",
+      "transition": "将三类资产转成找优势、需求、输出的路径。",
+      "mechanism": "抽象稀缺拆成三个动作来源",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "已具备技能",
+        "真实连接或反馈",
+        "独立观点与依据"
+      ],
+      "fail": [
+        "三个同义词",
+        "把不一样等同有市场价值"
+      ],
+      "adaptation": "AI内容可对应教会一个任务、保持答疑连接、输出可检验的个人判断。",
+      "id": "S05",
+      "pass": [
+        "每类资产对应不同积累行为",
+        "都说明为谁产生何价值"
+      ],
+      "source_span": {
+        "start_character": 927,
+        "end_character": 1298,
+        "percentage_start": 47.6,
+        "percentage_end": 67.3,
+        "sha256": "a5d8f41314da83061f6e38b83c6461aca5c27c031e3145c3d7fad146b371c023"
+      }
+    },
+    {
+      "label": "给出优势与需求相交的简短路径",
+      "start_quote": "找到你在某个领域的优势，",
+      "function": "把独特性连到需求稳定的细分赛道与持续输出，形成有限建议。",
+      "transition": "进一步扩展到AI与技术愿景。",
+      "mechanism": "抽象原则转为选择条件",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "能力证据",
+        "真实需求",
+        "一个小输出任务"
+      ],
+      "fail": [
+        "永远输出就自然溢价",
+        "赛道稳定无证据"
+      ],
+      "adaptation": "补一个低成本验证，而不是凭独特性就宣称可做生意。",
+      "id": "S06",
+      "pass": [
+        "优势与需求有匹配说明",
+        "承认市场验证"
+      ],
+      "source_span": {
+        "start_character": 1298,
+        "end_character": 1376,
+        "percentage_start": 67.3,
+        "percentage_end": 71.4,
+        "sha256": "e8e0a0d9aeb51bf9deec9bfda1bf0c7871dfd723e0afa83620dc69dce4be931c"
+      }
+    },
+    {
+      "label": "以AI未来设问扩大创造议题",
+      "start_quote": "当 AI 干完所有执行类的事情，世界会发生什么？",
+      "function": "使用假定未来引出创造者时代，再用技术演变叙事说明作者愿景。",
+      "transition": "以人的独特性与自由作结。",
+      "mechanism": "未来思想实验与历史序列",
+      "requirement": "optional",
+      "condition": "若本篇需要愿景层且明确标记假设，可保留；实操文章不必强行扩写。",
+      "materials": [
+        "明确假设",
+        "当前AI能力边界",
+        "相关技术历史如引用"
+      ],
+      "fail": [
+        "假定未来写成现实",
+        "称AI永远不能替代任何独特性"
+      ],
+      "adaptation": "可讨论一项真实可自动化任务后人需要判断什么，避免全执行预测。",
+      "id": "S07",
+      "pass": [
+        "标明假设推演",
+        "不影响当前操作判断"
+      ],
+      "source_span": {
+        "start_character": 1376,
+        "end_character": 1625,
+        "percentage_start": 71.4,
+        "percentage_end": 84.7,
+        "sha256": "c30492a01e8789c17f5e5d02b77a36283f63bc7fdef2cc8134a744c6f53cbefd"
+      }
+    },
+    {
+      "label": "以创造意义回扣独立价值",
+      "start_quote": "终极的自由，不是拥有一切，而是能够创造一切。",
+      "function": "用原版自我与留下印记收束，回扣开头价值创造者。",
+      "transition": "结束于持续表达独特价值的倡议。",
+      "mechanism": "价值观升维与首尾回扣",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "已经讲清的可积累资产",
+        "作者确认的价值观"
+      ],
+      "fail": [
+        "宏大创造口号盖住实际需求",
+        "承诺人人可创造一切"
+      ],
+      "adaptation": "用东头自己的“我希望帮助谁做到什么”收尾，不复制终极文明话语。",
+      "id": "S08",
+      "pass": [
+        "结尾不超出前面资产逻辑",
+        "有现实行动落点"
+      ],
+      "source_span": {
+        "start_character": 1625,
+        "end_character": 1914,
+        "percentage_start": 84.7,
+        "percentage_end": 100.0,
+        "sha256": "e4c9030204e7a244eb2c83bfb76c8bf4f6f644b83dbc2da2111e1a157c5feba7"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "读者能把独立价值设问对应自己的岗位与能力。",
+      "stage_ids": [
+        "S01",
+        "S02"
+      ],
+      "evidence_needed": [
+        "受众处境",
+        "离开组织后的具体问题"
+      ],
+      "failure": "宏大文明语句没有现实连接。"
+    },
+    "understandable": {
+      "criterion": "两类信任与三类资产都有不同的可理解动作。",
+      "stage_ids": [
+        "S03",
+        "S04",
+        "S05"
+      ],
+      "evidence_needed": [
+        "体验例子",
+        "互动例子",
+        "三类积累动作"
+      ],
+      "failure": "稀缺、价值、自由反复同义堆积。"
+    },
+    "credible": {
+      "criterion": "品牌、数据、人物与AI未来分别标明事实、示例与假设。",
+      "stage_ids": [
+        "S03",
+        "S04",
+        "S07"
+      ],
+      "evidence_needed": [
+        "原始来源如有数据",
+        "示例归属",
+        "AI能力边界"
+      ],
+      "failure": "把AI全执行当已实现并推导必然商业前景。"
+    },
+    "fulfilled": {
+      "criterion": "兑现为何考虑单人业务的解释；若许诺开干需另补需求和验证。",
+      "stage_ids": [
+        "S05",
+        "S06",
+        "S08"
+      ],
+      "evidence_needed": [
+        "资产来源",
+        "真实需求",
+        "下一次输出动作"
+      ],
+      "failure": "只讲独特，却未说明有人需要。"
+    },
+    "structure": {
+      "criterion": "外部指标问题、信任对照、资产拆解、有限路径与愿景回扣互相支撑。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08"
+      ],
+      "evidence_needed": [
+        "阶段功能",
+        "愿景可选范围"
+      ],
+      "failure": "只复刻小标题而把核心信任对照省掉。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "组织指标与独立价值的问题连接",
+      "规模体验与个体互动各讲清作用",
+      "三类资产接实际受众需求"
+    ],
+    "adjustable": [
+      "品牌例子可替换",
+      "AI愿景段可选",
+      "宏大结尾可收缩"
+    ],
+    "fill_before_writing": [
+      "东头真实技能和用户需求",
+      "个体信任案例",
+      "愿景与当前事实区别",
+      "实际验证动作"
+    ]
+  },
+  "summary": "这篇是单人业务的价值观论证，主要借规模信任与个体关系对照，再拆三类稀缺来源；正文并非可直接跟做的创业教程。",
+  "tags": [
+    "公众号",
+    "单人业务",
+    "信任对照",
+    "稀缺性",
+    "愿景稿",
+    "题文粘连"
+  ],
+  "useful_modules": [
+    "structure",
+    "opening",
+    "explanation",
+    "experience"
+  ],
+  "methods": {
+    "structure": {
+      "quote": "构建属于自己的稀缺性",
+      "observation": "先论信任为何关注个体，再解释个体应积累什么。",
+      "adaptation": "让“为什么重要”引出“我可以积累哪种资产”。",
+      "limit": "原文是观点发展，不含完整交易流程。"
+    },
+    "opening": {
+      "quote": "&#x6587;明的终极目标，是赋权每一个人，成为独立价值的创造者。",
+      "observation": "题后直接接宏大总纲，收到文本存在HTML实体与标题粘连。",
+      "adaptation": "可参考总纲后立即接读者处境，实际新稿要清晰分段。",
+      "limit": "不能根据粘连推断缺失开头或将愿景当事实。"
+    },
+    "explanation": {
+      "quote": "星巴克卖的不只是咖啡，而是一套稳定的第三空间体验",
+      "observation": "借熟悉品牌把标准化信任说成可体会的体验。",
+      "adaptation": "用读者用过的AI工作服务讲清信任从哪来。",
+      "limit": "品牌类比要限定，不代表个体天然更可靠。"
+    },
+    "experience": {
+      "quote": "一个在朋友圈卖手工面膜的宝妈，",
+      "observation": "本文此处是第三人称示例，非作者完整亲历。",
+      "adaptation": "可局部学习一个服务行为如何带出信任，不写成东头亲历。",
+      "limit": "未确认是真实客户，需标明示例或补可靠案例。"
+    }
+  },
+  "source_path": "raw/sample-55.txt",
+  "source_sha256": "b21d4184799ef30c6c96d78634cf109f9bcee42a433fefebf879d49e83d678fd",
+  "body_start_character": 30,
+  "body_end_character": 1914,
+  "source_group": "ray-wechat-2026-10-07",
+  "submitted_number": "29",
+  "source_completeness": "as_submitted",
+  "source_defect_notes": [],
+  "full_structure_reference": true,
+  "opening_reference": true,
+  "allowed_usage": [
+    "selected_structure",
+    "local_method"
+  ]
+}

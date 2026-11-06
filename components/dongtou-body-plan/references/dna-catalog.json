@@ -1,0 +1,172 @@
+{
+  "schema_version": 1,
+  "default_project_root": "~/Desktop/东头内容创造",
+  "entries": [
+    {
+      "id": "shizi-wechat-dna",
+      "name": "AI产品经理柿子",
+      "fit": "工具选择、方法纠偏、AI工作解释",
+      "sample_scope": "18组公众号截图；18份作者正文可读；v0.1试用",
+      "kind": "独立文风资料包",
+      "paths": [
+        "{project_root}/10_materials/公众号/AI产品经理柿子-v0.1/Writing-DNA.md"
+      ],
+      "skill_relative_paths": []
+    },
+    {
+      "id": "nine-life-finance-dna",
+      "name": "九篇生活财务语料",
+      "fit": "保险、储蓄、养老；先生活处境再解释概念",
+      "sample_scope": "9篇本地原文；作者未明，非单一博主；与东头及保险正文同源",
+      "kind": "同源语料，只计一组",
+      "paths": [
+        "~/Documents/Codex/2026-09-24/new-chat-5/outputs/九篇口播稿写作DNA/Writing-DNA.md"
+      ],
+      "skill_relative_paths": []
+    },
+    {
+      "id": "tangguoguo-content-dna",
+      "name": "糖果果",
+      "fit": "普通人的技术解释、实验与有条件判断",
+      "sample_scope": "40稿件/42分P；规则与证据索引可读",
+      "kind": "博主DNA组件",
+      "paths": [],
+      "skill_relative_paths": [
+        "creator-methods-library/content-dna/tangguoguo-content-dna/SKILL.md"
+      ]
+    },
+    {
+      "id": "chocpink-content-dna",
+      "name": "chocpink",
+      "fit": "AI产品公开构建、项目周记与失败复盘",
+      "sample_scope": "15条；技术与生活内容分轨",
+      "kind": "博主DNA组件",
+      "paths": [],
+      "skill_relative_paths": [
+        "creator-methods-library/content-dna/chocpink-content-dna/SKILL.md"
+      ]
+    },
+    {
+      "id": "azhen-irene-content-dna",
+      "name": "阿真 Irene",
+      "fit": "成品先行、多工件教程、质量检查",
+      "sample_scope": "9条，其中6条教程；需要过程或成品证据",
+      "kind": "博主DNA组件",
+      "paths": [],
+      "skill_relative_paths": [
+        "creator-methods-library/content-dna/azhen-irene-content-dna/SKILL.md"
+      ]
+    },
+    {
+      "id": "atundun-content-dna",
+      "name": "阿囤囤",
+      "fit": "AI小白解释、可见成品、工作流教程",
+      "sample_scope": "近期18/53条；样本不代表整个账号",
+      "kind": "博主DNA组件",
+      "paths": [],
+      "skill_relative_paths": [
+        "creator-methods-library/content-dna/atundun-content-dna/SKILL.md"
+      ]
+    },
+    {
+      "id": "ami-moment-content-dna",
+      "name": "ami-moment",
+      "fit": "小摩擦、轻量工具、白话拆解",
+      "sample_scope": "4条试用样本；不标稳定成熟文风",
+      "kind": "博主DNA组件",
+      "paths": [],
+      "skill_relative_paths": [
+        "creator-methods-library/content-dna/ami-moment-content-dna/SKILL.md"
+      ]
+    },
+    {
+      "id": "jamie-practice-led-content-dna",
+      "name": "Jamie",
+      "fit": "项目式学习、实践、失败与迭代",
+      "sample_scope": "151条；亲历内容必须有自己的行动证据",
+      "kind": "博主DNA组件",
+      "paths": [],
+      "skill_relative_paths": [
+        "creator-methods-library/content-dna/jamie-practice-led-content-dna/SKILL.md"
+      ]
+    },
+    {
+      "id": "sleepytao-freelance-content-dna",
+      "name": "桃知了",
+      "fit": "自由职业、客户交付、阶段复盘",
+      "sample_scope": "6条系列样本；不外推收益和全账号",
+      "kind": "博主DNA组件",
+      "paths": [],
+      "skill_relative_paths": [
+        "creator-methods-library/content-dna/sleepytao-freelance-content-dna/SKILL.md"
+      ]
+    },
+    {
+      "id": "xiaowan-content-dna",
+      "name": "小晚不在",
+      "fit": "新手教学、诊断问题、判断框架",
+      "sample_scope": "v1-sample-6 / medium-high；6条小样本",
+      "kind": "博主DNA组件",
+      "paths": [],
+      "skill_relative_paths": [
+        "creator-methods-library/content-dna/xiaowan-content-dna/SKILL.md"
+      ]
+    },
+    {
+      "id": "genji-content-dna",
+      "name": "GenJi",
+      "fit": "机会转行动、失败到SOP、行业深访",
+      "sample_scope": "95条；嘉宾、团队与作者观点分开",
+      "kind": "博主DNA组件",
+      "paths": [],
+      "skill_relative_paths": [
+        "creator-methods-library/content-dna/genji-content-dna/SKILL.md"
+      ]
+    },
+    {
+      "id": "shenfanlaogou-content-dna",
+      "name": "神烦老狗",
+      "fit": "真实工具实测、同题横测、问题解决",
+      "sample_scope": "285条；需要真实输出、版本与失败记录",
+      "kind": "博主DNA组件",
+      "paths": [],
+      "skill_relative_paths": [
+        "creator-methods-library/content-dna/shenfanlaogou-content-dna/SKILL.md"
+      ]
+    },
+    {
+      "id": "chestnut-build-in-public-content-dna",
+      "name": "Chestnut栗子",
+      "fit": "公开建造、内容系统、一人公司复盘",
+      "sample_scope": "33条；需要过程证据，不借用收入与经历",
+      "kind": "博主DNA组件",
+      "paths": [],
+      "skill_relative_paths": [
+        "creator-methods-library/content-dna/chestnut-build-in-public-content-dna/SKILL.md"
+      ]
+    },
+    {
+      "id": "gezi-ai-web3-content-dna",
+      "name": "歌子师姐",
+      "fit": "AI/Web3概念、采用摩擦、机制解释",
+      "sample_scope": "33条；不把解释变成投资或收益承诺",
+      "kind": "博主DNA组件",
+      "paths": [],
+      "skill_relative_paths": [
+        "creator-methods-library/content-dna/gezi-ai-web3-content-dna/SKILL.md"
+      ]
+    },
+    {
+      "id": "xuhaha-market-content-dna",
+      "name": "许哈哈在这",
+      "fit": "市场反馈、案例—机制—行动、误区解释",
+      "sample_scope": "16条时间窗口样本；结果边界随证据走",
+      "kind": "博主DNA组件",
+      "paths": [],
+      "skill_relative_paths": [
+        "creator-methods-library/content-dna/xuhaha-market-content-dna/SKILL.md"
+      ]
+    }
+  ],
+  "snapshot_note": "2026-10-04创建第四步时的候选快照；实际可用性与读取要求在运行时核实"
+}

@@ -1,0 +1,475 @@
+{
+  "id": "sample-33",
+  "number": 33,
+  "title": "任何人都可以在半年内成为专家",
+  "short_name": "重新定义专家再给四步实践",
+  "family": "概念重定义到练习路径",
+  "skeleton": [
+    "挑战年资规则",
+    "旧条件和新工具对照",
+    "把专家定义成认知与实操",
+    "自身写作记录支撑能力定义",
+    "担心暴露不足阻断实践",
+    "第一步选适合任务",
+    "第二步构建整体SOP",
+    "第三步用粗糙版本启动",
+    "第四步让AI辅助特定环节",
+    "把身份承诺收束为持续实践"
+  ],
+  "distinctive": "先用旧年资规则与工具变化对照制造疑问，再把专家改成有结构认知和可验证实操，处理不敢开始的顾虑，依次讲定位、SOP、低成本启动和AI协作，最后回到持续迭代。",
+  "promise": "给读者一个能验证能力的练习路径，说明AI怎样帮助迭代；半年人人专家、效率十倍为原稿承诺而非验收结果。",
+  "applicability": [
+    "AI新手如何从收藏教程转到实践",
+    "把一项职场任务学到能解释和检验",
+    "用SOP组织学习与AI辅助"
+  ],
+  "material_preconditions": [
+    "一项边界明确的目标任务",
+    "真实练习记录和错误反馈",
+    "AI辅助哪步及人工检查方法"
+  ],
+  "source_limits": [
+    "来源仅为用户本次粘贴的公众号文章文本，万赞状态为用户报告，未读取原页面或核验互动数据。",
+    "Ray的身份、经历、客户反馈、收益数字及所引名言均为作者叙述；不得写成东头的亲历或已证实事实。",
+    "半年成为专家、1年顶10年、工具降本10倍和两个账号比较未证明普遍效果；资格性专家需另有正式标准。",
+    "原稿将不行动解释为勇气与完美主义，未处理时间、身体、资金及能力限制；不可据此指责新手。"
+  ],
+  "stages": [
+    {
+      "label": "挑战年资规则",
+      "start_quote": "论资排辈的年代，早就已经过去了。",
+      "function": "先否定年资等于能力的常见期待，打开快速学习议题。",
+      "transition": "紧接着解释旧规则成立的条件与工具变化。",
+      "mechanism": "时代反差和熟悉规则挑战",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "读者当前学习目标",
+        "年资与实际能力的具体差别"
+      ],
+      "fail": [
+        "把半年专家当适用所有领域的事实。"
+      ],
+      "adaptation": "可写我看AI学习更关注完成任务记录，不只看用了多久。",
+      "pass": [
+        "标题和开头承诺能做到什么而不是颁发专家身份。"
+      ],
+      "id": "S01",
+      "source_span": {
+        "start_character": 32,
+        "end_character": 70,
+        "percentage_start": 0.0,
+        "percentage_end": 1.7,
+        "sha256": "8bd796723971841e6a003d4fe40be66423b709d09cafc9bfc654fc15691d61ba"
+      }
+    },
+    {
+      "label": "旧条件和新工具对照",
+      "start_quote": "论资排辈的底层逻辑，在于信息匮乏的年代",
+      "function": "先说经验积累渠道旧限制，再说互联网、AI降低部分行动成本，并用账号增长对照。",
+      "transition": "对照以后需要澄清专家的定义，避免只以速度衡量。",
+      "mechanism": "条件变化与结果对比",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "可核验工具能力",
+        "同类任务练习成本",
+        "比较口径"
+      ],
+      "fail": [
+        "两个账号的年份和粉丝数直接证明效率提升十倍。"
+      ],
+      "adaptation": "以真实任务前后输入、用时和返工记录替代跨账号竞速。",
+      "pass": [
+        "把速度变化归于具体步骤，承认环境和起点差异。"
+      ],
+      "id": "S02",
+      "source_span": {
+        "start_character": 70,
+        "end_character": 385,
+        "percentage_start": 1.7,
+        "percentage_end": 15.7,
+        "sha256": "bc3cdefff6db98d4e5b8a96e95407e86276770080fc19d2c64da25c044426a1d"
+      }
+    },
+    {
+      "label": "把专家定义成认知与实操",
+      "start_quote": "你想成为专家，首先你得知道，什么叫专家。",
+      "function": "排除只懂理论会包装的人，定义为结构化认知和可验证能力。",
+      "transition": "定义之后用自己写作体系和传授结果提供作者示例。",
+      "mechanism": "先排误解后给可观察定义",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "任务领域范围",
+        "独立完成和解释方法的标准",
+        "结果检查记录"
+      ],
+      "fail": [
+        "只说有认知、有结果就自封任何领域专家。"
+      ],
+      "adaptation": "改成能完成并检查一项AI工作任务的熟练使用者。",
+      "pass": [
+        "能力标准能用于实际任务，不与职业资格混同。"
+      ],
+      "id": "S03",
+      "source_span": {
+        "start_character": 385,
+        "end_character": 518,
+        "percentage_start": 15.7,
+        "percentage_end": 21.7,
+        "sha256": "3ea410ca28db1c1910e3f6520c0df813f53dcf08410a103ad472e4fbd0daf63b"
+      }
+    },
+    {
+      "label": "自身写作记录支撑能力定义",
+      "start_quote": "就像我这半年多写公众号，8 个月，160+ 篇文章",
+      "function": "列练习量、粉丝变化、流程知识和教别人，解释能力定义的作者依据。",
+      "transition": "有标准仍不动，后面处理心理顾虑。",
+      "mechanism": "记录、方法、外部验证三项结合",
+      "requirement": "conditional",
+      "condition": "有作者真实练习和外部反馈时保留；否则以一次示范替代。",
+      "materials": [
+        "作者真实练习量",
+        "结构化方法样例",
+        "他人应用的具体反馈"
+      ],
+      "fail": [
+        "移植Ray160篇、11万粉或学员验证。"
+      ],
+      "adaptation": "可用东头自己的七步套件任务记录，说明如何完成、复查和改。",
+      "pass": [
+        "记录与方法相连，结果来源清楚，不只晒粉丝。"
+      ],
+      "id": "S04",
+      "source_span": {
+        "start_character": 518,
+        "end_character": 683,
+        "percentage_start": 21.7,
+        "percentage_end": 29.0,
+        "sha256": "b817b9a5f378e2393003e97bb3f9de4c6b80e45df18878db2042ef6baef89d16"
+      }
+    },
+    {
+      "label": "担心暴露不足阻断实践",
+      "start_quote": "不过，大多数人的潜意识，是抗拒成为专家的。",
+      "function": "列解释义务、失败和被批评的风险，说明不必等完全准备好才实践。",
+      "transition": "随后从顾虑转向四步路径，让开始有具体办法。",
+      "mechanism": "顾虑列举与顺序反转",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "当事人确认的担心",
+        "可接受的练习风险"
+      ],
+      "fail": [
+        "把所有没开始者都说成不够勇敢。"
+      ],
+      "adaptation": "写我也会先在低风险任务里测试，再按反馈调整。",
+      "pass": [
+        "允许不足并说明练习范围，而不否定谨慎。"
+      ],
+      "id": "S05",
+      "source_span": {
+        "start_character": 683,
+        "end_character": 1102,
+        "percentage_start": 29.0,
+        "percentage_end": 47.7,
+        "sha256": "e7379da9ec382c4e677fb9af80f5b7801a09b158c0141005f05096727df33beb"
+      }
+    },
+    {
+      "label": "第一步选适合任务",
+      "start_quote": "1. 找到适合自己的“那件事”",
+      "function": "将喜欢、能力、需求和长期空间作为任务选择理由。",
+      "transition": "有对象后才构建任务整体步骤。",
+      "mechanism": "筛选条件与作者偏好例子",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "候选任务",
+        "自己的优势",
+        "读者或工作的真实需要"
+      ],
+      "fail": [
+        "只凭热爱便推断长期需求。"
+      ],
+      "adaptation": "选一项25–32岁AI新手常做的具体工作任务。",
+      "pass": [
+        "选择落到一件任务，不能只写AI赛道。"
+      ],
+      "id": "S06",
+      "source_span": {
+        "start_character": 1102,
+        "end_character": 1242,
+        "percentage_start": 47.7,
+        "percentage_end": 53.9,
+        "sha256": "6544d90d8b071b9d7e91d98fe56f9ee50d4c774cffb2c2bde9ee0c54b04736b4"
+      }
+    },
+    {
+      "label": "第二步构建整体SOP",
+      "start_quote": "2. 构建“这件事”的 SOP 框架",
+      "function": "说明先看完整体系，再拆各环节，避免只追标题等局部技巧。",
+      "transition": "框架只是草图，下一步要让它跑一次。",
+      "mechanism": "全流程到细节的层级",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "任务起点、步骤和结束条件",
+        "每步输入输出"
+      ],
+      "fail": [
+        "把流程画完当已掌握能力。"
+      ],
+      "adaptation": "记录AI任务输入、选工具、生成、检查、修订的全链。",
+      "pass": [
+        "流程能走通，每步有检查而非步骤名。"
+      ],
+      "id": "S07",
+      "source_span": {
+        "start_character": 1242,
+        "end_character": 1417,
+        "percentage_start": 53.9,
+        "percentage_end": 61.7,
+        "sha256": "28f065d124696e8a4725b80ba285c36ff0819649f05fea031997cb6125e79cd6"
+      }
+    },
+    {
+      "label": "第三步用粗糙版本启动",
+      "start_quote": "3. 最低成本启动",
+      "function": "用自己早期粗糙写作说明MVP，让实践反馈细化SOP。",
+      "transition": "基础跑起来后再讨论AI如何加快每轮。",
+      "mechanism": "低成本原型与边做边改",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "最小可交付版本",
+        "失败可回退条件",
+        "反馈收集方式"
+      ],
+      "fail": [
+        "带病上路被理解成未经核验也可发布。"
+      ],
+      "adaptation": "在内部样稿试一次AI流程，检查通过才外部使用。",
+      "pass": [
+        "粗糙不等于无底线，任务质量和成本有边界。"
+      ],
+      "id": "S08",
+      "source_span": {
+        "start_character": 1417,
+        "end_character": 1615,
+        "percentage_start": 61.7,
+        "percentage_end": 70.6,
+        "sha256": "6cf2160ed4e1e553777c3e1f6e6222b78d6098763f0cf28d30e6f937c369997f"
+      }
+    },
+    {
+      "label": "第四步让AI辅助特定环节",
+      "start_quote": "4. AI 赋能，加快迭代速度",
+      "function": "将AI放到SOP已有环节，列写文案、沉淀、选题、素材等实际作用。",
+      "transition": "具体作用后归纳迭代价值，并回到开始行动。",
+      "mechanism": "工具职责与用时说明",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "每步工具输入输出",
+        "人工验收",
+        "真实前后用时若引用"
+      ],
+      "fail": [
+        "照搬4–5小时到2小时或1年顶10年作效果保证。"
+      ],
+      "adaptation": "用当前套件的职责与检查材料说明分工，不制造效率数字。",
+      "pass": [
+        "知道AI干哪一步、谁检查，不以更多AI数量证明强。"
+      ],
+      "id": "S09",
+      "source_span": {
+        "start_character": 1615,
+        "end_character": 2234,
+        "percentage_start": 70.6,
+        "percentage_end": 98.2,
+        "sha256": "1b01715d72669c546a59021099972bda3d7294e2c6005b935f47dcc173ab1ae7"
+      }
+    },
+    {
+      "label": "把身份承诺收束为持续实践",
+      "start_quote": "每一次下场，每一次迭代，每一次不完美的交付",
+      "function": "回扣每轮反馈而非准备完美，强调能力形成过程。",
+      "transition": "回应开头年资议题，将下一步交给读者。",
+      "mechanism": "反复回扣与过程型结束",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "下一轮可完成任务",
+        "本轮错误和改进指标"
+      ],
+      "fail": [
+        "每次交付都自动逼近专家，没有反馈或质量门槛。"
+      ],
+      "adaptation": "邀请读者完成一次任务、记录一处错误、下一次改进它。",
+      "pass": [
+        "结尾落到持续实践与质量改进，取消固定期限保证。"
+      ],
+      "id": "S10",
+      "source_span": {
+        "start_character": 2234,
+        "end_character": 2275,
+        "percentage_start": 98.2,
+        "percentage_end": 100.0,
+        "sha256": "5b6972924ca4f95d264ba1bdd44aed2a43c35736ef6c1bcfbe6b69355f69b396"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "年资与能力的反差对应一个读者想掌握的具体任务。",
+      "stage_ids": [
+        "S01",
+        "S02"
+      ],
+      "evidence_needed": [
+        "任务范围",
+        "可期待的具体结果"
+      ],
+      "failure": "靠半年专家夸张承诺吸引。"
+    },
+    "understandable": {
+      "criterion": "专家定义可观察，四步各有输入、动作和产出。",
+      "stage_ids": [
+        "S03",
+        "S06",
+        "S07",
+        "S08",
+        "S09"
+      ],
+      "evidence_needed": [
+        "能力标准",
+        "SOP样例",
+        "最小交付"
+      ],
+      "failure": "MVP、SOP、外脑只说术语。"
+    },
+    "credible": {
+      "criterion": "练习量、效果和AI能力真实归属且有检查，跨人比较不被当因果。",
+      "stage_ids": [
+        "S02",
+        "S04",
+        "S09"
+      ],
+      "evidence_needed": [
+        "任务记录",
+        "结果来源",
+        "用时口径"
+      ],
+      "failure": "两个账号增长速度证明所有人能快速专业化。"
+    },
+    "fulfilled": {
+      "criterion": "正文提供选任务、拆流程、试一次、加AI与复核的完整路径。",
+      "stage_ids": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10"
+      ],
+      "evidence_needed": [
+        "本轮任务",
+        "错误反馈",
+        "下一轮计划"
+      ],
+      "failure": "学完只有勇气口号，仍无法完成任务。"
+    },
+    "structure": {
+      "criterion": "先改定义再处理顾虑，四步按对象→流程→运行→辅助推进。",
+      "stage_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S05",
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10"
+      ],
+      "evidence_needed": [
+        "四步前置关系",
+        "结尾与能力定义回扣"
+      ],
+      "failure": "上来列AI工具，没有能力范围和练习过程。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "能力定义必须可观察并限定任务范围。",
+      "四步保留先选任务、搭流程、跑一次、再优化的依赖。",
+      "AI辅助必须说明实际环节和结果检查。"
+    ],
+    "adjustable": [
+      "专家名称和半年期限可改成具体任务熟练度。",
+      "账号速度比较、收益或用时数字可删除。",
+      "顾虑段按作者真实情况写，不臆测读者心理。"
+    ],
+    "fill_before_writing": [
+      "要独立完成的任务和质量标准：____",
+      "最小SOP及试行成本：____",
+      "AI分工、检查记录与下一轮改进：____"
+    ]
+  },
+  "summary": "通过可验证的能力定义和四步实践，把专家身份换成具体任务的持续练习。",
+  "tags": [
+    "公众号",
+    "学习路径",
+    "SOP",
+    "AI协作",
+    "能力验证"
+  ],
+  "useful_modules": [
+    "structure",
+    "opening",
+    "explanation",
+    "experience"
+  ],
+  "methods": {
+    "structure": {
+      "quote": "你想成为专家，首先你得知道，什么叫专家。",
+      "observation": "写操作前重新定义目标，避免不同理解下谈方法。",
+      "adaptation": "先定义AI任务完成意味着什么，再列步骤。",
+      "limit": "不能随意缩小专家定义以兑现夸张标题。"
+    },
+    "opening": {
+      "quote": "论资排辈的年代，早就已经过去了。",
+      "observation": "用旧规则被挑战吸引读者。",
+      "adaptation": "提出我判断AI熟练度更看实际成果的有限观点。",
+      "limit": "时代结论需依据，不能用宏观宣告代替事实。"
+    },
+    "explanation": {
+      "quote": "结构化的认知 + 稳定可验证的实操能力",
+      "observation": "用两项能力拆开模糊身份。",
+      "adaptation": "解释懂流程与能完成/检查结果分别是什么。",
+      "limit": "这不是正式专家资格认证标准。"
+    },
+    "experience": {
+      "quote": "我公众号一开始写得很烂，文风也杂乱",
+      "observation": "坦白早期不足并接调整动作，让新手看到过程。",
+      "adaptation": "用东头真实初稿、反馈和后续修改说我如何学会。",
+      "limit": "原作者失败和成功记录都不能借用成个人经历。"
+    }
+  },
+  "source_path": "raw/sample-33.txt",
+  "source_sha256": "2de918455af1eaf60cd174f192747333ebfdf16a3214ac92fba31ad853498ee8",
+  "body_start_character": 32,
+  "body_end_character": 2275,
+  "source_group": "ray-wechat-2026-10-07",
+  "submitted_number": "08",
+  "source_completeness": "as_submitted",
+  "source_defect_notes": [],
+  "full_structure_reference": true,
+  "opening_reference": true,
+  "allowed_usage": [
+    "selected_structure",
+    "local_method"
+  ]
+}

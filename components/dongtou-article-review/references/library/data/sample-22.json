@@ -1,0 +1,393 @@
+{
+  "id": "sample-22",
+  "number": 22,
+  "title": "女生尽早掌握生产资料，最可行的办法",
+  "short_name": "三项准备后启动业务的创业五步",
+  "family": "创业启动路径",
+  "skeleton": [
+    "公司股权框架与五步承诺",
+    "兴趣能力付费需求三问",
+    "HR例子闭环",
+    "研报和MVP市场验证",
+    "六项计划与三种用途",
+    "有条件登记公司",
+    "首单销售交付",
+    "总结SOP按瓶颈搭团队调整",
+    "商业系统回扣"
+  ],
+  "distinctive": "先完成点子、市场验证和纸面计划三项准备，再进入注册和首单业务，强调流程是在销售交付中形成的。",
+  "promise": "把原作者从0到1创业过程拆成五个行动步骤，帮助有创业想法者知道怎样启动；半年百万和公司股权低成本判断均未证明普适。",
+  "applicability": [
+    "有技能资源且准备验证创业想法的人",
+    "从业务假设到首单的AI服务启动文章"
+  ],
+  "material_preconditions": [
+    "明确的能力资源和用户付费问题",
+    "真实MVP反馈及商业计划输入",
+    "首单交付、流程和团队瓶颈材料"
+  ],
+  "source_limits": [
+    "27岁创业半年百万为原作者maggie自述，没有财务和订单材料。",
+    "公司股权、注册流程和费用属于原稿概括，本卡不核验法律或财务准确性。",
+    "HR为说明用假设例子，未证明该业务真实成交；转写有生。生意、我生产资料等错字。"
+  ],
+  "stages": [
+    {
+      "label": "生产资料框架与五步预告",
+      "function": "以掌控人生和公司股权引入创业启动，给作者结果和五步路线。",
+      "transition": "先说明方向及承诺，再进入商业闭环检查。",
+      "mechanism": "身份转变、个人结果、自下而上步骤预告。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "本篇创业启动目标",
+        "作者结果来源与适用条件"
+      ],
+      "pass": [
+        "开场清楚指向从想法到开干，不把公司股权当所有人的低成本选择。"
+      ],
+      "fail": [
+        "用半年百万替代流程与条件。"
+      ],
+      "adaptation": "把东头AI项目启动目标和现实约束讲明白。",
+      "id": "S01",
+      "start_quote": "如果你想要掌控自己的人生，不想打一辈子工",
+      "source_span": {
+        "start_character": 34,
+        "end_character": 222,
+        "percentage_start": 0.0,
+        "percentage_end": 11.3,
+        "sha256": "486e0ff48af512550149e7b4d70a3b360667a822f8e0980cc0841c496d245ebc"
+      }
+    },
+    {
+      "label": "兴趣能力需求三问",
+      "function": "用喜欢、擅长、有人愿付费三问检查点子能否形成商业闭环。",
+      "transition": "开场大方向落到交集，再用HR场景示范。",
+      "mechanism": "反向纠偏、三项前提检查。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "实际技能资源",
+        "明确用户问题和付费依据"
+      ],
+      "pass": [
+        "三问都有具体答案，付费需求不只由作者猜测。"
+      ],
+      "fail": [
+        "有三个小标题但只谈兴趣。"
+      ],
+      "adaptation": "检查AI项目的能力供给、用户问题与付费证据。",
+      "id": "S02",
+      "start_quote": "第一步，创业这件事儿，你不是在找爱好",
+      "source_span": {
+        "start_character": 222,
+        "end_character": 352,
+        "percentage_start": 11.3,
+        "percentage_end": 19.2,
+        "sha256": "adff6f0801609309d1a0f72b3a458c59152c2e2e06524b336440853863de6b52"
+      }
+    },
+    {
+      "label": "HR例子示范交集",
+      "function": "把HR能力、应届生需求和简历面试服务连接为闭环，并提醒先想透。",
+      "transition": "把三问变成同一例子，为后续MVP验证提供贯穿业务。",
+      "mechanism": "能力到服务对应、具体用户、先小后大。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "真实能力与需求对应，或明确标注的假设例子"
+      ],
+      "pass": [
+        "例子各节点能对应三問而不跳过付费条件。"
+      ],
+      "fail": [
+        "写有HR背景就自动能卖咨询。"
+      ],
+      "adaptation": "选一条东头AI服务假设，后续沿用同一用户问题。",
+      "id": "S03",
+      "start_quote": "比如，你有多年职场HR的经验",
+      "source_span": {
+        "start_character": 352,
+        "end_character": 487,
+        "percentage_start": 19.2,
+        "percentage_end": 27.3,
+        "sha256": "bb452aa68de00cd5b0753b895cd7b5e68b8e50284a573b7b8b2925fd9427b6da"
+      }
+    },
+    {
+      "label": "研报与MVP验证市场",
+      "function": "以行业资料和最小产品接触用户两条路径，把我觉得改成实际验证。",
+      "transition": "点子成形后核实需求，随后才写计划。",
+      "mechanism": "宏观与微观两路径、HR例子延续、服务实体分支。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "有来源的行业资料",
+        "MVP或预售的真实用户反馈",
+        "是否付款和使用的记录"
+      ],
+      "pass": [
+        "实际反馈能支持或修正需求判断，区分问卷态度与支付。"
+      ],
+      "fail": [
+        "只贴研报或把点赞当市场证明。"
+      ],
+      "adaptation": "让AI最小服务接触真实用户，记下反对意见和交付反馈。",
+      "id": "S04",
+      "start_quote": "第二步，做市场调研，你不能光自己觉得这个产品很牛",
+      "source_span": {
+        "start_character": 487,
+        "end_character": 861,
+        "percentage_start": 27.3,
+        "percentage_end": 49.9,
+        "sha256": "8d821a6e06b3372aa9b599b78c854036ebaaa0ba0ccb796c571c49ef33e39de7"
+      }
+    },
+    {
+      "label": "六项商业计划",
+      "function": "要求在纸面写清价值、团队、利润、回本、风险和增长六项。",
+      "transition": "需求验证后转成可讨论计划，接着说明给谁用。",
+      "mechanism": "计划清单、具体问题逐项检查。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "价值和团队安排",
+        "定价成本与现金回收估计",
+        "风险与增长边界"
+      ],
+      "pass": [
+        "六项有具体信息且预测标明假设。"
+      ],
+      "fail": [
+        "只有计划书封面和愿景，没有成本或风险。"
+      ],
+      "adaptation": "为东头AI项目写出用户价值、投入与可检查假设。",
+      "id": "S05",
+      "start_quote": "第三步，再小的生。生意都要有商业计划书",
+      "source_span": {
+        "start_character": 861,
+        "end_character": 1087,
+        "percentage_start": 49.9,
+        "percentage_end": 63.5,
+        "sha256": "702f5061b20a8e935f4c65f7ccdf8303c3b71d6a432598c4aa3e2015d0eb92aa"
+      }
+    },
+    {
+      "label": "计划对资金团队与自己的作用",
+      "function": "说明同一计划用于找钱、找伙伴和整理自己的判断。",
+      "transition": "从计划包含什么转为如何用，之后决定是否注册。",
+      "mechanism": "一份资料对应三种读者、外部沟通与内部思考。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "资金或伙伴沟通目标",
+        "计划审核中的待定问题"
+      ],
+      "pass": [
+        "每种用途对应所需信息，不声称有BP就获支持。"
+      ],
+      "fail": [
+        "只讲自信，没有让对方看懂的内容。"
+      ],
+      "adaptation": "说明AI项目计划如何帮助合作者和自己判断。",
+      "id": "S06",
+      "start_quote": "这份东西对你来说有三个实实在在的好处",
+      "source_span": {
+        "start_character": 1087,
+        "end_character": 1277,
+        "percentage_start": 63.5,
+        "percentage_end": 75.0,
+        "sha256": "5fa524b352733f8215d71c6ad08c542e0f4e8983cd6e49005832062605d2521e"
+      }
+    },
+    {
+      "label": "条件成立后注册公司",
+      "function": "在前三步之后介绍实体化动作与名称地址资本类型范围等项目。",
+      "transition": "将验证和计划放在注册之前，之后进入实际业务。",
+      "mechanism": "依赖门槛、执行项目清单、外包方式。",
+      "requirement": "conditional",
+      "condition": "实际业务需要公司主体时保留；不将公司设立作为所有内容或AI项目的必经步骤。",
+      "materials": [
+        "是否需要公司的实际判断",
+        "适用地区和现行登记要求"
+      ],
+      "pass": [
+        "写明前置条件和登记待办，费用流程另核实。"
+      ],
+      "fail": [
+        "把一两千代办写成通用法定成本，或将注册等同赚钱。"
+      ],
+      "adaptation": "如AI业务确需主体，将登记作为独立且需专业核实的任务。",
+      "id": "S07",
+      "start_quote": "第四步，以上三步都完成了，就可以开始。注册公司了",
+      "source_span": {
+        "start_character": 1277,
+        "end_character": 1410,
+        "percentage_start": 75.0,
+        "percentage_end": 83.0,
+        "sha256": "01f303c9c228b976514606aef917eabdf8a8db2d4a2aaf6176143e24fc1c4723"
+      }
+    },
+    {
+      "label": "首单到流程团队循环",
+      "function": "从本人谈首单、销售交付到总结SOP、按瓶颈找帮手和调整策略。",
+      "transition": "公司准备后进入业务真实运行，形成业务流程团队的反馈循环。",
+      "mechanism": "从首单逐步放大、边做边搭、循环关系。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "首单销售与交付记录",
+        "有效动作SOP",
+        "实际瓶颈与协作需求"
+      ],
+      "pass": [
+        "流程来自实践，招聘和调整有业务依据。"
+      ],
+      "fail": [
+        "先画团队组织图却无真实订单交付。"
+      ],
+      "adaptation": "用AI服务首单复盘形成SOP，按实需扩协作。",
+      "id": "S08",
+      "start_quote": "到最后一步就真的开始干了",
+      "source_span": {
+        "start_character": 1410,
+        "end_character": 1622,
+        "percentage_start": 83.0,
+        "percentage_end": 95.8,
+        "sha256": "b464b2594ac6f931288ac6fdc9ce53547675bc813bba61643610e2afca7e23c2"
+      }
+    },
+    {
+      "label": "商业系统回扣与主页收尾",
+      "function": "把五步收束为设计商业系统，附作者身份与主页引导。",
+      "transition": "实践循环回到开场掌控主题，结束分享。",
+      "mechanism": "首尾回扣、劳动到系统表达、引流。",
+      "requirement": "optional",
+      "condition": "可保留任务回顾，掌控人生口号及主页引流可改写。",
+      "materials": [
+        "本篇完成的启动任务和未完成条件"
+      ],
+      "pass": [
+        "回扣有正文支持，未保证系统稳定赚钱。"
+      ],
+      "fail": [
+        "口号替代启动结果，收入被说成必然。"
+      ],
+      "adaptation": "结尾列出AI项目启动已完成和下一待验证任务。",
+      "id": "S09",
+      "start_quote": "我生产资料就是掌握人生",
+      "source_span": {
+        "start_character": 1622,
+        "end_character": 1691,
+        "percentage_start": 95.8,
+        "percentage_end": 100.0,
+        "sha256": "847572eb6f96fb5ecd830a3078557ce69050d45e1ff7720d15c503577dbb81dc"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "目标是启动一项业务，五步预告与具体读者处境相对应。",
+      "stage_ids": [
+        "S01",
+        "S02"
+      ],
+      "evidence_needed": [
+        "开场方向",
+        "三问及用户处境"
+      ],
+      "failure": "只有自由和百万愿景，启动问题不明确。"
+    },
+    "understandable": {
+      "criterion": "同一HR例子把能力需求、最小产品、计划和实施串起来。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S08"
+      ],
+      "evidence_needed": [
+        "三问答案",
+        "MVP和计划样例",
+        "首单到SOP关系"
+      ],
+      "failure": "步骤名称存在却不知道每步填什么或怎样进入下一步。"
+    },
+    "credible": {
+      "criterion": "需求有真实反馈，成本与回收是带假设的计划，登记信息另核实。",
+      "stage_ids": [
+        "S04",
+        "S05",
+        "S07",
+        "S08"
+      ],
+      "evidence_needed": [
+        "调研来源与支付反馈",
+        "成本风险估计",
+        "登记依据及实际交付"
+      ],
+      "failure": "我觉得或点赞被写为市场证明，注册费用被写成通用事实。"
+    },
+    "fulfilled": {
+      "criterion": "完成从点子检查到首单运行的任务链，指出待验证和有条件步骤。",
+      "stage_ids": [
+        "S02",
+        "S04",
+        "S05",
+        "S07",
+        "S08",
+        "S09"
+      ],
+      "evidence_needed": [
+        "点子验证",
+        "计划",
+        "首单与流程状态"
+      ],
+      "failure": "只注册或写BP就称业务闭环已跑通。"
+    },
+    "structure": {
+      "criterion": "三项准备在登记之前，实际销售交付在总结流程和招人之前。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08"
+      ],
+      "evidence_needed": [
+        "准备和执行依赖",
+        "HR贯穿关系",
+        "业务到流程团队循环"
+      ],
+      "failure": "先招团队或注册，再用它替代需求验证。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "喜欢擅长付费需求交集先检查",
+      "宏观调研和真实用户验证区分",
+      "商业计划写内容也说明用途",
+      "登记按实际需要设置条件",
+      "首单交付后总结流程并按瓶颈找帮手"
+    ],
+    "adjustable": [
+      "五步标题与细分点数",
+      "HR业务示例与调研载体",
+      "登记方式和外包费用必须依实情核实",
+      "收入自述和主页收尾"
+    ],
+    "fill_before_writing": [
+      "标题已定及项目启动终点",
+      "实际能力资源目标用户与需求依据",
+      "MVP反馈和商业计划输入",
+      "主体需要、首单交付与协作瓶颈"
+    ]
+  },
+  "source_path": "raw/sample-22.txt",
+  "source_sha256": "743f37a6983489c87bd2ff08be0d085168f2907cf89d61b6905eb8dcd4cf8393",
+  "body_start_character": 34
+}

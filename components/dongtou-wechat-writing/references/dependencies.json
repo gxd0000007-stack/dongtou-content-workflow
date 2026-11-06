@@ -1,0 +1,99 @@
+{
+  "schema_version": 4,
+  "entries": [
+    {
+      "id": "dongtou-source-reader",
+      "step": 1,
+      "required": true,
+      "tested_version": "1.1.2",
+      "skill_relative_paths": [
+        "dongtou-source-reader/SKILL.md"
+      ]
+    },
+    {
+      "id": "dongtou-angle-finder",
+      "step": 2,
+      "required": true,
+      "tested_version": "0.3.0",
+      "skill_relative_paths": [
+        "dongtou-angle-finder/SKILL.md"
+      ]
+    },
+    {
+      "id": "dongtou-title-opening",
+      "step": 3,
+      "required": true,
+      "tested_version": "0.2.1",
+      "skill_relative_paths": [
+        "dongtou-title-opening/SKILL.md"
+      ]
+    },
+    {
+      "id": "dongtou-body-plan",
+      "step": 4,
+      "required": true,
+      "tested_version": "0.3.0",
+      "skill_relative_paths": [
+        "dongtou-body-plan/SKILL.md"
+      ]
+    },
+    {
+      "id": "dongtou-article-writer",
+      "step": 5,
+      "required": true,
+      "tested_version": "0.3.0",
+      "skill_relative_paths": [
+        "dongtou-article-writer/SKILL.md"
+      ]
+    },
+    {
+      "id": "human-writing",
+      "step": 6,
+      "used_steps": [
+        5,
+        6,
+        7
+      ],
+      "role": "execution",
+      "required": true,
+      "tested_version": "1.0.0",
+      "version_file": "VERSION",
+      "skill_relative_paths": [
+        "human-writing/SKILL.md"
+      ],
+      "pre_read_steps": [
+        5
+      ],
+      "reference_steps": [
+        7
+      ],
+      "read_roles": {
+        "5": "成稿前读取材料规则",
+        "6": "独立活人感改稿",
+        "7": "出厂质检复核参考"
+      },
+      "required_files": [
+        "LICENSE",
+        "SKILL.md",
+        "VERSION",
+        "agents/openai.yaml",
+        "references/fiction.md",
+        "references/formats.md",
+        "references/forum-prose.md",
+        "references/reality.md",
+        "references/revision.md",
+        "scripts/check_prose.py"
+      ]
+    },
+    {
+      "id": "dongtou-article-review",
+      "step": 7,
+      "required": true,
+      "tested_version": "0.4.0",
+      "skill_relative_paths": [
+        "dongtou-article-review/SKILL.md"
+      ]
+    }
+  ],
+  "stage_count": 7
+}

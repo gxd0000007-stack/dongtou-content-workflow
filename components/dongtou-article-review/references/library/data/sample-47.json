@@ -1,0 +1,470 @@
+{
+  "id": "sample-47",
+  "number": 47,
+  "title": "学习的本质：极致重复+坚持",
+  "short_name": "重复必须带检查与改动",
+  "family": "强判断—学习行为—外部故事—亲历积累—任务差异—反馈迭代—意义互助",
+  "skeleton": [
+    "先给重复优先的强判断",
+    "用两类学习行为对照定义问题",
+    "讲百条到千条的他人故事",
+    "用本人无流量阶段说明积累",
+    "用标准答案与个体探索对照",
+    "纠正开头的纯数量印象",
+    "列可检查环节把迭代落地",
+    "回应持续行动的第二种阻力",
+    "给互助作为替代支持",
+    "收尾重申练习并扩大身份意义"
+  ],
+  "distinctive": "原稿真正有操作价值的不是极致数量，而是从数量故事转向具体检查问题，并主动回答没有反馈时如何继续。",
+  "promise": "说明技能练习需要重复与反馈，给出复盘问题，并回应无反馈时如何坚持。",
+  "applicability": [
+    "AI 学习与连续任务实践",
+    "低反馈阶段的个人成长故事",
+    "五项质检与反复改稿的解释"
+  ],
+  "material_preconditions": [
+    "真实练习记录",
+    "前后产出",
+    "可检查问题",
+    "目标与投入上限"
+  ],
+  "source_limits": [
+    "仅据用户粘贴文本拆解，未读取公众号原页或图片、视频。",
+    "万赞或爆款为用户报告，当前未独立核验点赞、阅读量或发布时间。",
+    "作者案例、收入与账号数据仅为作者自述，不作为普遍收益证明，也不能改写为东头亲历。",
+    "书名、名言、研究、平台规则及行业数据未核验；移入正文作为事实论据前须单独核验。",
+    "只借鉴组织功能和解释方法；绝对化结论、羞辱性称呼与不可保证的收益不作为硬性写作规则。",
+    "原稿“只靠重复”与后文“带反馈迭代”有张力；使用时必须保留后者限定，不能抽开头作万能方法。",
+    "外部博主百条千条故事作者自己称不确定，只能作传闻例子。"
+  ],
+  "stages": [
+    {
+      "id": "S01",
+      "start_quote": "学习不靠天赋，不靠兴趣，也不靠方法，只靠重复，不断地重复，",
+      "label": "先给重复优先的强判断",
+      "function": "把捷径问题框成是否愿意反复练习。",
+      "transition": "通过作者学生观察说明。",
+      "mechanism": "反常识强开场。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "具体学习任务"
+      ],
+      "fail": [
+        "只靠重复被当万能规律。"
+      ],
+      "adaptation": "改为某类技能需要带反馈练习，不否认天赋、方法和兴趣作用。",
+      "pass": [
+        "学习任务和练习条件清楚。"
+      ],
+      "source_span": {
+        "start_character": 29,
+        "end_character": 78,
+        "percentage_start": 0.0,
+        "percentage_end": 2.1,
+        "sha256": "98ab128561d79b9a92286e949f478e9e3d9c8601126047941606cc14abc80114"
+      }
+    },
+    {
+      "id": "S02",
+      "start_quote": "知识付费做了一年多，我最烦的一种人",
+      "label": "用两类学习行为对照定义问题",
+      "function": "对比追求速效却不看课者与认真听课做作业者，提出行动区别。",
+      "transition": "进入视频一百次的他人故事。",
+      "mechanism": "行为对照让捷径问题可见。",
+      "requirement": "conditional",
+      "condition": "有真实学习行为观察时",
+      "materials": [
+        "真实观察和学习行为"
+      ],
+      "fail": [
+        "羞辱用户提问或未经核验推断课程效果。"
+      ],
+      "adaptation": "不把新手问能否达成目标当坏人；只比较实际学习投入。",
+      "pass": [
+        "行为、投入与反馈分开陈述。"
+      ],
+      "source_span": {
+        "start_character": 78,
+        "end_character": 371,
+        "percentage_start": 2.1,
+        "percentage_end": 14.4,
+        "sha256": "eea82ef924ae558a60a5ff05ed0b246b9a9525bad4560c6fa579396a10ba71c8"
+      }
+    },
+    {
+      "id": "S03",
+      "start_quote": "前段时间刷到过一个短视频",
+      "label": "讲百条到千条的他人故事",
+      "function": "以老师反复要求产出说明重复量，作者同时声明不确定真假。",
+      "transition": "用自己的类似经历作更近证据。",
+      "mechanism": "第三方案例建立简明过程。",
+      "requirement": "optional",
+      "condition": "需要借一个外部故事引出自己的过程时",
+      "materials": [
+        "案例出处",
+        "作者明确不确定标记"
+      ],
+      "fail": [
+        "删掉不确定标记，把传闻当有效方法保证。"
+      ],
+      "adaptation": "保留传闻状态，不使用涨粉数作实证或挑战目标。",
+      "pass": [
+        "故事归属和未知状态清楚。"
+      ],
+      "source_span": {
+        "start_character": 371,
+        "end_character": 578,
+        "percentage_start": 14.4,
+        "percentage_end": 23.1,
+        "sha256": "17533c54d0d052f9514a7a03c64cd1d8857e58881e9d02fdd159843a1ec97de3"
+      }
+    },
+    {
+      "id": "S04",
+      "start_quote": "我是 2024 年 1 月份打算从小红书图文转视频",
+      "label": "用本人无流量阶段说明积累",
+      "function": "讲一月至五月产出、换背景等尝试，再指出文案、表现与剪辑的具体变化。",
+      "transition": "由个人过程解释为何不应几次没流量就换赛道。",
+      "mechanism": "时间线与多项能力变化展示过程收益。",
+      "requirement": "conditional",
+      "condition": "有连续练习及改进记录时",
+      "materials": [
+        "本人真实时间线",
+        "具体产出与改变"
+      ],
+      "fail": [
+        "结果只有百赞，过程改动没有实际记录。"
+      ],
+      "adaptation": "只用东头真实转型过程，不复制作者日期和赞数。",
+      "pass": [
+        "即使短期无流量，也能指出具体技能变化。"
+      ],
+      "source_span": {
+        "start_character": 578,
+        "end_character": 916,
+        "percentage_start": 23.1,
+        "percentage_end": 37.3,
+        "sha256": "415e5ae04f655d9b1a051fc29323c73a50a56d78d1790bf8cf29aa40bea9fd25"
+      }
+    },
+    {
+      "id": "S05",
+      "start_quote": "这种思维，大概率来自于我们从小接受的教育",
+      "label": "用标准答案与个体探索对照",
+      "function": "比较学校题型、公司 SOP 的即时反馈与自媒体每人不同路径。",
+      "transition": "从不能期待标准答案转向什么才是坚持。",
+      "mechanism": "系统差异解释反馈时点不同。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "不同任务反馈机制"
+      ],
+      "fail": [
+        "把一切拖延归因上班或学校。"
+      ],
+      "adaptation": "AI 入门可区分按教程安装与开放任务写作，避免教育决定论。",
+      "pass": [
+        "不同任务是否标准化与反馈方式有依据。"
+      ],
+      "source_span": {
+        "start_character": 916,
+        "end_character": 1185,
+        "percentage_start": 37.3,
+        "percentage_end": 48.6,
+        "sha256": "d7b65e75664297720410653ec7e14050e454d5a42b4b7c154e99f7517366dd96"
+      }
+    },
+    {
+      "id": "S06",
+      "start_quote": "坚持，不是死磕到底，而是带反馈地迭代。",
+      "label": "纠正开头的纯数量印象",
+      "function": "明确重复需要一边做、复盘、改，而非盲目坚持。",
+      "transition": "给视频和文章的具体检查问题。",
+      "mechanism": "定义纠偏让主张更完整。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "迭代动作",
+        "反馈口径"
+      ],
+      "fail": [
+        "数量代替质量与方法。"
+      ],
+      "adaptation": "必须保留带反馈，不能只抽开头只靠重复。",
+      "pass": [
+        "一次练习后有实际检查与改动。"
+      ],
+      "source_span": {
+        "start_character": 1185,
+        "end_character": 1328,
+        "percentage_start": 48.6,
+        "percentage_end": 54.6,
+        "sha256": "e98a43f3bd089c6868395fd1590a26c08449cb0a0c370ebc90a2c340b6b68c62"
+      }
+    },
+    {
+      "id": "S07",
+      "start_quote": "你发一条视频没人看，去拆解它结构有没有问题",
+      "label": "列可检查环节把迭代落地",
+      "function": "视频检查结构、开头、干货、案例，文章检查表达、情绪、场景、逻辑。",
+      "transition": "方法后回应无反馈空窗期。",
+      "mechanism": "问题清单降低复盘门槛。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "上一版产出",
+        "可观察反馈",
+        "具体改动"
+      ],
+      "fail": [
+        "用点赞多少决定所有结构对错。"
+      ],
+      "adaptation": "AI 输出复盘检查想看、懂、信、兑现与结构，记录修改对应证据。",
+      "pass": [
+        "检查项目与实际文本改动可对应。"
+      ],
+      "source_span": {
+        "start_character": 1328,
+        "end_character": 1486,
+        "percentage_start": 54.6,
+        "percentage_end": 61.3,
+        "sha256": "908988e3bd5575d8dc02ec13aa76ea2bd4b706ba2a49dc47643a7d4676576fb6"
+      }
+    },
+    {
+      "id": "S08",
+      "start_quote": "那一开始没有任何反馈的空窗期，应该如何熬过？",
+      "label": "回应持续行动的第二种阻力",
+      "function": "让用户把任务重要性和理想状态具体化，说明为何愿意继续。",
+      "transition": "意义找不到时再给互助替代。",
+      "mechanism": "预先处理无反馈异议。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "真实目标",
+        "时间与资源预算"
+      ],
+      "fail": [
+        "把不放弃当唯一正解或描绘必然自由收益。"
+      ],
+      "adaptation": "结合反馈期限和可退出条件，不通过幻想逼迫无限投入。",
+      "pass": [
+        "目标、投入上限与复查时间清楚。"
+      ],
+      "source_span": {
+        "start_character": 1486,
+        "end_character": 1751,
+        "percentage_start": 61.3,
+        "percentage_end": 72.4,
+        "sha256": "75e03ceb985bf4129ef08f94a375aa669dcbb4937f648c1baae14e91332d6c9b"
+      }
+    },
+    {
+      "id": "S09",
+      "start_quote": "当然，你可能没有办法一下找到一件事的价值与意义",
+      "label": "给互助作为替代支持",
+      "function": "以两三人早起群、陪跑学员互助说明共同目标与可见努力。",
+      "transition": "最终以重复与坚持的身份变化收束。",
+      "mechanism": "备选支持让方法不依赖单人意志。",
+      "requirement": "conditional",
+      "condition": "目标相近且愿意互相支持的人可参与时",
+      "materials": [
+        "互助对象",
+        "共同任务",
+        "反馈规则"
+      ],
+      "fail": [
+        "群体感染代替任务质量检查。"
+      ],
+      "adaptation": "AI 任务可做互相检查输出与每周复盘，不强制罚款打卡。",
+      "pass": [
+        "互助职责与复查内容明确。"
+      ],
+      "source_span": {
+        "start_character": 1751,
+        "end_character": 2040,
+        "percentage_start": 72.4,
+        "percentage_end": 84.6,
+        "sha256": "7869214a0df6402dee89d1d6653abe2c585c93373c25bd300d3a432d39ba8d3c"
+      }
+    },
+    {
+      "id": "S10",
+      "start_quote": "学习的本质，从来就不是“天赋”加“兴趣”的浪漫叙事",
+      "label": "收尾重申练习并扩大身份意义",
+      "function": "从无人喝彩到世界回应，把重复坚持说成改命。",
+      "transition": "结束于做—改—继续。",
+      "mechanism": "动作重复增强记忆与情绪。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "可开始的一次练习"
+      ],
+      "fail": [
+        "数量或长期自动带来成功。"
+      ],
+      "adaptation": "收尾回到今天任务与检查标准，不保证百次千次成功。",
+      "pass": [
+        "有练习、反馈、改动和合理预期。"
+      ],
+      "source_span": {
+        "start_character": 2040,
+        "end_character": 2406,
+        "percentage_start": 84.6,
+        "percentage_end": 100.0,
+        "sha256": "9754ca1e67450cb1e9c0055b52128032ad300b8e8d8b11bf935cf2ec0f62cbd6"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "关注急于见效的实际困境，不用羞辱新手求方法。",
+      "stage_ids": [
+        "S01",
+        "S02"
+      ],
+      "evidence_needed": [
+        "学习行为场景"
+      ],
+      "failure": "吸引力依靠高低学习者标签。"
+    },
+    "understandable": {
+      "criterion": "纯重复与反馈迭代的区别必须通过具体检查问题说明。",
+      "stage_ids": [
+        "S04",
+        "S05",
+        "S06",
+        "S07"
+      ],
+      "evidence_needed": [
+        "产出前后",
+        "复盘项目"
+      ],
+      "failure": "只留重复一千次口号。"
+    },
+    "credible": {
+      "criterion": "外部故事未知状态保留，亲历有归属，数量与收益不作保证。",
+      "stage_ids": [
+        "S03",
+        "S04",
+        "S08",
+        "S10"
+      ],
+      "evidence_needed": [
+        "案例出处",
+        "实践记录",
+        "退出条件"
+      ],
+      "failure": "传闻涨粉被当研究或百次就必成功。"
+    },
+    "fulfilled": {
+      "criterion": "给读者一轮练习、检查、修改以及空窗期支持办法。",
+      "stage_ids": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10"
+      ],
+      "evidence_needed": [
+        "今天任务",
+        "检查证据",
+        "复查时间"
+      ],
+      "failure": "只有坚持没有改什么与何时停止。"
+    },
+    "structure": {
+      "criterion": "亲历积累解释重复，任务差异承接，再纠偏为带反馈迭代并回应无反馈阻力。",
+      "stage_ids": [
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08",
+        "S09"
+      ],
+      "evidence_needed": [
+        "实际衔接段落"
+      ],
+      "failure": "抽取纯数量开头而删掉反馈限定。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "实践时间线与具体能力变化",
+      "重复与带反馈迭代的区别",
+      "可检查环节",
+      "空窗期顾虑与支持",
+      "案例归属与未知标记"
+    ],
+    "adjustable": [
+      "百条千条外部故事可删",
+      "教育与工作对照可删",
+      "互助模块按条件采用",
+      "强开头与改命收尾需要收紧"
+    ],
+    "fill_before_writing": [
+      "东头练习过程与结果",
+      "一轮真实前后改动",
+      "有效反馈口径",
+      "目标重要性与投入边界",
+      "今天练习任务"
+    ]
+  },
+  "summary": "先用追捷径与认真练习的对照引题，再以传闻与作者连续无流量实践说明积累，随后补上关键限定：坚持应带检查与改动；最后回应意义和互助支持。",
+  "tags": [
+    "学习",
+    "重复",
+    "反馈迭代",
+    "亲历时间线",
+    "空窗期"
+  ],
+  "useful_modules": [
+    "opening",
+    "structure",
+    "explanation",
+    "experience"
+  ],
+  "methods": {
+    "structure": {
+      "quote": "坚持，不是死磕到底，而是带反馈地迭代。",
+      "observation": "在重复案例之后明确纠偏，避免数量被理解为全部方法。",
+      "adaptation": "AI 任务展示第一次输出后怎样按标准再改，不只展示多次生成。",
+      "limit": "不能抽纯重复开头当方法规则。"
+    },
+    "opening": {
+      "quote": "有没有更快的方法？ 学完我一定就能做到 xxx？",
+      "observation": "引用读者求速效的原话建立争点。",
+      "adaptation": "先引用一个 AI 新手的真实目标问题，再解释需练习哪段。",
+      "limit": "合理求方法不等于急功近利。"
+    },
+    "explanation": {
+      "quote": "你写一篇文章没人读，去琢磨是不是表达太绕",
+      "observation": "用具体检查项目解释带反馈迭代。",
+      "adaptation": "列想看、看懂、可信、兑现、结构，并给对应一处改稿。",
+      "limit": "反馈不只看阅读或点赞。"
+    },
+    "experience": {
+      "quote": "最重要的，是过渡的这几个月，因为写了很多没有流量的脚本",
+      "observation": "无流量阶段也写出文案、表现、剪辑的具体学习产出。",
+      "adaptation": "讲我的练习、错误、检查与下一版改变，把过程当证据。",
+      "limit": "日期与百赞成绩归 Ray，不能挪给东头。"
+    }
+  },
+  "source_path": "raw/sample-47.txt",
+  "source_sha256": "5c6fee1b6cfbcfcec4a0853200d5e98dbefcce214dac30d182110190a323718a",
+  "body_start_character": 29,
+  "body_end_character": 2406,
+  "source_group": "ray-wechat-2026-10-07",
+  "submitted_number": "22",
+  "source_completeness": "as_submitted",
+  "source_defect_notes": [],
+  "full_structure_reference": true,
+  "opening_reference": true,
+  "allowed_usage": [
+    "selected_structure",
+    "local_method"
+  ]
+}

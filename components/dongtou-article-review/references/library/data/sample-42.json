@@ -1,0 +1,440 @@
+{
+  "id": "sample-42",
+  "number": 42,
+  "title": "你不是缺客户，而是害怕跟进",
+  "short_name": "从怕跟进到主动说明价值",
+  "family": "反驳等待—场景自查—触达机制—心理阻力—亲历重解",
+  "skeleton": [
+    "先给主动卖的立场",
+    "反驳被动等待并给自查场景",
+    "解释主动触达在业务中的作用",
+    "补足触达到需求与时机的承接",
+    "揭示卖的心理阻力",
+    "用亲历说明旧观念如何产生",
+    "通过换角色重解销售",
+    "把价值确信接到主动表达",
+    "收尾召回主动测试"
+  ],
+  "distinctive": "关注心理阻力但没有只喊自信：先补触达与价值理由的承接，再用角色互换帮助读者重新理解表达价值。",
+  "promise": "解释不跟进的可能阻力，把主动触达改为展示真实价值与获得反馈；原文未给完整跟进 SOP。",
+  "applicability": [
+    "个人害怕表达方案的观点文",
+    "AI 服务价值说明",
+    "从被动等用户到有边界演示"
+  ],
+  "material_preconditions": [
+    "真实读者阻力",
+    "适配客户",
+    "产品价值",
+    "一次可记录的主动动作"
+  ],
+  "source_limits": [
+    "仅据用户粘贴文本拆解，未读取公众号原页或图片、视频。",
+    "万赞或爆款为用户报告，当前未独立核验点赞、阅读量或发布时间。",
+    "作者案例、收入与账号数据仅为作者自述，不作为普遍收益证明，也不能改写为东头亲历。",
+    "书名、名言、研究、平台规则及行业数据未核验；移入正文作为事实论据前须单独核验。",
+    "只借鉴组织功能和解释方法；绝对化结论、羞辱性称呼与不可保证的收益不作为硬性写作规则。",
+    "商业行为的同意、拒绝与联系边界不能因原稿“跟进是关心”修辞被省略。"
+  ],
+  "stages": [
+    {
+      "id": "S01",
+      "start_quote": "如果说做生意的核心特质，只选一个，一定是胆子够大、脸皮够厚。",
+      "label": "先给主动卖的立场",
+      "function": "把等待客户的问题指向主动触达的胆量。",
+      "transition": "转入读者身边已有客户的场景。",
+      "mechanism": "单点强判断形成阅读争点。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "明确的客户跟进问题"
+      ],
+      "fail": [
+        "只鼓励强卖没有对象与边界。"
+      ],
+      "adaptation": "改为有意向客户需主动回应，不把厚脸皮当骚扰许可。",
+      "pass": [
+        "建议对象是明确需求或已有意向者。"
+      ],
+      "source_span": {
+        "start_character": 31,
+        "end_character": 81,
+        "percentage_start": 0.0,
+        "percentage_end": 2.9,
+        "sha256": "a78577fa2642df8c7218c6f88dfa13a01098fa31603960fc8d0167ef68ad51bd"
+      }
+    },
+    {
+      "id": "S02",
+      "start_quote": "客户有需求自然就会来找你，简直是一句毒鸡汤",
+      "label": "反驳被动等待并给自查场景",
+      "function": "问微信列表是否跟踪、朋友圈是否更新，指出产品不缺但印象会淡。",
+      "transition": "由现象进入主动创造市场的解释。",
+      "mechanism": "常见说法反转加具体自问。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "待跟进对象",
+        "既往触达记录"
+      ],
+      "fail": [
+        "把没成交全部归咎胆小。"
+      ],
+      "adaptation": "AI 新手可写等待工具自动懂我与主动说明任务的区别。",
+      "pass": [
+        "至少一个实际等待行为与主动替代。"
+      ],
+      "source_span": {
+        "start_character": 81,
+        "end_character": 430,
+        "percentage_start": 2.9,
+        "percentage_end": 23.0,
+        "sha256": "32045787e0ab8c2e291f5db1b06c4fc3998d2efcb513779d99b048bb132c67cc"
+      }
+    },
+    {
+      "id": "S03",
+      "start_quote": "市场不是靠等来的，是靠你去主动创造的",
+      "label": "解释主动触达在业务中的作用",
+      "function": "讲产品、成交场域和理由都需设计，再给作者反复触达仍有人不知道的例子。",
+      "transition": "从触达到客户需要决策的理由。",
+      "mechanism": "机制解释与反常识例子提高理解。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "用户触达实际例子",
+        "信息暴露与反馈"
+      ],
+      "fail": [
+        "把持续触达当必然成交或无限私信。"
+      ],
+      "adaptation": "只学持续告知价值的作用，频率须符合用户意愿和场景。",
+      "pass": [
+        "触达目的、接收意愿与后续反馈可区分。"
+      ],
+      "source_span": {
+        "start_character": 430,
+        "end_character": 661,
+        "percentage_start": 23.0,
+        "percentage_end": 36.3,
+        "sha256": "cc7e8fcc1bb7585590cdc9fdc441dc0db7e93919bcb595410cf985ee66840889"
+      }
+    },
+    {
+      "id": "S04",
+      "start_quote": "当然，触达只是引起注意力的第一步",
+      "label": "补足触达到需求与时机的承接",
+      "function": "让客户理解自己什么问题、为何现在需要该产品，避免只刷存在感。",
+      "transition": "从流程解释转到行动阻力。",
+      "mechanism": "将动作拆成注意—需求—理由。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "客户任务",
+        "现状代价",
+        "购买理由"
+      ],
+      "fail": [
+        "只有频率建议，没有任务和价值说明。"
+      ],
+      "adaptation": "AI 方案介绍须把工具功能接回任务与采用条件。",
+      "pass": [
+        "用户问题与方案理由能对上。"
+      ],
+      "source_span": {
+        "start_character": 661,
+        "end_character": 1050,
+        "percentage_start": 36.3,
+        "percentage_end": 58.7,
+        "sha256": "9632c125d8c64ba9c3cc811a9e07c7d53bc91e309484ac41f18243dd53696bb7"
+      }
+    },
+    {
+      "id": "S05",
+      "start_quote": "但现实中，大多数人根本不敢做这件事，为什么？",
+      "label": "揭示卖的心理阻力",
+      "function": "把不跟进写成怕暴露想成交、怕丢尊严，再归为羞耻。",
+      "transition": "通过作者早期微商经历示范这一阻力。",
+      "mechanism": "准确命名内心顾虑形成共鸣。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "真实顾虑访谈"
+      ],
+      "fail": [
+        "将全部不跟进诊断为人格羞耻。"
+      ],
+      "adaptation": "把顾虑作为可能原因，同时保留产品不适配、用户拒绝等原因。",
+      "pass": [
+        "具体心理与外部限制分开。"
+      ],
+      "source_span": {
+        "start_character": 1050,
+        "end_character": 1268,
+        "percentage_start": 58.7,
+        "percentage_end": 71.3,
+        "sha256": "b4f94bfc0b0c2708d7b734c512415fd1a3c9262e03d13e33425da1c874441885"
+      }
+    },
+    {
+      "id": "S06",
+      "start_quote": "我大学做过几个月的微商，靠卖一个祛痘的产品",
+      "label": "用亲历说明旧观念如何产生",
+      "function": "作者讲小赚、耻于告诉同学、把成交视为求人的旧判断。",
+      "transition": "问我是怎么想通的引向视角变化。",
+      "mechanism": "亲历降低说教距离。",
+      "requirement": "conditional",
+      "condition": "确有相关亲历可用时",
+      "materials": [
+        "真实过去事件",
+        "本人旧判断"
+      ],
+      "fail": [
+        "编造东头微商史或隐去第三方归属。"
+      ],
+      "adaptation": "只有东头真实经历才用我的，引用则保留 Ray 归属。",
+      "pass": [
+        "事件、感受和当时判断有来源。"
+      ],
+      "source_span": {
+        "start_character": 1268,
+        "end_character": 1404,
+        "percentage_start": 71.3,
+        "percentage_end": 79.1,
+        "sha256": "3f0400ef2922e4763d607f822afb606851ef4bb1540c0ee26e8a12252b6e0a9c"
+      }
+    },
+    {
+      "id": "S07",
+      "start_quote": "那就是换个角度思考，想想自己经常付费的品牌",
+      "label": "通过换角色重解销售",
+      "function": "让读者站在购买者立场看自己喜欢品牌的推广，从低声下气改为价值互换。",
+      "transition": "价值重解引出自身信念与行动。",
+      "mechanism": "角色互换与反问减少心理距离。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "真实购买体验",
+        "价值互换条件"
+      ],
+      "fail": [
+        "声称任何销售都是关心、拒绝就是不懂价值。"
+      ],
+      "adaptation": "保留同意与退出边界，跟进也可能打扰，不一概洗白。",
+      "pass": [
+        "区分有价值的回应与不受欢迎的推销。"
+      ],
+      "source_span": {
+        "start_character": 1404,
+        "end_character": 1546,
+        "percentage_start": 79.1,
+        "percentage_end": 87.3,
+        "sha256": "1ea7e743ad0d60bf7d1438fecf9a5eb0870fa173a2de403da0dac57dbc45acd0"
+      }
+    },
+    {
+      "id": "S08",
+      "start_quote": "如果你自己都不信你卖的东西有价值",
+      "label": "把价值确信接到主动表达",
+      "function": "提醒先认清产品价值，再主动分享并让客户看到。",
+      "transition": "最后收束到从未真正卖过的判断。",
+      "mechanism": "自身判断与行动责任联动。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "可交付价值证据",
+        "用户适配条件"
+      ],
+      "fail": [
+        "信心替代证据或促成不适配销售。"
+      ],
+      "adaptation": "AI 工具或服务先用实际产出证明价值，再给主动演示动作。",
+      "pass": [
+        "有演示、适用条件和接受反馈的动作。"
+      ],
+      "source_span": {
+        "start_character": 1546,
+        "end_character": 1740,
+        "percentage_start": 87.3,
+        "percentage_end": 98.4,
+        "sha256": "e98c0b5cd945fe99f916c28aba27e990bbae6969b47073413a28626abbf01130"
+      }
+    },
+    {
+      "id": "S09",
+      "start_quote": "做生意，最怕的不是没人买，而是你从来没真正卖过。",
+      "label": "收尾召回主动测试",
+      "function": "将注意力从没人买转到是否给过用户清楚选择机会。",
+      "transition": "结束于可观察的销售动作。",
+      "mechanism": "对比句让关键判断留下记忆。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "一次明确价值表达",
+        "反馈方式"
+      ],
+      "fail": [
+        "只喊胆大脸厚，没有行动标准。"
+      ],
+      "adaptation": "写成一次有边界的邀请或展示，记录反馈而非保证成交。",
+      "pass": [
+        "读者知道下一次向谁说明什么、怎样记录回应。"
+      ],
+      "source_span": {
+        "start_character": 1740,
+        "end_character": 1767,
+        "percentage_start": 98.4,
+        "percentage_end": 100.0,
+        "sha256": "78e6debe48e99d89b97e5f03275b87bc0d3083f56ff7a0e70bd9de7aa1a2e12a"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "开头落到已有意向却不行动的场景，不靠羞辱制造焦虑。",
+      "stage_ids": [
+        "S01",
+        "S02"
+      ],
+      "evidence_needed": [
+        "具体自查行为"
+      ],
+      "failure": "把读者称怂却无实际问题。"
+    },
+    "understandable": {
+      "criterion": "触达、价值理由和心理顾虑分别解释，角色转换有具体购买体验。",
+      "stage_ids": [
+        "S03",
+        "S04",
+        "S05",
+        "S07"
+      ],
+      "evidence_needed": [
+        "流程",
+        "用户任务",
+        "购买者视角例子"
+      ],
+      "failure": "把曝光直接说成成交。"
+    },
+    "credible": {
+      "criterion": "研究名言核验，作者经历有归属，心理解释不作唯一诊断。",
+      "stage_ids": [
+        "S03",
+        "S05",
+        "S06",
+        "S08"
+      ],
+      "evidence_needed": [
+        "引用依据",
+        "价值证据",
+        "经历来源"
+      ],
+      "failure": "心态万能论或声称推销都不打扰。"
+    },
+    "fulfilled": {
+      "criterion": "至少给一项主动说明价值并收集反馈的动作；不用本文冒充完整销售教程。",
+      "stage_ids": [
+        "S04",
+        "S08",
+        "S09"
+      ],
+      "evidence_needed": [
+        "对象",
+        "展示内容",
+        "反馈记录"
+      ],
+      "failure": "承诺会跟进却只有不要怕。"
+    },
+    "structure": {
+      "criterion": "自查与机制先解释问题，阻力之后有亲历或对应案例，再用角色转换接行动。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S07",
+        "S08",
+        "S09"
+      ],
+      "evidence_needed": [
+        "实际功能段落"
+      ],
+      "failure": "直接从强判断跳到成交口号。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "等待行为的场景自查",
+      "触达与价值理由分开",
+      "顾虑命名",
+      "视角变化",
+      "有边界的主动动作"
+    ],
+    "adjustable": [
+      "作者微商经历可换",
+      "名言可删",
+      "商业问题可换为表达工具成果",
+      "收尾强度可调"
+    ],
+    "fill_before_writing": [
+      "东头真实顾虑或引用归属",
+      "适配对象与联系边界",
+      "价值证明",
+      "下一次动作和反馈方式"
+    ]
+  },
+  "summary": "用被动等待的反面判断和微信列表自查抓住问题，解释触达并不等于成交，再从羞耻感、作者微商经历和购买者视角重解销售，最后强调主动测试。",
+  "tags": [
+    "主动表达",
+    "客户跟进",
+    "心理阻力",
+    "第一人称",
+    "角色转换"
+  ],
+  "useful_modules": [
+    "opening",
+    "structure",
+    "explanation",
+    "experience"
+  ],
+  "methods": {
+    "structure": {
+      "quote": "当然，触达只是引起注意力的第一步",
+      "observation": "在触达建议后补价值理由，随后转入为何行动困难。",
+      "adaptation": "工具教学中把会操作与能落地分开，再解释中间障碍。",
+      "limit": "原文没有完整跟进 SOP，不可升级成保姆教程验收。"
+    },
+    "opening": {
+      "quote": "很多时候，客户就在我们身边，只是你不敢去跟进",
+      "observation": "用已有资源却没行动的反差加微信列表自查。",
+      "adaptation": "从收藏了工具却没用到工作等真实行为开题。",
+      "limit": "不能替所有人归因胆小。"
+    },
+    "explanation": {
+      "quote": "想想自己经常付费的品牌，你会觉得他们不要脸吗？",
+      "observation": "换到购买者视角，让读者重新看待自己的销售行为。",
+      "adaptation": "用自己接受帮助的体验解释有边界价值表达。",
+      "limit": "不能因此把骚扰改名关心。"
+    },
+    "experience": {
+      "quote": "因为当时我不认为商业成交是价值互换",
+      "observation": "把早期行为追溯到当时观念，再讲改变如何发生。",
+      "adaptation": "讲我的旧判断—触发问题—新行动。",
+      "limit": "微商与收入案例归 Ray，不能迁移为东头经历。"
+    }
+  },
+  "source_path": "raw/sample-42.txt",
+  "source_sha256": "93dc5998547a618b83ce9774b232670d506d8e411cb58541642d977de78011a0",
+  "body_start_character": 31,
+  "body_end_character": 1767,
+  "source_group": "ray-wechat-2026-10-07",
+  "submitted_number": "17",
+  "source_completeness": "as_submitted",
+  "source_defect_notes": [],
+  "full_structure_reference": true,
+  "opening_reference": true,
+  "allowed_usage": [
+    "selected_structure",
+    "local_method"
+  ]
+}

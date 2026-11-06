@@ -1,0 +1,467 @@
+{
+  "id": "sample-57",
+  "number": 57,
+  "title": "打工人，千万不要被你的月薪困住了",
+  "short_name": "月薪依赖与工作目标",
+  "family": "夸张比喻—工作画面—两类风险—工具重定义—可选路径",
+  "skeleton": [
+    "用极端比喻打开工资依赖议题",
+    "串联一天工作与不敢改变",
+    "说明重复劳动与能力停滞",
+    "用风险偏好解释改变为何难",
+    "用被否定的微场景展开麻木",
+    "用概念命名并提出代价问题",
+    "重定义工资为手段并区分两种任务",
+    "用自己的择业经历引出学习三问",
+    "给副业跳槽创业三条不同路径"
+  ],
+  "distinctive": "前半段先讲能力停滞与精神麻木两类风险，后半段并未要求人人裸辞，而把工作重定义成学习手段，给副业、跳槽、创业三个出口。",
+  "promise": "讨论如何不只依赖月薪，并明确打工积累与下一阶段选择；不提供已验证的收入替代或辞职时间标准。",
+  "applicability": [
+    "AI职场能力的可迁移积累",
+    "副业前的准备与选择",
+    "工作意义和真实行动范围讨论"
+  ],
+  "material_preconditions": [
+    "实际岗位场景",
+    "两类不同问题的证据",
+    "个体经济约束",
+    "可承受的下一步"
+  ],
+  "source_limits": [
+    "仅根据用户粘贴的公众号文本拆解；万赞由用户报告，未核验阅读、点赞或传播数据。",
+    "作者的个人经历、用户案例、经营结果属于 Ray 的自述，不能改成东头亲历或通用结果保证。",
+    "原文中的名言、统计数据和心理学解释尚未核验；只参考叙述组织，进入新文的事实需要另行核验。",
+    "把工资与海洛因、碳水并列是激烈修辞，不是医学分类或客观等价；不应照搬为事实。",
+    "岗位替代数字、心理学归因、书籍引语未核验；实际用AI判断就业不能直接复述。",
+    "本文关于不要用创业心态打工与库内其他文章不同，保留作者间观点差异，不合并成统一信条。"
+  ],
+  "stages": [
+    {
+      "label": "用极端比喻打开工资依赖议题",
+      "start_quote": "海洛因、碳水化合物、月薪，是 3 种最有害的成瘾物。",
+      "function": "把月薪依赖写成成瘾与短暂安全感，制造强冲突。",
+      "transition": "随即用工作一天的场景解释依赖。",
+      "mechanism": "极端跨域比喻",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "作者观点",
+        "工资依赖的实际行为"
+      ],
+      "fail": [
+        "医学危害等价化",
+        "贬低正常工资收入"
+      ],
+      "adaptation": "建议换温和且不含伪医学等价的比喻，仍让读者看到选择受限。",
+      "id": "S01",
+      "pass": [
+        "解释只是比喻",
+        "问题是依赖方式而非领取工资本身"
+      ],
+      "source_span": {
+        "start_character": 36,
+        "end_character": 102,
+        "percentage_start": 0.0,
+        "percentage_end": 3.0,
+        "sha256": "33b04fcfd63562306a142a5a78ff771a082b1c5242126279c63b85b2dc744d0a"
+      }
+    },
+    {
+      "label": "串联一天工作与不敢改变",
+      "start_quote": "早晨被闹钟强行叫醒，",
+      "function": "通勤、工位、AI可做任务、怕失去收入串成画面，说明“安全绳”依赖。",
+      "transition": "从受限状态进入职业能力风险。",
+      "mechanism": "连续场景加内心对话",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "真实工作任务",
+        "本人不敢改变的原因",
+        "经济约束"
+      ],
+      "fail": [
+        "替读者推定无意义工作",
+        "声称AI已能做所有任务"
+      ],
+      "adaptation": "用东头真实职场例子或标明典型场景，注明AI可做范围。",
+      "id": "S02",
+      "pass": [
+        "场景接明确约束",
+        "理解收入责任"
+      ],
+      "source_span": {
+        "start_character": 102,
+        "end_character": 376,
+        "percentage_start": 3.0,
+        "percentage_end": 15.3,
+        "sha256": "8ef85a2832e1c89c816b513ea32d2491be7f9a0b0f0e46e8cdaf38d68c3caf75"
+      }
+    },
+    {
+      "label": "说明重复劳动与能力停滞",
+      "start_quote": "每天的工作，就是一场无限循环的“复制粘贴”，",
+      "function": "通过一年经验重复五次与岗位变化论述适应能力，辅以书籍和统计。",
+      "transition": "继续解释为何人容易保留短期稳定。",
+      "mechanism": "重复次数与实际成长对照",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "具体重复任务",
+        "新能力缺口",
+        "可靠变化证据"
+      ],
+      "fail": [
+        "重复劳动都等于无价值",
+        "预言所有岗位被淘汰"
+      ],
+      "adaptation": "AI可帮助整理已重复任务，判断什么知识值得进一步积累。",
+      "id": "S03",
+      "pass": [
+        "区分熟练度增长与能力停滞",
+        "至少一个实际差别"
+      ],
+      "source_span": {
+        "start_character": 376,
+        "end_character": 708,
+        "percentage_start": 15.3,
+        "percentage_end": 30.2,
+        "sha256": "1e92935033980972295906b757bc2a66b6e345ae411ad9c3b50108457e6be351"
+      }
+    },
+    {
+      "label": "用风险偏好解释改变为何难",
+      "start_quote": "丹尼尔·卡尼曼在《思考，快与慢》里提出一个概念：",
+      "function": "以作者对风险回避的解释连接稳定依赖，再转向精神方面。",
+      "transition": "从技术能力风险切到反馈打击。",
+      "mechanism": "行为原因解释",
+      "requirement": "conditional",
+      "condition": "需要心理解释时核验引用；亦可用真实成本分析代替。",
+      "materials": [
+        "读者实际成本",
+        "理论来源若使用",
+        "可观察回避行为"
+      ],
+      "fail": [
+        "将风险回避都归大脑",
+        "忽视工资与家庭责任"
+      ],
+      "adaptation": "可直接讲现实约束，不强行借脑科学替读者找原因。",
+      "id": "S04",
+      "pass": [
+        "承认客观成本",
+        "科学引用经核验且有限"
+      ],
+      "source_span": {
+        "start_character": 708,
+        "end_character": 863,
+        "percentage_start": 30.2,
+        "percentage_end": 37.2,
+        "sha256": "793b7e91a1ba601c29993706cccc71f40ebe4737e92c21c95f71a5800bcaef60"
+      }
+    },
+    {
+      "label": "用被否定的微场景展开麻木",
+      "start_quote": "打工最大的风险，不是身体的劳累，而是精神的麻木。",
+      "function": "给建议被冷待、加班被否定、努力被嘲笑三种场景，展示作者认为的表达退缩。",
+      "transition": "再给这种模式命名与总结。",
+      "mechanism": "三种微冲突与情绪后果",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "真实反馈经历",
+        "之后的行为变化",
+        "情绪非诊断描述"
+      ],
+      "fail": [
+        "把所有职场都写成压迫",
+        "用几个场景推断心理疾病"
+      ],
+      "adaptation": "AI学习可讲被质疑后不敢试的新手情况，但不替代临床诊断。",
+      "id": "S05",
+      "pass": [
+        "每个场景有具体动作和反应",
+        "反应范围限定"
+      ],
+      "source_span": {
+        "start_character": 863,
+        "end_character": 1123,
+        "percentage_start": 37.2,
+        "percentage_end": 48.9,
+        "sha256": "9d459e97441b9c594b5d78ac17b2d761c649aaa32115cc8ef64ba8c2a04d9782"
+      }
+    },
+    {
+      "label": "用概念命名并提出代价问题",
+      "start_quote": "心理学上，这叫“习得性无助”。",
+      "function": "为前面行为模式提供作者的概念标签，再用十年后的后悔问题引向改变。",
+      "transition": "把解法从脱离收入转成正确利用工作。",
+      "mechanism": "概念命名与未来追问",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "已核验的概念解释",
+        "行为与概念边界",
+        "实际长期代价"
+      ],
+      "fail": [
+        "直接诊断读者",
+        "未来后悔作为唯一证据"
+      ],
+      "adaptation": "若无心理证据，可用“反复被否定后我会少提建议”描述真实观察。",
+      "id": "S06",
+      "pass": [
+        "概念帮助理解但不贴病名",
+        "有现实代价而非恐吓"
+      ],
+      "source_span": {
+        "start_character": 1123,
+        "end_character": 1402,
+        "percentage_start": 48.9,
+        "percentage_end": 61.4,
+        "sha256": "47fa1bd6c07a3e82606b25afe06a4e9bceb6381b86ff6c21db23acd7ee5187dc"
+      }
+    },
+    {
+      "label": "重定义工资为手段并区分两种任务",
+      "start_quote": "你可以为了月薪去工作，但你不该为月薪而活着。",
+      "function": "作者区分创业建系统与打工积累能力，明确当前工作目标。",
+      "transition": "随后用作者择业经历说明能学什么。",
+      "mechanism": "目的手段区分与任务分工",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "本人的工作目标",
+        "可学习资源",
+        "责任和约束"
+      ],
+      "fail": [
+        "断言同一心态人人错误",
+        "把库内相反观点并成统一规则"
+      ],
+      "adaptation": "东头可明确“我现在想从岗位积累什么”，不把价值观作为所有读者命令。",
+      "id": "S07",
+      "pass": [
+        "当前工作用途具体",
+        "保留不同人选择与作者立场"
+      ],
+      "source_span": {
+        "start_character": 1402,
+        "end_character": 1642,
+        "percentage_start": 61.4,
+        "percentage_end": 72.2,
+        "sha256": "26f67fff3e43ef8ed35f7f4563faca9e64d8a879c4591f8da243784dd344c1dc"
+      }
+    },
+    {
+      "label": "用自己的择业经历引出学习三问",
+      "start_quote": "我毕业后 3 年，去了 2 家创业公司，",
+      "function": "说明作者选择小公司获得流程与老板视角，列赚钱、客户需求、资源风险三个问题。",
+      "transition": "学到东西之后接下一阶段选择。",
+      "mechanism": "亲历理由与可提问框架",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "东头真实工作选择",
+        "能观察到的业务过程",
+        "学习问题"
+      ],
+      "fail": [
+        "Ray公司数和年限变成我的经历",
+        "声称偷师自动脱离员工身份"
+      ],
+      "adaptation": "AI职场可问任务为什么做、服务谁、怎么检查结果，不冒领择业往事。",
+      "id": "S08",
+      "pass": [
+        "经历证明为何问这些问题",
+        "三问能对实际公司作答"
+      ],
+      "source_span": {
+        "start_character": 1642,
+        "end_character": 1866,
+        "percentage_start": 72.2,
+        "percentage_end": 82.3,
+        "sha256": "2002ced6fa6b8535df3b624bf31b3ee60bb94acf1d1d83eac7c288be5c077e79"
+      }
+    },
+    {
+      "label": "给副业跳槽创业三条不同路径",
+      "start_quote": "打工的终点，绝不应该是领一份更稳定的薪水，",
+      "function": "列第二收入、更大平台、更大责任和创业等方向，以持续更新能力收束自由观。",
+      "transition": "回应开头不被一种收入困住。",
+      "mechanism": "多出口而非单一路径",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "个人可选路径",
+        "准备情况",
+        "试验成本与退出条件"
+      ],
+      "fail": [
+        "鼓励立即裸辞",
+        "将想试就该开始写成经济保证"
+      ],
+      "adaptation": "给一个低成本AI任务试验或能力积累动作；辞职与创业需按真实条件讨论。",
+      "id": "S09",
+      "pass": [
+        "路径有适合对象和准备条件",
+        "承认可选择保留主业"
+      ],
+      "source_span": {
+        "start_character": 1866,
+        "end_character": 2259,
+        "percentage_start": 82.3,
+        "percentage_end": 100.0,
+        "sha256": "dbda1ad2ee99eb17e4d54f134871b1da313527f15bbf66784895aa50ebefda34"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "收入依赖问题落到具体一天和真实选择限制。",
+      "stage_ids": [
+        "S01",
+        "S02"
+      ],
+      "evidence_needed": [
+        "工作任务",
+        "实际担心"
+      ],
+      "failure": "靠极端比喻吓人却不讲处境。"
+    },
+    "understandable": {
+      "criterion": "能力停滞与表达退缩是两类不同问题，工作和创业目标区分清楚。",
+      "stage_ids": [
+        "S03",
+        "S05",
+        "S07",
+        "S08"
+      ],
+      "evidence_needed": [
+        "两类案例",
+        "目的手段说明",
+        "学习三问"
+      ],
+      "failure": "两类风险混成鸡汤。"
+    },
+    "credible": {
+      "criterion": "统计、引语、心理学分别核验，个人择业来源真实。",
+      "stage_ids": [
+        "S03",
+        "S04",
+        "S06",
+        "S08"
+      ],
+      "evidence_needed": [
+        "原始出处",
+        "经历确认",
+        "心理概念边界"
+      ],
+      "failure": "未核验三亿岗位预测被当当下事实。"
+    },
+    "fulfilled": {
+      "criterion": "给出打工的积累目标与符合条件的下一步，而不是收入替代保证。",
+      "stage_ids": [
+        "S07",
+        "S08",
+        "S09"
+      ],
+      "evidence_needed": [
+        "学习任务",
+        "准备情况",
+        "可选路径"
+      ],
+      "failure": "只是要勇敢裸辞，没有实际准备。"
+    },
+    "structure": {
+      "criterion": "场景、能力风险、麻木场景、命名、工具重定义、亲历三问、多出口连接。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08",
+        "S09"
+      ],
+      "evidence_needed": [
+        "段落作用",
+        "重定义前后的证据"
+      ],
+      "failure": "只堆坏处，缺工资仍可作为工具的转折。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "两类风险各有不同材料",
+      "工作目标重定义接实际积累",
+      "结尾提供多个出口而非只有辞职"
+    ],
+    "adjustable": [
+      "极端比喻应按证据和语气调整",
+      "心理概念可省",
+      "三条路径可按人群取舍"
+    ],
+    "fill_before_writing": [
+      "东头真实职场素材",
+      "个体家庭与收入约束",
+      "当前目标",
+      "小试验预算"
+    ]
+  },
+  "summary": "本文的有效组织是工作画面后区分能力停滞与精神退缩，再把打工当积累手段并给多种出口；强比喻和心理标签不能作为事实。",
+  "tags": [
+    "公众号",
+    "职场",
+    "月薪依赖",
+    "目的手段",
+    "多路径选择"
+  ],
+  "useful_modules": [
+    "structure",
+    "opening",
+    "explanation",
+    "experience"
+  ],
+  "methods": {
+    "structure": {
+      "quote": "月薪，是工具，不是归宿",
+      "observation": "前面两类风险说明为何要调整，后段通过手段目的重定义给多出口。",
+      "adaptation": "讲AI职场问题时先拆卡点，再说明当前工作如何服务目标。",
+      "limit": "本文与库中创业思维打工的观点存在差别，不能自动合并。"
+    },
+    "opening": {
+      "quote": "早晨被闹钟强行叫醒，拖着疲惫的身体挤上地铁，",
+      "observation": "强比喻后用身体与声音细节落到普通工作日。",
+      "adaptation": "用真实的一天具体画面建立关系。",
+      "limit": "开头药物和食物等价有误导风险，只学冲突组织。"
+    },
+    "explanation": {
+      "quote": "5 年的重复劳动，让你以为自己的工作经验是 5 年，",
+      "observation": "用两个时间数量相同、成长方式不同的对照讲经验停滞。",
+      "adaptation": "AI重复生成与实际修改、验证之间作清晰对照。",
+      "limit": "修辞对照不是所有岗位经验不增长的证据。"
+    },
+    "experience": {
+      "quote": "我毕业后 3 年，去了 2 家创业公司，",
+      "observation": "作者解释自己为何选小公司，以及从中想学什么。",
+      "adaptation": "由东头实际一次岗位选择与所得经验引出判断。",
+      "limit": "年限、公司数量与选择原因只能由东头真实材料提供。"
+    }
+  },
+  "source_path": "raw/sample-57.txt",
+  "source_sha256": "19b5fd4b57d85195ff5e602cedc557cf17142ba3bcb9b59eba8dd1a4b0f85176",
+  "body_start_character": 36,
+  "body_end_character": 2259,
+  "source_group": "ray-wechat-2026-10-07",
+  "submitted_number": "31",
+  "source_completeness": "as_submitted",
+  "source_defect_notes": [],
+  "full_structure_reference": true,
+  "opening_reference": true,
+  "allowed_usage": [
+    "selected_structure",
+    "local_method"
+  ]
+}

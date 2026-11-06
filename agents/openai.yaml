@@ -1,0 +1,6 @@
+interface:
+  display_name: "东头内容创作完整工作流"
+  short_description: "八个内置组件串起读取到质检，保留东头观点，并接入活人感写作"
+  default_prompt: "用 $dongtou-content-workflow 处理我的素材，按本轮范围执行内置工作流，保留已确定的选择，从第二步以我的第一人称观点组织文章，第五步核材料成稿、第六步活人感改稿、第七步最终质检，交完整文案和质检报告。"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,468 @@
+{
+  "id": "sample-20",
+  "number": 20,
+  "title": "赚不到钱是因为上班上多了｜区分手段与目的",
+  "short_name": "目的手段反向倒推的同题对照",
+  "family": "思考顺序对照",
+  "skeleton": [
+    "强判断与两类能力困惑",
+    "能力产品变现与需求倒推对照",
+    "员工老板和辞职路径对照",
+    "目的手段定义",
+    "柠檬场景同题重述",
+    "AI课程盲区",
+    "中介匹配与价值论述",
+    "找对标观察内容产品组合",
+    "回扣三例并倒推行动"
+  ],
+  "distinctive": "反复用同一问题的两种表述检查起点，从柠檬到AI课程逐步回到目标读者。",
+  "promise": "解释为什么只从自身技能出发可能遗漏需求、触达和商业组合，教读者从目的倒推手段；原稿赚钱断言不是已验证普遍因果。",
+  "applicability": [
+    "需纠正任务顺序而非补技巧的AI或职场认知文章",
+    "能提供同题正反两种路径的商业解释"
+  ],
+  "material_preconditions": [
+    "目标读者能力到变现的真实困惑",
+    "同一情境下两条路径及用户需求依据",
+    "内容商品匹配和资源缺口的可定位材料"
+  ],
+  "source_limits": [
+    "上班导致赚不到钱及员工老板两分法是原稿强判断，本卡不把它们视为普遍事实。",
+    "柠檬和AI课程为原作者转述的连线场景，未有原始连线记录；中介分成为论述假设。",
+    "对标收入不自动证明需求、合法性或可复制，未核验作者所指案例和收益。"
+  ],
+  "stages": [
+    {
+      "label": "强判断提出思考问题",
+      "function": "用工作能力与创业变现的反差挑出本文要纠正的思考顺序。",
+      "transition": "先给强判断，再以两种提问说明具体问题。",
+      "mechanism": "反常识断言、能力与收入反差。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "目标读者真实出现的技能到变现困惑"
+      ],
+      "pass": [
+        "开场落到明确思考问题，不把上班写成贫穷唯一原因。"
+      ],
+      "fail": [
+        "只有贬低打工者，没有可讨论的具体问题。"
+      ],
+      "adaptation": "以东头AI技能与用户价值之间的实际落差提出问题。",
+      "id": "S01",
+      "start_quote": "一个人赚不到钱的核心原因就是你上班上多了",
+      "source_span": {
+        "start_character": 35,
+        "end_character": 84,
+        "percentage_start": 0.0,
+        "percentage_end": 1.5,
+        "sha256": "d251c7c93de8caa25ee8232b62b0fa1745c2a3eb97465abff2b0d3d8ee6fd28e"
+      }
+    },
+    {
+      "label": "两种能力先行提问",
+      "function": "用短视频能力和AI课程两种提问呈现先做产品再问如何卖的路径。",
+      "transition": "强判断转为可识别情境，随后拆解共同顺序。",
+      "mechanism": "并列提问、熟悉场景。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "真实访谈问题或明确假设的两类情境"
+      ],
+      "pass": [
+        "两例显出相同路径而不只共享焦虑。"
+      ],
+      "fail": [
+        "列困惑却未指出共同思考顺序。"
+      ],
+      "adaptation": "用两种AI内容或服务提问展示能力先行的盲点。",
+      "id": "S02",
+      "start_quote": "什么叫按照上班的思维去创业啊",
+      "source_span": {
+        "start_character": 84,
+        "end_character": 254,
+        "percentage_start": 1.5,
+        "percentage_end": 6.7,
+        "sha256": "0310c5d621ef749dcdac08dae780ff713d5addb593b7e9e3cd7082ebed176a09"
+      }
+    },
+    {
+      "label": "正反顺序对照",
+      "function": "把能力到产品到变现与变现目标倒推内容和交付并列。",
+      "transition": "从例子抽出逻辑，再用员工老板角色扩展解释。",
+      "mechanism": "方向对照、先后重排。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "两条顺序的同一任务对照",
+        "用户与产品关系依据"
+      ],
+      "pass": [
+        "读者能复述两条路径及为何关注需求。"
+      ],
+      "fail": [
+        "只有从右到左口号，没有各节点关系。"
+      ],
+      "adaptation": "对同一AI项目比较先展示能力与先确认用户问题的路径。",
+      "id": "S03",
+      "start_quote": "然后你就发现这整个思维逻辑其实错的",
+      "source_span": {
+        "start_character": 254,
+        "end_character": 377,
+        "percentage_start": 6.7,
+        "percentage_end": 10.4,
+        "sha256": "aaa1ee8cc9bcad6884d6334f65be4207c45fa7a9ee7e83de63b543863fb71b05"
+      }
+    },
+    {
+      "label": "员工老板角色对照",
+      "function": "通过分工与工资场景解释组织者从交易目标倒推资源的角色。",
+      "transition": "把顺序映射到熟悉角色，接着以辞职场景再测试。",
+      "mechanism": "角色视角对照、同一要求的不同理解。",
+      "requirement": "conditional",
+      "condition": "读者熟悉组织分工且对理解有帮助时保留，可替换为非对立角色场景。",
+      "materials": [
+        "一个需求、交付分工和资源约束的例子"
+      ],
+      "pass": [
+        "同一交易中角色关注点和资源条件清楚。"
+      ],
+      "fail": [
+        "仅嘲讽员工或老板，未解释分工为何存在。"
+      ],
+      "adaptation": "用AI服务的用户、组织者、交付者分工解释视角。",
+      "id": "S04",
+      "start_quote": "对员工和老板的区别是什么",
+      "source_span": {
+        "start_character": 377,
+        "end_character": 790,
+        "percentage_start": 10.4,
+        "percentage_end": 23.0,
+        "sha256": "d725834c6f1a562bc7655be74eb02696620b83aba634de44f463dac6e2ee483c"
+      }
+    },
+    {
+      "label": "辞职后的两条路径",
+      "function": "把只带出技能与重建原商业组合对照，突出协作资源仍有缺口。",
+      "transition": "继角色说明，在脱离组织的同一情境检验顺序，再归纳目的手段。",
+      "mechanism": "同情境分支、缺失同事和能力的显化。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "原业务内容产品获客结构",
+        "个人可承担与需补齐的任务"
+      ],
+      "pass": [
+        "不仅说谁能赚钱，还明确商业组合缺哪些条件。"
+      ],
+      "fail": [
+        "辞职融资或挖人被写成普遍首选动作。"
+      ],
+      "adaptation": "说明AI单干从原团队带出能力后仍需补什么环节。",
+      "id": "S05",
+      "start_quote": "我们把从公司里面辞职的人分为两种",
+      "source_span": {
+        "start_character": 790,
+        "end_character": 1137,
+        "percentage_start": 23.0,
+        "percentage_end": 33.5,
+        "sha256": "216905f1fd2d8cc6dd4be41c00894a88bb4e8b950fd80398580649d79cc52c63"
+      }
+    },
+    {
+      "label": "明确目的和可调手段",
+      "function": "把满足需求设为目的，把技能、交付和雇人设为可调整手段。",
+      "transition": "从多场景归纳原则，再用语言表述差异检查。",
+      "mechanism": "定义区分、手段替换例子。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "具体用户需求",
+        "学习自做合作等手段的可行条件"
+      ],
+      "pass": [
+        "目的可验证，手段可据条件选择。"
+      ],
+      "fail": [
+        "把赚钱愿望当用户需求，或只说技巧不重要。"
+      ],
+      "adaptation": "给AI任务分别写用户问题和可替换的实现方式。",
+      "id": "S06",
+      "start_quote": "还有一个很重要的思维方式叫区分目的和手段",
+      "source_span": {
+        "start_character": 1137,
+        "end_character": 1299,
+        "percentage_start": 33.5,
+        "percentage_end": 38.4,
+        "sha256": "444ad4dd6b0be13af62824e3bbd0cf3bc0d496860cef452e2a005800825f2743"
+      }
+    },
+    {
+      "label": "柠檬场景检查起点",
+      "function": "比较因为家有柠檬而卖饮料与观察夏日需求再选择供给。",
+      "transition": "原则落到日常场景，随后回到AI课程的专业场景。",
+      "mechanism": "同题重述、资源起点与需求起点对照。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "该场景的需求观察",
+        "供给选择和实际约束"
+      ],
+      "pass": [
+        "同一情境能看见选择起点改变，不作成功率保证。"
+      ],
+      "fail": [
+        "只换水果名称，没有需求依据。"
+      ],
+      "adaptation": "用同一AI资源情境重写资源起点与需求起点的问题。",
+      "id": "S07",
+      "start_quote": "有没有这个思维方式，其实一句话就听出来了",
+      "source_span": {
+        "start_character": 1299,
+        "end_character": 1734,
+        "percentage_start": 38.4,
+        "percentage_end": 51.7,
+        "sha256": "d78905fb1b50bcfc30db43ad508442908dce8de088ed484a5f9e081b1f42efe5"
+      }
+    },
+    {
+      "label": "AI课程先做后卖的盲区",
+      "function": "列课程章节已做但用户需求和传播内容都未知，暴露产品先行的缺口。",
+      "transition": "从日常例子回到目标读者任务，再由中介假设补齐匹配。",
+      "mechanism": "转述提问、连续追问用户与触达。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "课程目标用户与待解决问题",
+        "课程内容和触达材料"
+      ],
+      "pass": [
+        "明确未知的是需求和触达而非仅课程章节。"
+      ],
+      "fail": [
+        "只说课程不好，没有指出缺的信息。"
+      ],
+      "adaptation": "评估东头AI课程时检查用户问题和传播组合。",
+      "id": "S08",
+      "start_quote": "类似的还有人直播向我提问",
+      "source_span": {
+        "start_character": 1734,
+        "end_character": 2061,
+        "percentage_start": 51.7,
+        "percentage_end": 61.6,
+        "sha256": "f08863e92e97f73f4b3b1bc0820e46378e76af99dc9dd546362c9e0c4e267109"
+      }
+    },
+    {
+      "label": "中介匹配需求与交付",
+      "function": "用先询问买家再找交付者的假设示范匹配，夹带极端分成数字。",
+      "transition": "补上一例缺失的需求端，再解释原稿认为价值在哪。",
+      "mechanism": "A/B关系假设、从需求找供给、利润反差。",
+      "requirement": "conditional",
+      "condition": "需要展示需求方与供给方匹配时采用，金额分成可删除。",
+      "materials": [
+        "真实买家问题与交付能力",
+        "若谈分成需有约定和贡献依据"
+      ],
+      "pass": [
+        "匹配动作清楚，假设分成标为论述例子而非行业标准。"
+      ],
+      "fail": [
+        "把90/10写成合理通用分配或已成交结果。"
+      ],
+      "adaptation": "用实际AI需求和交付者能力解释匹配，不沿用极端分成。",
+      "id": "S09",
+      "start_quote": "如果说我来做这个事情，首先我会找到A",
+      "source_span": {
+        "start_character": 2061,
+        "end_character": 2247,
+        "percentage_start": 61.6,
+        "percentage_end": 67.3,
+        "sha256": "8c0cb97e4285ba95a0a0f3f47cdd16290957dfead5b1afcd4f034b7e40642f7a"
+      }
+    },
+    {
+      "label": "交易价值与顺序回扣",
+      "function": "解释作者把需求与产品匹配置于核心，并回扣员工老板冲突。",
+      "transition": "为分成例子给出论述理由，随后转向找对标方法。",
+      "mechanism": "冲突回扣、可替代性对比、逻辑方向复述。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "交易中需求、触达、交付各自贡献的实际材料"
+      ],
+      "pass": [
+        "说明作者判断与适用边界，不将交付者价值一概抹去。"
+      ],
+      "fail": [
+        "只宣称制作不重要，没有交易贡献分析。"
+      ],
+      "adaptation": "按真实AI项目拆各环节贡献和依赖。",
+      "id": "S10",
+      "start_quote": "这个时候我估计这个人会骂我傻叉",
+      "source_span": {
+        "start_character": 2247,
+        "end_character": 2572,
+        "percentage_start": 67.3,
+        "percentage_end": 77.1,
+        "sha256": "e6ba22fd717543c85c0bcba13ec360ff61a4ddfade6651dab5076a72e0a25ba1"
+      }
+    },
+    {
+      "label": "以对标验证内容产品组合",
+      "function": "说明对标提供已出现的内容与商品匹配，再按资源选择学习或雇人。",
+      "transition": "从原则转为寻找组合的途径，最后重述能力先行的问题。",
+      "mechanism": "常见困惑复述、外部组合观察、验证理由。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "对标内容商品和需求证据",
+        "自身手段与投入约束"
+      ],
+      "pass": [
+        "说明对标能观察哪些关系，模仿仍需自己验证。"
+      ],
+      "fail": [
+        "见别人收入就断言模仿必赚，或只复制内容外观。"
+      ],
+      "adaptation": "研究AI内容与产品对应，保留自己用户验证。",
+      "id": "S11",
+      "start_quote": "所以我为什么反复在我的内容里面说找对标",
+      "source_span": {
+        "start_character": 2572,
+        "end_character": 3005,
+        "percentage_start": 77.1,
+        "percentage_end": 90.3,
+        "sha256": "7ecd08cb437cf56ace3fcd7b1e92ae7c528c2153a83f27aa4982c8782910480c"
+      }
+    },
+    {
+      "label": "倒推问题与行动收束",
+      "function": "把前文三例合并回顾，要求从需求倒推缺失能力和资源。",
+      "transition": "对照开头困惑并形成下一步，结束原稿论述。",
+      "mechanism": "例子回扣、思考方向重述、手段补齐。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "本篇需求假设及具体能力资源缺口"
+      ],
+      "pass": [
+        "能提出一个待验证需求和补齐动作，不承诺立刻来钱。"
+      ],
+      "fail": [
+        "只喊掰过来或钱马上来，没有下一步。"
+      ],
+      "adaptation": "把东头AI方向落为需求验证和资源补齐任务。",
+      "id": "S12",
+      "start_quote": "所以这个时候你再看啊，因为我家有柠檬",
+      "source_span": {
+        "start_character": 3005,
+        "end_character": 3324,
+        "percentage_start": 90.3,
+        "percentage_end": 100.0,
+        "sha256": "458beaf9f64f2dfd4ef485565b3060919c3cd7281ad1a4d11a397dd3baf85502"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "开场反差落到两种读者能辨认的任务困惑。",
+      "stage_ids": [
+        "S01",
+        "S02"
+      ],
+      "evidence_needed": [
+        "开场问题与两个场景"
+      ],
+      "failure": "只有上班有害断言，没有具体困惑。"
+    },
+    "understandable": {
+      "criterion": "可用同一例子区分目的与手段，并复述从需求倒推路径。",
+      "stage_ids": [
+        "S03",
+        "S06",
+        "S07",
+        "S08"
+      ],
+      "evidence_needed": [
+        "两路径节点",
+        "目的手段定义",
+        "柠檬与课程对照"
+      ],
+      "failure": "从右往左成为口号，用户需求仍未出现。"
+    },
+    "credible": {
+      "criterion": "角色判断、转述场景、假设分成和实际对标证据分别标明。",
+      "stage_ids": [
+        "S04",
+        "S05",
+        "S07",
+        "S09",
+        "S10",
+        "S11"
+      ],
+      "evidence_needed": [
+        "场景来源与假设标记",
+        "交易贡献和对标材料"
+      ],
+      "failure": "假设分成被当行业标准，一次对标被当必赚证明。"
+    },
+    "fulfilled": {
+      "criterion": "读者得到需求、匹配产品和补齐资源的具体下一步。",
+      "stage_ids": [
+        "S06",
+        "S11",
+        "S12"
+      ],
+      "evidence_needed": [
+        "需求假设",
+        "内容产品组合",
+        "资源缺口与行动"
+      ],
+      "failure": "只有改变思维，不能指出要确认谁的什么问题。"
+    },
+    "structure": {
+      "criterion": "先显出错误起点再给反向路径，以多个同题对照检验后转入方法。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S12"
+      ],
+      "evidence_needed": [
+        "同题对照关系",
+        "原则案例方法衔接"
+      ],
+      "failure": "例子只堆砌贬低，最终找对标与目的手段无关系。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "明确比较两条思考顺序",
+      "以同题场景检验需求起点与资源起点",
+      "目的与可变手段分别定义",
+      "给内容产品匹配及资源补齐的下一步"
+    ],
+    "adjustable": [
+      "角色对照与场景数量",
+      "水果课程和中介示例",
+      "极端收入分成和攻击性口语可删改"
+    ],
+    "fill_before_writing": [
+      "已选标题、读者真实困惑",
+      "需求依据及同题两条路径",
+      "对标内容产品组合和未知项",
+      "自己可用资源与待补能力"
+    ]
+  },
+  "source_path": "raw/sample-20.txt",
+  "source_sha256": "b9cfa76f73092bbd83454d846ba14316c08cd107bbc152a804596a6413dee4e9",
+  "body_start_character": 35
+}

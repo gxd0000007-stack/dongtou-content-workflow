@@ -1,0 +1,4 @@
+interface:
+  display_name: "东头正文讲法"
+  short_description: "承接我的观点和标题开头，匹配文风与结构，安排第一人称正文讲法"
+  default_prompt: "用 $dongtou-body-plan 接住本篇第三步结果和我的观点，匹配服务于东头立场的文风与参考写法，交付讲法卡和第一人称正文示范。完整创作授权下直接代拟试稿，明确先聊时只问缺失观点。"

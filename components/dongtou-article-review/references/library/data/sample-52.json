@@ -1,0 +1,429 @@
+{
+  "id": "sample-52",
+  "number": 52,
+  "title": "一定要有自己的生意，哪怕再小",
+  "short_name": "不确定性到小收入来源",
+  "family": "常见等式—认知捷径—反例—小生意范围",
+  "skeleton": [
+    "用概率视角改写稳定问题",
+    "展示熟悉等式与现实变动",
+    "解释旧经验遇到多变量世界",
+    "用两个判断解释相关与因果",
+    "补上没有被看见的失败样本",
+    "把安全感转向可参与的收入探索",
+    "降低小生意规模想象",
+    "用支流比喻强调积累与收束"
+  ],
+  "distinctive": "先拆“努力即成功”等确定性等式，再解释相关与因果、只看成功者的盲点，最后把小生意重新定义为缓慢积累的另一收入来源。",
+  "promise": "帮助读者审视稳定的假设，并考虑低规模收入探索；不是保证生意稳定或提供完整创业教程。",
+  "applicability": [
+    "AI收益承诺的判断",
+    "职场副业风险讨论",
+    "解释统计直觉与决策"
+  ],
+  "material_preconditions": [
+    "一个常见成功等式",
+    "能够核验的反例和遗漏样本",
+    "明确成本与风险的小试验"
+  ],
+  "source_limits": [
+    "仅根据用户粘贴的公众号文本拆解；万赞由用户报告，未核验阅读、点赞或传播数据。",
+    "作者的个人经历、用户案例、经营结果属于 Ray 的自述，不能改成东头亲历或通用结果保证。",
+    "原文中的名言、统计数据和心理学解释尚未核验；只参考叙述组织，进入新文的事实需要另行核验。",
+    "原文一面承认世界不确定，一面将自有生意称最可控且不会归零，存在论证张力；不可作为风险免除依据。",
+    "进化心理解释、脑能耗数字和沃尔德故事尚未核验；引用前需要查证。"
+  ],
+  "stages": [
+    {
+      "label": "用概率视角改写稳定问题",
+      "start_quote": "理解世界的第一性原理，一定有概率学。",
+      "function": "把小生意命题放到不确定性判断，而不是只谈赚钱。",
+      "transition": "列出读者熟悉的稳定等式。",
+      "mechanism": "新视角总纲",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "待讨论的决策",
+        "概率视角能补的内容"
+      ],
+      "fail": [
+        "大词不落到决策",
+        "声称掌握概率就无风险"
+      ],
+      "adaptation": "从“AI能帮我稳定赚钱吗”的具体判断进入，解释不确定因素。",
+      "id": "S01",
+      "pass": [
+        "下文出现可检验假设",
+        "不扩大成普遍真理"
+      ],
+      "source_span": {
+        "start_character": 30,
+        "end_character": 86,
+        "percentage_start": 0.0,
+        "percentage_end": 2.2,
+        "sha256": "dfd5a3881dc4d2a1bd6ca5363e9a2d307abf3905d98645013b3ffa053edefeac"
+      }
+    },
+    {
+      "label": "展示熟悉等式与现实变动",
+      "start_quote": "“努力工作就能过上好日子”，",
+      "function": "列努力、房产、学历等式，并用行业与市场变化揭示非必然性。",
+      "transition": "从假设失效追问人为何相信简单归因。",
+      "mechanism": "常识等式与反例对照",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "常见决策假设",
+        "核验的市场变化",
+        "假设适用条件"
+      ],
+      "fail": [
+        "堆未经核验时事",
+        "把努力本身说成无用"
+      ],
+      "adaptation": "AI使用以同一提示在不同资料条件下结果变化作例子。",
+      "id": "S02",
+      "pass": [
+        "指出哪些条件变化导致等式不成立",
+        "区分个人努力与外部变量"
+      ],
+      "source_span": {
+        "start_character": 86,
+        "end_character": 389,
+        "percentage_start": 2.2,
+        "percentage_end": 14.4,
+        "sha256": "754b0a3b3f51d7b20a410dbd4dbc530d2aa0ffc0af62ed12f8e45f5be842e143"
+      }
+    },
+    {
+      "label": "解释旧经验遇到多变量世界",
+      "start_quote": "人类的大脑并不是为现代社会设计的。",
+      "function": "用果实和洞穴类比解释经验依赖，再对比现代多变量环境。",
+      "transition": "由简单归因进入相关与因果的区别。",
+      "mechanism": "旧环境类比到新环境复杂性",
+      "requirement": "conditional",
+      "condition": "采用心理或进化解释时需核验；可用任务条件差异替代。",
+      "materials": [
+        "明确类比",
+        "具体外部变量",
+        "科学来源若称机制"
+      ],
+      "fail": [
+        "把想象进化故事当证据",
+        "所有失败只赖环境"
+      ],
+      "adaptation": "可换成“过去一次有效的AI做法不代表所有任务有效”，减少进化解释。",
+      "id": "S03",
+      "pass": [
+        "类比有边界",
+        "列出能影响当前判断的变量"
+      ],
+      "source_span": {
+        "start_character": 389,
+        "end_character": 811,
+        "percentage_start": 14.4,
+        "percentage_end": 31.3,
+        "sha256": "541a7e50ab2e3ec74b92cb7e8f7386ab7f3073712f009314cbb7ab9c99c804b3"
+      }
+    },
+    {
+      "label": "用两个判断解释相关与因果",
+      "start_quote": "因果关系，不等于相关性",
+      "function": "用快慢思考和早起阅读、房产两个问题展示同时出现未必是原因。",
+      "transition": "继续处理只看成功样本的另一盲点。",
+      "mechanism": "概念对照加反问",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "同现现象",
+        "可能的第三因素",
+        "可检验的因果范围"
+      ],
+      "fail": [
+        "只写两种系统名词",
+        "把任何相关都视为毫无价值"
+      ],
+      "adaptation": "AI案例可对照“用了工具”与“内容涨粉”之间还存在账号、题材等变量。",
+      "id": "S04",
+      "pass": [
+        "读者能分清共现、因果和条件",
+        "有替代解释"
+      ],
+      "source_span": {
+        "start_character": 811,
+        "end_character": 1348,
+        "percentage_start": 31.3,
+        "percentage_end": 52.8,
+        "sha256": "0a5e344878e466fad5f84960b7c54a5d7868e1a6f557993878ddf8ce7658a88d"
+      }
+    },
+    {
+      "label": "补上没有被看见的失败样本",
+      "start_quote": "我们误以为“成功 = 某个行为的结果”，",
+      "function": "通过辍学、房产、投资及战机故事说明样本选择造成误判。",
+      "transition": "让稳定判断转向自己可调的范围。",
+      "mechanism": "反向看样本缺口",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "成功与失败样本",
+        "选择方式",
+        "故事核验出处"
+      ],
+      "fail": [
+        "用成功名人再次证明通用成功",
+        "复述未核验战机故事"
+      ],
+      "adaptation": "看AI商业案例时同时找没做成的样本和成本，不抄获胜者动作就承诺成功。",
+      "id": "S05",
+      "pass": [
+        "说明缺了哪些人或情况",
+        "结论不过度外推"
+      ],
+      "source_span": {
+        "start_character": 1348,
+        "end_character": 1734,
+        "percentage_start": 52.8,
+        "percentage_end": 68.2,
+        "sha256": "79535187e75f96b207298cc8c2bfa95403fd4d3f1f666004fe90dcacaef14016"
+      }
+    },
+    {
+      "label": "把安全感转向可参与的收入探索",
+      "start_quote": "如果世界充满不确定性，",
+      "function": "提出不要把人生全押不可控变量，作者推荐自己创造收入。",
+      "transition": "随后接住“我不适合创业”的反对。",
+      "mechanism": "风险问题到可行动建议",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "现有收入依赖",
+        "可增加的收入渠道",
+        "同样存在的市场风险"
+      ],
+      "fail": [
+        "称自己的生意绝不会归零",
+        "把员工收入全说成最危险"
+      ],
+      "adaptation": "可推荐保留主业下试一个AI服务，不把任何收入渠道说成确定。",
+      "id": "S06",
+      "pass": [
+        "明确建议是多一种探索而非无风险替代",
+        "承认成本和不确定性"
+      ],
+      "source_span": {
+        "start_character": 1734,
+        "end_character": 1916,
+        "percentage_start": 68.2,
+        "percentage_end": 75.5,
+        "sha256": "cc75fdb2ee0d2c2282f4923b72ec9cd0a01d518c246c7859f5ff32408b813081"
+      }
+    },
+    {
+      "label": "降低小生意规模想象",
+      "start_quote": "也许你会说：“我不是创业型的人，我没有天生的商业头脑。”",
+      "function": "用小店、公众号、手艺、咨询等例子，把创业从大公司换成小规模现金流。",
+      "transition": "由小规模进入长期积累。",
+      "mechanism": "反对意见与重新定义",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "一种符合读者能力的微小服务",
+        "交付边界",
+        "成本预算"
+      ],
+      "fail": [
+        "例子过多却无选择依据",
+        "把小规模等同零风险"
+      ],
+      "adaptation": "AI新人可从一个确实能交付的工作模板或帮助服务开始，不暗示立即收费。",
+      "id": "S07",
+      "pass": [
+        "给出具体形态和范围",
+        "读者能评估是否适合"
+      ],
+      "source_span": {
+        "start_character": 1916,
+        "end_character": 2223,
+        "percentage_start": 75.5,
+        "percentage_end": 87.8,
+        "sha256": "a66513e7579b47296a516a3f2d7bdb8ce287d201a18d6d88fac9bd5ad5ce6d33"
+      }
+    },
+    {
+      "label": "用支流比喻强调积累与收束",
+      "start_quote": "大江大河奔流不息，",
+      "function": "以多支流和长期现金流比喻收束，鼓励哪怕很小也开始积累。",
+      "transition": "回扣标题的小生意。",
+      "mechanism": "比喻与尺度收缩",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "长期观察周期",
+        "可检验的小收入记录",
+        "退出或调整条件"
+      ],
+      "fail": [
+        "粉丝都被视作自有资产且不会流失",
+        "重复稳定保证"
+      ],
+      "adaptation": "保留多来源和缓慢积累，不把平台粉丝等同永久产权。",
+      "id": "S08",
+      "pass": [
+        "结尾鼓励小范围试验",
+        "解释复盘与停止条件"
+      ],
+      "source_span": {
+        "start_character": 2223,
+        "end_character": 2528,
+        "percentage_start": 87.8,
+        "percentage_end": 100.0,
+        "sha256": "920b2a999ab5ec096df10e9baae2e76dd422bdf0829e2a48baccef3cea4b3902"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "熟悉的稳定等式让读者知道要检验哪项人生或AI判断。",
+      "stage_ids": [
+        "S01",
+        "S02"
+      ],
+      "evidence_needed": [
+        "具体假设",
+        "条件变化例子"
+      ],
+      "failure": "只有大概率学概念。"
+    },
+    "understandable": {
+      "criterion": "相关因果与缺失样本分别用不同例子讲清楚。",
+      "stage_ids": [
+        "S04",
+        "S05"
+      ],
+      "evidence_needed": [
+        "第三因素",
+        "遗漏样本",
+        "结论范围"
+      ],
+      "failure": "把术语当解释或混淆两种偏差。"
+    },
+    "credible": {
+      "criterion": "反例、故事与科学主张可核验，自有收入也保留市场风险。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06"
+      ],
+      "evidence_needed": [
+        "来源",
+        "时间口径",
+        "风险说明"
+      ],
+      "failure": "用不确定性论证推出无风险创业。"
+    },
+    "fulfilled": {
+      "criterion": "让读者能审视假设并评估一项小收入试验，而非保证赚钱。",
+      "stage_ids": [
+        "S06",
+        "S07",
+        "S08"
+      ],
+      "evidence_needed": [
+        "具体服务范围",
+        "预算与观察周期"
+      ],
+      "failure": "以小生意标题承诺确定现金流。"
+    },
+    "structure": {
+      "criterion": "常见等式到认知解释、因果反例、遗漏样本、缩小生意范围互相支撑。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08"
+      ],
+      "evidence_needed": [
+        "两类判断检查",
+        "宏观到微小动作桥梁"
+      ],
+      "failure": "前面谈概率，后面无条件保证稳定。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "等式与条件变化的对照",
+      "相关因果和样本偏差是两种不同检查",
+      "建议范围小于宏观论证范围"
+    ],
+    "adjustable": [
+      "心理机制解释可省",
+      "反例题材",
+      "长期比喻与周期"
+    ],
+    "fill_before_writing": [
+      "待检验的AI或职场假设",
+      "数据和故事来源",
+      "预算风险与退出条件"
+    ]
+  },
+  "summary": "可学习的是拆成功等式、寻找反例与缺失样本、再把建议缩为小范围试验；生意“最可控”的绝对保证不能沿用。",
+  "tags": [
+    "公众号",
+    "风险判断",
+    "相关因果",
+    "反例",
+    "小生意"
+  ],
+  "useful_modules": [
+    "structure",
+    "opening",
+    "explanation",
+    "experience"
+  ],
+  "methods": {
+    "structure": {
+      "quote": "也许你会说：“我不是创业型的人，我没有天生的商业头脑。”",
+      "observation": "解释宏观不确定后，接住个人能否开始的疑问并缩小规模。",
+      "adaptation": "从问题判断转到一个可承受的小试验。",
+      "limit": "不可在前面否定确定性后又承诺自己的生意不受市场影响。"
+    },
+    "opening": {
+      "quote": "“努力工作就能过上好日子”，",
+      "observation": "列读者默认等式，使抽象概率问题进入现实选择。",
+      "adaptation": "列出“装AI即提效”等一句话假设再检验。",
+      "limit": "反问不是证据，要说明失效条件。"
+    },
+    "explanation": {
+      "quote": "直觉上看起来非常正确，但早起和阅读，真的是成功的核心原因吗？",
+      "observation": "用读者熟悉行为与成功的关联解释因果质疑。",
+      "adaptation": "补第三因素和失败样本帮助新人理解。",
+      "limit": "不能仅靠怀疑就否定所有关系；具体事实需查。"
+    },
+    "experience": {
+      "quote": "就像我给学员们说的一样，做自媒体这件事，",
+      "observation": "亲身经历仅局部出现，用作者的观察周期支撑缓慢积累。",
+      "adaptation": "仅当东头有真实指导记录才使用；否则改个人建议。",
+      "limit": "本篇不是完整经历故事，不要为了此模块虚构成功过程。"
+    }
+  },
+  "source_path": "raw/sample-52.txt",
+  "source_sha256": "4e426fe63a8ce06f54190b852676eeb2f509ded69a80f1742732221de16de6e0",
+  "body_start_character": 30,
+  "body_end_character": 2528,
+  "source_group": "ray-wechat-2026-10-07",
+  "submitted_number": "26",
+  "source_completeness": "as_submitted",
+  "source_defect_notes": [],
+  "full_structure_reference": true,
+  "opening_reference": true,
+  "allowed_usage": [
+    "selected_structure",
+    "local_method"
+  ]
+}

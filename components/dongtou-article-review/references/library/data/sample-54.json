@@ -1,0 +1,362 @@
+{
+  "id": "sample-54",
+  "number": 54,
+  "title": "为什么有大量平庸得令人发指的高学历",
+  "short_name": "高学历与试错的局部论证",
+  "family": "片段归因—地图比喻—定向学习—价值追问",
+  "skeleton": [
+    "承接缺失前文的失败归因",
+    "以地图比喻描述路径依赖",
+    "用人物列举强化探索态度",
+    "把成长资产改写为持续学习",
+    "把学习分成目标与层次",
+    "以更高学历还是更强自己收束"
+  ],
+  "distinctive": "收到的正文从“因为”直接开始，只有后半段论证；可借地图比喻与按需求学习的局部方法，不能还原原文开头。",
+  "promise": "已收到片段主张不要只维护学历标签，应以目标明确的学习与探索成长；无法确认缺失开头的承诺。",
+  "applicability": [
+    "局部解释害怕AI试错",
+    "按任务学习而非堆证书",
+    "对已收到片段进行有限结构参考"
+  ],
+  "material_preconditions": [
+    "缺前文标记",
+    "具体学习任务与行动边界",
+    "不带学历群体羞辱的实际问题"
+  ],
+  "source_limits": [
+    "仅根据用户粘贴的公众号文本拆解；万赞由用户报告，未核验阅读、点赞或传播数据。",
+    "作者的个人经历、用户案例、经营结果属于 Ray 的自述，不能改成东头亲历或通用结果保证。",
+    "原文中的名言、统计数据和心理学解释尚未核验；只参考叙述组织，进入新文的事实需要另行核验。",
+    "正文以“因为，一旦失败”开始，疑似缺前文；只能标注实际收到片段，不能推断完整标题开头关系或完整爆款机制。",
+    "高学历、风险厌恶、平庸的群体判断和名人归纳未核验；不能以此给读者贴标签。"
+  ],
+  "stages": [
+    {
+      "label": "承接缺失前文的失败归因",
+      "start_quote": "因为，一旦失败，自己的完美人设，就会崩掉。",
+      "function": "实际片段从失败损害人设解释风险回避；这是承接句而非经确认的全文开头。",
+      "transition": "由人设维护进入行动边界。",
+      "mechanism": "片段内的原因解释",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "明确缺失标记",
+        "具体害怕失败的行为"
+      ],
+      "fail": [
+        "补造开头问题",
+        "当完整钩子验收"
+      ],
+      "adaptation": "只能参考局部归因；东头文章另写经素材支撑的开头。",
+      "id": "S01",
+      "pass": [
+        "保留仅收到片段边界",
+        "不推断前文如何设悬念"
+      ],
+      "source_span": {
+        "start_character": 33,
+        "end_character": 218,
+        "percentage_start": 0.0,
+        "percentage_end": 20.0,
+        "sha256": "3e9c6f5c3a83a2f3802aac02fc070c7b2e3a978326a5713c9d908195c5c2302f"
+      }
+    },
+    {
+      "label": "以地图比喻描述路径依赖",
+      "start_quote": "高学历的人，手里永远拿着一张地图，",
+      "function": "把标准化路径比成地图，放下地图比成探索小路，讲遵循与探索的差异。",
+      "transition": "再引成功探索者的名人列举。",
+      "mechanism": "同一比喻的两种行为",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "一条被惯性遵循的路线",
+        "一次具体探索选择"
+      ],
+      "fail": [
+        "群体都被同一个比喻概括",
+        "把已有经验说成无价值"
+      ],
+      "adaptation": "以AI任务照搬模板与按目标改模板作对照，使用具体人而非学历群体。",
+      "id": "S02",
+      "pass": [
+        "比喻能对应实际行为",
+        "不把学历等同人格"
+      ],
+      "source_span": {
+        "start_character": 218,
+        "end_character": 382,
+        "percentage_start": 20.0,
+        "percentage_end": 37.8,
+        "sha256": "9cc7ec54b169c94a88415f8e0ba7937344c7be317b404552b9bcfeb881d26360"
+      }
+    },
+    {
+      "label": "用人物列举强化探索态度",
+      "start_quote": "毕加索、约翰列侬、卓别林、",
+      "function": "列出作者认为具反叛与革新特征的名人，强调探索。",
+      "transition": "从态度进入学习解法。",
+      "mechanism": "名人集合的联想说服",
+      "requirement": "optional",
+      "condition": "需要人物例证时使用核验材料，名单不是证明。",
+      "materials": [
+        "人物真实背景",
+        "与论点有关的事实"
+      ],
+      "fail": [
+        "名单证明所有成功者都这样",
+        "未经核验套名人"
+      ],
+      "adaptation": "本段可删除或改成已核验的具体普通人尝试，不要求名人背书。",
+      "id": "S03",
+      "pass": [
+        "若采用人物须说明具体行为",
+        "不把名气当因果证明"
+      ],
+      "source_span": {
+        "start_character": 382,
+        "end_character": 441,
+        "percentage_start": 37.8,
+        "percentage_end": 44.2,
+        "sha256": "4bf8f1f3b64e98753caa1cdeeec15fcf6161760808abc8773c38fc39035aba7c"
+      }
+    },
+    {
+      "label": "把成长资产改写为持续学习",
+      "start_quote": "能让自我价值持续放大的做法，",
+      "function": "明确片段后半部的解法是学习，而不是继续追求学历。",
+      "transition": "马上说明学习如何定目标、分层次。",
+      "mechanism": "概念重心转换",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "任务目标",
+        "学习与证书作用区分"
+      ],
+      "fail": [
+        "断言学历完全无用",
+        "只有持续学习口号"
+      ],
+      "adaptation": "AI学习可区分拿证、理解概念、完成真实任务，按任务选择。",
+      "id": "S04",
+      "pass": [
+        "说明学习服务什么问题",
+        "保留学历可能用途"
+      ],
+      "source_span": {
+        "start_character": 441,
+        "end_character": 503,
+        "percentage_start": 44.2,
+        "percentage_end": 50.9,
+        "sha256": "a6f36b2079aa8e6896a7d0294379f0bf67498656d643e75d0f6e8e4dc08fcca9"
+      }
+    },
+    {
+      "label": "把学习分成目标与层次",
+      "start_quote": "首先，学习是需要有目标的，",
+      "function": "先问为什么学、有什么用，再分思维与具体技法，用创业和自媒体作示范。",
+      "transition": "由学习方式升到学历是入口、成长靠能力。",
+      "mechanism": "决策问句与双层示例",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "当前问题",
+        "基础思维需求",
+        "具体技法需求",
+        "成本约束"
+      ],
+      "fail": [
+        "说毫不犹豫投入却无预算",
+        "所有任务同时学"
+      ],
+      "adaptation": "AI小白先定要完成的任务，再辨必须理解的规则与当下操作。",
+      "id": "S05",
+      "pass": [
+        "两层知识各有目标",
+        "能决定先学什么并试什么"
+      ],
+      "source_span": {
+        "start_character": 503,
+        "end_character": 695,
+        "percentage_start": 50.9,
+        "percentage_end": 71.7,
+        "sha256": "777a9cdd35381015a2da197b5887b42289cee3fab592e07b797b25018437dfc5"
+      }
+    },
+    {
+      "label": "以更高学历还是更强自己收束",
+      "start_quote": "学历只能帮你打开社会游戏的第一扇门，",
+      "function": "通过门的比喻回扣持续探索，末尾用二选一提问促使自省。",
+      "transition": "片段收束，完整前文关系仍未知。",
+      "mechanism": "价值追问与比喻回扣",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "前文实际讲出的学习方式",
+        "作者有限建议"
+      ],
+      "fail": [
+        "把二选一写成真正互斥",
+        "以群体羞辱代替建议"
+      ],
+      "adaptation": "改为“现在这个任务，我更需要什么能力”，避免虚假二分。",
+      "id": "S06",
+      "pass": [
+        "提问对应具体选择",
+        "不否认学历与能力可以共存"
+      ],
+      "source_span": {
+        "start_character": 695,
+        "end_character": 956,
+        "percentage_start": 71.7,
+        "percentage_end": 100.0,
+        "sha256": "b882f6dcee5c5fd7e6c72ca3f85e20df417674fabf65ec8b1e3594d090928288"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "只验片段可读性；完整开头和标题吸引力待完整素材补齐。",
+      "stage_ids": [
+        "S01",
+        "S02"
+      ],
+      "evidence_needed": [
+        "缺前文标记",
+        "本篇另写的真实问题"
+      ],
+      "failure": "将承接句包装为完整开头证明。"
+    },
+    "understandable": {
+      "criterion": "地图比喻与目标、层次能落在具体任务。",
+      "stage_ids": [
+        "S02",
+        "S04",
+        "S05"
+      ],
+      "evidence_needed": [
+        "路线对照",
+        "学习目标",
+        "所需技法"
+      ],
+      "failure": "只有标签与名人名单。"
+    },
+    "credible": {
+      "criterion": "群体判断改为有限观察，名人例子不可做因果证据。",
+      "stage_ids": [
+        "S01",
+        "S03",
+        "S04"
+      ],
+      "evidence_needed": [
+        "具体个案",
+        "来源如引用人物",
+        "限定表达"
+      ],
+      "failure": "以学历直接判断人格与潜力。"
+    },
+    "fulfilled": {
+      "criterion": "本片段兑现局部学习建议，不能声称已解决全文标题命题。",
+      "stage_ids": [
+        "S04",
+        "S05",
+        "S06"
+      ],
+      "evidence_needed": [
+        "目标问句",
+        "层次示例",
+        "承诺限制"
+      ],
+      "failure": "缺前文仍报告完整讲解通过。"
+    },
+    "structure": {
+      "criterion": "承接原因、地图比喻、可选例证、学习解法、目标层次、收束有序。",
+      "stage_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06"
+      ],
+      "evidence_needed": [
+        "片段边界",
+        "实际段落功能"
+      ],
+      "failure": "虚构全文前半部或把六段当原稿全貌。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "缺前文状态全程保留",
+      "局部比喻对应实际行动",
+      "学习目标与技能层次都说明"
+    ],
+    "adjustable": [
+      "名人列举可省",
+      "学历题材可换具体路径",
+      "末尾二选一可改任务追问"
+    ],
+    "fill_before_writing": [
+      "完整原稿如以后补齐",
+      "本篇新开头所需真实问题",
+      "一个具体学习任务"
+    ]
+  },
+  "summary": "本稿仅能支持后半段的地图比喻、学习目标与层次拆分；不能据此验完整标题开头或全文结构。",
+  "tags": [
+    "公众号",
+    "片段",
+    "缺前文",
+    "地图比喻",
+    "定向学习"
+  ],
+  "useful_modules": [
+    "structure",
+    "opening",
+    "explanation",
+    "experience"
+  ],
+  "methods": {
+    "structure": {
+      "quote": "学习才能摆脱平庸",
+      "observation": "已收到片段从风险回避论证转到如何学习，前部结构未知。",
+      "adaptation": "仅作为“问题解释后补目标与层次”的局部组织。",
+      "limit": "不能标成完整爆款结构或推断缺失前文。"
+    },
+    "opening": {
+      "quote": "因为，一旦失败，自己的完美人设，就会崩掉。",
+      "observation": "这是收到片段的第一句，语法上承接前文。",
+      "adaptation": "仅参考如何用一句话承接已写出的原因问题。",
+      "limit": "不适合当已验证全文开头，不能补造原钩子。"
+    },
+    "explanation": {
+      "quote": "高学历的人，手里永远拿着一张地图，",
+      "observation": "用地图与小路把路径依赖和探索具象化。",
+      "adaptation": "以具体学习流程做类比，避免群体标签。",
+      "limit": "比喻不证明高学历与平庸因果。"
+    },
+    "experience": {
+      "quote": "你想做自媒体，那小红书选题的方法、写文案的技巧，",
+      "observation": "本片段没有完整作者亲历故事，只有任务例举。",
+      "adaptation": "可局部借用任务与学习技法配对，另需东头自己的材料。",
+      "limit": "此模块仅局部参考，不能为了讲经历编出Ray或东头人生转折。"
+    }
+  },
+  "source_path": "raw/sample-54.txt",
+  "source_sha256": "3b6b9d3a367f6a9f9ee9b25ac0bb144c7e41ac17eaf8c9d7e222bc8c21a64a0c",
+  "body_start_character": 33,
+  "body_end_character": 956,
+  "source_group": "ray-wechat-2026-10-07",
+  "submitted_number": "28",
+  "source_completeness": "partial",
+  "source_defect_notes": [
+    "正文从“因为，一旦失败”开始，疑似缺前文；只分析实际收到部分。"
+  ],
+  "full_structure_reference": false,
+  "opening_reference": false,
+  "allowed_usage": [
+    "local_excerpt"
+  ]
+}

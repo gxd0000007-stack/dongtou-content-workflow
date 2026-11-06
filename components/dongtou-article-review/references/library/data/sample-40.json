@@ -1,0 +1,501 @@
+{
+  "id": "sample-40",
+  "number": 40,
+  "title": "不要把时间浪费在股市里",
+  "short_name": "从注意力损失转向可积累任务",
+  "family": "退出经历—隐形成本—目标漂移—三步系统—回望",
+  "skeleton": [
+    "以错误游戏的隐喻警醒",
+    "给出投入与退出的个人线索",
+    "重新计算非金钱成本",
+    "展示目标如何被沉没成本替换",
+    "提出长期可积累的替代方向",
+    "用自问检验认知是否成体系",
+    "用碎片学习与完整框架对照解释系统",
+    "说明长期重复与反馈的作用",
+    "把注意力分配回目标流程",
+    "回望经历并提炼限制",
+    "收尾到自己的项目与资产"
+  ],
+  "distinctive": "不是直接列三步赚钱，而是先通过亲历让读者看见注意力代价，再对照可积累项目，最后回到牌局隐喻。",
+  "promise": "通过作者投资经历说明注意力机会成本，并提出知识结构、持续实践与目标闭环的替代投入。",
+  "applicability": [
+    "个人工具焦虑与注意力消耗",
+    "从追 AI 新闻到任务实践的观点文",
+    "有亲历投入与退出的反思"
+  ],
+  "material_preconditions": [
+    "真实投入时间线",
+    "隐藏成本",
+    "替代项目",
+    "迭代记录"
+  ],
+  "source_limits": [
+    "仅据用户粘贴文本拆解，未读取公众号原页或图片、视频。",
+    "万赞或爆款为用户报告，当前未独立核验点赞、阅读量或发布时间。",
+    "作者案例、收入与账号数据仅为作者自述，不作为普遍收益证明，也不能改写为东头亲历。",
+    "书名、名言、研究、平台规则及行业数据未核验；移入正文作为事实论据前须单独核验。",
+    "只借鉴组织功能和解释方法；绝对化结论、羞辱性称呼与不可保证的收益不作为硬性写作规则。",
+    "涉及投资与财务判断，本稿未核验，不能直接转为投资建议。",
+    "“资产100%由你控制”“长期必有影响力”等绝对化表述不作为方法或验收要求。"
+  ],
+  "stages": [
+    {
+      "id": "S01",
+      "start_quote": "如果你在牌局里看不出谁是傻子，那大概率自己就是...",
+      "label": "以错误游戏的隐喻警醒",
+      "function": "把时间浪费问题框成不懂规则的牌局。",
+      "transition": "转入作者退出股票账户的经历。",
+      "mechanism": "风险与身份反差引起注意。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "具体时间投入问题"
+      ],
+      "fail": [
+        "只有耸动评价，没指出可观察问题。"
+      ],
+      "adaptation": "AI 使用可改为在不清规则下跟风工具，不照搬投资结论。",
+      "pass": [
+        "读者知道反思的是哪类投入与规则。"
+      ],
+      "source_span": {
+        "start_character": 29,
+        "end_character": 77,
+        "percentage_start": 0.0,
+        "percentage_end": 1.6,
+        "sha256": "228c33157734d7935fb008de2486b88472b3b86e69aed2ff9d5175b4965ecd7f"
+      }
+    },
+    {
+      "id": "S02",
+      "start_quote": "我从大一开始买股票，直到前年",
+      "label": "给出投入与退出的个人线索",
+      "function": "交代持续时间、亏损、课上盯盘和随价格波动的情绪。",
+      "transition": "由财务亏损转到更深层代价。",
+      "mechanism": "经历细节让判断来源可见。",
+      "requirement": "conditional",
+      "condition": "确有可引用经历时",
+      "materials": [
+        "真实时间线",
+        "行为和情绪细节"
+      ],
+      "fail": [
+        "伪造东头投资史或用个案证明所有人失败。"
+      ],
+      "adaptation": "引用 Ray 经历或讲东头确认的同类注意力消耗。",
+      "pass": [
+        "时间、行为、损失有明确归属。"
+      ],
+      "source_span": {
+        "start_character": 77,
+        "end_character": 364,
+        "percentage_start": 1.6,
+        "percentage_end": 11.2,
+        "sha256": "86cbc1c7ca30f033bc896779a32eec53f97983bbc08ed9f80e9682a8c7043e72"
+      }
+    },
+    {
+      "id": "S03",
+      "start_quote": "你以为炒股亏的只是钱，实际上，钱的成本是最低的。",
+      "label": "重新计算非金钱成本",
+      "function": "依次放大注意力、时间、专注与自我价值感损失。",
+      "transition": "成本解释进入沉没成本循环。",
+      "mechanism": "损失重估改变读者比较标准。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "实际耗时与情绪观察"
+      ],
+      "fail": [
+        "抽象说浪费人生，无时间或行为证据。"
+      ],
+      "adaptation": "用 AI 工具搜集的切换成本、检查成本具体计算，不泛化医学影响。",
+      "pass": [
+        "至少一个可衡量或可描述的隐藏成本。"
+      ],
+      "source_span": {
+        "start_character": 364,
+        "end_character": 711,
+        "percentage_start": 11.2,
+        "percentage_end": 22.9,
+        "sha256": "1363b34df5c7f1609452a490a19038f06dd9d8c2e09273d033c57e8d28e96773"
+      }
+    },
+    {
+      "id": "S04",
+      "start_quote": "到后来，你的目标变成了“回本”",
+      "label": "展示目标如何被沉没成本替换",
+      "function": "把从赚钱到回本的变化写成注意力被旧投入绑住，并比较其他用途。",
+      "transition": "从旧局抽身转向可积累系统。",
+      "mechanism": "目标漂移与机会成本暴露循环。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "旧目标与新行为",
+        "替代投入选项"
+      ],
+      "fail": [
+        "把情绪循环当普遍必然，或只有否定无替代。"
+      ],
+      "adaptation": "工具学习可讲从完成任务到追更新的目标漂移。",
+      "pass": [
+        "读者能看到原目标、偏离点与替代任务。"
+      ],
+      "source_span": {
+        "start_character": 711,
+        "end_character": 1071,
+        "percentage_start": 22.9,
+        "percentage_end": 35.0,
+        "sha256": "222928f6114ad88c5d8faa1c7b41c7c25cda2477dc3b0a52bf7fc423af1539c4"
+      }
+    },
+    {
+      "id": "S05",
+      "start_quote": "人要学从“赚快钱”到“构建自己的赚钱体系”。",
+      "label": "提出长期可积累的替代方向",
+      "function": "写内容、社群、产品作为复利系统，并用长坡滚雪球比喻。",
+      "transition": "由方向进入三步构建。",
+      "mechanism": "从退出旧局转为建设新局。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "可积累产出",
+        "目标与资源"
+      ],
+      "fail": [
+        "承诺知识业务完全可控、必然复利。"
+      ],
+      "adaptation": "把可控改为可影响的环节，说明内容平台与市场风险仍存在。",
+      "pass": [
+        "产出可复用，但外部风险也清楚。"
+      ],
+      "source_span": {
+        "start_character": 1071,
+        "end_character": 1341,
+        "percentage_start": 35.0,
+        "percentage_end": 44.0,
+        "sha256": "07fa9d693151d34f32bd7697698878887fa6b7dc46b7e2aae9ede9b7a806e4db"
+      }
+    },
+    {
+      "id": "S06",
+      "start_quote": "1. 构建你自己的知识系统",
+      "label": "用自问检验认知是否成体系",
+      "function": "区分信息与系统、碎片与结构、知道与解决问题。",
+      "transition": "用短视频例子解释抽象区别。",
+      "mechanism": "三问降低自我评估复杂度。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "领域目标",
+        "知识结构",
+        "应用产出"
+      ],
+      "fail": [
+        "只要求知识系统，未给判断方法。"
+      ],
+      "adaptation": "AI 新手用任务流程、工具选择、结果检查三类问题自评。",
+      "pass": [
+        "自问有对应具体产出或缺口。"
+      ],
+      "source_span": {
+        "start_character": 1341,
+        "end_character": 1582,
+        "percentage_start": 44.0,
+        "percentage_end": 52.1,
+        "sha256": "296546bd64920fde81938e1306b65ad3e819890ba5f4fe869e330f8d450cbeb0"
+      }
+    },
+    {
+      "id": "S07",
+      "start_quote": "比如你对短视频很感兴趣，看了点运营教程",
+      "label": "用碎片学习与完整框架对照解释系统",
+      "function": "展示零散教程和 IP 运营全局的区别，强调环节关系与解决问题。",
+      "transition": "系统建立后进入持续实践。",
+      "mechanism": "反例与正例建立概念辨识。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "同任务的零散与完整两种方案"
+      ],
+      "fail": [
+        "把框架图当已会解决问题。"
+      ],
+      "adaptation": "AI 案例用单提示词与完整材料—生成—核验流程对照。",
+      "pass": [
+        "展示环节关系和一处实际应用。"
+      ],
+      "source_span": {
+        "start_character": 1582,
+        "end_character": 1921,
+        "percentage_start": 52.1,
+        "percentage_end": 63.5,
+        "sha256": "c7613a3aa49025ce5c91b8c53b6030e30c07c84b0a6ac32eebb22fb0ad1187a3"
+      }
+    },
+    {
+      "id": "S08",
+      "start_quote": "2. 用时间复利你的能力",
+      "label": "说明长期重复与反馈的作用",
+      "function": "用写作和产品的多期迭代讲积累，不追逐短期回报。",
+      "transition": "能力积累后转入注意力配置。",
+      "mechanism": "时间尺度拉长降低一次失败焦虑。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "多次实践与反馈记录"
+      ],
+      "fail": [
+        "仅喊坚持，或把长期投入当成功充分条件。"
+      ],
+      "adaptation": "写可观察的迭代改动，不沿用三年必有影响力等保证。",
+      "pass": [
+        "实践—反馈—改动链条可见。"
+      ],
+      "source_span": {
+        "start_character": 1921,
+        "end_character": 2229,
+        "percentage_start": 63.5,
+        "percentage_end": 73.9,
+        "sha256": "4f96472c9e4a0ed30c8701233c66b3e74b669766055b0648e07f281f90e2f55d"
+      }
+    },
+    {
+      "id": "S09",
+      "start_quote": "3. 把注意力投注在能被你掌控的闭环上",
+      "label": "把注意力分配回目标流程",
+      "function": "以流量、私域、产品说明作者关注范围，建议以项目集中资源。",
+      "transition": "从实践建议返回个人牌局隐喻。",
+      "mechanism": "注意力预算给策略具体落点。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "当前项目",
+        "关键流程",
+        "排除项与理由"
+      ],
+      "fail": [
+        "把不看其他知识当唯一正确方法。"
+      ],
+      "adaptation": "AI 工作流列必须由人检查的节点和可交给工具的节点。",
+      "pass": [
+        "注意力选择与项目目标对应且可调整。"
+      ],
+      "source_span": {
+        "start_character": 2229,
+        "end_character": 2626,
+        "percentage_start": 73.9,
+        "percentage_end": 87.2,
+        "sha256": "dcf16aa87fe3fcf0efa05f3ed488f92cb41da8857e5e2a466d10ecadd9d9494c"
+      }
+    },
+    {
+      "id": "S10",
+      "start_quote": "我现在回头看那几年炒股的经历",
+      "label": "回望经历并提炼限制",
+      "function": "用不懂规则、筹码不足的牌局重新解释过往，承认不后悔。",
+      "transition": "进入风险原则收尾。",
+      "mechanism": "前后隐喻照应，经验转为判断。",
+      "requirement": "conditional",
+      "condition": "文章采用了真实经历作为主线时",
+      "materials": [
+        "已确认的经历",
+        "具体教训"
+      ],
+      "fail": [
+        "只自嘲，没有从经历得到的规则。"
+      ],
+      "adaptation": "讲我现在为何改策略，而非替所有投资者下结论。",
+      "pass": [
+        "结论能回到前面成本和目标漂移。"
+      ],
+      "source_span": {
+        "start_character": 2626,
+        "end_character": 2932,
+        "percentage_start": 87.2,
+        "percentage_end": 97.4,
+        "sha256": "1d5b84659a24fcddbe4b5d5cd6122d5812410948b590d745bc83458118ce2ee3"
+      }
+    },
+    {
+      "id": "S11",
+      "start_quote": "而你真正该做的，是学会构建系统，沉淀自己的资产",
+      "label": "收尾到自己的项目与资产",
+      "function": "将风险叙事收束为写自己的剧本。",
+      "transition": "结束于目标与注意力选择。",
+      "mechanism": "主隐喻召回与行动方向。",
+      "requirement": "core",
+      "condition": "采用本篇为主结构时必须承担此功能",
+      "materials": [
+        "首个可积累任务"
+      ],
+      "fail": [
+        "结尾变成未经核验的投资断言或收益承诺。"
+      ],
+      "adaptation": "给一项可开始的小产出及检查办法，避免财务操作建议。",
+      "pass": [
+        "建议范围清楚且能开始一个任务。"
+      ],
+      "source_span": {
+        "start_character": 2932,
+        "end_character": 3008,
+        "percentage_start": 97.4,
+        "percentage_end": 100.0,
+        "sha256": "8410e08b6025e8453008c4ed8b40d5a1688eb5039026d60bd6d9af2d6c0cda8d"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "风险隐喻后立即接实际投入困扰，不靠贬低投资者。",
+      "stage_ids": [
+        "S01",
+        "S02",
+        "S03"
+      ],
+      "evidence_needed": [
+        "读者任务与成本"
+      ],
+      "failure": "耸动标题后没有问题场景。"
+    },
+    "understandable": {
+      "criterion": "知识系统、复利与可影响环节用对照和项目说明。",
+      "stage_ids": [
+        "S06",
+        "S07",
+        "S08",
+        "S09"
+      ],
+      "evidence_needed": [
+        "碎片与流程对照",
+        "任务产出"
+      ],
+      "failure": "只有系统、资产、复利等抽象词。"
+    },
+    "credible": {
+      "criterion": "投资经历有归属，名言核验，长期内容与商业收益不被保证。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S05",
+        "S08",
+        "S10"
+      ],
+      "evidence_needed": [
+        "经历记录",
+        "引用核验",
+        "风险边界"
+      ],
+      "failure": "把个案亏损当投资规律或宣称收入百分百可控。"
+    },
+    "fulfilled": {
+      "criterion": "明确隐藏成本与三类替代动作，最后能开始一个积累任务。",
+      "stage_ids": [
+        "S03",
+        "S04",
+        "S06",
+        "S08",
+        "S09",
+        "S11"
+      ],
+      "evidence_needed": [
+        "成本观察",
+        "项目动作与完成标准"
+      ],
+      "failure": "只劝退出却不给替代路径。"
+    },
+    "structure": {
+      "criterion": "经历展示代价，代价引出替代方向，三步建设后再回望原经历。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S08",
+        "S09",
+        "S10"
+      ],
+      "evidence_needed": [
+        "前后转折对应"
+      ],
+      "failure": "结构变成抽象赚钱方法而与原经历脱节。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "亲历归属",
+      "非金钱成本重估",
+      "目标漂移",
+      "替代投入与三步建设",
+      "回望教训"
+    ],
+    "adjustable": [
+      "股票场景换为工具切换等任务",
+      "牌局隐喻可换",
+      "引用名言可删",
+      "收入主题可换成工作能力"
+    ],
+    "fill_before_writing": [
+      "东头真实投入与退出原因",
+      "隐藏成本证据",
+      "替代项目与初始动作",
+      "高风险事实与名言核验"
+    ]
+  },
+  "summary": "靠长时间个人盯盘和退出细节让注意力代价可见，再把沉没成本与机会成本转为知识体系、持续迭代和项目专注的建议；只借鉴成本重估与经验反思。",
+  "tags": [
+    "第一人称",
+    "注意力",
+    "隐形成本",
+    "机会成本",
+    "三步系统"
+  ],
+  "useful_modules": [
+    "opening",
+    "structure",
+    "explanation",
+    "experience"
+  ],
+  "methods": {
+    "structure": {
+      "quote": "比亏钱更可怕的，是注意力流失",
+      "observation": "经历之后重算隐藏成本，再提出替代投入。",
+      "adaptation": "写 AI 工具选择时先算切换、检查和任务延迟成本，再给方案。",
+      "limit": "不复制股票收益或风险判断。"
+    },
+    "opening": {
+      "quote": "如果你在牌局里看不出谁是傻子，那大概率自己就是...",
+      "observation": "用规则未知的风险隐喻引出亲历。",
+      "adaptation": "用温和具体隐喻提出任务成本问题。",
+      "limit": "隐喻不能替代证据或羞辱读者。"
+    },
+    "explanation": {
+      "quote": "比如你对短视频很感兴趣，看了点运营教程",
+      "observation": "碎片学习与完整业务流程的对照说明系统。",
+      "adaptation": "用单次 AI 回答与可复查工作流程对照。",
+      "limit": "画出框架不等于已验证业务。"
+    },
+    "experience": {
+      "quote": "赚了钱，那一天就很开心，奶茶都要多点两杯",
+      "observation": "小动作和情绪波动写出投入的真实代价。",
+      "adaptation": "使用本人确认的动作、感受与转折，连接自己的判断。",
+      "limit": "Ray 的股票细节与退出决定不能成为东头亲历。"
+    }
+  },
+  "source_path": "raw/sample-40.txt",
+  "source_sha256": "609778225ef4a903ac293a1cbe06b3ad371257de7d76268ff44370f42bb559e0",
+  "body_start_character": 29,
+  "body_end_character": 3008,
+  "source_group": "ray-wechat-2026-10-07",
+  "submitted_number": "15",
+  "source_completeness": "as_submitted",
+  "source_defect_notes": [],
+  "full_structure_reference": true,
+  "opening_reference": true,
+  "allowed_usage": [
+    "selected_structure",
+    "local_method"
+  ]
+}

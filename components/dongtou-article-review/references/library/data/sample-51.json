@@ -1,0 +1,459 @@
+{
+  "id": "sample-51",
+  "number": 51,
+  "title": "早睡一小时真的可以改命",
+  "short_name": "报复性熬夜的日夜闭环",
+  "family": "夜间情景—白天失控—决策代价—昼夜安排",
+  "skeleton": [
+    "先给熬夜一个新的解释",
+    "刻画不愿结束今天的夜间场景",
+    "把夜间需求连回白天角色",
+    "用自我提问说明需求",
+    "展示困倦如何改变任务选择",
+    "明确调整对象是白天与系统",
+    "用时间清单腾出自我时段",
+    "连起睡前流程与次日安排",
+    "以掌控白天回扣夜间归宿"
+  ],
+  "distinctive": "不从强迫早睡讲起，而先描述深夜舍不得结束今天，再把夜间行为连回白天安排，最后同时设计白天自我时间与睡前流程。",
+  "promise": "给出调整生活节奏的建议，让读者看懂白天与睡前的关系；标题的“改命”是修辞，不是医疗疗效或成功保证。",
+  "applicability": [
+    "生活中AI如何辅助日程反思",
+    "过度工作后的作息安排",
+    "从情景到两段流程的生活文章"
+  ],
+  "material_preconditions": [
+    "实际熬夜场景和睡眠安排",
+    "个人判断而非诊断",
+    "可实行且保留睡眠总量的日程"
+  ],
+  "source_limits": [
+    "仅根据用户粘贴的公众号文本拆解；万赞由用户报告，未核验阅读、点赞或传播数据。",
+    "作者的个人经历、用户案例、经营结果属于 Ray 的自述，不能改成东头亲历或通用结果保证。",
+    "原文中的名言、统计数据和心理学解释尚未核验；只参考叙述组织，进入新文的事实需要另行核验。",
+    "不得把“熬夜重塑大脑”“早起365小时能成事”直接当已核验医学结论；健康内容需另行查证。",
+    "不能推荐以减少睡眠换取早起时间，不能忽略轮班、照护和疾病等具体限制。"
+  ],
+  "stages": [
+    {
+      "label": "先给熬夜一个新的解释",
+      "start_quote": "熬夜，是现代人对现代社会的逃亡时刻。",
+      "function": "用强解释句打开标题里的生活问题。",
+      "transition": "马上给读者熟悉的深夜手机场景。",
+      "mechanism": "情绪重新命名",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "作者限定的解释",
+        "被讨论的熬夜类型"
+      ],
+      "fail": [
+        "所有晚睡都被归为逃亡",
+        "先作心理诊断"
+      ],
+      "adaptation": "可写成“我有时不是不困，是舍不得结束今天”，保留主观范围。",
+      "id": "S01",
+      "pass": [
+        "后文场景支撑这一类解释",
+        "允许不同原因"
+      ],
+      "source_span": {
+        "start_character": 27,
+        "end_character": 63,
+        "percentage_start": 0.0,
+        "percentage_end": 1.7,
+        "sha256": "06319c5ac2aaac5ccd16fd2260eb9827d671bc9808f839be86ea06fbf5302fb3"
+      }
+    },
+    {
+      "label": "刻画不愿结束今天的夜间场景",
+      "start_quote": "深夜1点，明明困得要命，但就是不想放下手机，",
+      "function": "展示再刷五分钟变一小时，解释对未拥有今天的不甘心。",
+      "transition": "从夜晚残留需求追到白天的时间安排。",
+      "mechanism": "具体动作与内心解释",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "真实时间和行为",
+        "当事人的想法"
+      ],
+      "fail": [
+        "泛泛“你总熬夜”",
+        "替所有读者推定心理"
+      ],
+      "adaptation": "用东头真实一次晚睡经历或标明常见场景，不造个人作息。",
+      "id": "S02",
+      "pass": [
+        "场景可辨认",
+        "区分行为与作者解读"
+      ],
+      "source_span": {
+        "start_character": 63,
+        "end_character": 234,
+        "percentage_start": 1.7,
+        "percentage_end": 10.0,
+        "sha256": "06acd0dd8238d6f6db06c2ff80d10ddb7f56db0809b636aa05b475ba44031f20"
+      }
+    },
+    {
+      "label": "把夜间需求连回白天角色",
+      "start_quote": "白天，你的时间被别人安排得满满当当",
+      "function": "展开工作、家庭、社交占满白天，自我时间只剩深夜。",
+      "transition": "进一步解释为何独处被视为有意义。",
+      "mechanism": "昼夜因果的生活化展开",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "白天任务表",
+        "实际可调空间",
+        "不同责任的限制"
+      ],
+      "fail": [
+        "否定所有家庭责任或工作",
+        "把责任简单全砍掉"
+      ],
+      "adaptation": "可让AI帮助整理时间记录，调整可动的部分而非一律放弃。",
+      "id": "S03",
+      "pass": [
+        "读者看得见哪段时间被占据",
+        "承认不能随意取消的义务"
+      ],
+      "source_span": {
+        "start_character": 234,
+        "end_character": 518,
+        "percentage_start": 10.0,
+        "percentage_end": 23.8,
+        "sha256": "d9fd04d25745b5b8769d063daa95976d0dabdf75482e3075e8792c29febf4ae4"
+      }
+    },
+    {
+      "label": "用自我提问说明需求",
+      "start_quote": "我是谁？我想要什么？我和这个世界的关系是什么？",
+      "function": "用三问说明作者认为独处提供的自我感，继续展开夜晚自留地。",
+      "transition": "以“自由虚假”转向成本。",
+      "mechanism": "需求命名与生活意义",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "当事人独处需求",
+        "一段能恢复自我感的活动"
+      ],
+      "fail": [
+        "宏大生命词堆积",
+        "把晚睡的意义当合理化理由"
+      ],
+      "adaptation": "收束到“我今天需要一段自己选择的时间”。",
+      "id": "S04",
+      "pass": [
+        "需求能落到一项可安排活动",
+        "自然引向换一种满足方式"
+      ],
+      "source_span": {
+        "start_character": 518,
+        "end_character": 1021,
+        "percentage_start": 23.8,
+        "percentage_end": 48.2,
+        "sha256": "69742e23da4305b63cf0ee6b7c11cbd55a311f8c56729f9753ff9cdbddd77089"
+      }
+    },
+    {
+      "label": "展示困倦如何改变任务选择",
+      "start_quote": "犯困的时候，无论我做什么事，",
+      "function": "用作者会赶着做完的经历，说明质量被速度替代，再扩展到长期选择。",
+      "transition": "从成本论证转入重排生活。",
+      "mechanism": "亲历微小决策与累积后果",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "真实一次犯困任务",
+        "可观察的质量差异",
+        "核验过的健康资料如采用"
+      ],
+      "fail": [
+        "把未来人生偏离写成必然",
+        "伪造东头疲惫经历"
+      ],
+      "adaptation": "AI工作可讲困倦时不检查结果的实际问题，不宣称单晚晚睡必然失误。",
+      "id": "S05",
+      "pass": [
+        "至少一个具体决策前后变化",
+        "医学部分有边界"
+      ],
+      "source_span": {
+        "start_character": 1021,
+        "end_character": 1303,
+        "percentage_start": 48.2,
+        "percentage_end": 61.9,
+        "sha256": "e2c2913196c7cf9e3dba6cc3defb4ffc824fc8f8afe6e4b7bb5863f08a2d615f"
+      }
+    },
+    {
+      "label": "明确调整对象是白天与系统",
+      "start_quote": "如何早睡，不是强制安排自己睡觉，",
+      "function": "提出先找回白天意义感，而非只靠强制入睡。",
+      "transition": "让白天清单先落地。",
+      "mechanism": "解法对象转换",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "可调整的白天安排",
+        "合理目标",
+        "个体限制"
+      ],
+      "fail": [
+        "把作息问题全部变成意志选择",
+        "保证人人能立刻早睡"
+      ],
+      "adaptation": "将本篇定义为可试的安排建议，不替代医学处理。",
+      "id": "S06",
+      "pass": [
+        "解释为何要安排白天",
+        "目标符合现实条件"
+      ],
+      "source_span": {
+        "start_character": 1303,
+        "end_character": 1344,
+        "percentage_start": 61.9,
+        "percentage_end": 63.9,
+        "sha256": "464f15b1b92905d4af56e5e268f07882b8941de465dbb7a53c417d6d3590032b"
+      }
+    },
+    {
+      "label": "用时间清单腾出自我时段",
+      "start_quote": "1. 重新梳理白天的生活",
+      "function": "通过流失、开心时刻、三十分钟三问，让读者列任务和标记意义。",
+      "transition": "再衔接睡前降噪和次日晨间。",
+      "mechanism": "清单诊断与微小时段",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "一天真实记录",
+        "必要与可调标记",
+        "一段可行的自我时间"
+      ],
+      "fail": [
+        "让读者放弃全部无意义但必要义务",
+        "没有可执行时间"
+      ],
+      "adaptation": "AI可辅助归类和提醒，决定权仍归人，不把判断外包给AI。",
+      "id": "S07",
+      "pass": [
+        "分类考虑义务",
+        "安排一项具体活动和时段"
+      ],
+      "source_span": {
+        "start_character": 1344,
+        "end_character": 1610,
+        "percentage_start": 63.9,
+        "percentage_end": 76.8,
+        "sha256": "76d7546b880ef1c6e9362ee21ceba547b570f197ccf8e678841c32c0efbee6c8"
+      }
+    },
+    {
+      "label": "连起睡前流程与次日安排",
+      "start_quote": "2. 搭建自己的早睡早起系统",
+      "function": "给出离开手机、轻活动、书写等例子，再把晨间用于个人目标。",
+      "transition": "由流程回到未来承诺。",
+      "mechanism": "前后时段串联",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "适合个人的睡前动作",
+        "足够睡眠时长",
+        "起床后具体任务"
+      ],
+      "fail": [
+        "早起却少睡一小时",
+        "把老板早起当科学证明"
+      ],
+      "adaptation": "只在睡眠足够基础上安排晨间；生活AI建议需可手动改。",
+      "id": "S08",
+      "pass": [
+        "睡前与晨间动作一致",
+        "不靠少睡获取时间"
+      ],
+      "source_span": {
+        "start_character": 1610,
+        "end_character": 2046,
+        "percentage_start": 76.8,
+        "percentage_end": 98.0,
+        "sha256": "b33a19723a26a061a3c688b30a49a12509dca79c4c8faa7f46c9f084be213bf5"
+      }
+    },
+    {
+      "label": "以掌控白天回扣夜间归宿",
+      "start_quote": "熬夜是逃亡，早睡是重建。",
+      "function": "用开头比喻回扣结束，并邀请今晚做一次调整。",
+      "transition": "让白天安排而非单纯意志完成论点。",
+      "mechanism": "首尾回环和小行动",
+      "requirement": "core",
+      "condition": "",
+      "materials": [
+        "今晚可做动作",
+        "前面安排清单"
+      ],
+      "fail": [
+        "宣称一小时必能改变命运",
+        "只喊今晚必须早睡"
+      ],
+      "adaptation": "以试一周记录感受收尾，不承诺收入、疗效或人生必然变化。",
+      "id": "S09",
+      "pass": [
+        "行动范围明确",
+        "回扣白天与夜晚关系"
+      ],
+      "source_span": {
+        "start_character": 2046,
+        "end_character": 2088,
+        "percentage_start": 98.0,
+        "percentage_end": 100.0,
+        "sha256": "126983cc6dc7159c02f51294d71c08abed327662fe1ffe6cd464b7927533da3e"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "读者能认出深夜手机场景，并理解文章将讨论未拥有的白天。",
+      "stage_ids": [
+        "S01",
+        "S02"
+      ],
+      "evidence_needed": [
+        "时间动作细节",
+        "改善范围"
+      ],
+      "failure": "危言改命，无具体日常问题。"
+    },
+    "understandable": {
+      "criterion": "昼夜关联通过时间表与困倦决策讲清楚。",
+      "stage_ids": [
+        "S03",
+        "S04",
+        "S05"
+      ],
+      "evidence_needed": [
+        "白天记录",
+        "任务选择例子"
+      ],
+      "failure": "只堆自我感和大脑机制。"
+    },
+    "credible": {
+      "criterion": "作息经历真实，心理和医学主张限定或核验。",
+      "stage_ids": [
+        "S02",
+        "S05",
+        "S08"
+      ],
+      "evidence_needed": [
+        "经历主体",
+        "医学来源若使用",
+        "充足睡眠前提"
+      ],
+      "failure": "把早起必然成功当证据。"
+    },
+    "fulfilled": {
+      "criterion": "读者能安排白天自我时段和适合自己的睡前动作。",
+      "stage_ids": [
+        "S06",
+        "S07",
+        "S08",
+        "S09"
+      ],
+      "evidence_needed": [
+        "两段流程",
+        "现实约束",
+        "可试目标"
+      ],
+      "failure": "只有早睡号召或以少睡来换时间。"
+    },
+    "structure": {
+      "criterion": "夜间不甘、白天占用、实际代价、两段解法、回环结尾均有功能。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08",
+        "S09"
+      ],
+      "evidence_needed": [
+        "需求与动作对应",
+        "前后时段衔接"
+      ],
+      "failure": "睡前建议与前面需求无关。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "夜间场景连接白天时间分配",
+      "成本通过实际任务选择展示",
+      "白天和睡前两段方法都回应需求"
+    ],
+    "adjustable": [
+      "时间参数按个人调整",
+      "比喻力度",
+      "晨间安排可删除"
+    ],
+    "fill_before_writing": [
+      "东头真实生活场景",
+      "读者客观责任与作息限制",
+      "保持睡眠时长的可行流程"
+    ]
+  },
+  "summary": "可学习的是夜间行为—白天需求—具体决策—两段安排的闭环，不能复用医学强因果或减少睡眠的效率逻辑。",
+  "tags": [
+    "公众号",
+    "生活场景",
+    "作息",
+    "日夜闭环",
+    "自我提问"
+  ],
+  "useful_modules": [
+    "structure",
+    "opening",
+    "explanation",
+    "experience"
+  ],
+  "methods": {
+    "structure": {
+      "quote": "如何早睡，不是强制安排自己睡觉，而是重新安排白天的生活，",
+      "observation": "把解法从夜间控制推回白天需求，再形成昼夜配合。",
+      "adaptation": "找出表面行为背后的未满足需求，并设计两段衔接安排。",
+      "limit": "只参考问题重构，不当医疗成因结论。"
+    },
+    "opening": {
+      "quote": "深夜1点，明明困得要命，但就是不想放下手机，",
+      "observation": "时间、身体感受与动作组成可认出的场景。",
+      "adaptation": "开头呈现一次真实的工具使用或工作拖延瞬间。",
+      "limit": "不得杜撰东头的生活作息。"
+    },
+    "explanation": {
+      "quote": "本来做一件事，「质量」才是核心指标，但因为犯困，「速度」成为了核心指标。",
+      "observation": "用任务决策标准的变化解释疲惫成本。",
+      "adaptation": "用具体质量检查行为示范影响，而不是抽象脑科学。",
+      "limit": "这是一种个人观察，不能推断所有人医学机制。"
+    },
+    "experience": {
+      "quote": "犯困的时候，无论我做什么事，",
+      "observation": "作者借自身赶着做完的行动撑起代价论。",
+      "adaptation": "向东头收集真实“当时怎么选、结果怎样”的经历。",
+      "limit": "无法确认经历时只能用第三人称例子并标明假设。"
+    }
+  },
+  "source_path": "raw/sample-51.txt",
+  "source_sha256": "e538ad0e312e87893efd9a9007cbbd861a4999c6d3fe710c2246d0c32223bd60",
+  "body_start_character": 27,
+  "body_end_character": 2088,
+  "source_group": "ray-wechat-2026-10-07",
+  "submitted_number": "25",
+  "source_completeness": "as_submitted",
+  "source_defect_notes": [],
+  "full_structure_reference": true,
+  "opening_reference": true,
+  "allowed_usage": [
+    "selected_structure",
+    "local_method"
+  ]
+}

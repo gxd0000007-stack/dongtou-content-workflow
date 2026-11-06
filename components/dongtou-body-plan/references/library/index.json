@@ -1,0 +1,2554 @@
+{
+  "schema_version": 2,
+  "scope": "用户提供的25篇小红书文稿与33篇Ray公众号文字；含两篇缺前文片段；方法参考，不是统一作者DNA",
+  "entries": [
+    {
+      "id": "sample-01",
+      "number": 1,
+      "title": "一个近乎偏执但能让你拥有恐怖执行力的顶级思维：当一个时间赌徒",
+      "title_status": "用户提供；未核对视频标题",
+      "raw_path": "raw/sample-01.txt",
+      "raw_sha256": "d83fcd747ae81e865eabc098e61941b86023c3373219edd56a38ca64f97ca001",
+      "characters": 1114,
+      "received_at": "2026-10-04T09:05:14.887Z",
+      "author": null,
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称这些文稿来自万赞小红书视频；未独立核验"
+      },
+      "modality": {
+        "transcript": "user_supplied",
+        "video": "not_supplied",
+        "images": "not_supplied"
+      },
+      "body_start_character": 46,
+      "card_path": "cards/sample-01.md",
+      "summary": "概念定义、理由与行动分层，效果承诺需收窄",
+      "tags": [
+        "概念解释",
+        "行动方案",
+        "阶段投入"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation"
+      ]
+    },
+    {
+      "id": "sample-02",
+      "number": 2,
+      "title": "顶级自律，压根不靠靠意志力",
+      "title_status": "用户提供；未核对视频标题",
+      "raw_path": "raw/sample-02.txt",
+      "raw_sha256": "79eab311bd8d70e4779698ccebc6bb96c341b4e7627b711e1ae580bb43004bcd",
+      "characters": 834,
+      "received_at": "2026-10-04T09:05:14.887Z",
+      "author": null,
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称这些文稿来自万赞小红书视频；未独立核验"
+      },
+      "modality": {
+        "transcript": "user_supplied",
+        "video": "not_supplied",
+        "images": "not_supplied"
+      },
+      "body_start_character": 30,
+      "card_path": "cards/sample-02.md",
+      "summary": "反常识判断落到当日小动作，不沿用羞辱与绝对因果",
+      "tags": [
+        "反常识",
+        "任务拆小",
+        "目标动作"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation"
+      ]
+    },
+    {
+      "id": "sample-03",
+      "number": 3,
+      "title": "315曝光的AI投毒，到底是啥?",
+      "title_status": "用户提供；未核对视频标题",
+      "raw_path": "raw/sample-03.txt",
+      "raw_sha256": "60e23637f3172bf64f98eae005b69acb5b99fb53b8efd586e2129b60f964d358",
+      "characters": 2277,
+      "received_at": "2026-10-04T09:05:14.887Z",
+      "author": null,
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称这些文稿来自万赞小红书视频；未独立核验"
+      },
+      "modality": {
+        "transcript": "user_supplied",
+        "video": "not_supplied",
+        "images": "not_supplied"
+      },
+      "body_start_character": 31,
+      "card_path": "cards/sample-03.md",
+      "summary": "事件和实验引出机制与防范，实验与科学主张保持来源边界",
+      "tags": [
+        "AI科普",
+        "风险解释",
+        "实验复盘"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ]
+    },
+    {
+      "id": "sample-04",
+      "number": 4,
+      "title": "如何安稳度过二十几岁焦虑的“Odyssey时期”？",
+      "title_status": "用户提供；未核对视频标题",
+      "raw_path": "raw/sample-04.txt",
+      "raw_sha256": "0148d62051c0514f8f05d5ad02c648c8ae78601ef97625472f2105c51938b290",
+      "characters": 2857,
+      "received_at": "2026-10-04T09:05:14.887Z",
+      "author": null,
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称这些文稿来自万赞小红书视频；未独立核验"
+      },
+      "modality": {
+        "transcript": "user_supplied",
+        "video": "not_supplied",
+        "images": "not_supplied"
+      },
+      "body_start_character": 40,
+      "card_path": "cards/sample-04.md",
+      "summary": "年龄困境、个人选择与建议相连，用同题对照解释抽象价值",
+      "tags": [
+        "情绪共鸣",
+        "选择复盘",
+        "概念对照"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ]
+    },
+    {
+      "id": "sample-05",
+      "number": 5,
+      "title": "最好的工作，是终身学习后的自由表达",
+      "title_status": "用户提供；未核对视频标题",
+      "raw_path": "raw/sample-05.txt",
+      "raw_sha256": "57266c966d2a22ebc5897cfedf740f5c742f9dc64aaa1ea3439a0eba67538941",
+      "characters": 2446,
+      "received_at": "2026-10-04T09:05:14.887Z",
+      "author": null,
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称这些文稿来自万赞小红书视频；未独立核验"
+      },
+      "modality": {
+        "transcript": "user_supplied",
+        "video": "not_supplied",
+        "images": "not_supplied"
+      },
+      "body_start_character": 32,
+      "card_path": "cards/sample-05.md",
+      "summary": "从新手踩坑到理解用户，再把经验变为教学表达",
+      "tags": [
+        "新手教学",
+        "成长复盘",
+        "具体动作"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ]
+    },
+    {
+      "id": "sample-06",
+      "number": 6,
+      "title": "专注力差的人，可以改掉这3个坏习惯",
+      "title_status": "用户提供；未核对视频标题",
+      "raw_path": "raw/sample-06.txt",
+      "raw_sha256": "58887760560f71bd2ec07266eaeb8239fc9cf072d91a441f74036068556516c7",
+      "characters": 1186,
+      "received_at": "2026-10-04T09:05:14.887Z",
+      "author": null,
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称这些文稿来自万赞小红书视频；未独立核验"
+      },
+      "modality": {
+        "transcript": "user_supplied",
+        "video": "not_supplied",
+        "images": "not_supplied"
+      },
+      "body_start_character": 32,
+      "card_path": "cards/sample-06.md",
+      "summary": "习惯困难、实际动作与启动串联，广告材料单列",
+      "tags": [
+        "习惯方法",
+        "任务启动",
+        "广告区分"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ]
+    },
+    {
+      "id": "sample-07",
+      "number": 7,
+      "title": "心气是什么? 如何欺骗前额吐提升执行",
+      "title_status": "用户提供；未核对视频标题",
+      "raw_path": "raw/sample-07.txt",
+      "raw_sha256": "575fa85b6b2f2a711f879e18908e1ea12665778e626e5e27f337a979e70b99f6",
+      "characters": 1292,
+      "received_at": "2026-10-04T09:05:14.887Z",
+      "author": null,
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称这些文稿来自万赞小红书视频；未独立核验"
+      },
+      "modality": {
+        "transcript": "user_supplied",
+        "video": "not_supplied",
+        "images": "not_supplied"
+      },
+      "body_start_character": 33,
+      "card_path": "cards/sample-07.md",
+      "summary": "以概念区分和最小起点组织说明，医学机制不迁移",
+      "tags": [
+        "概念区分",
+        "最小动作",
+        "医学边界"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ]
+    },
+    {
+      "id": "sample-08",
+      "number": 8,
+      "title": "详细教程|如何把Gemini生成的App装到手机",
+      "title_status": "用户提供；未核对视频标题",
+      "raw_path": "raw/sample-08.txt",
+      "raw_sha256": "91a453e80b7678ca62a38a6c77618c9326e38c45b624e64192fa56395d396ce1",
+      "characters": 1449,
+      "received_at": "2026-10-04T09:05:14.887Z",
+      "author": null,
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称这些文稿来自万赞小红书视频；未独立核验"
+      },
+      "modality": {
+        "transcript": "user_supplied",
+        "video": "not_supplied",
+        "images": "not_supplied"
+      },
+      "body_start_character": 39,
+      "card_path": "cards/sample-08.md",
+      "summary": "先展示可用结果再分层教学，用熟悉体验解释PWA差异",
+      "tags": [
+        "操作教程",
+        "结果检查",
+        "分层解释"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ]
+    },
+    {
+      "id": "sample-09",
+      "number": 9,
+      "title": "亲测可用|如何本地部署openclaw 保姆级教程",
+      "title_status": "用户提供；未核对视频标题",
+      "raw_path": "raw/sample-09.txt",
+      "raw_sha256": "572edc4d0dbd9e7848c9de0b39b3b534598915663cc92085f5c41faeedfeb8fb",
+      "characters": 2176,
+      "received_at": "2026-10-04T09:05:14.887Z",
+      "author": null,
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称这些文稿来自万赞小红书视频；未独立核验"
+      },
+      "modality": {
+        "transcript": "user_supplied",
+        "video": "not_supplied",
+        "images": "not_supplied"
+      },
+      "body_start_character": 40,
+      "card_path": "cards/sample-09.md",
+      "summary": "依赖顺序、环境条件与阶段状态帮助新手跟进多工具操作",
+      "tags": [
+        "多工具教程",
+        "状态检查",
+        "环境条件"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ]
+    },
+    {
+      "id": "sample-10",
+      "number": 10,
+      "title": "一年涨粉20W🔥用AI做小红书真的太牛了！",
+      "title_status": "用户提供；未核对视频标题",
+      "raw_path": "raw/sample-10.txt",
+      "raw_sha256": "5e8fae474372459c4dee78c1ef92ad4bb00d914ced667922a95e97326ab60892",
+      "characters": 680,
+      "received_at": "2026-10-04T09:05:14.887Z",
+      "author": null,
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称这些文稿来自万赞小红书视频；未独立核验"
+      },
+      "modality": {
+        "transcript": "user_supplied",
+        "video": "not_supplied",
+        "images": "not_supplied"
+      },
+      "body_start_character": 36,
+      "card_path": "cards/sample-10.md",
+      "summary": "从输入信息到AI任务，结果反差不等于可复制增长保证",
+      "tags": [
+        "AI自媒体",
+        "输入清单",
+        "结果反差"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ]
+    },
+    {
+      "id": "sample-11",
+      "number": 11,
+      "title": "AI使用分享｜我如何用AI做出涨粉1.5万的爆款",
+      "title_status": "用户提供；未核对视频标题",
+      "raw_path": "raw/sample-11.txt",
+      "raw_sha256": "ccc4073e8e741002b420966d71ee4659f8596a636cca4aed02d11ea05a307e63",
+      "characters": 1011,
+      "received_at": "2026-10-04T09:05:14.887Z",
+      "author": null,
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称这些文稿来自万赞小红书视频；未独立核验"
+      },
+      "modality": {
+        "transcript": "user_supplied",
+        "video": "not_supplied",
+        "images": "not_supplied"
+      },
+      "body_start_character": 39,
+      "card_path": "cards/sample-11.md",
+      "summary": "结果吸引、适用条件、材料输入与多轮修改形成真实过程讲法",
+      "tags": [
+        "AI复盘",
+        "适用条件",
+        "修改记录"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ]
+    },
+    {
+      "id": "sample-12",
+      "number": 12,
+      "title": "其实大家都知道你是被针对的，但是他们不会帮你",
+      "title_status": "用户提供；未核对视频标题",
+      "raw_path": "raw/sample-12.txt",
+      "raw_sha256": "407f2e96294947f1210a3d7c4a6ee1bd6162c7db7cecb7b4914bf52471ba0c1b",
+      "characters": 1173,
+      "received_at": "2026-10-04T09:05:14.887Z",
+      "author": null,
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称这些文稿来自万赞小红书视频；未独立核验"
+      },
+      "modality": {
+        "transcript": "user_supplied",
+        "video": "not_supplied",
+        "images": "not_supplied"
+      },
+      "body_start_character": 43,
+      "card_path": "cards/sample-12.md",
+      "summary": "情境逐步升级后给具体动作，避免猜测所有旁观者动机",
+      "tags": [
+        "职场情境",
+        "边界动作",
+        "场景递进"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation"
+      ]
+    },
+    {
+      "id": "sample-13",
+      "number": 13,
+      "title": "升职加薪的真相，掰开揉碎一次性给你拆解清楚",
+      "title_status": "用户提供；未核对视频标题",
+      "raw_path": "raw/sample-13.txt",
+      "raw_sha256": "f100219000f2f03e12f37696d522c755a845feddf1838ccd0c7202f033ddbf55",
+      "characters": 4315,
+      "received_at": "2026-10-04T09:05:14.887Z",
+      "author": null,
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称这些文稿来自万赞小红书视频；未独立核验"
+      },
+      "modality": {
+        "transcript": "user_supplied",
+        "video": "not_supplied",
+        "images": "not_supplied"
+      },
+      "body_start_character": 36,
+      "card_path": "cards/sample-13.md",
+      "summary": "通过职责和行为对照解释评价标准，假设案例不充亲历",
+      "tags": [
+        "角色对照",
+        "工作汇报",
+        "假设案例"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation"
+      ]
+    },
+    {
+      "id": "sample-14",
+      "number": 14,
+      "title": "关于情绪健康，普通人需要知道的一切（还是干",
+      "title_status": "用户提供；未核对视频标题",
+      "raw_path": "raw/sample-14.txt",
+      "raw_sha256": "c8fec5a858d035dfadcb3af54195781cce9d2bff4cd5f2c25392a8015c3ce44a",
+      "characters": 5531,
+      "received_at": "2026-10-04T09:23:37.985Z",
+      "author": null,
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称这些文稿来自万赞小红书视频；未独立核验"
+      },
+      "modality": {
+        "transcript": "user_supplied",
+        "video": "not_supplied",
+        "images": "not_supplied"
+      },
+      "body_start_character": 35,
+      "card_path": "cards/sample-14.md",
+      "summary": "先给章节地图，再用类比说明机制、误区与分阶段方法。",
+      "tags": [
+        "系统课",
+        "章节地图",
+        "类比解释",
+        "阅读投入"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation"
+      ]
+    },
+    {
+      "id": "sample-15",
+      "number": 15,
+      "title": "AI时代，你到底该如何提升自己？",
+      "title_status": "用户提供；未核对视频标题",
+      "raw_path": "raw/sample-15.txt",
+      "raw_sha256": "071d36a016c34e1b44cd3b8a082aab3ceb1c3901b4f60d3ef254dabfc3263daa",
+      "characters": 1885,
+      "received_at": "2026-10-04T09:23:37.985Z",
+      "author": null,
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称这些文稿来自万赞小红书视频；未独立核验"
+      },
+      "modality": {
+        "transcript": "user_supplied",
+        "video": "not_supplied",
+        "images": "not_supplied"
+      },
+      "body_start_character": 31,
+      "card_path": "cards/sample-15.md",
+      "summary": "围绕三组困惑，用判断方法和实际任务说明怎样提升自己。",
+      "tags": [
+        "认知澄清",
+        "问题对应",
+        "概念翻译",
+        "AI学习"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation"
+      ]
+    },
+    {
+      "id": "sample-16",
+      "number": 16,
+      "title": "howto | Github 零基础终极教程！",
+      "title_status": "用户提供；未核对视频标题",
+      "raw_path": "raw/sample-16.txt",
+      "raw_sha256": "200bb146df290e171103e89d628e23a5ad14e705e293ce514ea0e9a382a9116c",
+      "characters": 14451,
+      "received_at": "2026-10-04T09:23:37.985Z",
+      "author": null,
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称这些文稿来自万赞小红书视频；未独立核验"
+      },
+      "modality": {
+        "transcript": "user_supplied",
+        "video": "not_supplied",
+        "images": "not_supplied"
+      },
+      "body_start_character": 38,
+      "card_path": "cards/sample-16.md",
+      "summary": "沿找到、看懂、用上、发布的路径组织零基础工具教学。",
+      "tags": [
+        "零基础教程",
+        "用途比较",
+        "阶段小结",
+        "结果回看"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ]
+    },
+    {
+      "id": "sample-17",
+      "number": 17,
+      "title": "Codex的10个用法｜小白入门教程",
+      "title_status": "用户提供；未核对视频标题",
+      "raw_path": "raw/sample-17.txt",
+      "raw_sha256": "13f60f797c9ced3acafa228d43e260d1926f73d55075b7e83a5e5b652a2f5fa5",
+      "characters": 4528,
+      "received_at": "2026-10-04T09:23:37.985Z",
+      "author": null,
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称这些文稿来自万赞小红书视频；未独立核验"
+      },
+      "modality": {
+        "transcript": "user_supplied",
+        "video": "not_supplied",
+        "images": "not_supplied"
+      },
+      "body_start_character": 33,
+      "card_path": "cards/sample-17.md",
+      "summary": "先展示完成任务，再逐项讲用途、操作、结果与修改。",
+      "tags": [
+        "工具用法",
+        "结果展示",
+        "工作场景",
+        "修改过程"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ]
+    },
+    {
+      "id": "sample-18",
+      "number": 18,
+      "title": "哇，这个时代会AI天上真的能掉馅饼！",
+      "title_status": "用户提供；未核对视频标题",
+      "raw_path": "raw/sample-18.txt",
+      "raw_sha256": "5fe4294d92c3ecf1f472e1a952e729480d1e03f7dc1bfd0b1b9d90cba04ccd15",
+      "characters": 1679,
+      "received_at": "2026-10-04T09:23:37.985Z",
+      "author": null,
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称这些文稿来自万赞小红书视频；未独立核验"
+      },
+      "modality": {
+        "transcript": "user_supplied",
+        "video": "not_supplied",
+        "images": "not_supplied"
+      },
+      "body_start_character": 33,
+      "card_path": "cards/sample-18.md",
+      "summary": "用两件个人意外收获，交代发生过程与渠道，再讨论价值。",
+      "tags": [
+        "经历分享",
+        "双事件",
+        "具体收益",
+        "渠道过程"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ]
+    },
+    {
+      "id": "sample-19",
+      "number": 19,
+      "title": "3 分钟教会你从 0 到 1 找到属于自己的生意",
+      "title_status": "用户提供；未核对视频标题",
+      "raw_path": "raw/sample-19.txt",
+      "raw_sha256": "512facfd5f7f69d2cd1a4b7747dfe02b89f8178c0c949d0ea039915a053ae972",
+      "characters": 3713,
+      "received_at": "2026-10-04T09:23:37.985Z",
+      "author": null,
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称这些文稿来自万赞小红书视频；未独立核验"
+      },
+      "modality": {
+        "transcript": "user_supplied",
+        "video": "not_supplied",
+        "images": "not_supplied"
+      },
+      "body_start_character": 39,
+      "card_path": "cards/sample-19.md",
+      "summary": "把复杂选择变成表格栏目、条件和排序，再用踩坑修正判断。",
+      "tags": [
+        "表格方法",
+        "比较选择",
+        "条件限制",
+        "失败复盘"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ]
+    },
+    {
+      "id": "sample-20",
+      "number": 20,
+      "title": "赚不到钱是因为上班上多了｜区分手段与目的",
+      "title_status": "用户提供；未核对视频标题",
+      "raw_path": "raw/sample-20.txt",
+      "raw_sha256": "b9cfa76f73092bbd83454d846ba14316c08cd107bbc152a804596a6413dee4e9",
+      "characters": 3324,
+      "received_at": "2026-10-04T09:23:37.985Z",
+      "author": null,
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称这些文稿来自万赞小红书视频；未独立核验"
+      },
+      "modality": {
+        "transcript": "user_supplied",
+        "video": "not_supplied",
+        "images": "not_supplied"
+      },
+      "body_start_character": 35,
+      "card_path": "cards/sample-20.md",
+      "summary": "用相反思考顺序和熟悉例子，解释目的与手段的区别。",
+      "tags": [
+        "对比解释",
+        "认知反差",
+        "问题重述",
+        "商业思路"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ]
+    },
+    {
+      "id": "sample-21",
+      "number": 21,
+      "title": "厌蠢会真的会让你少赚很多钱……",
+      "title_status": "用户提供；未核对视频标题",
+      "raw_path": "raw/sample-21.txt",
+      "raw_sha256": "73f414a6b506669a3127745962fb53c83d32ad253efe3a65bba41b1ae39641f1",
+      "characters": 1262,
+      "received_at": "2026-10-04T09:23:37.985Z",
+      "author": null,
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称这些文稿来自万赞小红书视频；未独立核验"
+      },
+      "modality": {
+        "transcript": "user_supplied",
+        "video": "not_supplied",
+        "images": "not_supplied"
+      },
+      "body_start_character": 30,
+      "card_path": "cards/sample-21.md",
+      "summary": "从自己的误判和环境变化，讲到理解新手与实际调整。",
+      "tags": [
+        "新手起点",
+        "误判复盘",
+        "换位解释",
+        "服务动作"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ]
+    },
+    {
+      "id": "sample-22",
+      "number": 22,
+      "title": "女生尽早掌握生产资料，最可行的办法",
+      "title_status": "用户提供；未核对视频标题",
+      "raw_path": "raw/sample-22.txt",
+      "raw_sha256": "743f37a6983489c87bd2ff08be0d085168f2907cf89d61b6905eb8dcd4cf8393",
+      "characters": 1691,
+      "received_at": "2026-10-04T09:23:37.985Z",
+      "author": null,
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称这些文稿来自万赞小红书视频；未独立核验"
+      },
+      "modality": {
+        "transcript": "user_supplied",
+        "video": "not_supplied",
+        "images": "not_supplied"
+      },
+      "body_start_character": 34,
+      "card_path": "cards/sample-22.md",
+      "summary": "按准备、验证、规划与执行，把方向拆成有目的的步骤。",
+      "tags": [
+        "行动清单",
+        "前提检查",
+        "贯穿例子",
+        "创业准备"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation"
+      ]
+    },
+    {
+      "id": "sample-23",
+      "number": 23,
+      "title": "黄金十年系统掌握生产资料拥有能带走的资产",
+      "title_status": "用户提供；未核对视频标题",
+      "raw_path": "raw/sample-23.txt",
+      "raw_sha256": "01565a947f93a26797d862eb83fbce8be4211749d42c64ca5ec8e9739df914dc",
+      "characters": 1464,
+      "received_at": "2026-10-04T09:23:37.985Z",
+      "author": null,
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称这些文稿来自万赞小红书视频；未独立核验"
+      },
+      "modality": {
+        "transcript": "user_supplied",
+        "video": "not_supplied",
+        "images": "not_supplied"
+      },
+      "body_start_character": 35,
+      "card_path": "cards/sample-23.md",
+      "summary": "用会什么、给谁和怎么呈现三问，把经验讲成可使用的方法。",
+      "tags": [
+        "能力整理",
+        "三问结构",
+        "具体成果",
+        "需求观察"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ]
+    },
+    {
+      "id": "sample-24",
+      "number": 24,
+      "title": "身弱女生一定要掌握的系统赚钱方法",
+      "title_status": "用户提供；未核对视频标题",
+      "raw_path": "raw/sample-24.txt",
+      "raw_sha256": "e09620f6e7f168d997e74a92db061e0c4766e85a4a44eeb911a4e288e1346cfa",
+      "characters": 1221,
+      "received_at": "2026-10-04T09:23:37.985Z",
+      "author": null,
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称这些文稿来自万赞小红书视频；未独立核验"
+      },
+      "modality": {
+        "transcript": "user_supplied",
+        "video": "not_supplied",
+        "images": "not_supplied"
+      },
+      "body_start_character": 31,
+      "card_path": "cards/sample-24.md",
+      "summary": "从具体处境引入限制条件，再讲工作安排、观察与尝试。",
+      "tags": [
+        "处境识别",
+        "工作节奏",
+        "需求观察",
+        "经历转化"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ]
+    },
+    {
+      "id": "sample-25",
+      "number": 25,
+      "title": "女生尽早掌握生产资料，最可行的办法（二）",
+      "title_status": "用户提供；未核对视频标题",
+      "raw_path": "raw/sample-25.txt",
+      "raw_sha256": "33d648319fe3c704492e27daff309fca57d41609a3ad11dee78bdba8c2cff7b0",
+      "characters": 2070,
+      "received_at": "2026-10-04T09:23:37.985Z",
+      "author": null,
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称这些文稿来自万赞小红书视频；未独立核验"
+      },
+      "modality": {
+        "transcript": "user_supplied",
+        "video": "not_supplied",
+        "images": "not_supplied"
+      },
+      "body_start_character": 35,
+      "card_path": "cards/sample-25.md",
+      "summary": "每一阶段配检查问题，用同一业务例子串联不同职责。",
+      "tags": [
+        "阶段清单",
+        "检查问题",
+        "贯穿例子",
+        "条件说明"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation"
+      ]
+    },
+    {
+      "id": "sample-26",
+      "number": 26,
+      "title": "辞职2年我才明白，为什么年轻人都不想上班了...",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-26.txt",
+      "raw_sha256": "cd66aaf6c28106c32eed300fc6c3f31c316c828a186c0b10c38e95f94b2ee62c",
+      "characters": 2001,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 44,
+      "body_end_character": 2001,
+      "card_path": "cards/sample-26.md",
+      "summary": "从贡献与回报的反差，经个人经历和系统解释，走到可填的市场准备问题。",
+      "tags": [
+        "公众号",
+        "第一人称判断",
+        "职场转型",
+        "系统对照",
+        "价值可见度"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "01",
+      "source_completeness": "as_submitted",
+      "source_defect_notes": [],
+      "full_structure_reference": true,
+      "opening_reference": true,
+      "allowed_usage": [
+        "selected_structure",
+        "local_method"
+      ]
+    },
+    {
+      "id": "sample-27",
+      "number": 27,
+      "title": "没有家庭托举的普通人，一生只有一个主线任务",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-27.txt",
+      "raw_sha256": "164e6727788c4f5aff628395d8bf3fdb1f5dd6c908702c0f1ea49877ee493960",
+      "characters": 2571,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 39,
+      "body_end_character": 2571,
+      "card_path": "cards/sample-27.md",
+      "summary": "承认不敢失败与输不起两层约束，把试错从口号变成方案条件和最小动作。",
+      "tags": [
+        "公众号",
+        "试错",
+        "准备过度",
+        "小白启动",
+        "低成本验证"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "02",
+      "source_completeness": "as_submitted",
+      "source_defect_notes": [],
+      "full_structure_reference": true,
+      "opening_reference": true,
+      "allowed_usage": [
+        "selected_structure",
+        "local_method"
+      ]
+    },
+    {
+      "id": "sample-28",
+      "number": 28,
+      "title": "很多单位其实已经烂透了......",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-28.txt",
+      "raw_sha256": "d3b72bb1a345e6eb565f807edee4e31714c30159f34d0af464790896156a6e34",
+      "characters": 2374,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 37,
+      "body_end_character": 2374,
+      "card_path": "cards/sample-28.md",
+      "summary": "由小团队与大组织的体验反差，经旧功能和新工具解释，转到个人能力的小规模验证。",
+      "tags": [
+        "公众号",
+        "组织协作",
+        "AI杠杆",
+        "个人节点",
+        "趋势判断"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "03",
+      "source_completeness": "as_submitted",
+      "source_defect_notes": [],
+      "full_structure_reference": true,
+      "opening_reference": true,
+      "allowed_usage": [
+        "selected_structure",
+        "local_method"
+      ]
+    },
+    {
+      "id": "sample-29",
+      "number": 29,
+      "title": "一定要学会辨别身边成长极快的人",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-29.txt",
+      "raw_sha256": "ec70a817bb5861589358be71b5bc1c1d2ecc5186d02b210c1a13483ffe84384a",
+      "characters": 2204,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 35,
+      "body_end_character": 2204,
+      "card_path": "cards/sample-29.md",
+      "summary": "把佩服高手转成可观察的过程问题、两条选人标准与一次试用。",
+      "tags": [
+        "公众号",
+        "对标",
+        "方法拆解",
+        "学习对象",
+        "第一人称复盘"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "04",
+      "source_completeness": "as_submitted",
+      "source_defect_notes": [],
+      "full_structure_reference": true,
+      "opening_reference": true,
+      "allowed_usage": [
+        "selected_structure",
+        "local_method"
+      ]
+    },
+    {
+      "id": "sample-30",
+      "number": 30,
+      "title": "接下来，最香的工作是成为个体户？？？",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-30.txt",
+      "raw_sha256": "6f25c6f0e82387155fad518cef4468b01894d3d26f1eaebb74ce3e51d5f3b004",
+      "characters": 2182,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 36,
+      "body_end_character": 2182,
+      "card_path": "cards/sample-30.md",
+      "summary": "用自己工作环境的效率反差和AI流程，解释内容怎样分别接客户、测反馈、建信任。",
+      "tags": [
+        "公众号",
+        "AI分工",
+        "一人业务",
+        "内容杠杆",
+        "试水边界"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "05",
+      "source_completeness": "as_submitted",
+      "source_defect_notes": [],
+      "full_structure_reference": true,
+      "opening_reference": true,
+      "allowed_usage": [
+        "selected_structure",
+        "local_method"
+      ]
+    },
+    {
+      "id": "sample-31",
+      "number": 31,
+      "title": "普通人做自媒体：一定要频繁输出，目的性输出，大量输出",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-31.txt",
+      "raw_sha256": "45b6cd71dcbff1a0ee48a6379a59d6f3064ff0572b2cd90134873ac7e720381d",
+      "characters": 1964,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 44,
+      "body_end_character": 1964,
+      "card_path": "cards/sample-31.md",
+      "summary": "把大量输出的焦虑转成写给谁、为什么看、这篇要起什么作用的选择。",
+      "tags": [
+        "公众号",
+        "内容目的",
+        "第一人称观点",
+        "读者筛选",
+        "写前判断"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "06",
+      "source_completeness": "as_submitted",
+      "source_defect_notes": [],
+      "full_structure_reference": true,
+      "opening_reference": true,
+      "allowed_usage": [
+        "selected_structure",
+        "local_method"
+      ]
+    },
+    {
+      "id": "sample-32",
+      "number": 32,
+      "title": "我发现很多人对工资没概念",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-32.txt",
+      "raw_sha256": "d19ec0077da1320506902948089f11a049974bd580e731b626382eaf4c39eb55",
+      "characters": 2508,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 30,
+      "body_end_character": 2508,
+      "card_path": "cards/sample-32.md",
+      "summary": "用工资复盘和市场竞争的映射，把价值判断变成结果、资产和有限验证三项动作。",
+      "tags": [
+        "公众号",
+        "职场价值",
+        "AI成果",
+        "可迁移资产",
+        "副业验证"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "07",
+      "source_completeness": "as_submitted",
+      "source_defect_notes": [],
+      "full_structure_reference": true,
+      "opening_reference": true,
+      "allowed_usage": [
+        "selected_structure",
+        "local_method"
+      ]
+    },
+    {
+      "id": "sample-33",
+      "number": 33,
+      "title": "任何人都可以在半年内成为专家",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-33.txt",
+      "raw_sha256": "2de918455af1eaf60cd174f192747333ebfdf16a3214ac92fba31ad853498ee8",
+      "characters": 2275,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 32,
+      "body_end_character": 2275,
+      "card_path": "cards/sample-33.md",
+      "summary": "通过可验证的能力定义和四步实践，把专家身份换成具体任务的持续练习。",
+      "tags": [
+        "公众号",
+        "学习路径",
+        "SOP",
+        "AI协作",
+        "能力验证"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "08",
+      "source_completeness": "as_submitted",
+      "source_defect_notes": [],
+      "full_structure_reference": true,
+      "opening_reference": true,
+      "allowed_usage": [
+        "selected_structure",
+        "local_method"
+      ]
+    },
+    {
+      "id": "sample-34",
+      "number": 34,
+      "title": "失业潮下，做个什么生意，可以滋养你一辈子",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-34.txt",
+      "raw_sha256": "7df068019ca08fd00718ae25ac3f726b21723e8299fd1f3dd06bb953fa257cfa",
+      "characters": 2628,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 35,
+      "body_end_character": 2628,
+      "card_path": "cards/sample-34.md",
+      "summary": "把个人职业选择写成理由、经历、匹配问题与四步连接，同时保留自主项目的真实代价。",
+      "tags": [
+        "公众号",
+        "个人经历",
+        "价值判断",
+        "职业选择",
+        "用户需求"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "09",
+      "source_completeness": "as_submitted",
+      "source_defect_notes": [],
+      "full_structure_reference": true,
+      "opening_reference": true,
+      "allowed_usage": [
+        "selected_structure",
+        "local_method"
+      ]
+    },
+    {
+      "id": "sample-35",
+      "number": 35,
+      "title": "真正的差异化，从来不在产品端",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-35.txt",
+      "raw_sha256": "e45f188b33789d749af22305b55d8f5a6a4702b29ca690f225a2a3e82d791ae1",
+      "characters": 2051,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 34,
+      "body_end_character": 2051,
+      "card_path": "cards/sample-35.md",
+      "summary": "用用户问题和定位对照解释价值，随后要求一套实际交付与证据接住表达。",
+      "tags": [
+        "公众号",
+        "差异化",
+        "认知框架",
+        "承诺兑现",
+        "作者立场"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "10",
+      "source_completeness": "as_submitted",
+      "source_defect_notes": [],
+      "full_structure_reference": true,
+      "opening_reference": true,
+      "allowed_usage": [
+        "selected_structure",
+        "local_method"
+      ]
+    },
+    {
+      "id": "sample-36",
+      "number": 36,
+      "title": "自媒体赚钱就是：借势、借力、借智",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-36.txt",
+      "raw_sha256": "1e37d4d3154d9f859474c9bdc529b77f4a6e33148bf783396e308b4b9aa72e6a",
+      "characters": 1888,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 36,
+      "body_end_character": 1888,
+      "card_path": "cards/sample-36.md",
+      "summary": "先用全包经历找到瓶颈，再从方向到SOP和明确职责解释怎样与AI协作。",
+      "tags": [
+        "公众号",
+        "AI工作流",
+        "SOP",
+        "分工",
+        "第一人称复盘"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "11",
+      "source_completeness": "as_submitted",
+      "source_defect_notes": [],
+      "full_structure_reference": true,
+      "opening_reference": true,
+      "allowed_usage": [
+        "selected_structure",
+        "local_method"
+      ]
+    },
+    {
+      "id": "sample-37",
+      "number": 37,
+      "title": "新手如何做一个能赚钱的公众号（保姆级教程）",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-37.txt",
+      "raw_sha256": "a41836c093c1239a748862516348ad30d20ff822ff50c6d2ec66bb10014c4b3b",
+      "characters": 3009,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 39,
+      "body_end_character": 3009,
+      "card_path": "cards/sample-37.md",
+      "summary": "先用实践结果与竞争判断劝新手尝试，再交代注册配置、变现菜单和不同读者的用途，最终落到起步。收益与平台结论仅为原稿表达，不可复制为保证。",
+      "tags": [
+        "公众号",
+        "零基础",
+        "起步教程",
+        "用途分支",
+        "AI 协作"
+      ],
+      "useful_modules": [
+        "opening",
+        "structure",
+        "explanation",
+        "experience"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "12",
+      "source_completeness": "as_submitted",
+      "source_defect_notes": [],
+      "full_structure_reference": true,
+      "opening_reference": true,
+      "allowed_usage": [
+        "selected_structure",
+        "local_method"
+      ]
+    },
+    {
+      "id": "sample-38",
+      "number": 38,
+      "title": "一把好牌打得稀烂：非要证明自己对",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-38.txt",
+      "raw_sha256": "5af35a6d19d992a28ab8ca5c0e0a122eb08b02b8099b6560555abbec9c483855",
+      "characters": 2554,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 34,
+      "body_end_character": 2554,
+      "card_path": "cards/sample-38.md",
+      "summary": "先从后台争论和作者边界建立立场，再用经验条件差异解释结论为何不能直接复制，最后给情绪识别、合理性检查、实际应用三步。",
+      "tags": [
+        "第一人称",
+        "认知边界",
+        "信息应用",
+        "三步法",
+        "条件比较"
+      ],
+      "useful_modules": [
+        "opening",
+        "structure",
+        "explanation",
+        "experience"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "13",
+      "source_completeness": "as_submitted",
+      "source_defect_notes": [],
+      "full_structure_reference": true,
+      "opening_reference": true,
+      "allowed_usage": [
+        "selected_structure",
+        "local_method"
+      ]
+    },
+    {
+      "id": "sample-39",
+      "number": 39,
+      "title": "别卖产品，卖事业的起点，卖愿景的落地，卖身份的转变",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-39.txt",
+      "raw_sha256": "c490038873ba0869b8ed6942bcbb06b9b4de1acc34f8a48ced7774c31b90ca50",
+      "characters": 1929,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 43,
+      "body_end_character": 1929,
+      "card_path": "cards/sample-39.md",
+      "summary": "作者从卖干货转向愿景，用任务理论、消费例子和个人投入解释身份转变，再给用户当前状态到目标状态的桥梁问题。只学方案组织，不复制身份销售的确定性承诺。",
+      "tags": [
+        "任务价值",
+        "身份转变",
+        "产品解释",
+        "异议处理",
+        "第一人称"
+      ],
+      "useful_modules": [
+        "opening",
+        "structure",
+        "explanation",
+        "experience"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "14",
+      "source_completeness": "as_submitted",
+      "source_defect_notes": [],
+      "full_structure_reference": true,
+      "opening_reference": true,
+      "allowed_usage": [
+        "selected_structure",
+        "local_method"
+      ]
+    },
+    {
+      "id": "sample-40",
+      "number": 40,
+      "title": "不要把时间浪费在股市里",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-40.txt",
+      "raw_sha256": "609778225ef4a903ac293a1cbe06b3ad371257de7d76268ff44370f42bb559e0",
+      "characters": 3008,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 29,
+      "body_end_character": 3008,
+      "card_path": "cards/sample-40.md",
+      "summary": "靠长时间个人盯盘和退出细节让注意力代价可见，再把沉没成本与机会成本转为知识体系、持续迭代和项目专注的建议；只借鉴成本重估与经验反思。",
+      "tags": [
+        "第一人称",
+        "注意力",
+        "隐形成本",
+        "机会成本",
+        "三步系统"
+      ],
+      "useful_modules": [
+        "opening",
+        "structure",
+        "explanation",
+        "experience"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "15",
+      "source_completeness": "as_submitted",
+      "source_defect_notes": [],
+      "full_structure_reference": true,
+      "opening_reference": true,
+      "allowed_usage": [
+        "selected_structure",
+        "local_method"
+      ]
+    },
+    {
+      "id": "sample-41",
+      "number": 41,
+      "title": "真正厉害的人，往往都是“晨型人格”",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-41.txt",
+      "raw_sha256": "94b3948dd6b309968ec547b5f6ded0007104b64032332a7c252e8f427e434a7a",
+      "characters": 1195,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 37,
+      "body_end_character": 604,
+      "card_path": "cards/sample-41.md",
+      "summary": "只有正文后半段：身份动机残句、潜意识解释、晨间三个自问、反对打卡标签、主动醒来的收尾。包含大量播放器文字，全部保留在原稿但不当写法。",
+      "tags": [
+        "片段",
+        "晨间自问",
+        "目的对照",
+        "身份表达",
+        "缺前文"
+      ],
+      "useful_modules": [
+        "explanation",
+        "structure"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "16",
+      "source_completeness": "partial",
+      "source_defect_notes": [
+        "正文从半句开始，前部缺失；包含视频播放器界面文字，保留原稿但不作为写法依据。"
+      ],
+      "full_structure_reference": false,
+      "opening_reference": false,
+      "allowed_usage": [
+        "local_excerpt"
+      ]
+    },
+    {
+      "id": "sample-42",
+      "number": 42,
+      "title": "你不是缺客户，而是害怕跟进",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-42.txt",
+      "raw_sha256": "93dc5998547a618b83ce9774b232670d506d8e411cb58541642d977de78011a0",
+      "characters": 1767,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 31,
+      "body_end_character": 1767,
+      "card_path": "cards/sample-42.md",
+      "summary": "用被动等待的反面判断和微信列表自查抓住问题，解释触达并不等于成交，再从羞耻感、作者微商经历和购买者视角重解销售，最后强调主动测试。",
+      "tags": [
+        "主动表达",
+        "客户跟进",
+        "心理阻力",
+        "第一人称",
+        "角色转换"
+      ],
+      "useful_modules": [
+        "opening",
+        "structure",
+        "explanation",
+        "experience"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "17",
+      "source_completeness": "as_submitted",
+      "source_defect_notes": [],
+      "full_structure_reference": true,
+      "opening_reference": true,
+      "allowed_usage": [
+        "selected_structure",
+        "local_method"
+      ]
+    },
+    {
+      "id": "sample-43",
+      "number": 43,
+      "title": "你的过分礼貌，正在暴露你的低情商",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-43.txt",
+      "raw_sha256": "9b0bd614ff390beca2152838582d62581450a51d8aee0494e2c42419c6262238",
+      "characters": 2017,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 32,
+      "body_end_character": 2017,
+      "card_path": "cards/sample-43.md",
+      "summary": "以会议附和的原话让过分礼貌问题可见，通过作者旧期待、记忆类比和角色网络解释信息缺口，最后把被看见连接到意义感。更适合学场景与解释，不照搬关系工具论。",
+      "tags": [
+        "沟通",
+        "原话场景",
+        "有效信息",
+        "第一人称",
+        "类比"
+      ],
+      "useful_modules": [
+        "opening",
+        "structure",
+        "explanation",
+        "experience"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "18",
+      "source_completeness": "as_submitted",
+      "source_defect_notes": [],
+      "full_structure_reference": true,
+      "opening_reference": true,
+      "allowed_usage": [
+        "selected_structure",
+        "local_method"
+      ]
+    },
+    {
+      "id": "sample-44",
+      "number": 44,
+      "title": "创业，选择决定一切，尤其是客户筛选。",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-44.txt",
+      "raw_sha256": "5cc7b9ecf07ce2d4f3e9d158fa6dee02dc66e9886a05c3542ed21686d590af66",
+      "characters": 1596,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 31,
+      "body_end_character": 1596,
+      "card_path": "cards/sample-44.md",
+      "summary": "从低价高服务的个人代价开始，纠正金钱标签、展示期待错位，再用拒收案例和帮助者动机讨论边界，最后强调精准匹配。只能学边界论证，不复制对新手的等级判断。",
+      "tags": [
+        "服务边界",
+        "客户适配",
+        "第一人称",
+        "机会成本",
+        "标签纠偏"
+      ],
+      "useful_modules": [
+        "opening",
+        "structure",
+        "explanation",
+        "experience"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "19",
+      "source_completeness": "as_submitted",
+      "source_defect_notes": [],
+      "full_structure_reference": true,
+      "opening_reference": true,
+      "allowed_usage": [
+        "selected_structure",
+        "local_method"
+      ]
+    },
+    {
+      "id": "sample-45",
+      "number": 45,
+      "title": "为什么我劝你开个公众号，哪怕没人看，哪怕不赚钱",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-45.txt",
+      "raw_sha256": "c55fcf52ac70e74a4d8c1bacfe37e2a24051290d98c74751316dfbb6aac264db",
+      "characters": 2440,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 39,
+      "body_end_character": 2440,
+      "card_path": "cards/sample-45.md",
+      "summary": "文章以涨粉背景吸引但主动说明不教涨粉，接着用抽象、取舍、表达三能力解释无流量收益，再比较成本和早期反馈，最后给主线、输入、风格三系统。",
+      "tags": [
+        "公开写作",
+        "结构化输出",
+        "素材来源",
+        "个人立场",
+        "认知系统"
+      ],
+      "useful_modules": [
+        "opening",
+        "structure",
+        "explanation",
+        "experience"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "20",
+      "source_completeness": "as_submitted",
+      "source_defect_notes": [],
+      "full_structure_reference": true,
+      "opening_reference": true,
+      "allowed_usage": [
+        "selected_structure",
+        "local_method"
+      ]
+    },
+    {
+      "id": "sample-46",
+      "number": 46,
+      "title": "一个人废掉的根本原因：执行间隙太长",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-46.txt",
+      "raw_sha256": "6b9535f073efd0eba4a167de2d381a59db1d7818e2039e1a9230a1a9e5dc17fd",
+      "characters": 2615,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 37,
+      "body_end_character": 2615,
+      "card_path": "cards/sample-46.md",
+      "summary": "文章把从知道到做不到拆为幻想、复杂任务、注意力环境、自我怀疑四类，并各用生活动作和研究解释；最终仅转入作者产品主张，未交付具体操作。",
+      "tags": [
+        "问题拆解",
+        "执行",
+        "场景解释",
+        "产品转场",
+        "方法缺口"
+      ],
+      "useful_modules": [
+        "opening",
+        "structure",
+        "explanation"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "21",
+      "source_completeness": "as_submitted",
+      "source_defect_notes": [
+        "结尾停在作者产品介绍，缺少具体操作步骤；不能按完整方法教程验收。"
+      ],
+      "full_structure_reference": true,
+      "opening_reference": true,
+      "allowed_usage": [
+        "selected_structure",
+        "local_method"
+      ]
+    },
+    {
+      "id": "sample-47",
+      "number": 47,
+      "title": "学习的本质：极致重复+坚持",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-47.txt",
+      "raw_sha256": "5c6fee1b6cfbcfcec4a0853200d5e98dbefcce214dac30d182110190a323718a",
+      "characters": 2406,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 29,
+      "body_end_character": 2406,
+      "card_path": "cards/sample-47.md",
+      "summary": "先用追捷径与认真练习的对照引题，再以传闻与作者连续无流量实践说明积累，随后补上关键限定：坚持应带检查与改动；最后回应意义和互助支持。",
+      "tags": [
+        "学习",
+        "重复",
+        "反馈迭代",
+        "亲历时间线",
+        "空窗期"
+      ],
+      "useful_modules": [
+        "opening",
+        "structure",
+        "explanation",
+        "experience"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "22",
+      "source_completeness": "as_submitted",
+      "source_defect_notes": [],
+      "full_structure_reference": true,
+      "opening_reference": true,
+      "allowed_usage": [
+        "selected_structure",
+        "local_method"
+      ]
+    },
+    {
+      "id": "sample-48",
+      "number": 48,
+      "title": "老实人就好好上班，别想着做自媒体了...",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-48.txt",
+      "raw_sha256": "f85b88e7428005598222588ce217ca6bc7c9d7a3e337249fa3e432d80dc736c3",
+      "characters": 1748,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 36,
+      "body_end_character": 1748,
+      "card_path": "cards/sample-48.md",
+      "summary": "这是一篇从身份自责转向具体恐惧检验的观点稿，最可迁移的是咨询原话与追问后果的局部写法。",
+      "tags": [
+        "公众号",
+        "第一人称判断",
+        "表达恐惧",
+        "具体追问",
+        "观点稿"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "22",
+      "source_completeness": "as_submitted",
+      "source_defect_notes": [],
+      "full_structure_reference": true,
+      "opening_reference": true,
+      "allowed_usage": [
+        "selected_structure",
+        "local_method"
+      ]
+    },
+    {
+      "id": "sample-49",
+      "number": 49,
+      "title": "你要是够聪明，你就能反向压榨这个世界",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-49.txt",
+      "raw_sha256": "34f201fb9bd67ead1d46b54cb51e1bc7502d122974b27e3d0b72106e5d2adfd1",
+      "characters": 2414,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 36,
+      "body_end_character": 2414,
+      "card_path": "cards/sample-49.md",
+      "summary": "核心是把个人压力场景转成可检验的解释，再用三份问题清单让转向落地；原文心理解释需核验。",
+      "tags": [
+        "公众号",
+        "认知框架",
+        "连贯场景",
+        "问题清单",
+        "首尾回环"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "23",
+      "source_completeness": "as_submitted",
+      "source_defect_notes": [],
+      "full_structure_reference": true,
+      "opening_reference": true,
+      "allowed_usage": [
+        "selected_structure",
+        "local_method"
+      ]
+    },
+    {
+      "id": "sample-50",
+      "number": 50,
+      "title": "今年的就业到底有多难？？？",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-50.txt",
+      "raw_sha256": "04a289124fe078121fe812f7643b35398c6a5879659a580cf712cbaf51e9794e",
+      "characters": 2088,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 31,
+      "body_end_character": 2088,
+      "card_path": "cards/sample-50.md",
+      "summary": "本稿强项是承认读者的真实压力，再把判断依据从推荐流变成有层次的信息检索；数字和就业结论需单独核查。",
+      "tags": [
+        "公众号",
+        "热点解读",
+        "信息源",
+        "对照证据",
+        "调研框架"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "24",
+      "source_completeness": "as_submitted",
+      "source_defect_notes": [],
+      "full_structure_reference": true,
+      "opening_reference": true,
+      "allowed_usage": [
+        "selected_structure",
+        "local_method"
+      ]
+    },
+    {
+      "id": "sample-51",
+      "number": 51,
+      "title": "早睡一小时真的可以改命",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-51.txt",
+      "raw_sha256": "e538ad0e312e87893efd9a9007cbbd861a4999c6d3fe710c2246d0c32223bd60",
+      "characters": 2088,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 27,
+      "body_end_character": 2088,
+      "card_path": "cards/sample-51.md",
+      "summary": "可学习的是夜间行为—白天需求—具体决策—两段安排的闭环，不能复用医学强因果或减少睡眠的效率逻辑。",
+      "tags": [
+        "公众号",
+        "生活场景",
+        "作息",
+        "日夜闭环",
+        "自我提问"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "25",
+      "source_completeness": "as_submitted",
+      "source_defect_notes": [],
+      "full_structure_reference": true,
+      "opening_reference": true,
+      "allowed_usage": [
+        "selected_structure",
+        "local_method"
+      ]
+    },
+    {
+      "id": "sample-52",
+      "number": 52,
+      "title": "一定要有自己的生意，哪怕再小",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-52.txt",
+      "raw_sha256": "4e426fe63a8ce06f54190b852676eeb2f509ded69a80f1742732221de16de6e0",
+      "characters": 2528,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 30,
+      "body_end_character": 2528,
+      "card_path": "cards/sample-52.md",
+      "summary": "可学习的是拆成功等式、寻找反例与缺失样本、再把建议缩为小范围试验；生意“最可控”的绝对保证不能沿用。",
+      "tags": [
+        "公众号",
+        "风险判断",
+        "相关因果",
+        "反例",
+        "小生意"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "26",
+      "source_completeness": "as_submitted",
+      "source_defect_notes": [],
+      "full_structure_reference": true,
+      "opening_reference": true,
+      "allowed_usage": [
+        "selected_structure",
+        "local_method"
+      ]
+    },
+    {
+      "id": "sample-53",
+      "number": 53,
+      "title": "40天2万粉，我写公众号的真相：文笔很烂，月入过万",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-53.txt",
+      "raw_sha256": "c77d003348e79cf12643cace0b2a7ef06183d84bc71343104e1febe54794778d",
+      "characters": 2525,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 41,
+      "body_end_character": 2525,
+      "card_path": "cards/sample-53.md",
+      "summary": "本篇实际是“结果反差→用户需求论→写作任务→APAG教学→回扣”，APAG在文中被介绍，不能硬把全文标成四段完整示范。",
+      "tags": [
+        "公众号",
+        "APAG",
+        "框架教学",
+        "成果反差",
+        "用户需求"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "27",
+      "source_completeness": "as_submitted",
+      "source_defect_notes": [],
+      "full_structure_reference": true,
+      "opening_reference": true,
+      "allowed_usage": [
+        "selected_structure",
+        "local_method"
+      ]
+    },
+    {
+      "id": "sample-54",
+      "number": 54,
+      "title": "为什么有大量平庸得令人发指的高学历",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-54.txt",
+      "raw_sha256": "3b6b9d3a367f6a9f9ee9b25ac0bb144c7e41ac17eaf8c9d7e222bc8c21a64a0c",
+      "characters": 956,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 33,
+      "body_end_character": 956,
+      "card_path": "cards/sample-54.md",
+      "summary": "本稿仅能支持后半段的地图比喻、学习目标与层次拆分；不能据此验完整标题开头或全文结构。",
+      "tags": [
+        "公众号",
+        "片段",
+        "缺前文",
+        "地图比喻",
+        "定向学习"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "28",
+      "source_completeness": "partial",
+      "source_defect_notes": [
+        "正文从“因为，一旦失败”开始，疑似缺前文；只分析实际收到部分。"
+      ],
+      "full_structure_reference": false,
+      "opening_reference": false,
+      "allowed_usage": [
+        "local_excerpt"
+      ]
+    },
+    {
+      "id": "sample-55",
+      "number": 55,
+      "title": "为什么要尽量选择一个人就能干的小生意？",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-55.txt",
+      "raw_sha256": "b21d4184799ef30c6c96d78634cf109f9bcee42a433fefebf879d49e83d678fd",
+      "characters": 1914,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 30,
+      "body_end_character": 1914,
+      "card_path": "cards/sample-55.md",
+      "summary": "这篇是单人业务的价值观论证，主要借规模信任与个体关系对照，再拆三类稀缺来源；正文并非可直接跟做的创业教程。",
+      "tags": [
+        "公众号",
+        "单人业务",
+        "信任对照",
+        "稀缺性",
+        "愿景稿",
+        "题文粘连"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "29",
+      "source_completeness": "as_submitted",
+      "source_defect_notes": [],
+      "full_structure_reference": true,
+      "opening_reference": true,
+      "allowed_usage": [
+        "selected_structure",
+        "local_method"
+      ]
+    },
+    {
+      "id": "sample-56",
+      "number": 56,
+      "title": "一个人最最最最好的状态：销声匿迹",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-56.txt",
+      "raw_sha256": "4957e822e43fd834e8940b555b967a743a066a029bb03108f51c5a19529a6a6b",
+      "characters": 1891,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 32,
+      "body_end_character": 1891,
+      "card_path": "cards/sample-56.md",
+      "summary": "此稿以目标校准时间价值，经过冲突推演和计划拆分，最终保留重要关系；不能把强标题直接当断联建议。",
+      "tags": [
+        "公众号",
+        "时间规划",
+        "目标取舍",
+        "独处",
+        "关系质量"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "30",
+      "source_completeness": "as_submitted",
+      "source_defect_notes": [],
+      "full_structure_reference": true,
+      "opening_reference": true,
+      "allowed_usage": [
+        "selected_structure",
+        "local_method"
+      ]
+    },
+    {
+      "id": "sample-57",
+      "number": 57,
+      "title": "打工人，千万不要被你的月薪困住了",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-57.txt",
+      "raw_sha256": "19b5fd4b57d85195ff5e602cedc557cf17142ba3bcb9b59eba8dd1a4b0f85176",
+      "characters": 2259,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 36,
+      "body_end_character": 2259,
+      "card_path": "cards/sample-57.md",
+      "summary": "本文的有效组织是工作画面后区分能力停滞与精神退缩，再把打工当积累手段并给多种出口；强比喻和心理标签不能作为事实。",
+      "tags": [
+        "公众号",
+        "职场",
+        "月薪依赖",
+        "目的手段",
+        "多路径选择"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "31",
+      "source_completeness": "as_submitted",
+      "source_defect_notes": [],
+      "full_structure_reference": true,
+      "opening_reference": true,
+      "allowed_usage": [
+        "selected_structure",
+        "local_method"
+      ]
+    },
+    {
+      "id": "sample-58",
+      "number": 58,
+      "title": "你从小接受的教育体系，已经开始崩塌...",
+      "title_status": "用户提供；仅清理显示用格式标记，未查验原网页标题",
+      "raw_path": "raw/sample-58.txt",
+      "raw_sha256": "e768c235d8261edccbfb790e96097b165325d98a467d5428ed3d911ed61225f6",
+      "characters": 1626,
+      "received_at": "2026-10-07",
+      "author": "Ray",
+      "published_at": null,
+      "source_url": null,
+      "engagement": {
+        "status": "user_reported",
+        "description": "用户称所找文章为万赞；未提供逐篇数据证据，未独立核验"
+      },
+      "modality": {
+        "article_text": "user_supplied",
+        "images": "not_supplied",
+        "video": "not_supplied"
+      },
+      "body_start_character": 36,
+      "body_end_character": 1626,
+      "card_path": "cards/sample-58.md",
+      "summary": "这是个性化教育的观点与模式对比稿，局部强项是“服务谁”和供需两侧成本解释；旧教育崩塌与收入前景并未被本文材料充分证明。",
+      "tags": [
+        "公众号",
+        "教育观点",
+        "个性化",
+        "双边成本",
+        "AI角色"
+      ],
+      "useful_modules": [
+        "structure",
+        "opening",
+        "explanation",
+        "experience"
+      ],
+      "source_group": "ray-wechat-2026-10-07",
+      "submitted_number": "32",
+      "source_completeness": "as_submitted",
+      "source_defect_notes": [],
+      "full_structure_reference": true,
+      "opening_reference": true,
+      "allowed_usage": [
+        "selected_structure",
+        "local_method"
+      ]
+    }
+  ],
+  "source_count": 58,
+  "source_groups": [
+    {
+      "id": "original-xhs-25",
+      "count": 25,
+      "range": [
+        1,
+        25
+      ],
+      "received_date": "2026-10-04"
+    },
+    {
+      "id": "ray-wechat-2026-10-07",
+      "count": 33,
+      "range": [
+        26,
+        58
+      ],
+      "received_date": "2026-10-07",
+      "partial_ids": [
+        "sample-41",
+        "sample-54"
+      ]
+    }
+  ]
+}

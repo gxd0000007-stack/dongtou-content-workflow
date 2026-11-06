@@ -1,0 +1,404 @@
+{
+  "id": "sample-27",
+  "number": 27,
+  "title": "没有家庭托举的普通人，一生只有一个主线任务",
+  "short_name": "准备过度到低成本试错的递进",
+  "family": "读者困境到行动模型",
+  "skeleton": [
+    "重写阻碍的归因",
+    "咨询观察与准备动作",
+    "把准备错当价值的内在等式",
+    "家庭认可与自我评价标签",
+    "承认输不起并提出成本矛盾",
+    "把昂贵试错改成模型筛选条件",
+    "内容试错模型与三项理由",
+    "重复试验的收束与最小动作"
+  ],
+  "distinctive": "先用优等生转型咨询和准备动作建立困境，再解释作者的心理标签观点，承认输不起后筛选低成本试错模型，最后给最小发布动作。",
+  "promise": "帮助读者识别用准备代替验证的行为，并比较可承受的试错方式；不保证内容零成本或必然成交。",
+  "applicability": [
+    "AI学习者收藏很多却没有做出实际任务",
+    "自媒体新手反复准备账号不发布",
+    "低预算项目如何设计试行"
+  ],
+  "material_preconditions": [
+    "新手准备行为的真实记录或经同意转述",
+    "一个可执行的低成本实验",
+    "时间、费用和反馈的实际衡量办法"
+  ],
+  "source_limits": [
+    "来源仅为用户本次粘贴的公众号文章文本，万赞状态为用户报告，未读取原页面或核验互动数据。",
+    "Ray的身份、经历、客户反馈、收益数字及所引名言均为作者叙述；不得写成东头的亲历或已证实事实。",
+    "家庭教育、潜意识和优等生不适合创业是作者解释，不应诊断读者或作为确定心理因果。",
+    "零成本、24小时反馈、持续测试总有流量及只有两种命运为强化表达；时间成本、收入波动和失败者未交代。"
+  ],
+  "stages": [
+    {
+      "label": "重写阻碍的归因",
+      "start_quote": "真正阻碍普通人成长的，不是资源匮乏",
+      "function": "把阻碍从资源切到努力与价值绑定、害怕失败。",
+      "transition": "用朋友咨询和优等生准备行为具体说明。",
+      "mechanism": "否定惯常原因并提出新解释",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "有材料支持的待验证阻碍"
+      ],
+      "fail": [
+        "把资源短缺的现实影响全部否定。"
+      ],
+      "adaptation": "从我发现有些AI新手一直准备却没实践说起。",
+      "pass": [
+        "开头指出行为层面的困惑，允许其他资源约束存在。"
+      ],
+      "id": "S01",
+      "source_span": {
+        "start_character": 39,
+        "end_character": 116,
+        "percentage_start": 0.0,
+        "percentage_end": 3.0,
+        "sha256": "8088b8bca76cd994f94c55d43e5eba6584e2582c0a085495102c740ccc5d00f0"
+      }
+    },
+    {
+      "label": "咨询观察与准备动作",
+      "start_quote": "从我今年公众号快速涨粉之后，越来越多我的同学、朋友",
+      "function": "铺出转型意愿，再列名字、logo、设备、反复改稿等可辨认动作。",
+      "transition": "动作清单之后说明为何准备会替代实测。",
+      "mechanism": "人群观察与生活细节",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "匿名或确认的咨询问题",
+        "准备耗时与未启动事实"
+      ],
+      "fail": [
+        "用名校大厂就不适合创业替代证据。"
+      ],
+      "adaptation": "可列收藏提示词、注册工具、改流程却没交付一次的真实动作。",
+      "pass": [
+        "读者能对照自己的行动，观察不泛化为学历标签。"
+      ],
+      "id": "S02",
+      "source_span": {
+        "start_character": 116,
+        "end_character": 390,
+        "percentage_start": 3.0,
+        "percentage_end": 13.9,
+        "sha256": "cd535c6cb234d6cdf19f7067baff023f7071523da9f6ffcd4d59c32f9679055a"
+      }
+    },
+    {
+      "label": "把准备错当价值的内在等式",
+      "start_quote": "这是现代做题家后遗症的典型表现",
+      "function": "解释努力等于成绩的思路怎样迁移到探索性任务。",
+      "transition": "接着回到家庭认可标签，拓展作者对阻碍的解释。",
+      "mechanism": "行为归因与等式表达",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "旧标准和新任务不同的具体比较"
+      ],
+      "fail": [
+        "把做题家后遗症当医学或心理诊断。"
+      ],
+      "adaptation": "用学习教程与完成一份工作产出的区别，少贴人群标签。",
+      "pass": [
+        "说明在探索任务里准备不能替代反馈，保持为解释假设。"
+      ],
+      "id": "S03",
+      "source_span": {
+        "start_character": 390,
+        "end_character": 639,
+        "percentage_start": 13.9,
+        "percentage_end": 23.7,
+        "sha256": "c3f72509a119c53110bf431213d785c026d1f82b93ba572e6426a26ed88cdfe0"
+      }
+    },
+    {
+      "label": "家庭认可与自我评价标签",
+      "start_quote": "从小没被托举的人，都活得有点“用力过猛”。",
+      "function": "描述作者认为的成绩与认可绑定，再列卷死自己和不敢开始两种表现。",
+      "transition": "由内在标签转向现实输不起的约束，避免只谈心态。",
+      "mechanism": "心理等式、两种行为对照",
+      "requirement": "conditional",
+      "condition": "当篇需要讲个人认可经历且作者明确提供时保留；可改用一般标准误用。",
+      "materials": [
+        "当事人确认的感受",
+        "努力/优秀/失败具体指什么"
+      ],
+      "fail": [
+        "未经询问把读者拖延归因为父母不懂教育。"
+      ],
+      "adaptation": "只在作者愿意表达类似经历时采用；否则换成具体任务标准。",
+      "pass": [
+        "读者可理解一种自评模式，但未被替作者推断家庭情况。"
+      ],
+      "id": "S04",
+      "source_span": {
+        "start_character": 639,
+        "end_character": 1185,
+        "percentage_start": 23.7,
+        "percentage_end": 45.3,
+        "sha256": "cb83913014c6f2db654d68e3c51370494a9012b5d6f9d9fcb5b22e63fd1c2391"
+      }
+    },
+    {
+      "label": "承认输不起并提出成本矛盾",
+      "start_quote": "说白了，对没有托举的普通人来说，是没有什么试错空间的。",
+      "function": "承认钱和心理承受限制，同时提出不尝试的机会成本。",
+      "transition": "尝试有必要还不够，下一段处理试错很贵的反问。",
+      "mechanism": "让步接纳与两难推进",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "实际预算",
+        "最坏损失与恢复办法"
+      ],
+      "fail": [
+        "用35岁风险压迫读者立即创业。"
+      ],
+      "adaptation": "写AI实验可花多少时间钱、失败后如何回退。",
+      "pass": [
+        "承认约束并给可承受窗口，不让焦虑逼人冒险。"
+      ],
+      "id": "S05",
+      "source_span": {
+        "start_character": 1185,
+        "end_character": 1463,
+        "percentage_start": 45.3,
+        "percentage_end": 56.2,
+        "sha256": "c7165759f94c5dda936c70388fa9b8847269f2ba0c8300a58542e4b836667e83"
+      }
+    },
+    {
+      "label": "把昂贵试错改成模型筛选条件",
+      "start_quote": "但问题又来了：试错很贵。",
+      "function": "列App、开店、电商成本，再提出低成本、快反馈、清晰路径、复用资产四项条件。",
+      "transition": "先给选择标准，随后介绍符合作者条件的内容模型。",
+      "mechanism": "反问续接与条件筛选",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "候选方案各类成本",
+        "试验窗口与反馈指标"
+      ],
+      "fail": [
+        "把几十万等估算当成所有项目的固定成本。"
+      ],
+      "adaptation": "比较AI工具试用和一次工作成果交付，按实际报价列预算。",
+      "pass": [
+        "读者知道选方案要看什么，而非只听最便宜口号。"
+      ],
+      "id": "S06",
+      "source_span": {
+        "start_character": 1463,
+        "end_character": 1620,
+        "percentage_start": 56.2,
+        "percentage_end": 62.4,
+        "sha256": "ba92ac1ee485ca1f23839583fa7c774f9b8a9f6891a8afb70a5c2b10034260df"
+      }
+    },
+    {
+      "label": "内容试错模型与三项理由",
+      "start_quote": "说白了，就是：做内容，测反馈，捞用户，出产品，搞成交",
+      "function": "给完整链条，再按成本低、反馈快、一人能完成解释其优势。",
+      "transition": "模式解释之后收束试错态度，不停留在宏观创业愿景。",
+      "mechanism": "流程串联与理由分项",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "一次内容测试的输入和发布结果",
+        "反馈口径",
+        "产品试行与交付成本"
+      ],
+      "fail": [
+        "只讲零成本和24小时就能验证生意，无时间成本。"
+      ],
+      "adaptation": "可从发一条AI教程收集问题到改一个小服务，明确还未验证之处。",
+      "pass": [
+        "流程每步有可观察产出，点赞收藏不等同已证实需求。"
+      ],
+      "id": "S07",
+      "source_span": {
+        "start_character": 1620,
+        "end_character": 2399,
+        "percentage_start": 62.4,
+        "percentage_end": 93.2,
+        "sha256": "8e31605e43895efec8122ac72dc77776864bad3c4f1a70e4adc02697f37efed5"
+      }
+    },
+    {
+      "label": "重复试验的收束与最小动作",
+      "start_quote": "不要把时间花在“想明白再开始”上",
+      "function": "反复强调边做边调，并最终落到一篇公众号或一条朋友圈。",
+      "transition": "回扣一开始过度准备的困境，以可开始动作结束。",
+      "mechanism": "反复回扣与小动作号召",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "今天可完成的最小试验",
+        "复核时间",
+        "决定继续或暂停的指标"
+      ],
+      "fail": [
+        "把反复失败必然起飞当保证，或把没结果归咎不敢。"
+      ],
+      "adaptation": "让读者先交付一个AI辅助任务并记录问题，不要求先转型创业。",
+      "pass": [
+        "读者能完成一次有边界的尝试，知道何时看结果。"
+      ],
+      "id": "S08",
+      "source_span": {
+        "start_character": 2399,
+        "end_character": 2571,
+        "percentage_start": 93.2,
+        "percentage_end": 100.0,
+        "sha256": "93b6a46354a4d7203e55fb766ff71f4113547af2a50a976dba553f70798a52e9"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "开头与准备动作让读者认出自己的停滞，并看见一个小试验方向。",
+      "stage_ids": [
+        "S01",
+        "S02"
+      ],
+      "evidence_needed": [
+        "具体动作清单",
+        "读者当前任务"
+      ],
+      "failure": "用普通人命运焦虑替代相关性。"
+    },
+    "understandable": {
+      "criterion": "准备、验证、反馈、产品四者有区别，低成本标准可用于比较方案。",
+      "stage_ids": [
+        "S03",
+        "S05",
+        "S06",
+        "S07"
+      ],
+      "evidence_needed": [
+        "一组旧/新任务比较",
+        "候选成本",
+        "流程输出"
+      ],
+      "failure": "心理术语和商业链条只摆名词。"
+    },
+    "credible": {
+      "criterion": "心理解释保留假设边界，收益和反馈速度有口径，观察不泛化为人群结论。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S04",
+        "S07"
+      ],
+      "evidence_needed": [
+        "观察范围",
+        "成本与反馈记录"
+      ],
+      "failure": "原稿心理因果、零成本承诺直接照搬。"
+    },
+    "fulfilled": {
+      "criterion": "给一项可完成试验、复核指标和承受范围，兑现快速试错的实际含义。",
+      "stage_ids": [
+        "S06",
+        "S07",
+        "S08"
+      ],
+      "evidence_needed": [
+        "本次试验对象",
+        "复核时点与停止标准"
+      ],
+      "failure": "只有鼓励动手，没有怎么判断一次测试。"
+    },
+    "structure": {
+      "criterion": "困境、归因、现实约束、方案条件、模型理由和小行动各自连贯。",
+      "stage_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S05",
+        "S06",
+        "S07",
+        "S08"
+      ],
+      "evidence_needed": [
+        "从输不起到方案筛选的衔接"
+      ],
+      "failure": "直接从家庭伤害跳到卖课，没有成本桥梁。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "先给具体准备行为，再解释为何没有形成反馈。",
+      "在提出试错前承认真实约束，再给方案选择条件。",
+      "方案有流程与理由，结尾落到一次小动作。"
+    ],
+    "adjustable": [
+      "家庭认可分析可换为任务标准误用。",
+      "内容商业链条可换为AI工作任务实验。",
+      "两种命运等焦虑语言可以删去。"
+    ],
+    "fill_before_writing": [
+      "真实停滞动作及其代价：____",
+      "可承受成本和候选方案：____",
+      "一次试验的产出、反馈与复核条件：____"
+    ]
+  },
+  "summary": "承认不敢失败与输不起两层约束，把试错从口号变成方案条件和最小动作。",
+  "tags": [
+    "公众号",
+    "试错",
+    "准备过度",
+    "小白启动",
+    "低成本验证"
+  ],
+  "useful_modules": [
+    "structure",
+    "opening",
+    "explanation",
+    "experience"
+  ],
+  "methods": {
+    "structure": {
+      "quote": "但问题又来了：试错很贵。",
+      "observation": "每提出一层解法后主动抛出新阻碍，让方案递进。",
+      "adaptation": "AI工作流教程可接着回答费用、输入不足、结果检查等真实阻碍。",
+      "limit": "不制造虚构难题，只解决当前用户会遇到的问题。"
+    },
+    "opening": {
+      "quote": "想写公众号，得先取个好听的名字，还要做个 logo",
+      "observation": "用准备清单使抽象拖延变成可看见的场景。",
+      "adaptation": "用真实AI新手的注册、收藏、改提示词动作做开头细节。",
+      "limit": "必须与读者当前任务相关，不能嘲讽新手。"
+    },
+    "explanation": {
+      "quote": "干 → 失败 → 复盘 → 再干 → 再失败 → 调整路径",
+      "observation": "把迭代解释成动作链，便于记忆。",
+      "adaptation": "用任务、交付、检查、改一次的工作链说明AI迭代。",
+      "limit": "这是流程示意，不是保证成功的因果公式。"
+    },
+    "experience": {
+      "quote": "从我今年公众号快速涨粉之后",
+      "observation": "从身边咨询问题起笔，把观察连接作者判断。",
+      "adaptation": "用东头真实收到的问题，并补观察人数或适用范围。",
+      "limit": "涨粉与家庭情况不能借用为东头经历。"
+    }
+  },
+  "source_path": "raw/sample-27.txt",
+  "source_sha256": "164e6727788c4f5aff628395d8bf3fdb1f5dd6c908702c0f1ea49877ee493960",
+  "body_start_character": 39,
+  "body_end_character": 2571,
+  "source_group": "ray-wechat-2026-10-07",
+  "submitted_number": "02",
+  "source_completeness": "as_submitted",
+  "source_defect_notes": [],
+  "full_structure_reference": true,
+  "opening_reference": true,
+  "allowed_usage": [
+    "selected_structure",
+    "local_method"
+  ]
+}

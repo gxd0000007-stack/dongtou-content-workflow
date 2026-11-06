@@ -1,0 +1,4 @@
+interface:
+  display_name: "东头切入点发现器"
+  short_description: "比较原文与其他入口，讲清当篇读者、阅读理由、收益和依据，推荐创作方向"
+  default_prompt: "用 $dongtou-angle-finder 读取第一步的完整读取记录与速读卡，比较原文入口和其他方向，说明读者为何愿意看、能得到什么及依据，交付切入点卡与分析记录。"

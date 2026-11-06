@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>东头公众号工作流 · 七工序升级对照</title>
+<style>
+:root{--paper:#f3f5ef;--ink:#233d3a;--muted:#66786e;--line:#d8e1d4;--green:#28714f;--pale:#eaf3e5;--gold:#8b612a;--goldbg:#fff4df;--white:#fff}*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:15px/1.65 -apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif}button{font:inherit;color:inherit;cursor:pointer}button:focus-visible,summary:focus-visible,a:focus-visible{outline:3px solid #4d789c;outline-offset:4px}[hidden]{display:none!important}a{color:var(--green);text-underline-offset:3px;overflow-wrap:anywhere}code{font-size:.86em;overflow-wrap:anywhere}h1,h2,h3,p{margin:0}h1{font-size:clamp(28px,3.8vw,46px);line-height:1.25;letter-spacing:-1px;margin:15px 0 12px}h2{font-size:21px;line-height:1.5}h3{font-size:21px;line-height:1.4}.wrap{max-width:1440px;margin:auto;padding:30px 36px 36px}.eyebrow{display:flex;justify-content:space-between;gap:15px;font-size:11px;color:var(--green);font-weight:700;letter-spacing:1px}.lead{max-width:1060px;font-size:17px;color:var(--muted)}.lead strong{color:var(--ink);font-weight:700}.status{margin:17px 0 22px;background:var(--goldbg);border:1px solid #e1cb9f;border-radius:12px;padding:12px 17px;color:var(--gold);font-size:13px}.status b{display:block;margin-bottom:2px}.switch{display:flex;gap:7px;padding:5px;border:1px solid var(--line);border-radius:13px;background:#fff;width:max-content;max-width:100%;margin-bottom:17px}.switch button{border:0;border-radius:9px;background:transparent;padding:9px 17px;font-size:13px;font-weight:700;min-width:0}.switch button[aria-selected="true"]{background:var(--ink);color:#fff}.metrics{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin-bottom:24px}.metric{background:#fff;border:1px solid var(--line);border-radius:13px;padding:14px 17px;display:flex;align-items:center;gap:13px;min-width:0}.metric strong{color:var(--green);font-size:28px;line-height:1.1;white-space:nowrap}.metric b{display:block;font-size:13px}.metric small{display:block;font-size:11px;color:var(--muted)}.section-head{display:flex;justify-content:space-between;align-items:baseline;gap:12px;margin:0 0 13px}.section-head span{font-size:12px;color:var(--muted)}.overview{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:20px;align-items:start}.flow{background:#fff;border:1px solid var(--line);border-radius:16px;padding:20px;min-width:0}.entry{font-size:13px;margin-bottom:11px}.entry strong{font-size:16px}.entry code{color:var(--green)}.controller{width:100%;border:1px solid var(--ink);border-radius:11px;background:var(--ink);color:#fff;text-align:left;padding:14px 16px;display:flex;align-items:center;justify-content:space-between;gap:15px}.controller b{display:block;font-size:20px}.controller small{display:block;font-size:11px;color:#d6e2d5;margin-top:3px}.controller span{font-size:11px;border:1px solid #8ea499;border-radius:99px;padding:3px 10px;white-space:nowrap}.controller[aria-pressed="true"]{outline:2px solid var(--gold);outline-offset:3px}.connector{text-align:center;font-size:11px;color:var(--muted);margin:11px 0 13px}.nodes{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}.node{border:1px solid #cadfc0;background:var(--pale);border-radius:11px;padding:13px;text-align:left;display:flex;flex-direction:column;min-width:0;min-height:170px;transition:box-shadow .15s}.node:hover{box-shadow:0 3px 12px #233d3a16}.node[aria-pressed="true"]{outline:2px solid var(--green);outline-offset:2px}.node-head{display:flex;justify-content:space-between;align-items:center;gap:7px}.num{font-size:22px;color:var(--green);font-weight:750;line-height:1.1}.node-head small{font-size:10px;color:var(--green)}.node b{font-size:18px;line-height:1.4;margin:9px 0 5px}.node .desc{font-size:11px;color:var(--muted);margin-bottom:12px}.node .out{font-size:10px;border-top:1px solid #cedeca;padding-top:9px;margin-top:auto}.node.assisted{border-color:#d4b876;background:#fff7e7}.node.assisted .num,.node.assisted .node-head small{color:var(--gold)}.node.assisted .out{border-color:#e8d6b2}.assistant{border:1px solid #d4b876;background:var(--goldbg);color:var(--gold);border-radius:10px;padding:12px 14px;width:100%;text-align:left;margin-top:14px}.assistant b{font-size:14px;display:block}.assistant small{font-size:11px;display:block;margin-top:3px}.assistant[aria-pressed="true"]{outline:2px solid var(--gold);outline-offset:2px}.mode-note{font-size:12px;color:var(--muted);border-top:1px solid var(--line);padding-top:13px;margin-top:15px}.mode-note b{color:var(--ink)}.outputs{display:grid;grid-template-columns:1fr 1fr;gap:10px}.output{background:var(--paper);border:1px solid var(--line);border-radius:10px;padding:12px 14px}.output b{font-size:15px}.output small{display:block;font-size:11px;color:var(--muted)}.detail{min-width:0;background:#fff;border:1px solid var(--line);border-top:4px solid var(--green);border-radius:13px;padding:18px;overflow-wrap:anywhere}.detail .tag{font-size:11px;font-weight:750;color:var(--green)}.detail h3{margin-top:6px;font-size:24px}.detail .machine{font-size:10px;color:var(--muted);margin:4px 0 14px}.d-label{font-size:11px;font-weight:750;color:var(--muted);margin:13px 0 4px}.detail p,.detail li{font-size:12px}.detail ul{padding-left:17px;margin:5px 0}.detail li{margin:6px 0}.detail .result{margin-top:13px;background:var(--paper);border-radius:8px;padding:11px}.result .d-label{margin-top:0}.detail .change{margin-top:14px;border:1px solid #e1cb9f;background:var(--goldbg);border-radius:8px;padding:11px}.detail .change b{font-size:12px;color:var(--gold)}.detail .change p{margin-top:4px}.detail .rule{margin-top:13px;border-top:1px solid var(--line);padding-top:10px;color:var(--muted)}.section{margin-top:26px}.card{background:#fff;border:1px solid var(--line);border-radius:13px;overflow:hidden}.table-wrap{overflow-x:auto}.table{width:100%;border-collapse:collapse;table-layout:fixed;font-size:12px}.table th,.table td{text-align:left;vertical-align:top;padding:13px 16px;border-bottom:1px solid var(--line);overflow-wrap:anywhere}.table th{font-size:11px}.table thead th{background:#eaf0e5;color:var(--muted)}.table tbody tr:last-child>*{border-bottom:0}.table small{display:block;color:var(--muted);font-size:10px;margin-top:4px}.table .newrow{background:#fff8e9}.label-col{width:22%}.table .now{color:var(--muted)}.inline-note{font-size:12px;color:var(--muted);margin-top:11px;max-width:1110px}.inline-note b{color:var(--ink)}.position-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:13px}.position{background:#fff;border:1px solid var(--line);border-radius:12px;padding:15px 17px;min-width:0}.position b{font-size:14px}.position p{font-size:12px;color:var(--muted);margin-top:5px}.position.added{border-color:#e1cb9f;background:var(--goldbg)}.position.added b{color:var(--gold)}.paths{margin-top:24px;border:1px solid var(--line);border-radius:13px;background:#fff;overflow:hidden}.paths summary{cursor:pointer;padding:16px 19px;font-size:14px;font-weight:700}.paths[open] summary{border-bottom:1px solid var(--line)}.path-intro{padding:15px 19px;color:var(--muted);font-size:12px}.path-intro p+p{margin-top:6px}.path-intro code{display:block;color:var(--ink);font-size:11px;margin-top:4px}.paths .table th:nth-child(1){width:24%}.paths .table th:nth-child(2){width:38%}.paths .table td code{font-size:10px}.version{display:inline-block;border-radius:5px;padding:2px 7px;background:var(--pale);color:var(--green);font-size:10px;margin-bottom:7px}.version.diff{background:var(--goldbg);color:var(--gold)}footer{border-top:1px solid var(--line);margin-top:25px;padding-top:13px;color:var(--muted);font-size:10px}footer p+p{margin-top:3px}@media(max-width:1080px){.overview{grid-template-columns:minmax(0,1fr) 300px}.wrap{padding:27px 25px}.node{padding:11px}.node b{font-size:16px}.node .desc{font-size:10px}}@media(max-width:860px){.overview{grid-template-columns:1fr}.detail{padding:19px}.detail-grid{display:grid;grid-template-columns:1fr 1fr;gap:0 20px}.detail .change,.detail .rule{grid-column:1/-1}.metrics{gap:8px}.metric{padding:12px}.metric strong{font-size:24px}.metric b{font-size:12px}.section-head{align-items:start}.table th,.table td{padding:12px}.position-grid{grid-template-columns:1fr}}@media(max-width:560px){.wrap{padding:21px 15px 28px}.eyebrow{font-size:9px;letter-spacing:.2px}h1{font-size:29px;letter-spacing:-.5px}.lead{font-size:15px}.status{font-size:12px;padding:11px 13px}.switch{width:100%}.switch button{font-size:11px;padding:9px 8px;flex:1}.metrics{grid-template-columns:1fr;margin-bottom:20px}.metric{padding:11px 14px}.metric strong{font-size:25px;min-width:40px}.metric b{font-size:12px}.metric small{font-size:10px}.section-head{display:block}.section-head span{display:block;margin-top:4px;font-size:11px}h2{font-size:19px}.flow{padding:16px 13px}.controller{padding:13px;align-items:start;flex-direction:column;gap:8px}.controller b{font-size:19px}.nodes{grid-template-columns:1fr 1fr}.node{min-height:171px;padding:11px}.node b{font-size:16px}.node .desc{font-size:10px}.node-head small{font-size:9px}.num{font-size:21px}.detail-grid{display:block}.outputs{gap:8px}.output{padding:11px}.output b{font-size:14px}.table{font-size:11px}.table th,.table td{padding:10px 9px}.table small{font-size:9px}.label-col{width:24%}.paths .table{min-width:620px}.paths summary{padding:14px;font-size:13px}.path-intro{padding:13px;font-size:11px}.inline-note{font-size:11px}}@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
+.node[data-select="7"]{grid-column:1/-1;min-height:122px}.node[data-select="7"] .desc{margin-bottom:9px}.snapshot-label{color:var(--gold)!important}.upgrade-path{border-top:1px solid var(--line);padding-top:11px;margin-top:12px}@media(max-width:560px){.node[data-select="7"]{min-height:132px}}
+</style>
+</head>
+<body><section style="margin:20px auto;padding:20px;max-width:1100px;border:2px solid #b9693c;border-radius:16px;background:#fff5e9;color:#39281b"><b>v0.4.0 参考库扩充</b>：七道工序、八个组件；参考库从25篇扩至58篇。新增33篇公众号按需供第三、四、七步使用，41与54仅作局部参考。<a href="library.html">查看58篇参考库</a>。以下保留原七步接入对照，步骤顺序不变。</section><main class="wrap">
+<div class="eyebrow"><span>东头 / 公众号创作工作流</span><span>升级前后对照 · 2026.10.06</span></div>
+<h1>六步升级成七步，活人感单独改一轮</h1>
+<p class="lead"><strong>新版是七道工序、八个内置组件。</strong>第 5 步写初稿，第 6 步集中做活人感改稿，第 7 步出厂质检；创作总控协调衔接。原有标题、观点、文风和结构继续沿用。</p>
+<div class="status" id="upgrade-status" role="note"><b>v0.3.0 七步套件说明</b>七个工序组件加一个创作总控。第 5 步写初稿，第 6 步活人感改稿，第 7 步出厂质检。本页说明工作流；实际安装与同步结果以本次交付记录为准。</div>
+<div class="switch" role="tablist" aria-label="查看升级前后">
+<button id="mode-current" role="tab" data-mode="current" aria-selected="false" aria-controls="blueprint-view" tabindex="-1">旧版快照 · v0.2.0</button>
+<button id="mode-candidate" role="tab" data-mode="candidate" aria-selected="true" aria-controls="blueprint-view">新版 · v0.3.0 七工序</button>
+</div>
+<section id="blueprint-view" role="tabpanel" aria-labelledby="mode-candidate">
+<div class="metrics"><div class="metric"><strong>1</strong><div><b>一个套件入口</b><small>$dongtou-content-workflow</small></div></div><div class="metric"><strong id="module-count">8</strong><div><b id="module-label">八个完整内置组件</b><small id="module-sub">七个工序组件 ＋ 创作总控</small></div></div><div class="metric"><strong id="step-count">7</strong><div><b id="step-label">七道创作工序</b><small id="step-sub">初稿 → 活人感改稿 → 出厂质检</small></div></div></div>
+<div class="section-head"><h2 id="flow-heading">新版七工序 · 活人感改稿成为第 6 步</h2><span id="flow-hint">点七个节点，查看具体分工</span></div>
+<div class="overview"><div class="flow">
+<p class="entry"><strong>套件入口</strong> · <code>$dongtou-content-workflow</code></p>
+<button class="controller" data-select="controller" aria-pressed="false" aria-controls="detail"><div><b>创作总控</b><small>识别起点，接住已有决定，安排衔接与返修</small></div><span id="controller-badge">组件 8 · 总控</span></button>
+<div class="connector" id="control-line">↓ 总控协调七步，读取套件内的完整组件 ↓</div>
+<div class="nodes">
+<button class="node" data-select="1" aria-pressed="false" aria-controls="detail"><span class="node-head"><span class="num">01</span><small>读取</small></span><b>完整读原文</b><span class="desc">读全材料，留下可回查的依据</span><span class="out">完整读取记录 ＋ 速读卡</span></button>
+<button class="node" data-select="2" aria-pressed="false" aria-controls="detail"><span class="node-head"><span class="num">02</span><small>观点</small></span><b>找切入点</b><span class="desc">从我的视角，决定想表达什么</span><span class="out">切入点卡 ＋ 分析记录</span></button>
+<button class="node" data-select="3" aria-pressed="false" aria-controls="detail"><span class="node-head"><span class="num">03</span><small>开篇</small></span><b>标题与开头</b><span class="desc">让标题开头接住我的发现与判断</span><span class="out">标题与开头卡 ＋ 设计记录</span></button>
+<button class="node" data-select="4" aria-pressed="false" aria-controls="detail"><span class="node-head"><span class="num">04</span><small>讲法</small></span><b>正文讲法</b><span class="desc">确定主文风和结构，安排材料怎么讲</span><span class="out">本篇讲法卡 ＋ 参考记录</span></button>
+<button class="node assisted" data-select="5" aria-pressed="false" aria-controls="detail"><span class="node-head"><span class="num">05</span><small id="node5-tag">先核材料</small></span><b id="node5-title">写文章初稿</b><span class="desc" id="node5-desc">先检查材料与说话位置，再写初稿</span><span class="out">文章初稿 ＋ 写作记录</span></button>
+<button class="node assisted" data-select="6" aria-pressed="true" aria-controls="detail"><span class="node-head"><span class="num">06</span><small id="node6-tag">独立改稿</small></span><b id="node6-title">活人感改稿</b><span class="desc" id="node6-desc">集中改表达、衔接、节奏和冗余</span><span class="out" id="node6-output">活人感修订稿 ＋ 改稿记录</span></button>
+<button class="node" data-select="7" aria-pressed="false" aria-controls="detail" id="node7"><span class="node-head"><span class="num">07</span><small>最终验收</small></span><b>出厂质检</b><span class="desc">五项标准、作者视角与活人感结果，至少六轮审阅</span><span class="out">完整修订文案 ＋ 质检报告</span></button>
+</div>
+<p class="mode-note" id="mode-note"><b>第 6 步处理表达，第 7 步负责最终质检。</b>标题、开头、作者观点、主文风和结构按本篇约定保护；材料不足和个人结果缺依据时，不能靠改稿补成事实。</p>
+<div class="connector">↓ 完成后交两份最终结果 ↓</div>
+<div class="outputs"><div class="output"><b>完整文案</b><small>标题、开头与正文</small></div><div class="output"><b>质检报告</b><small>依据、修订与未解决项</small></div></div>
+</div><aside id="detail" class="detail" aria-live="polite" aria-atomic="true"></aside></div>
+</section>
+<section class="section"><div class="section-head"><h2>从六步到七步，哪里发生变化</h2><span class="snapshot-label">旧版取自 2026.10.06 升级前快照</span></div>
+<div class="card table-wrap"><table class="table"><thead><tr><th class="label-col">位置</th><th>旧版 v0.2.0 · 六工序</th><th>新版 v0.3.0 · 七工序</th></tr></thead><tbody>
+<tr><th>①–④ 前四步</th><td class="now">读取 → 切入点 → 标题开头 → 正文讲法。</td><td>继续沿用这四步，保护已经选好的观点、标题和讲法。</td></tr>
+<tr><th>⑤ 正文初稿<small>dongtou-article-writer</small></th><td class="now">按已有方案统一写完整正文。</td><td>写前检查具体材料与说话位置，再按原方案写初稿。</td></tr>
+<tr class="newrow"><th>⑥ 活人感改稿<small>human-writing</small></th><td class="now">未作为工序接入；当时只有独立安装版。</td><td>新增独立工序。初稿后读改稿规则，集中改表达、衔接、节奏和冗余。</td></tr>
+<tr><th>⑦ 出厂质检<small>dongtou-article-review</small></th><td class="now">原第 6 步，五项标准、作者视角、至少六轮。</td><td>移为第 7 步，检查当前完整稿与活人感改稿结果，保留原质检要求。</td></tr>
+<tr><th>创作总控<small>dongtou-wechat-writing</small></th><td class="now">第七组件，协调六步。</td><td>第八组件，协调七步、接续与定向返修。</td></tr>
+</tbody></table></div>
+<div class="position-grid"><div class="position added"><b>活人感有自己的改稿位置</b><p>第五步先保证有材料、有说话位置。第六步拿真实初稿改表达，保留必要内容。第七步验收完整稿的事实、承诺、结构和最终表达。</p></div><div class="position"><b>原来定好的内容继续优先</b><p>作者观点、固定标题与开头、主文风、主结构和允许修改范围继续沿用。其他文风 DNA 仍按本篇需要从外部读取。</p></div></div></section>
+<section class="section"><div class="section-head"><h2>内置与单独调用，有什么区别</h2><span>放在哪里，和怎么调用，是两件事</span></div>
+<div class="card table-wrap"><table class="table"><thead><tr><th class="label-col">你关心的事</th><th>从套件入口调用</th><th>单独调用某个 Skill</th></tr></thead><tbody>
+<tr><th>放在哪里</th><td>旧版七个核心组件已完整内置。新版加上 human-writing，共八个组件放在 <code>components/</code> 内。</td><td>同名独立副本各有自己的安装文件夹，可以服务单项任务。</td></tr>
+<tr><th>怎么调用</th><td><code>$dongtou-content-workflow</code><small>总控读取套件内组件，按这次范围接着做。</small></td><td>例如 <code>$dongtou-article-writer</code> 或 <code>$human-writing</code><small>调用该单项能力。</small></td></tr>
+<tr><th>版本会不会相同</th><td>明确读取本套件内版本，按同一工作流交接。</td><td>独立副本有自己的版本；升级前快照中，六个同名副本与内置版不同。</td></tr>
+<tr><th>适合什么时候</th><td>需要前后衔接、保留已定选择，或接着完成公众号文章。</td><td>只做一个专项工作，或把同一个 Skill 用到其他中文创作。</td></tr>
+<tr><th>活人感怎样用</th><td>新版第 5 步提前核材料和说话位置，第 6 步使用完整 human-writing 集中改稿，第 7 步最终复核。</td><td>独立 human-writing 入口可服务其他任务；单独使用不会自动跑完整公众号工作流。</td></tr>
+</tbody></table></div>
+<p class="inline-note"><b>公众号文章继续从一个套件入口接着做。</b>只有单项需求时，也可以指定某个工序；总控按本轮授权范围结束。</p></section>
+<section class="section"><div class="section-head"><h2>新版八个组件，分别在哪一步</h2><span>七个工序组件 ＋ 一个总控</span></div>
+<div class="card table-wrap"><table class="table"><thead><tr><th class="label-col">位置</th><th>完整内置组件</th><th>负责什么</th></tr></thead><tbody>
+<tr><th>① 完整读取</th><td><code>dongtou-source-reader</code></td><td>读取材料，留下来源和缺口。</td></tr>
+<tr><th>② 找切入点</th><td><code>dongtou-angle-finder</code></td><td>确定我的观点、理由与给读者的建议。</td></tr>
+<tr><th>③ 标题与开头</th><td><code>dongtou-title-opening</code></td><td>把观点与承诺写进开篇。</td></tr>
+<tr><th>④ 正文讲法</th><td><code>dongtou-body-plan</code></td><td>确定主文风与结构，安排材料展开。</td></tr>
+<tr><th>⑤ 写初稿</th><td><code>dongtou-article-writer</code></td><td>先核材料和说话位置，一个主写手统一成稿。</td></tr>
+<tr class="newrow"><th>⑥ 活人感改稿</th><td><code>human-writing</code></td><td>对初稿集中改表达，留下采用与改稿记录。</td></tr>
+<tr><th>⑦ 出厂质检</th><td><code>dongtou-article-review</code></td><td>验收当前完整稿，交文案与质检报告。</td></tr>
+<tr><th>总控 · 贯穿七步</th><td><code>dongtou-wechat-writing</code></td><td>协调起点、交接、保护范围与返修。</td></tr>
+</tbody></table></div></section>
+<details class="paths"><summary>展开查看 · 升级前实际路径与版本快照</summary><div class="path-intro"><p><b>快照日期 2026.10.06。</b>以下记录升级前读取的真实路径和版本，不代表升级完成后的安装状态。</p><p>旧版套件 · v0.2.0<code>/Users/gouxiaodong/.codex/skills/dongtou-content-workflow</code></p><p>新版构建目录 · v0.3.0<code>/Users/gouxiaodong/Desktop/东头内容创造/公众号/Skill制作/七步完整套件-v0.3.0/candidate/dongtou-content-workflow</code></p></div><div class="table-wrap"><table class="table"><thead><tr><th>组件</th><th>升级前套件内置版</th><th>升级前独立安装版</th></tr></thead><tbody id="path-rows"></tbody></table></div></details>
+<footer><p>旧版视图来自 2026.10.06 升级前本地核对快照；新版视图展示已批准的七工序结构。</p><p>本页说明工作流；实际安装与同步结果以本次交付记录为准。</p></footer>
+</main>
+<script>
+'use strict';
+const base='/Users/gouxiaodong/.codex/skills/';
+const suite=base+'dongtou-content-workflow/components/';
+const candidateVersions={"dongtou-source-reader": "1.1.2", "dongtou-angle-finder": "0.3.0", "dongtou-title-opening": "0.2.0", "dongtou-body-plan": "0.2.0", "dongtou-article-writer": "0.3.0", "human-writing": "1.0.0", "dongtou-article-review": "0.3.0", "dongtou-wechat-writing": "2.2.0"};
+const rows=[
+ {id:'dongtou-source-reader',name:'完整读原文',bundled:'1.1.2',standalone:'1.1.2',same:true},
+ {id:'dongtou-angle-finder',name:'找切入点',bundled:'0.3.0',standalone:'0.2.0',same:false},
+ {id:'dongtou-title-opening',name:'标题与开头',bundled:'0.2.0',standalone:'0.1.0',same:false},
+ {id:'dongtou-body-plan',name:'正文讲法',bundled:'0.2.0',standalone:'0.1.0',same:false},
+ {id:'dongtou-article-writer',name:'写完整正文',bundled:'0.2.0',standalone:'0.1.0',same:false},
+ {id:'dongtou-article-review',name:'出厂质检',bundled:'0.2.0',standalone:'0.1.0',same:false},
+ {id:'dongtou-wechat-writing',name:'创作总控',bundled:'2.1.0',standalone:'1.0.0',same:false},
+ {id:'human-writing',name:'活人感写作',bundled:null,standalone:'1.0.0',same:null}
+];
+const common=[
+ {id:'1',title:'完整读原文',skill:'dongtou-source-reader',input:'原文、链接、图片或视频，以及本篇要求。',actions:['实际读取可取得的完整材料，标明已读范围、缺口与出处。','分开事实、原文观点、作者自述和尚未验证的内容。'],output:'完整读取记录 ＋ 速读卡',keep:'下游写作继续依赖真实材料和可回查的来源。'},
+ {id:'2',title:'找切入点',skill:'dongtou-angle-finder',input:'读取记录、速读卡、读者要求与本篇目的。',actions:['确定当篇读者、切入点与材料能够支持的阅读收益。','形成我的核心观点、理由和给读者的建议。'],output:'切入点卡 ＋ 分析记录',keep:'你要求先聊观点时先共创；授权直接代写时，保留为可调整的试稿。'},
+ {id:'3',title:'标题与开头',skill:'dongtou-title-opening',input:'已选切入点与原文材料，或已有完整正文。',actions:['围绕同一份作者观点设计标题、开头和正文要回答的问题。','已有标题与开头时核对正文兑现，按你的修改范围处理。'],output:'标题与开头卡 ＋ 设计记录',keep:'已锁定标题和开头优先沿用，活人感改稿服从本篇选择。'},
+ {id:'4',title:'正文讲法',skill:'dongtou-body-plan',input:'切入点、标题、开头，以及可用文风材料。',actions:['选一个主文风和主结构，安排每段怎样推进。','把作者观点、事实、案例和解释放到合适位置，给出短示范。'],output:'本篇讲法卡 ＋ 讲法参考记录',keep:'其他文风 DNA 仍按本篇需要外部读取。活人感改稿保护已选主文风和结构。'}
+];
+const writerOld={id:'5',title:'写完整正文',skill:'dongtou-article-writer',input:'讲法卡、已定标题与开头、作者观点和原文依据。',actions:['由一个主写手统一成稿，沿用前面已经选好的方向。','讲清作者怎么看、为什么这样看、对读者有什么建议。'],output:'文章初稿 ＋ 写作记录',keep:'不借用别人经历，不把猜出的个人细节写成事实。'};
+const writerNew={id:'5',title:'写文章初稿',skill:'dongtou-article-writer',input:'讲法卡、已定标题与开头、作者观点和原文依据。',actions:['写前检查具体材料是否能支撑本篇篇幅；确定作者的说话位置。','按既定主文风、主结构和真实依据，由一个主写手写初稿。','保留文章必须回答的问题，把初稿和真实写作记录交给第 6 步。'],output:'文章初稿 ＋ 写作记录',keep:'长稿材料不足先补料或按范围结束；没有依据的搭建、亲测与效率结果不能编。',change:'第五步提前读材料和说话位置要求；详细 revision 改稿规则留到初稿完成后的第六步。'};
+const human={id:'6',title:'活人感改稿',skill:'human-writing',input:'第 5 步初稿、讲法卡、材料依据与保护范围。',actions:['在初稿完成后读取 revision，回读当前稿。','集中处理语序、衔接、节奏、重复和禁用表达，用真实材料推进。','保护已定观点、标题开头、主文风和结构，只改允许范围。','留下修订稿与改稿记录，区分全文结果与可编辑范围结果。'],output:'活人感修订稿 ＋ 改稿记录',keep:'该步骤独立改表达，不换题目、不造亲历，也不能靠删内容回避固定承诺。',change:'human-writing 成为独立第六步。完成改稿后，第七步对当前完整稿做最终质检。'};
+const reviewOld={id:'6',title:'出厂质检',skill:'dongtou-article-review',input:'当前完整稿、上游决定、原文依据与选定结构。',actions:['检查想不想看、能不能看懂、凭什么相信、有没有兑现、是否遵守选定结构。','核验作者观点是否贯穿全文；至少六轮，最后重读当前完整稿。'],output:'完整修订文案 ＋ 质检报告',keep:'发现缺口就返回能解决问题的步骤，在授权范围内修订。'};
+const reviewNew={...reviewOld,id:'7',input:'第 6 步当前修订稿、改稿记录、上游决定与原文依据。',actions:[...reviewOld.actions,'复核活人感改稿结果、保护范围和当前全文版本，报告修订与未解决项。'],change:'原出厂质检从第六步移到第七步，原五项标准、作者视角与至少六轮审阅继续保留。'};
+const oldSteps=[...common,writerOld,reviewOld];const newSteps=[...common,writerNew,human,reviewNew];
+const controllerOld={id:'controller',title:'创作总控',skill:'dongtou-wechat-writing',input:'本篇要求和已有产物，也可以只有原文或链接。',actions:['识别已有成果和有效性，从对应步骤接着做。','沿用你的观点、已定标题、开头、文风和结构，安排组件衔接。','哪里有问题就回哪里修，最后回读当前完整稿。'],output:'完整文案 ＋ 质检报告',keep:'旧版总控贯穿六步，是原有第七组件。'};
+const controllerNew={...controllerOld,actions:[...controllerOld.actions,'协调第 5 步初稿、第 6 步活人感改稿、第 7 步最终质检的独立交接。'],keep:'新版总控贯穿七步，是第八组件。只做单步或局部修改时，按这次授权范围结束。',change:'八组件对应七个创作工序和一个总控；总控本身不增加第八道工序。'};
+let mode='candidate';let selected='6';
+const escapeHtml=value=>String(value).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;');
+const el=id=>document.getElementById(id);
+function renderDetail(){
+ const candidate=mode==='candidate';const steps=candidate?newSteps:oldSteps;
+ const data=selected==='controller'?(candidate?controllerNew:controllerOld):steps.find(x=>x.id===selected);if(!data)return;
+ const row=rows.find(x=>x.id===data.skill);const version=candidate?candidateVersions[data.skill]:row.bundled;
+ const label=selected==='controller'?(candidate?'内置总控 · 贯穿七步':'旧版快照 · 总控贯穿六步'):(candidate?'新版内置组件 · 第 '+selected+' 步':'旧版快照 · 第 '+selected+' 步');
+ const change=data.change?'<div class="change"><b>升级后变化</b><p>'+escapeHtml(data.change)+'</p></div>':'';
+ el('detail').style.borderTopColor=candidate&&selected==='6'?'var(--gold)':'var(--green)';
+ el('detail').innerHTML='<span class="tag">'+escapeHtml(label)+'</span><h3>'+escapeHtml(data.title)+'</h3><div class="machine">'+escapeHtml(data.skill)+'<br>'+escapeHtml(candidate?'新版内置 v'+version:'2026.10.06 升级前内置 v'+version)+'</div><div class="detail-grid"><div><div class="d-label">接住什么</div><p>'+escapeHtml(data.input)+'</p><div class="d-label">实际怎么做</div><ul>'+data.actions.map(x=>'<li>'+escapeHtml(x)+'</li>').join('')+'</ul></div><div class="result"><div class="d-label">交付什么</div><p>'+escapeHtml(data.output)+'</p></div>'+change+'<p class="rule">'+escapeHtml(data.keep)+'</p></div>';
+ document.querySelectorAll('[data-select]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.select===selected)));
+}
+function setMode(next){
+ mode=next;const candidate=mode==='candidate';
+ document.querySelectorAll('[data-mode]').forEach(b=>{const active=b.dataset.mode===mode;b.setAttribute('aria-selected',String(active));b.tabIndex=active?0:-1;});
+ el('blueprint-view').setAttribute('aria-labelledby','mode-'+mode);
+ el('module-count').textContent=candidate?'8':'7';el('module-label').textContent=candidate?'八个完整内置组件':'七个完整内置组件';
+ el('module-sub').textContent=candidate?'七个工序组件 ＋ 创作总控':'六个工序组件 ＋ 创作总控';
+ el('step-count').textContent=candidate?'7':'6';el('step-label').textContent=candidate?'七道创作工序':'六道创作工序';
+ el('step-sub').textContent=candidate?'初稿 → 活人感改稿 → 出厂质检':'2026.10.06 升级前快照';
+ el('flow-heading').textContent=candidate?'新版七工序 · 活人感改稿成为第 6 步':'旧版快照 · 六工序、七个内置组件';
+ el('flow-hint').textContent=candidate?'点七个节点，查看具体分工':'2026.10.06 升级前快照，可点六个节点';
+ el('controller-badge').textContent=candidate?'组件 8 · 总控':'组件 7 · 总控';
+ el('control-line').textContent=candidate?'↓ 总控协调七步，读取套件内的完整组件 ↓':'↓ 旧版总控协调六步，读取套件内组件 ↓';
+ el('node5-tag').textContent=candidate?'先核材料':'成稿';el('node5-title').textContent=candidate?'写文章初稿':'写完整正文';
+ el('node5-desc').textContent=candidate?'先检查材料与说话位置，再写初稿':'统一写出观点、理由和建议';
+ el('node6-tag').textContent=candidate?'独立改稿':'最终验收';el('node6-title').textContent=candidate?'活人感改稿':'出厂质检';
+ el('node6-desc').textContent=candidate?'集中改表达、衔接、节奏和冗余':'五项标准与作者视角，至少六轮';
+ el('node6-output').textContent=candidate?'活人感修订稿 ＋ 改稿记录':'完整修订文案 ＋ 质检报告';
+ document.querySelectorAll('.node[data-select="5"],.node[data-select="6"]').forEach(b=>b.classList.toggle('assisted',candidate));
+ el('node7').hidden=!candidate;
+ el('mode-note').innerHTML=candidate?'<b>第 6 步处理表达，第 7 步负责最终质检。</b>标题、开头、作者观点、主文风和结构按本篇约定保护；材料不足和个人结果缺依据时，不能靠改稿补成事实。':'<b>这是升级前快照。</b>旧版第 6 步是出厂质检；human-writing 当时已单独安装 v1.0.0，尚未成为套件内独立工序。';
+ if(!candidate&&selected==='7')selected='6';renderDetail();
+}
+function renderPaths(){el('path-rows').innerHTML=rows.map(r=>'<tr><th>'+escapeHtml(r.name)+'<small>'+escapeHtml(r.id)+'</small></th><td>'+(r.bundled?'<span class="version">v'+escapeHtml(r.bundled)+'</span><code>'+escapeHtml(suite+r.id)+'</code>':'<span class="version diff">升级前尚未内置</span><small>新版加入 components/human-writing</small>')+'</td><td><span class="version '+(r.same===false?'diff':'')+'">v'+escapeHtml(r.standalone)+'</span><code>'+escapeHtml(base+r.id)+'</code><small>'+(r.same===true?'快照中与内置版内容相同':r.same===false?'快照中与内置版内容不同':'升级前独立安装')+'</small></td></tr>').join('');}
+ document.querySelectorAll('[data-mode]').forEach(b=>b.addEventListener('click',()=>setMode(b.dataset.mode)));
+ document.querySelectorAll('[data-select]').forEach(b=>b.addEventListener('click',()=>{selected=b.dataset.select;renderDetail();}));
+ document.querySelector('[role="tablist"]').addEventListener('keydown',event=>{const tabs=[...document.querySelectorAll('[data-mode]')];let index=tabs.indexOf(document.activeElement);if(index<0)return;if(event.key==='ArrowRight'||event.key==='ArrowLeft')index=(index+1)%tabs.length;else if(event.key==='Home')index=0;else if(event.key==='End')index=tabs.length-1;else return;event.preventDefault();setMode(tabs[index].dataset.mode);tabs[index].focus();});
+renderPaths();setMode('candidate');
+</script></body></html>

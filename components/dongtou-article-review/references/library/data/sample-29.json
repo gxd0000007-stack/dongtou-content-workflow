@@ -1,0 +1,439 @@
+{
+  "id": "sample-29",
+  "number": 29,
+  "title": "一定要学会辨别身边成长极快的人",
+  "short_name": "从识别高手到拆出方法",
+  "family": "个人复盘到筛选标准",
+  "skeleton": [
+    "识别他人关联自身成长",
+    "成长复盘与提问引出答案",
+    "标签化归因改成过程问题",
+    "偏差解释补充为什么误看",
+    "界定借鉴对象是体系",
+    "获取方法与识别问题",
+    "持续结果与可教体系两条标准",
+    "个人应用过程而非只炫结果",
+    "一项拆解作业收束"
+  ],
+  "distinctive": "以成长复盘和课堂提问交代观点来源，先拆标签化归因，再界定借鉴的是完整系统，提供两条选人标准，以自己的学习过程和一项拆解任务结尾。",
+  "promise": "教读者观察持续结果和可解释体系，识别值得学习的人并拆方法；不把付费、复刻或抄袭等同必然成长。",
+  "applicability": [
+    "AI新手如何判断教程作者是否值得学",
+    "寻找自媒体对标并提取工作方法",
+    "复盘自己向别人学习的方法"
+  ],
+  "material_preconditions": [
+    "明确想学的具体任务",
+    "目标对象的持续结果和实际方法证据",
+    "作者自己的学习记录或标明来源的案例"
+  ],
+  "source_limits": [
+    "来源仅为用户本次粘贴的公众号文章文本，万赞状态为用户报告，未读取原页面或核验互动数据。",
+    "Ray的身份、经历、客户反馈、收益数字及所引名言均为作者叙述；不得写成东头的亲历或已证实事实。",
+    "认知偏差名称和解释仅为原稿使用，未核验理论出处；不得据此诊断读者。",
+    "所有问题只能靠抄、最好方法一定在成功者手上和付费即可获得方法都有外推；保留原创、许可、能力和适用条件。"
+  ],
+  "stages": [
+    {
+      "label": "识别他人关联自身成长",
+      "start_quote": "越能看清别人是如何成长的，就越无法再为自己的停滞找借口。",
+      "function": "把看懂别人和停止自我宽慰关联起来，建立本篇目标。",
+      "transition": "随后由作者成长复盘与课堂提问解释为何讨论。",
+      "mechanism": "利益关联和判断先行",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "读者正在寻找的学习对象",
+        "停滞的具体任务"
+      ],
+      "fail": [
+        "只用停滞找借口指责人，没有可学习收益。"
+      ],
+      "adaptation": "从我找AI教程时更关注作者怎么持续做出结果起笔。",
+      "pass": [
+        "开头能对应实际学习目标而不羞辱读者。"
+      ],
+      "id": "S01",
+      "source_span": {
+        "start_character": 35,
+        "end_character": 87,
+        "percentage_start": 0.0,
+        "percentage_end": 2.4,
+        "sha256": "0ce2a05ffddc3e67b5f22a9cfd82ad6e1d519e20a94f915708dcdcc32427ba79"
+      }
+    },
+    {
+      "label": "成长复盘与提问引出答案",
+      "start_quote": "最近在做商业课的交付，复盘了过去自己 2 年的成长",
+      "function": "用不会直播到直播人数等结果和学员追问，回答成长动力在于观察快的人。",
+      "transition": "再去解释为何很多人没从别人身上学到方法。",
+      "mechanism": "成长前后与现场问题",
+      "requirement": "conditional",
+      "condition": "作者拥有真实成长记录或现场提问时保留；否则用经授权转述。",
+      "materials": [
+        "真实的起点与结果",
+        "用户原问题",
+        "作者确认的答案"
+      ],
+      "fail": [
+        "把Ray的20万粉或课堂问题编成东头经历。"
+      ],
+      "adaptation": "可用用户问七步套件怎么来的等真实问题，讲实际建设过程。",
+      "pass": [
+        "结果交代口径，问题自然引出本文判断。"
+      ],
+      "id": "S02",
+      "source_span": {
+        "start_character": 87,
+        "end_character": 367,
+        "percentage_start": 2.4,
+        "percentage_end": 15.3,
+        "sha256": "6f3a2ed059e97529bcc65a874aab72e2a438c5167f1b816c01a3a9aae6602978"
+      }
+    },
+    {
+      "label": "标签化归因改成过程问题",
+      "start_quote": "看到别人副业做起来了，就说他有资源、有背景",
+      "function": "先摆风口、运气等标签，再逐项追问计划、爆款、转化和稳定输出的过程。",
+      "transition": "从行为示例引向作者引用的认知偏差解释。",
+      "mechanism": "错误解释与可追问问题对照",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "一个只看结果的判断",
+        "可核查过程问题"
+      ],
+      "fail": [
+        "把所有外部归因当逃避，忽视背景差异。"
+      ],
+      "adaptation": "拿一个AI高手案例，从工具清单改问输入、过程、检查如何做。",
+      "pass": [
+        "读者学到怎样提问，不把资源和运气的真实作用抹掉。"
+      ],
+      "id": "S03",
+      "source_span": {
+        "start_character": 367,
+        "end_character": 659,
+        "percentage_start": 15.3,
+        "percentage_end": 28.8,
+        "sha256": "407048d7ebf58c8dd90f5318f9e1ee600005571bea1974ef27a9aceacaf04254"
+      }
+    },
+    {
+      "label": "偏差解释补充为什么误看",
+      "start_quote": "认知科学中，有两个概念，一个叫“可得性偏差”",
+      "function": "借术语解释直觉标签如何遮蔽过程，强化拆解必要性。",
+      "transition": "下一段给具体解法，并重新解释抄的含义。",
+      "mechanism": "概念命名与行为后果链",
+      "requirement": "optional",
+      "condition": "需要理论解释且来源已核验时使用；可删除而保留行为对照。",
+      "materials": [
+        "核验后的理论原始出处或明确作者假设",
+        "行为示例"
+      ],
+      "fail": [
+        "只摆两种偏差名字就判定读者大脑限制成长。"
+      ],
+      "adaptation": "不需心理术语时用只看粉丝看不到操作过程的大白话即可。",
+      "pass": [
+        "概念与例子有对应关系且无诊断口气。"
+      ],
+      "id": "S04",
+      "source_span": {
+        "start_character": 659,
+        "end_character": 873,
+        "percentage_start": 28.8,
+        "percentage_end": 38.6,
+        "sha256": "24f1b3f307826b906432f13fb9d27746506ff06fead975e33726366920d0e9b9"
+      }
+    },
+    {
+      "label": "界定借鉴对象是体系",
+      "start_quote": "抄，不是跟风狗，而是成长的最快方式。",
+      "function": "将作者所谓抄从跟风改为系统拆解，列资源、顺序、节奏和关键点。",
+      "transition": "从要拆完整方法过渡到怎样接近方法拥有者。",
+      "mechanism": "概念重定义与观察维度",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "允许学习的公开方法",
+        "目标任务需要的输入和步骤",
+        "许可与原创边界"
+      ],
+      "fail": [
+        "把1:1抄袭当作创作规范。"
+      ],
+      "adaptation": "明确只提取叙述功能、流程和检查方式，重写为东头材料。",
+      "pass": [
+        "明白学方法和复制表达不同，有具体拆解维度。"
+      ],
+      "id": "S05",
+      "source_span": {
+        "start_character": 873,
+        "end_character": 1215,
+        "percentage_start": 38.6,
+        "percentage_end": 54.4,
+        "sha256": "16691fcd2bce56afb43ce6eb4c37ddaa662a8de68562c3fff1e436cedfa6cdab"
+      }
+    },
+    {
+      "label": "获取方法与识别问题",
+      "start_quote": "很简单，付费。",
+      "function": "介绍付费或转介绍等接近方式，再主动提出人人包装得厉害的识别难题。",
+      "transition": "为两条筛选标准制造真实需求。",
+      "mechanism": "方案后的风险追问",
+      "requirement": "conditional",
+      "condition": "当篇涉及付费学习或咨询选择时使用；否则改成公开材料获取。",
+      "materials": [
+        "可获取信息的渠道",
+        "付费与免费替代方案",
+        "选择成本"
+      ],
+      "fail": [
+        "鼓励只要收费就相信，或把高价视为专业。"
+      ],
+      "adaptation": "可建议先查公开样例与完整说明，再按需求决定是否付费。",
+      "pass": [
+        "不把付费本身当效果证据，明确需判断讲清和适合。"
+      ],
+      "id": "S06",
+      "source_span": {
+        "start_character": 1215,
+        "end_character": 1433,
+        "percentage_start": 54.4,
+        "percentage_end": 64.5,
+        "sha256": "cd0be8eef88a08b90d811366dcf72a3bc1ae73c9a39002d508223bdeb11e2b85"
+      }
+    },
+    {
+      "label": "持续结果与可教体系两条标准",
+      "start_quote": "1. 这个人必须是持续成长的",
+      "function": "先看稳定更新结果，再看能否解释和传授方法，区分会做与会教。",
+      "transition": "标准给出后回到作者实际怎么学习和调整。",
+      "mechanism": "两个维度筛选与反例",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "连续时间段的结果",
+        "一个能照着执行的讲解样例",
+        "对新手的实际适配"
+      ],
+      "fail": [
+        "把老师账号没流量直接等同教学无效。"
+      ],
+      "adaptation": "判断AI教程是否有版本记录、完整输入输出、错误处理和新手示例。",
+      "pass": [
+        "两条标准各有可观察证据，结果不只看流量。"
+      ],
+      "id": "S07",
+      "source_span": {
+        "start_character": 1433,
+        "end_character": 1769,
+        "percentage_start": 64.5,
+        "percentage_end": 79.9,
+        "sha256": "057071783224c21b30ddb48e4192cf1ac3c4fc4c4820f64c25c5db6560e7a733"
+      }
+    },
+    {
+      "label": "个人应用过程而非只炫结果",
+      "start_quote": "刚开始做视频，我抄人家的脚本结构",
+      "function": "列视频、课程、私域不同阶段所学的方法，并强调一路调一路练。",
+      "transition": "把自己的路径重新交给读者执行一次。",
+      "mechanism": "阶段行动序列与反复调整",
+      "requirement": "conditional",
+      "condition": "有作者亲历学习材料时使用；否则示范一次可核查拆解。",
+      "materials": [
+        "东头真实学习对象和调整内容",
+        "自己的实践成果"
+      ],
+      "fail": [
+        "只晒二十万学习费用或粉丝，不交代改变过程。"
+      ],
+      "adaptation": "讲七步库里参考结构怎样被挑选、适配和检验，不冒认原作者成果。",
+      "pass": [
+        "说清学了哪种方法、如何改到自己任务。"
+      ],
+      "id": "S08",
+      "source_span": {
+        "start_character": 1769,
+        "end_character": 2082,
+        "percentage_start": 79.9,
+        "percentage_end": 94.4,
+        "sha256": "de427eb442f9d614ca7d1a3d7613de80f71e8780297a15095d1c754f1316271a"
+      }
+    },
+    {
+      "label": "一项拆解作业收束",
+      "start_quote": "找一个你真心佩服的人，不要再点赞收藏就完事",
+      "function": "把全文变成选择一人、拆系统、试一小部分的行动。",
+      "transition": "回扣开头看清别人，结尾落到自己的练习。",
+      "mechanism": "有限任务与行动比较",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "对象",
+        "一项可执行方法",
+        "完成与复核条件"
+      ],
+      "fail": [
+        "只说抄5%比空转100天强，没有任务。"
+      ],
+      "adaptation": "选一篇AI教程记录任务、输入、过程、检查，并用自己的材料做一次。",
+      "pass": [
+        "读者知道选谁、拆什么、试哪一步。"
+      ],
+      "id": "S09",
+      "source_span": {
+        "start_character": 2082,
+        "end_character": 2204,
+        "percentage_start": 94.4,
+        "percentage_end": 100.0,
+        "sha256": "cefb540a372b05ee71136720479abe681a460cb062cce5fc688a09f89c083eb6"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "成长复盘服务一个读者想学的具体任务，结果只是入口。",
+      "stage_ids": [
+        "S01",
+        "S02"
+      ],
+      "evidence_needed": [
+        "明确学习目标",
+        "真实问题"
+      ],
+      "failure": "粉丝和付费金额取代读者收益。"
+    },
+    "understandable": {
+      "criterion": "资源、顺序、关键点和持续结果/可教性都有具体样例。",
+      "stage_ids": [
+        "S03",
+        "S05",
+        "S07"
+      ],
+      "evidence_needed": [
+        "拆解维度",
+        "两条标准的观察证据"
+      ],
+      "failure": "抄与拆解混成一个口号。"
+    },
+    "credible": {
+      "criterion": "作者结果、心理术语和付费效果分开，选人不只靠流量包装。",
+      "stage_ids": [
+        "S02",
+        "S04",
+        "S06",
+        "S07",
+        "S08"
+      ],
+      "evidence_needed": [
+        "亲历归属",
+        "理论来源",
+        "连续过程样例"
+      ],
+      "failure": "将成功者讲的内容默认当最佳路径。"
+    },
+    "fulfilled": {
+      "criterion": "给完整方法拆解维度、双标准与一次小练习。",
+      "stage_ids": [
+        "S05",
+        "S07",
+        "S09"
+      ],
+      "evidence_needed": [
+        "检查清单",
+        "练习产出"
+      ],
+      "failure": "结尾叫付费学习，却没教识别方法。"
+    },
+    "structure": {
+      "criterion": "复盘提问、误读过程、方法界定、获取难题、双标准、试用彼此承接。",
+      "stage_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S05",
+        "S06",
+        "S07",
+        "S09"
+      ],
+      "evidence_needed": [
+        "阶段之间的设问与回答"
+      ],
+      "failure": "只剩两个选人小标题，缺少为何要这样筛选。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "用过程问题替代结果标签。",
+      "界定拆解对象，说明资源、顺序与关键点。",
+      "持续结果和能否讲清楚分开判断。",
+      "结尾让读者试一次方法。"
+    ],
+    "adjustable": [
+      "心理术语、学习费用和成绩数字可删。",
+      "付费获取可换成公开资料。",
+      "抄袭表述必须改为方法借鉴并保持原创。"
+    ],
+    "fill_before_writing": [
+      "本篇要学的任务与对象：____",
+      "结果持续性和可教性证据：____",
+      "作者实践或一次拆解练习：____"
+    ]
+  },
+  "summary": "把佩服高手转成可观察的过程问题、两条选人标准与一次试用。",
+  "tags": [
+    "公众号",
+    "对标",
+    "方法拆解",
+    "学习对象",
+    "第一人称复盘"
+  ],
+  "useful_modules": [
+    "structure",
+    "opening",
+    "explanation",
+    "experience"
+  ],
+  "methods": {
+    "structure": {
+      "quote": "但现在有一个很大的问题：社交平台把每个人都包装成了“好像很厉害”的样子",
+      "observation": "讲学习方案后主动提出识别风险，使标准有来由。",
+      "adaptation": "推荐AI教程或Skill前先说明容易误判哪里，再给筛选维度。",
+      "limit": "不能为了推自己的产品夸大别人不可靠。"
+    },
+    "opening": {
+      "quote": "昨天晚上上课，恰好有人问我",
+      "observation": "用真实提问让读者进入作者的思考现场。",
+      "adaptation": "采用用户实际问过的问题作为文章起点。",
+      "limit": "不可虚构课堂、学生或结果。"
+    },
+    "explanation": {
+      "quote": "什么叫体系化方法，就是从 0 到 1 搞明白",
+      "observation": "用资源、顺序、节奏和关键点展开抽象体系。",
+      "adaptation": "解释Skill或工作流时逐项说明输入、动作、检查和完成条件。",
+      "limit": "体系化不是把步骤名堆成大词。"
+    },
+    "experience": {
+      "quote": "一路抄，一路调，一路练",
+      "observation": "用持续调整呈现学习过程，弱化天赋神话。",
+      "adaptation": "讲东头真实参考、调整、测试某一写作方法的过程。",
+      "limit": "抄的对象应为方法而非受保护原文和别人经历。"
+    }
+  },
+  "source_path": "raw/sample-29.txt",
+  "source_sha256": "ec70a817bb5861589358be71b5bc1c1d2ecc5186d02b210c1a13483ffe84384a",
+  "body_start_character": 35,
+  "body_end_character": 2204,
+  "source_group": "ray-wechat-2026-10-07",
+  "submitted_number": "04",
+  "source_completeness": "as_submitted",
+  "source_defect_notes": [],
+  "full_structure_reference": true,
+  "opening_reference": true,
+  "allowed_usage": [
+    "selected_structure",
+    "local_method"
+  ]
+}

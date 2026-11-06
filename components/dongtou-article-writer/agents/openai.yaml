@@ -1,0 +1,4 @@
+interface:
+  display_name: "东头正文成稿"
+  short_description: "接住观点与讲法，按内置活人感规则写成公众号初稿并自检"
+  default_prompt: "用 $dongtou-article-writer 接住本篇第四步方案与我的观点，沿用已定标题、文风和依据，读取同级human-writing并遵守保护范围，以东头第一人称视角交付完整文章初稿与简短写作记录。完整创作授权下直接代拟试稿，真实经历只用我提供的材料。"

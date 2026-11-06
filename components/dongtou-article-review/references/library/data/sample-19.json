@@ -1,0 +1,484 @@
+{
+  "id": "sample-19",
+  "number": 19,
+  "title": "3 分钟教会你从 0 到 1 找到属于自己的生意",
+  "short_name": "三列表格筛对标再揭示选择局限",
+  "family": "表格决策教学",
+  "skeleton": [
+    "限时起步承诺与方法来源",
+    "对标列和获客筛选标准",
+    "收入列的商品估算",
+    "公开数据异常局限",
+    "广告估算",
+    "私域未知与销售流程",
+    "个人难度列",
+    "低难度生意的天花板复盘",
+    "组合排序",
+    "能力缺口与样本范围问题",
+    "商品流量与对标回扣"
+  ],
+  "distinctive": "三列依次从外部存在、收入量级转到个人难度，排序之前插入低门槛生意的长期天花板复盘。",
+  "promise": "提供一个对标表格来选择较适合模仿的生意；24小时盈利、两天半涨粉和已验证等均属原稿自述或承诺。",
+  "applicability": [
+    "存在多个候选且能观察获客过程的方向选择",
+    "需把调查数据和自身条件共同纳入的比较文章"
+  ],
+  "material_preconditions": [
+    "有可观察内容、商品和获客链路的对标池",
+    "收入估计所用数据及未知项",
+    "自身能力资源与候选长期空间"
+  ],
+  "source_limits": [
+    "转写中奔驰8ING等方法名失真，施乐来源和历史时间未核验。",
+    "售价乘销量、报价乘广告数仅估量级，不等于实际到账或净利润，私域收入仍不可见。",
+    "作者快速建立生意和收入天花板是个人自述，表格排序不能证明读者能在24小时内盈利。"
+  ],
+  "stages": [
+    {
+      "label": "承诺表格选生意",
+      "function": "用短时间起步和旧内容增长自述吸引，宣布对标表格方法及来源。",
+      "transition": "说明要交付一张可用表格后进入第一列。",
+      "mechanism": "结果承诺、旧内容背书、方法命名和来源。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "本篇表格产物",
+        "方法出处与个人结果原始记录"
+      ],
+      "pass": [
+        "清楚说明表格能帮助选择什么，效果数字标注自述。"
+      ],
+      "fail": [
+        "把短时间盈利当适用于所有人的保证。"
+      ],
+      "adaptation": "把东头选AI业务或内容方向的表格目标收窄为选择依据。",
+      "id": "S01",
+      "start_quote": "如何在24小时以内找到自己的生意并开始盈有",
+      "source_span": {
+        "start_character": 39,
+        "end_character": 281,
+        "percentage_start": 0.0,
+        "percentage_end": 6.6,
+        "sha256": "080ee56d5db7b486916410d74df448fb8f5f072f3b7c0a4092ac64cf9cc8e0f9"
+      }
+    },
+    {
+      "label": "第一列可看见获客的对标",
+      "function": "列候选生意，并以知道获客方式、优先内容平台两标准筛选。",
+      "transition": "先建立可拆的候选，再调查收入。",
+      "mechanism": "栏目教学、两项门槛、内容与货架平台对照。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "候选对标账号或业务",
+        "各候选内容、流量与商品的连接"
+      ],
+      "pass": [
+        "每个候选可看到获客过程，而非只有商品。"
+      ],
+      "fail": [
+        "第一列填了名字，却不知它怎样找到客户。"
+      ],
+      "adaptation": "选AI服务对标时记录公开需求、内容触点和交付商品。",
+      "id": "S02",
+      "start_quote": "这个表格工作法分三步，第一步呢",
+      "source_span": {
+        "start_character": 281,
+        "end_character": 913,
+        "percentage_start": 6.6,
+        "percentage_end": 23.8,
+        "sha256": "d92f343a52e89523bad90cedadc33ed9de1f1b15497fd27df468dd032ef50024"
+      }
+    },
+    {
+      "label": "第二列收入估算",
+      "function": "建立收入列，先用售价乘销量估计商品业务量级。",
+      "transition": "从候选存在转为规模调查，随即提醒公开销量的水分。",
+      "mechanism": "新增栏目、算法示例、量级估计。",
+      "requirement": "core",
+      "condition": "选用本结构时必须建立收入列；估算方式按候选业务类型选择，未知收入明确标未知，不强制套用售价乘销量。",
+      "materials": [
+        "候选实际变现类型及能观察到的收入依据",
+        "估算期间与口径；无可靠依据时记录未知项"
+      ],
+      "pass": [
+        "收入列写明数据口径和估算性质；适用商品估算时不把销售额当净利润，无依据不编收入数。"
+      ],
+      "fail": [
+        "只有收入数，没有来源、期间或口径；无数据仍套算法给出确定收入。"
+      ],
+      "adaptation": "用可见数据估计AI产品销售量级并标注置信范围。",
+      "id": "S03",
+      "start_quote": "你接下来第二步呢，就是你得给这个表格再加一列",
+      "source_span": {
+        "start_character": 913,
+        "end_character": 1057,
+        "percentage_start": 23.8,
+        "percentage_end": 27.7,
+        "sha256": "35b62be7a3edd7491c4400b76f8ba3e54f33524ab9c6c7d721d741aa194322af"
+      }
+    },
+    {
+      "label": "公开销售数据局限",
+      "function": "提醒销量评价可能失真，以异常评论举例说明可信度问题。",
+      "transition": "对收入算法加限制，再转到广告收入渠道。",
+      "mechanism": "算法后纠偏、异常迹象举例。",
+      "requirement": "conditional",
+      "condition": "候选包含商品销售并使用公开售价或销量估算时保留；其他类型在对应路径交代自己的数据质量限制。",
+      "materials": [
+        "评价与销量的实际观察",
+        "可支持或削弱估计的数据"
+      ],
+      "pass": [
+        "异常仅作为待复核线索，收入有不确定性标记。"
+      ],
+      "fail": [
+        "见单一异常就认定造假，或完全不记录水分。"
+      ],
+      "adaptation": "为AI业务公开数据注明观察范围与待核查异常。",
+      "id": "S04",
+      "start_quote": "它这里面可能会有一些水分啊",
+      "source_span": {
+        "start_character": 1057,
+        "end_character": 1135,
+        "percentage_start": 27.7,
+        "percentage_end": 29.8,
+        "sha256": "47df8efa8e785f9891ef3f916b2669e4200bc37b87769d87dc3a9dabe5dc2d24"
+      }
+    },
+    {
+      "label": "广告收入估计",
+      "function": "用广告条数和报价估算商单收入，交代报价获取方式及软硬广难辨。",
+      "transition": "补第二种收入路径，随后进入难观察的私域业务。",
+      "mechanism": "按变现类型分类、频次乘报价。",
+      "requirement": "conditional",
+      "condition": "候选包含广告商单收入且需要估量级时采用；无此业务不强制写广告算法。",
+      "materials": [
+        "可识别广告条数与期间",
+        "真实公开报价及实际成交差异"
+      ],
+      "pass": [
+        "条数与报价同一口径，未把报价当实际到账。"
+      ],
+      "fail": [
+        "报价乘所有内容数量直接当收入。"
+      ],
+      "adaptation": "拆AI博主商单时区分可见广告、公开报价和成交未知项。",
+      "id": "S05",
+      "start_quote": "那么第二种情况呢，假如说是这个接广告的博主",
+      "source_span": {
+        "start_character": 1135,
+        "end_character": 1411,
+        "percentage_start": 29.8,
+        "percentage_end": 37.3,
+        "sha256": "5936c5cab948ab98855c9628b606218e3be3e32936795adb15ad25faaa8f0510"
+      }
+    },
+    {
+      "label": "私域收入难观察及销售链路",
+      "function": "承认私域收入无法打包票，转为走售前售中售后以理解成交方式。",
+      "transition": "在两类可见估计之后交代不可见边界，为主观难度评估提供业务理解。",
+      "mechanism": "承认未知、流程调查替代精确数字、作者购买经历。",
+      "requirement": "conditional",
+      "condition": "候选含私域或不可直接观察收入时保留；作者购买方式可用合法公开材料或授权访谈替换。",
+      "materials": [
+        "可合法观察的销售流程",
+        "成交入口、商品与交付信息"
+      ],
+      "pass": [
+        "区分已看见流程和仍未知收入，不把感觉当精确值。"
+      ],
+      "fail": [
+        "臆测私域收入，或强迫读者购买全部商品才能调研。"
+      ],
+      "adaptation": "在AI服务研究中记录公开成交链路和未知项，依资料选择调查方式。",
+      "id": "S06",
+      "start_quote": "那相对不太好搞清楚，收入呢",
+      "source_span": {
+        "start_character": 1411,
+        "end_character": 1723,
+        "percentage_start": 37.3,
+        "percentage_end": 45.8,
+        "sha256": "31615d81da6963127171db2221a0e42ea4b0a3038c6c60861b3475647a77cc5e"
+      }
+    },
+    {
+      "label": "第三列自身主观难度",
+      "function": "为候选评一至五星难度，解释个人优势和兴趣决定适配而无通用好项目。",
+      "transition": "前两列描述外部生意，第三列转向自己的执行条件，再揭示低难度选择局限。",
+      "mechanism": "外部调查与自我判断区分、主客观难度对照。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "本人资源技能和兴趣清单",
+        "候选所需能力与难度理由"
+      ],
+      "pass": [
+        "难度分有个人条件依据，不照搬别人的分。"
+      ],
+      "fail": [
+        "填星数却不解释缺什么或擅长什么。"
+      ],
+      "adaptation": "按东头实际能力资源给AI业务方向评分。",
+      "id": "S07",
+      "start_quote": "然后接下来第三步是整个表度工作法里面",
+      "source_span": {
+        "start_character": 1723,
+        "end_character": 2201,
+        "percentage_start": 45.8,
+        "percentage_end": 58.8,
+        "sha256": "b8d546bb6604ac19a1998f458ed8587c140ee8e49b912897b19f46f819e75fb8"
+      }
+    },
+    {
+      "label": "快速起步的天花板复盘",
+      "function": "用作者首个生意快速起步但上限低的经历，修正只选低难度的判断。",
+      "transition": "在难度列后增加长期空间，之后再排序。",
+      "mechanism": "成功后遇坑、起步速度与持续成长对照。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "作者经历原始记录或明确假设例子",
+        "候选收入上限与后续对标"
+      ],
+      "pass": [
+        "说明快起步和长期空间可能冲突。"
+      ],
+      "fail": [
+        "以小而快案例保证可持续，忽略后续上限。"
+      ],
+      "adaptation": "分析AI轻量产品时同时说明起步成本和后续成长条件。",
+      "id": "S08",
+      "start_quote": "那第二点呢，其实我以前也说过",
+      "source_span": {
+        "start_character": 2201,
+        "end_character": 2777,
+        "percentage_start": 58.8,
+        "percentage_end": 74.5,
+        "sha256": "cbd665d9ee06f297728398d9526832d834b0a5b6ec104fd501e07cb97d2db978"
+      }
+    },
+    {
+      "label": "三列排序形成候选",
+      "function": "按收入降序和难度升序把对标变成有理由的优先候选。",
+      "transition": "三列及局限完整后组合判断，再说明新问题仍出现。",
+      "mechanism": "多条件排序、调查转决策。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "完整三列数据",
+        "排序规则和候选选择理由"
+      ],
+      "pass": [
+        "排序规则与目标一致，保留估计及条件限制。"
+      ],
+      "fail": [
+        "有表格没有排序选择，或排名被当必然成功。"
+      ],
+      "adaptation": "用明确规则筛AI方向，输出优先候选与待验证事项。",
+      "id": "S09",
+      "start_quote": "当你把这三列的数据都列完之后呢",
+      "source_span": {
+        "start_character": 2777,
+        "end_character": 2892,
+        "percentage_start": 74.5,
+        "percentage_end": 77.7,
+        "sha256": "bd62bedb2ff64c919f92e542cf2974aa6dd3e713a4bd2f21f8ba303ef4116382"
+      }
+    },
+    {
+      "label": "能力缺口变投入方向",
+      "function": "承认找到对标仍缺技能资源，把缺口转为投入方向。",
+      "transition": "排序不承诺问题消失，再进入候选数量过少的另一限制。",
+      "mechanism": "常见疑问、问题重述为方向。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "优先候选的实际能力缺口",
+        "取得能力的时间资源计划"
+      ],
+      "pass": [
+        "缺口明确到具体学习或资源动作。"
+      ],
+      "fail": [
+        "只说有方向，不指出需要补什么。"
+      ],
+      "adaptation": "把AI业务候选缺口写成可执行的学习与资源清单。",
+      "id": "S10",
+      "start_quote": "那找到这个生意之后呢，我觉得大概率你的问题并不会因此而消失啊",
+      "source_span": {
+        "start_character": 2892,
+        "end_character": 3130,
+        "percentage_start": 77.7,
+        "percentage_end": 84.1,
+        "sha256": "ae9ea005218fc351a8b9cc343eb0c2fac522e2673ef77722055aaabc0e6aa8f5"
+      }
+    },
+    {
+      "label": "候选范围与样本数量限制",
+      "function": "用少行反馈与作者上百行对照，强调初期不要过早限定行业。",
+      "transition": "解释另一类使用问题，最后回到商品和流量匹配。",
+      "mechanism": "样本对照、搜索边界反思。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "候选数量和覆盖领域",
+        "排除条件及时间成本"
+      ],
+      "pass": [
+        "候选范围足够支持比较，并说明合法性和个人边界。"
+      ],
+      "fail": [
+        "只有几行熟悉对象却断言没有可做方向，或机械追求百行。"
+      ],
+      "adaptation": "检查东头AI方向池是否因偏见过早收窄。",
+      "id": "S11",
+      "start_quote": "第二个常见的问题是，因为我一年前就发过这个表格嘛",
+      "source_span": {
+        "start_character": 3130,
+        "end_character": 3489,
+        "percentage_start": 84.1,
+        "percentage_end": 93.9,
+        "sha256": "09dd636ee5cb7fccdaefb724c8c9e99c88acb52eed9f631f7ae29ec5aaaa147d"
+      }
+    },
+    {
+      "label": "买家商品流量回扣",
+      "function": "把买家重述为商品与匹配流量，回扣对标为何能提供组合及表格用途。",
+      "transition": "总结三列表格背后的判断逻辑并结束。",
+      "mechanism": "熟悉命题重述、概念关系串联、首尾回扣。",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能。",
+      "materials": [
+        "候选商品、买家需求和流量组合的证据"
+      ],
+      "pass": [
+        "结尾说明选的是商业组合而非孤立产品。"
+      ],
+      "fail": [
+        "只喊找买家，未解释商品与流量关系。"
+      ],
+      "adaptation": "把AI服务选择回扣到用户问题、触达方式和交付组合。",
+      "id": "S12",
+      "start_quote": "大家分享一句话，我们说做生意的第一步是先找到买家",
+      "source_span": {
+        "start_character": 3489,
+        "end_character": 3713,
+        "percentage_start": 93.9,
+        "percentage_end": 100.0,
+        "sha256": "28ebf460b7d2dc4591cd173291fd04932a26fb848d874bbac60596adc9708f61"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "明确承诺交付可填写并能辅助选择的三列表格。",
+      "stage_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S07"
+      ],
+      "evidence_needed": [
+        "开场任务",
+        "三列真实字段"
+      ],
+      "failure": "仅用24小时收益吸引却未给表格方法。"
+    },
+    "understandable": {
+      "criterion": "三列各说明填什么、依据和作用，并区别不同收入类型。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S05",
+        "S06",
+        "S07",
+        "S09"
+      ],
+      "evidence_needed": [
+        "各列例子",
+        "估算口径",
+        "排序规则"
+      ],
+      "failure": "栏目存在却无法填写，销售额利润和报价到账混淆。"
+    },
+    "credible": {
+      "criterion": "估计有口径和未知标记，私人评分有依据，经验与普遍效果分开。",
+      "stage_ids": [
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08"
+      ],
+      "evidence_needed": [
+        "数据来源期间",
+        "异常和私域未知",
+        "能力与天花板依据"
+      ],
+      "failure": "把公开数字或感觉写成真实收入，把作者成功当复制保证。"
+    },
+    "fulfilled": {
+      "criterion": "形成可比较候选与后续投入方向，同时交代排名仍有局限。",
+      "stage_ids": [
+        "S09",
+        "S10",
+        "S11",
+        "S12"
+      ],
+      "evidence_needed": [
+        "完成表格排序",
+        "能力缺口和范围检查",
+        "内容商品流量组合"
+      ],
+      "failure": "只给表格外观，没有决策或下一步，声称问题全部解决。"
+    },
+    "structure": {
+      "criterion": "保持对标、收入、个人难度三列顺序，调查局限与长期复盘独立完成后再排序。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S12"
+      ],
+      "evidence_needed": [
+        "列间依赖",
+        "估计限制",
+        "排序与后续问题"
+      ],
+      "failure": "三列混成技巧清单，低难度等同好项目，局限被收尾吞掉。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "三列分别回答有什么、规模怎样、我做起来多难",
+      "收入按类型说明依据与不确定性",
+      "排序前检查低门槛的长期上限",
+      "排序后写能力缺口和候选范围限制",
+      "回扣商品与流量的组合"
+    ],
+    "adjustable": [
+      "候选领域与数量",
+      "难度星级和排序形式",
+      "收入量级表达及调研方式",
+      "作者故事和增长数字可替换或删除"
+    ],
+    "fill_before_writing": [
+      "已选标题、决策目标与候选范围",
+      "每个对标的获客及收入可见材料",
+      "自身能力资源和长期目标",
+      "排序口径及需另行验证的未知项"
+    ]
+  },
+  "source_path": "raw/sample-19.txt",
+  "source_sha256": "512facfd5f7f69d2cd1a4b7747dfe02b89f8178c0c949d0ea039915a053ae972",
+  "body_start_character": 39
+}

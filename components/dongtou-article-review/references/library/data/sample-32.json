@@ -1,0 +1,444 @@
+{
+  "id": "sample-32",
+  "number": 32,
+  "title": "我发现很多人对工资没概念",
+  "short_name": "工资定价到三项个人行动",
+  "family": "交易类比到岗位行动",
+  "skeleton": [
+    "亮相并将雇佣关系重述为交易",
+    "涨薪经历与旧判断变化",
+    "位置与价值关系",
+    "从市场空白到竞争的创业经历",
+    "将竞争逻辑映回职场",
+    "行动一：交付需要的结果",
+    "行动二：沉淀可迁移资产",
+    "行动三：副业试价与离职边界",
+    "从被动到主动的身份回扣"
+  ],
+  "distinctive": "以公司是单一大客户重述打工，结合涨薪复盘和自己Notion业务由空白到竞争的经历解释位置与替代性，再给交付结果、沉淀资产、副业试价三项行动。",
+  "promise": "让读者用交付结果和可迁移能力重新审视岗位价值，并设计小范围市场验证；不保证工资由个人开价决定。",
+  "applicability": [
+    "AI新手如何把工具使用变成工作结果",
+    "职场经验怎样沉淀成可复用模板",
+    "用小副业验证AI服务需求"
+  ],
+  "material_preconditions": [
+    "作者真实岗位成果和反馈",
+    "一种可迁移资产的样例",
+    "市场验证渠道、成本和观察办法"
+  ],
+  "source_limits": [
+    "来源仅为用户本次粘贴的公众号文章文本，万赞状态为用户报告，未读取原页面或核验互动数据。",
+    "Ray的身份、经历、客户反馈、收益数字及所引名言均为作者叙述；不得写成东头的亲历或已证实事实。",
+    "书中引语、工资与营收关系、不同用户付费量级为作者引述或判断，未核验。",
+    "岗位工资受制度、谈判、市场和团队贡献影响，不能把未涨薪全归因于个人默许或只看老板赚多少。"
+  ],
+  "stages": [
+    {
+      "label": "亮相并将雇佣关系重述为交易",
+      "start_quote": "hi，我是 Ray。",
+      "function": "作者先亮相，再把时间技能卖给公司大客户，建立全文共同类比。",
+      "transition": "接着从自己的涨薪经验解释为什么重述有用。",
+      "mechanism": "作者亮相与商品/客户类比",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "读者岗位与交付对象",
+        "明确类比非法律定义"
+      ],
+      "fail": [
+        "上来宣称进职场就等于创业却不解释。"
+      ],
+      "adaptation": "用我把AI技能看成可交付结果的视角开场。",
+      "pass": [
+        "读者理解是分析视角，不把劳动关系直接等同商业合同。"
+      ],
+      "id": "S01",
+      "source_span": {
+        "start_character": 30,
+        "end_character": 133,
+        "percentage_start": 0.0,
+        "percentage_end": 4.2,
+        "sha256": "10194e7b6c5ee8d24d7619b6bcb5bfa8b91905ae55d756c2b0736f139523212f"
+      }
+    },
+    {
+      "label": "涨薪经历与旧判断变化",
+      "start_quote": "说实话，我打工的两年多时间里",
+      "function": "回顾三次涨薪与年资预期，讲创业后才理解位置定价。",
+      "transition": "由认识变化进入岗位位置的重要性。",
+      "mechanism": "时间序列与我后来才懂",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "东头真实涨薪或岗位反馈",
+        "原先解释和新解释"
+      ],
+      "fail": [
+        "一万到两万多被移植成东头薪资经历。"
+      ],
+      "adaptation": "用实际绩效或用户反馈说我以前看工具熟练度，现在看交付质量。",
+      "pass": [
+        "旧信念、新信息和现在判断分别出现。"
+      ],
+      "id": "S02",
+      "source_span": {
+        "start_character": 133,
+        "end_character": 530,
+        "percentage_start": 4.2,
+        "percentage_end": 20.2,
+        "sha256": "2ecfb58167359306885f265376cbed430fea68d99c863003864336491bf0ae7b"
+      }
+    },
+    {
+      "label": "位置与价值关系",
+      "start_quote": "如果你在的那个岗位本身不产生价值",
+      "function": "说明岗位靠近哪类结果影响回报，用货架比喻位置。",
+      "transition": "为了证明位置如何变化，后面插入自己业务案例。",
+      "mechanism": "货架类比与结构性条件",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "岗位结果定义",
+        "当前市场和组织条件"
+      ],
+      "fail": [
+        "所有非营收岗位被判定没价值。"
+      ],
+      "adaptation": "解释AI结果交给谁用、影响哪个任务，而非只比较模型参数。",
+      "pass": [
+        "不把支持岗位说成没有价值，区分价值与可见营收。"
+      ],
+      "id": "S03",
+      "source_span": {
+        "start_character": 530,
+        "end_character": 693,
+        "percentage_start": 20.2,
+        "percentage_end": 26.8,
+        "sha256": "35f7b83618f6110e6621fb3fd6636761b51f7f85aa624ae6c760935676312b6c"
+      }
+    },
+    {
+      "label": "从市场空白到竞争的创业经历",
+      "start_quote": "就说我自己，刚开始创业的时候",
+      "function": "讲Notion定位、初期成交、竞争出现和细化运营的方法变化。",
+      "transition": "再把商业例子映回公司内部的替代性。",
+      "mechanism": "经历分阶段与条件变化",
+      "requirement": "conditional",
+      "condition": "作者有类似市场/用户条件变化经历时保留；否则用标明来源案例。",
+      "materials": [
+        "经确认的真实产品经历",
+        "前后竞争条件",
+        "调整动作"
+      ],
+      "fail": [
+        "照抄两千学员或国内没人做当事实。"
+      ],
+      "adaptation": "可讲东头自己某AI任务方法从稀缺到普通后怎样改成果。",
+      "pass": [
+        "同一方法为何前后不同有条件解释，收益归属清楚。"
+      ],
+      "id": "S04",
+      "source_span": {
+        "start_character": 693,
+        "end_character": 957,
+        "percentage_start": 26.8,
+        "percentage_end": 37.4,
+        "sha256": "d361c331ba72388833f71d83d0c9dcfa7a4e40c53a0a06fe5a14845ce26438a2"
+      }
+    },
+    {
+      "label": "将竞争逻辑映回职场",
+      "start_quote": "打工，其实也是同一个道理。",
+      "function": "用一人做投放和多人同能力比较，解释稀缺减少后竞争转向服务和沟通。",
+      "transition": "解释结束后转换成三项可执行原则。",
+      "mechanism": "跨场景映射与假设对照",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "同一任务的能力/成本对照",
+        "明确假设标识"
+      ],
+      "fail": [
+        "把10W预算和三人对照当真实统计。"
+      ],
+      "adaptation": "用同一AI输出的准确、格式、可追溯性比较，强调团队条件。",
+      "pass": [
+        "商业与岗位相同点和不同点可辨，不声称完全一致。"
+      ],
+      "id": "S05",
+      "source_span": {
+        "start_character": 957,
+        "end_character": 1281,
+        "percentage_start": 37.4,
+        "percentage_end": 50.5,
+        "sha256": "e61d90fe1249a922cedcd7a121bfba492372d7884444efe02a381ebb9654ecc5"
+      }
+    },
+    {
+      "label": "行动一：交付需要的结果",
+      "start_quote": "1. 用“成交思维”看工作",
+      "function": "把完成任务改为结果对齐，解释老板需要省力、营收或聚焦核心任务。",
+      "transition": "结果意识有了，下一步把有效方法沉淀。",
+      "mechanism": "任务/结果区分与用户分层",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "一项真实需求",
+        "结果验收方式",
+        "交付前后变化"
+      ],
+      "fail": [
+        "只说给老板赚钱或替换成人群价格等级。"
+      ],
+      "adaptation": "AI产出前先确定报告谁看、需回答什么、怎样检查。",
+      "pass": [
+        "结果可验收，读者知道对谁有什么用。"
+      ],
+      "id": "S06",
+      "source_span": {
+        "start_character": 1281,
+        "end_character": 1582,
+        "percentage_start": 50.5,
+        "percentage_end": 62.6,
+        "sha256": "5e0a3a2763a0feec75a5ecc1c109ce898e34a8cd71e6fc1e31074b298e55d289"
+      }
+    },
+    {
+      "label": "行动二：沉淀可迁移资产",
+      "start_quote": "2. 建立属于自己的“可迁移资产”",
+      "function": "将岗位经验变成公开内容、方法模型和数据库，避免只绑定岗位。",
+      "transition": "有资产之后仍要看外部需求，故进入副业测试。",
+      "mechanism": "资产定义与复用路径",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "可授权整理的模板或清单",
+        "去除敏感信息的真实案例"
+      ],
+      "fail": [
+        "把公司机密或他人资料当个人资产带走。"
+      ],
+      "adaptation": "把一项AI任务经验整理成匿名检查清单和可复用Skill。",
+      "pass": [
+        "资产能被复用并说明用途，遵守工作资料边界。"
+      ],
+      "id": "S07",
+      "source_span": {
+        "start_character": 1582,
+        "end_character": 1879,
+        "percentage_start": 62.6,
+        "percentage_end": 74.6,
+        "sha256": "dd32b59c8322c065ec5f5db10b7dece91de3725d5c25a04eaaa442bbcd2cef37"
+      }
+    },
+    {
+      "label": "行动三：副业试价与离职边界",
+      "start_quote": "3. 用副业测试“真实市场定价”",
+      "function": "建议文章、咨询、产品小试，并明确没反馈就离职是赌博。",
+      "transition": "回到主动定义自己，收束工资议题。",
+      "mechanism": "外部验证与风险让步",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "测试服务范围",
+        "预算和工作责任",
+        "实际客户反馈"
+      ],
+      "fail": [
+        "鼓励靠想象补工资缺口便辞职。"
+      ],
+      "adaptation": "可试做一个AI小任务咨询，记录需求而非预估收入。",
+      "pass": [
+        "先有限验证，不用个人看法替代市场结果。"
+      ],
+      "id": "S08",
+      "source_span": {
+        "start_character": 1879,
+        "end_character": 2278,
+        "percentage_start": 74.6,
+        "percentage_end": 90.7,
+        "sha256": "6e1d447eab3bddf1911855709f94b02189c527ba36ed3a6e75768f1fed19f991"
+      }
+    },
+    {
+      "label": "从被动到主动的身份回扣",
+      "start_quote": "无论是打工还是创业，你都可以做一个自己开价的商人。",
+      "function": "把三项动作总结成主动表达价值的视角。",
+      "transition": "呼应开头公司大客户的交易类比。",
+      "mechanism": "身份回扣与价值判断",
+      "requirement": "core",
+      "condition": "选用本结构时保留该功能；引用外部说法须另行核验。",
+      "materials": [
+        "今天可做的成果记录或模板动作"
+      ],
+      "fail": [
+        "把低工资说成不敢要、不配拿的个人失败。"
+      ],
+      "adaptation": "收束为我先让结果清楚、可检查、可复用，再判断下一步。",
+      "pass": [
+        "身份表述落实到可行动安排，未承诺开价即成交。"
+      ],
+      "id": "S09",
+      "source_span": {
+        "start_character": 2278,
+        "end_character": 2508,
+        "percentage_start": 90.7,
+        "percentage_end": 100.0,
+        "sha256": "5ac71e5e9b0393fde81708cb3fb8b0118fcf6302d98f806b71938d82acaae90b"
+      }
+    }
+  ],
+  "checks": {
+    "want_read": {
+      "criterion": "工资困惑通过雇佣类比和经历成为一个能讨论的结果问题。",
+      "stage_ids": [
+        "S01",
+        "S02"
+      ],
+      "evidence_needed": [
+        "岗位困惑",
+        "真实反馈"
+      ],
+      "failure": "只喊你工资低是你自己默许。"
+    },
+    "understandable": {
+      "criterion": "位置、替代性、交付结果、可迁移资产和试价有具体例子。",
+      "stage_ids": [
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08"
+      ],
+      "evidence_needed": [
+        "类比映射",
+        "模板样例",
+        "小试方案"
+      ],
+      "failure": "把创业思维写成一串口号。"
+    },
+    "credible": {
+      "criterion": "薪资、成交和假设对照有真实归属，承认组织和市场条件。",
+      "stage_ids": [
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S08"
+      ],
+      "evidence_needed": [
+        "作者确认",
+        "收益来源",
+        "不同场景的限制"
+      ],
+      "failure": "未经核验引语和工资数字作普遍规则。"
+    },
+    "fulfilled": {
+      "criterion": "正文给结果验收、合法复用资产、有限试价三项操作。",
+      "stage_ids": [
+        "S06",
+        "S07",
+        "S08"
+      ],
+      "evidence_needed": [
+        "验收标准",
+        "资产内容",
+        "测试渠道和成本"
+      ],
+      "failure": "三项标题存在但读者无从落地。"
+    },
+    "structure": {
+      "criterion": "类比入口→亲历变化→位置机制→跨场景案例→三行动→回扣完整。",
+      "stage_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08",
+        "S09"
+      ],
+      "evidence_needed": [
+        "商业到职场映回句",
+        "三项步骤关系"
+      ],
+      "failure": "创业故事占满正文，却未映回工资问题。"
+    }
+  },
+  "contract": {
+    "preserve": [
+      "类比先解释再落到岗位结果。",
+      "例子里的条件变化要能映回读者场景。",
+      "交付结果、资产沉淀与外部验证三层区分。",
+      "保留试水和离职的边界。"
+    ],
+    "adjustable": [
+      "涨薪与Notion收益可替换为作者真实任务反馈。",
+      "交易比喻可以收窄，不把员工全部商业化。",
+      "三行动的例子换成AI任务。"
+    ],
+    "fill_before_writing": [
+      "读者岗位任务与实际验收：____",
+      "作者真实反馈及判断变化：____",
+      "可复用资产、权限边界和小测试：____"
+    ]
+  },
+  "summary": "用工资复盘和市场竞争的映射，把价值判断变成结果、资产和有限验证三项动作。",
+  "tags": [
+    "公众号",
+    "职场价值",
+    "AI成果",
+    "可迁移资产",
+    "副业验证"
+  ],
+  "useful_modules": [
+    "structure",
+    "opening",
+    "explanation",
+    "experience"
+  ],
+  "methods": {
+    "structure": {
+      "quote": "打工，其实也是同一个道理。",
+      "observation": "创业经历后明确映回职场，使故事服务原标题。",
+      "adaptation": "讲自己的AI项目后用一句话和具体比较接回读者工作。",
+      "limit": "不能因为类比而忽视劳动关系和市场差异。"
+    },
+    "opening": {
+      "quote": "把自己的产品——也就是你的时间和技能，卖给了一个大客户，叫公司",
+      "observation": "熟悉事物被重新命名，产生新的理解角度。",
+      "adaptation": "把AI技能解释成能让某人拿来完成任务的结果。",
+      "limit": "这是视角类比而非全面事实定义。"
+    },
+    "explanation": {
+      "quote": "你不是能力不行，是你这个“商品”上错了货架。",
+      "observation": "用货架说明同一能力在不同位置的被需要程度。",
+      "adaptation": "解释同一AI输出在不同工作场景是否有用。",
+      "limit": "不可把工资高低当人的价值，也不可否定支持岗位。"
+    },
+    "experience": {
+      "quote": "但到了第二年，抄我的人越来越多",
+      "observation": "同一经历包含条件变化和随后的调整，使经验可理解。",
+      "adaptation": "询问东头某方法何时失效、后来怎么改、学到什么。",
+      "limit": "原作者产品、学员和收益不能移植。"
+    }
+  },
+  "source_path": "raw/sample-32.txt",
+  "source_sha256": "d19ec0077da1320506902948089f11a049974bd580e731b626382eaf4c39eb55",
+  "body_start_character": 30,
+  "body_end_character": 2508,
+  "source_group": "ray-wechat-2026-10-07",
+  "submitted_number": "07",
+  "source_completeness": "as_submitted",
+  "source_defect_notes": [],
+  "full_structure_reference": true,
+  "opening_reference": true,
+  "allowed_usage": [
+    "selected_structure",
+    "local_method"
+  ]
+}
